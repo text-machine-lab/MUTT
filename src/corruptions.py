@@ -16,7 +16,7 @@ import os
 import re
 from collections import defaultdict
 
-from read_sick import sick
+from read_data import sick
 
 from gather_refs import get_refs, edit_distance
 
@@ -280,10 +280,10 @@ def apply_corruption(entries, corruption, f_corr, description):
             print >>f, '\tcorr:       ', corr
             print >>f, '\tscore:      ', score
             print >>f, '\treferences: ' 
-#            cluster, refs = get_refs(orig, dataset)
-#            if cluster:
-#              for ref in refs:
-#                print >>f, '\t\t', ref 
+            cluster, refs = get_refs(orig, dataset)
+            if cluster:
+              for ref in refs:
+                print >>f, '\t\t', ref 
             print >>f, ''
 
 if __name__ == '__main__':
