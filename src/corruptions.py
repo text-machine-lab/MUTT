@@ -10,7 +10,6 @@
                                                                               
  Purpose : Reads through the SICK dataset and extracts corruptions.
            The corruptions are categorized and written to their own files.
-
 """
 
 import os
@@ -19,7 +18,7 @@ from collections import defaultdict
 
 from read_sick import sick
 
-from gather_refs import get_refs
+from gather_refs import get_refs, edit_distance
 
 
 CORR_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),'..', 'corruptions')
@@ -110,9 +109,16 @@ def is_corruption_negated_verb(entry):
 def is_corruption_shuffled(entry):
     a = entry['sentence_A']
     b = entry['sentence_B']
-    return sorted(a.split()) == sorted(b.split())
+    
+    if sorted(a.split()) == sorted(b.split()):
+      norm_o = norm(entry['sentence_A_original'])
 
+      if edit_distance(norm_o, norm(a)) > edit_distance(norm_o, norm(b)):
+        return 1
+      else:
+        return 2
 
+    return 0
 
 def is_corruption_det_replace(entry):
     def normalize(sent):
@@ -121,29 +127,53 @@ def is_corruption_det_replace(entry):
         return s
     a = entry['sentence_A']
     b = entry['sentence_B']
-    return normalize(a) == normalize(b)
+
+    if normalize(a) == normalize(b):
+      norm_o = norm(entry['sentence_A_original'])
+
+      if edit_distance(norm_o, norm(a)) > edit_distance(norm_o, norm(b)):
+        return 1
+      else:
+        return 2
+
+    return 0
 
 
 
 def are_near_synonyms(entry):
+  a = entry['sentence_A']
+  b = entry['sentence_B']
 
   # Are near synonyms but not qualifier replacement
-
   if one_word_diff(entry['sentence_A'], entry['sentence_B']):
     # S1S2 same set pair has a 94.2% chance of being labeled entailment
     if entry['entailment_label'] == 'ENTAILMENT' and not is_corruption_det_replace(entry):
-      return 1
+      
+      norm_o = norm(entry['sentence_A_original'])
+
+      if edit_distance(norm_o, norm(a)) > edit_distance(norm_o, norm(b)):
+        return 1
+      else:
+        return 2
 
   return 0
 
+
 def are_sem_opposites(entry):
+  a = entry['sentence_A']
+  b = entry['sentence_B']
 
   # Are near synonyms but not qualifier replacement
-
   if one_word_diff(entry['sentence_A'], entry['sentence_B']):
     # S1S3 same set pairs only have a 0.9% chance of being labeled entailment
     if entry['entailment_label'] != 'ENTAILMENT' and not is_corruption_det_replace(entry):
-      return 1
+      
+      norm_o = norm(entry['sentence_A_original'])
+
+      if edit_distance(norm_o, norm(a)) > edit_distance(norm_o, norm(b)):
+        return 1
+      else:
+        return 2
 
   return 0
 
