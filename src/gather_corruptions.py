@@ -17,8 +17,7 @@ import re
 from collections import defaultdict
 
 from read_data import sick
-
-from gather_refs import get_refs, edit_distance
+from tools import edit_distance
 
 
 CORR_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)),'..', 'corruptions')
@@ -177,9 +176,9 @@ def are_sem_opposites(entry):
 
   return 0
 
-######################################
-#  main
-######################################
+################################################################################
+#  main                                                                        #
+################################################################################
 
 corruptions = {
                 'passive':(is_corruption_passive, 'active to passive') ,
@@ -191,21 +190,24 @@ corruptions = {
                 'sem_opps':(are_sem_opposites, 'Replace words with semantic opposites'),
               }
 
-def main():
+def gather_corruptions():
+    """
+      Gathers the specified corruptions, and writes them to a file.
+      Returns a dictionary {corruption : [entries]}
+    """
+    out = {}
 
     # filtered
     def same_orig(entry):
-        #return norm(entry['sentence_A']) == norm(entry['sentence_A_original'])
-        #return norm(entry['sentence_B']) == norm(entry['sentence_B_original'])
         return norm(entry['sentence_A_original']) == norm(entry['sentence_B_original'])
 
     filtered = filter(same_orig, sick)
 
     # for each corruption
     for corruption,(f_corr, description) in corruptions.items():
-        print corruption
-        apply_corruption(filtered, corruption, f_corr, description)
-
+        out[corruption] = apply_corruption(filtered, corruption, f_corr, description)
+   
+    return out
 
 
 def filter_corruptions(f_corr, entries):
@@ -264,10 +266,8 @@ def apply_corruption(entries, corruption, f_corr, description):
         print >>f, 'stddev: ', stddev
         print >>f, '\n'
 
-        #exit()
-
         ranked = sorted(corrupted, key=lambda e:e[-1])
-        #ranked = corrupted
+        
         for entry in ranked:
             dataset = entry[0]
             orig    = entry[1]
@@ -279,12 +279,7 @@ def apply_corruption(entries, corruption, f_corr, description):
             print >>f, '\tsent:       ', sent
             print >>f, '\tcorr:       ', corr
             print >>f, '\tscore:      ', score
-            print >>f, '\treferences: ' 
-            cluster, refs = get_refs(orig, dataset)
-            if cluster:
-              for ref in refs:
-                print >>f, '\t\t', ref 
-            print >>f, ''
+        return ranked
 
 if __name__ == '__main__':
-    main()
+    gather_corruptions()
