@@ -3,3 +3,5 @@
 
 # ...except for this file.
 !.gitignore
+# ... and python files
+!*.py

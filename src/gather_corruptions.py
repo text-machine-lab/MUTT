@@ -1,7 +1,7 @@
 """                                                                              
- Text-Machine Lab: MUT 
+ Text-Machine Lab: MUTT 
 
- File Name : corruptions.py
+ File Name : gather_corruptions.py
                                                                               
  Creation Date : 12-02-2016
                                                                               
