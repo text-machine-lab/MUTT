@@ -5,9 +5,9 @@
                                                                               
  Creation Date : 17-02-2016
                                                                               
- Created By :                                               
+ Created By : Renan Campos                                               
                                                                               
- Purpose : script to use the coco-caption suite.
+ Purpose : Script to use the coco-caption suite.
 
 """
 

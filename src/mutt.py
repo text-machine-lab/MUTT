@@ -1,7 +1,7 @@
 """                                                                              
  Text-Machine Lab: MUTT 
 
- File Name :                                                                  
+ File Name : mutt.py
                                                                               
  Creation Date : 17-02-2016
                                                                               
@@ -11,4 +11,101 @@
 
 """
 
+import os
+import json
 
+from gather_corruptions import gather_corruptions
+from gather_references import gather_references
+
+TMP_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'tmp')
+
+def main():
+  """
+   Gathers the corruptions, then for each corruption type:
+     -Create reference files containing 5, 10, 20 references per sentence
+     -Create a json file containing the sentence A's
+     -Create a json file containing the sentence B's
+   Runs various machine translation metrics, and calculates the accuracy:
+     score is based on whether sentence A received a higher score than B.
+  """
+
+  print "Gathering corruptions..."
+  corruptions = gather_corruptions()
+
+  for corruption, entries in corruptions.items():
+
+    # If these files already exist, skip the corruption gathering and go to metrics testing.
+    if os.path.isfile(os.path.join(TMP_DIR, corruption + '_a.json'))   and \
+       os.path.isfile(os.path.join(TMP_DIR, corruption + '_b.json'))   and \
+       os.path.isfile(os.path.join(TMP_DIR, corruption + '_r5.json'))  and \
+       os.path.isfile(os.path.join(TMP_DIR, corruption + '_r10.json')) and \
+       os.path.isfile(os.path.join(TMP_DIR, corruption + '_r20.json')):
+       print "Reference files for", corruption, "found. Clear tmp to redo reference gathering." 
+       continue
+
+    # Open files
+    f_sent_a  = open(os.path.join(TMP_DIR, corruption + '_a.json'),   'w') 
+    f_sent_b  = open(os.path.join(TMP_DIR, corruption + '_b.json'),   'w')
+    f_refs_5  = open(os.path.join(TMP_DIR, corruption + '_r5.json'),  'w')
+    f_refs_10 = open(os.path.join(TMP_DIR, corruption + '_r10.json'), 'w')
+    f_refs_20 = open(os.path.join(TMP_DIR, corruption + '_r20.json'), 'w')
+
+    f_sent_a.write('{\"info\":{}, \"licences\":[], \"type\":\"captions\", \"annotations\":[')
+    f_sent_b.write('{\"info\":{}, \"licences\":[], \"type\":\"captions\", \"annotations\":[')
+    f_refs_5.write('[')
+    f_refs_10.write('[')
+    f_refs_20.write('[')
+
+    print corruption, len(entries)
+    print "Gathering references for each entry in", corruption, "..."
+    
+    # We only want entries with 20+ references
+    valid_corruptions = list()
+    for entry in entries: 
+      
+      cluster, refs = gather_references(entry[1], entry[0])
+      comma =""
+
+      if len(refs) >= 20:
+        f_sent_a.write(comma)
+        f_sent_b.write(comma)
+        f_sent_a.write(json.dumps({'image_id':cluster, 'caption':entry[2]}))
+        f_sent_b.write(json.dumps({'image_id':cluster, 'caption':entry[2]}))
+        comma = ""
+        for ref in refs[:5]:
+          f_refs_5.write(comma)
+          f_refs_5.write(json.dumps({'image_id':cluster, 'caption':ref}))
+          comma = ","
+        comma = ""
+        for ref in refs[:10]:
+          f_refs_10.write(comma)
+          f_refs_10.write(json.dumps({'image_id':cluster, 'caption':ref}))
+          comma = ","
+        comma = ""
+        for ref in refs[:20]:
+          f_refs_20.write(comma)
+          f_refs_20.write(json.dumps({'image_id':cluster, 'caption':ref}))
+          comma = ","
+        comma = ","
+       
+        break
+      print cluster, len(refs)
+      # dataset                 0
+      # original sentence       1
+      # sentence A              2
+      # sentence B (corruption) 3
+      # score                   4
+    f_sent_a.write(']}')
+    f_sent_b.write(']}')
+    f_refs_5.write(']')
+    f_refs_10.write(']')
+    f_refs_20.write(']')
+ 
+    f_sent_a.close()
+    f_sent_b.close()
+    f_refs_5.close()
+    f_refs_10.close()
+    f_refs_20.close()
+
+if __name__ == '__main__':
+  main()

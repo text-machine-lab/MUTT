@@ -1,7 +1,7 @@
 """                                                                              
  Text-Machine Lab: MUTT 
 
- File Name : gather_refs.py
+ File Name : gather_references.py
                                                                               
  Creation Date : 12-02-2016
                                                                               
@@ -47,7 +47,7 @@ def get_cluster(s1, s2, dataset):
 
 
 
-def get_refs(sent, dataset):
+def gather_references(sent, dataset):
   """
     For the given sentence of the given dataset, 
     return a list of references and id.
@@ -149,7 +149,7 @@ def main():
       print b_orig
       print
 
-    cluster, refs = get_refs(a_orig, a_data)
+    cluster, refs = gather_references(a_orig, a_data)
 
     print '\tcluster: ', cluster
     for ref in refs:
