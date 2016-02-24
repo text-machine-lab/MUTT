@@ -1,0 +1,3600 @@
+aadr:     0
+sent:     a woman is chopping broccoli
+cluster:  aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 BVjvRpmHg0w_157_165
+
+aadr:     1
+sent:     a man is playing the guitar
+cluster:  ITNh8tWZPOA_5_25
+
+aadr:     2
+sent:     A man is mowing a lawn.
+cluster:  xEDCfcMZlZY_91_100 xEDCfcMZlZY_91_100 xEDCfcMZlZY_37_41 xfRIRSWy0y0_10_20
+
+aadr:     3
+sent:     a woman is cracking eggs into a bowl
+cluster:  WTf5EgVY5uU_100_104
+
+aadr:     4
+sent:     a man is dancing in the rain
+cluster:  5MzJRgpclwQ_48_55 5MzJRgpclwQ_48_55
+
+aadr:     5
+sent:     The man is driving a white car.
+cluster:  gHzws6FpuNE_10_12
+
+aadr:     6
+sent:     A man is cutting an onion.
+cluster:  X6uJyuD_Zso_3_17
+
+aadr:     7
+sent:     someone drills a hole in a strip of wood with a power drill
+cluster:  me1D1WZ0yNM_120_124
+
+aadr:     8
+sent:     a man is chopping a tree trunk with an axe
+cluster:  G-M78KIy19E_315_330
+
+aadr:     9
+sent:     A sea turtle is hunting for fish.
+cluster:  lo4KcsBN--A_0_10
+
+aadr:     10
+sent:     a woman is walking along a road and a man in a motorcar pulls up beside her
+cluster:  Gm1WnWVXYzQ_0_9
+
+aadr:     11
+sent:     two kids are playing in a swimming pool with a green colored crocodile float
+cluster:  ub-aYLzCF_Q_1_10
+
+aadr:     12
+sent:     an airplane is flying in the air
+cluster:  ZbzDGXEwtGc_6_15
+
+aadr:     13
+sent:     a cat is eating some corn
+cluster:  OIg10Bl7urs_0_10
+
+aadr:     14
+sent:     the man is trying to feed the snake with a mouse
+cluster:  OpR1Er5o6IY_209_217
+
+aadr:     15
+sent:     A woman is cutting shrimps.
+cluster:  kWLNZzuo3do_154_165
+
+aadr:     16
+sent:     The deer jumped over the fence.
+cluster:  2MCpA01Sn_c_75_82 2MCpA01Sn_c_75_82 2MCpA01Sn_c_75_82 2MCpA01Sn_c_75_82 2MCpA01Sn_c_75_82 2MCpA01Sn_c_75_82
+
+aadr:     17
+sent:     A dog is riding a skateboard.
+cluster:  XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 77iDIp40m9E_126_131 77iDIp40m9E_126_131 77iDIp40m9E_126_131 77iDIp40m9E_126_131 77iDIp40m9E_126_131 77iDIp40m9E_126_131 77iDIp40m9E_126_131 77iDIp40m9E_126_131 77iDIp40m9E_126_131 77iDIp40m9E_126_131
+
+aadr:     18
+sent:     The man talked to a girl over the internet camera.
+cluster:  hq8dCkkhYsk_0_10
+
+aadr:     19
+sent:     a man gets knocked off of a horse
+cluster:  onW5hJXnI5s_126_133
+
+aadr:     20
+sent:     a kitten is playing with a blue rope toy
+cluster:  aN0WsBcja_E_0_15
+
+aadr:     21
+sent:     a woman is cutting a potato
+cluster:  s20OlIRK340_147_174 s20OlIRK340_147_174 seTkGZlEU64_81_110 qeKX-N1nKiM_68_72 pfQPRXcihkI_160_184 iEW-EkPQywU_61_83 iEW-EkPQywU_61_83 iEW-EkPQywU_61_83 -rvjK0lE3z4_33_43 _O9kWD8nuRU_77_81
+
+aadr:     22
+sent:     Some men are sawing.
+cluster:  tZzJ9dDnncY_43_46
+
+aadr:     23
+sent:     a man shappens a knife
+cluster:  fEsrO_poIUg_161_168
+
+aadr:     24
+sent:     A cat is swinging on a fan.
+cluster:  64Xn9edeWRA_0_11 64Xn9edeWRA_0_11
+
+aadr:     25
+sent:     a man is eating a pizza
+cluster:  6owu8Mow0_g_692_697 6owu8Mow0_g_692_697 6owu8Mow0_g_692_697 6owu8Mow0_g_692_697 tYh4iDFgmEE_10_14 tYh4iDFgmEE_10_14 tYh4iDFgmEE_10_14
+
+aadr:     26
+sent:     a woman is riding on an elephant
+cluster:  DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42
+
+aadr:     27
+sent:     a person is peeling an onion
+cluster:  4QYPZM01xFE_14_26 4QYPZM01xFE_14_26 4QYPZM01xFE_14_26 4QYPZM01xFE_14_26 m1NR0uNNs5Y_73_78
+
+aadr:     28
+sent:     A lady is playing the guitar.
+cluster:  n2NLoLNecgI_168_178 Rf0TUCA3XNs_3_16
+
+aadr:     29
+sent:     someone is slicing a vegetable
+cluster:  6t0BpjwYKco_53_59
+
+aadr:     30
+sent:     the lady cracked an egg for the mixer
+cluster:  5QJf-l4lPJw_133_138
+
+aadr:     31
+sent:     a person is riding a horse
+cluster:  MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 4VLrxtf7Z_8_0_7 onW5hJXnI5s_10_16 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 BLXzfdNmydQ_151_156 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Goj131_GxYs_2_7 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 yU5sxW9bErQ_0_17 L8h2DazQZJY_0_10 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_61_77 zTn-nNj5Bng_61_77 zTn-nNj5Bng_61_77 zTn-nNj5Bng_61_77 zTn-nNj5Bng_61_77 zTn-nNj5Bng_61_77 PAm82v0AMFc_5_10 PAm82v0AMFc_5_10 PAm82v0AMFc_5_10 2F9jX7u5nOg_83_97
+
+aadr:     32
+sent:     a man is walking slowly across a rope bridge
+cluster:  ywHBKayhyvQ_19_28
+
+aadr:     33
+sent:     a plane is landing
+cluster:  vz71JKcpeUU_0_10 vz71JKcpeUU_0_10 vz71JKcpeUU_0_10 5W02895vT8c_460_470 5W02895vT8c_460_470 5W02895vT8c_460_470 5W02895vT8c_460_470
+
+aadr:     34
+sent:     the soccer player kicked the ball side to side between his legs
+cluster:  z2kUc8wp9l8_40_46
+
+aadr:     35
+sent:     a person is playing a piano
+cluster:  N5wsl86P37Q_1_15 akXjIEoecNs_2_12 dJ3ba9zwx6c_5_15 dJ3ba9zwx6c_5_15 FXWdmIHXS_U_3_10 emblM4a76jg_5_15 emblM4a76jg_5_15 zFIn8DeV5PM_20_33 zFIn8DeV5PM_20_33 ry7AUQtuwdU_4_39 ry7AUQtuwdU_4_39 ry7AUQtuwdU_4_39 po2tcrG6KzM_2_8 po2tcrG6KzM_2_8 po2tcrG6KzM_2_8 po2tcrG6KzM_2_8
+
+aadr:     36
+sent:     a woman is applying cosmetics to her eyelid
+cluster:  oSnYUfCGiCA_7_17 b4FM9OLBGyM_37_49
+
+aadr:     37
+sent:     a man is breaking wooden boards with his hand
+cluster:  2YhDTpzxd3c_102_105 xxHx6s_DbUo_173_177
+
+aadr:     38
+sent:     the man is exercising
+cluster:  sWqi41wyXcQ_68_79 xxHx6s_DbUo_36_40 gIvetX_oXeI_85_90 gIvetX_oXeI_85_90 gIvetX_oXeI_85_90 TXabUVUxJqI_22_31 TXabUVUxJqI_22_31 TXabUVUxJqI_22_31 ApYvvQK7bBc_6_32 xxHx6s_DbUo_41_44 xxHx6s_DbUo_57_61 xxHx6s_DbUo_57_61 xxHx6s_DbUo_49_56 xxHx6s_DbUo_49_56 EqOGzNkekMk_5_15 xxHx6s_DbUo_98_101 2YhDTpzxd3c_45_49
+
+aadr:     39
+sent:     a woman is putting her baby in a waste bin
+cluster:  Ixw6wmoC_xg_116_126
+
+aadr:     40
+sent:     the little boy is singing and playing the guitar
+cluster:  wgrrQwLdME8_0_10
+
+aadr:     41
+sent:     the man is playing the drums
+cluster:  Z3m9V8qPXhQ_13_24 bb6V0Grtub4_174_185 bb6V0Grtub4_174_185 JXSkYkiKO0I_112_116 JXSkYkiKO0I_112_116 BAf3LXFUaGs_28_38 BAf3LXFUaGs_28_38
+
+aadr:     42
+sent:     the woman is pouring oil into the pan
+cluster:  IhwPQL9dFYc_143_147 IhwPQL9dFYc_143_147 Puv_4NtflqE_26_34 NoCgvH4xZHo_56_63 NoCgvH4xZHo_56_63
+
+aadr:     43
+sent:     a puppy plays with a plastic container
+cluster:  JsmHZlUgf1w_0_21
+
+aadr:     44
+sent:     the person lit the cameras on fire
+cluster:  D1tTBncIsm8_841_848
+
+aadr:     45
+sent:     a person opening a banana
+cluster:  inzk2fTUe1w_1_15
+
+aadr:     46
+sent:     A man is slicing a bun.
+cluster:  uqVCk2oDpSE_194_200 uqVCk2oDpSE_194_200 uqVCk2oDpSE_194_200 uqVCk2oDpSE_194_200 uqVCk2oDpSE_194_200
+
+aadr:     47
+sent:     a woman walks her dog down the street
+cluster:  cR2yi-JnGcQ_8_16 cR2yi-JnGcQ_8_16
+
+aadr:     48
+sent:     A kitten is drinking milk from a bowl.
+cluster:  5OvgDatToBU_0_8
+
+aadr:     49
+sent:     a woman is squeezing a lemon
+cluster:  tJHUH9tpqPg_113_118 tJHUH9tpqPg_113_118 tJHUH9tpqPg_113_118
+
+aadr:     50
+sent:     the doctor was helping the patient
+cluster:  lexLAjh8fPA_27_31
+
+aadr:     51
+sent:     a young boy is playing a wind instrument
+cluster:  d_BWuttLRFM_42_52
+
+aadr:     52
+sent:     a boy rode his bike on top of a metal fence
+cluster:  ZnLgsasu82g_71_81
+
+aadr:     53
+sent:     The man stirred the sauce for the chicken.
+cluster:  bQJQGoJF7_k_120_126
+
+aadr:     54
+sent:     The man poured oil on the cut tomatoes.
+cluster:  cUW_bXll6YM_390_395
+
+aadr:     55
+sent:     A cat is playing a key board.
+cluster:  TZ860P4iTaM_11_20
+
+aadr:     56
+sent:     The men are performing on stage.
+cluster:  W1052h2rzoA_91_98 W1052h2rzoA_91_98
+
+aadr:     57
+sent:     a kid is playing an instrument
+cluster:  d_BWuttLRFM_42_52 bAYIIlX-WWw_5_15
+
+aadr:     58
+sent:     a woman is slicing an onion with a knife
+cluster:  aeA-HN7BMdo_16_33 WTf5EgVY5uU_33_39
+
+aadr:     59
+sent:     a man is eating a banana
+cluster:  z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 z_qf7tOnHVg_81_89 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 hkkmKk9LcQk_36_43 nBJV56WUDng_38_47
+
+aadr:     60
+sent:     a person folds a tortilla
+cluster:  Je3V7U5Ctj4_634_639
+
+aadr:     61
+sent:     a man is playing the flute
+cluster:  ptHkvYrH9fY_2_10
+
+aadr:     62
+sent:     A man is riding a motorcycle.
+cluster:  klteYv1Uv9A_27_33
+
+aadr:     63
+sent:     the man is eating
+cluster:  1dfR0A_BXjw_590_600 cnsjm3fNEec_4_10 cnsjm3fNEec_4_10 0hyZ__3YhZc_598_603 0hyZ__3YhZc_598_603 0hyZ__3YhZc_632_637 0hyZ__3YhZc_632_637 sZf3VDsdDPM_107_114 sZf3VDsdDPM_107_114 hJFBXHtxKIc_317_322 hJFBXHtxKIc_317_322 o4pL7FObqds_137_147 hJFBXHtxKIc_310_315 hJFBXHtxKIc_310_315 r4qv_BNlQNk_93_98 3zrVqwV29V8_69_76
+
+aadr:     64
+sent:     a man is playing a wooden flute
+cluster:  QOmrchUPnBs_10_20 qzQzooI4BqU_5_15 qzQzooI4BqU_5_15 W8l_ezoU8Lc_76_86 bAYIIlX-WWw_5_15 6Lzq1HN33lE_5_15 6Lzq1HN33lE_5_15 ptHkvYrH9fY_2_10
+
+aadr:     65
+sent:     a soccer player scores a goal
+cluster:  pRpeEdMmmQ0_1_18 27hs9W89FuI_0_10 27hs9W89FuI_0_10 vcCMId0DQaQ_19_38 vcCMId0DQaQ_19_38
+
+aadr:     66
+sent:     A man pours liquid into a pan.
+cluster:  jPBxl9gFqNY_110_117
+
+aadr:     67
+sent:     A parrot is talking.
+cluster:  2G9fkvBzzQE_10_20 2G9fkvBzzQE_10_20 2G9fkvBzzQE_10_20 2G9fkvBzzQE_10_20
+
+aadr:     68
+sent:     a person is scrubbing a zucchini
+cluster:  NNYLo1OeZ-Q_48_54 NNYLo1OeZ-Q_48_54
+
+aadr:     69
+sent:     A lion is walking.
+cluster:  7HcYJKMxpcg_20_28 7HcYJKMxpcg_20_28
+
+aadr:     70
+sent:     women are dancing outside
+cluster:  sRKQfxxEP4M_117_125 sRKQfxxEP4M_117_125 sRKQfxxEP4M_117_125
+
+aadr:     71
+sent:     a man is peeling an onion
+cluster:  Je3V7U5Ctj4_488_495 Je3V7U5Ctj4_488_495 Je3V7U5Ctj4_488_495 Je3V7U5Ctj4_488_495 Je3V7U5Ctj4_488_495 Je3V7U5Ctj4_488_495 Je3V7U5Ctj4_488_495 Je3V7U5Ctj4_488_495
+
+aadr:     72
+sent:     A man is cleaning the windows.
+cluster:  rXZy-PHtnxg_8_42
+
+aadr:     73
+sent:     a man is thinking
+cluster:  4QdX5Q3qQsQ_6_14 4QdX5Q3qQsQ_6_14 4QdX5Q3qQsQ_6_14 4QdX5Q3qQsQ_6_14 4QdX5Q3qQsQ_6_14
+
+aadr:     74
+sent:     the man played his guitar
+cluster:  EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 _pBeOAMjGm8_1_18 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 LqPIBHAmt4E_22_30 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 cM55xNJ_pfU_1_20 WpB4-eLyiBc_10_20 SFFfhAUEoj0_10_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 W8l_ezoU8Lc_55_70 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 cLNrpO6wBk4_37_47 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 P2WM91LENgk_40_50 g36ho6UrBz0_5_20 mYzajpeAWuA_100_112 JsD6uEZsIsU_45_58 tn1d5DmdMqY_15_28 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 k-SWy-sU8cE_5_10 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15
+
+aadr:     75
+sent:     The turtle followed the fish.
+cluster:  lo4KcsBN--A_0_10
+
+aadr:     76
+sent:     a man is pouring oil into a pan
+cluster:  hJFBXHtxKIc_118_123 hJFBXHtxKIc_118_123 jPBxl9gFqNY_110_117 jPBxl9gFqNY_110_117 jPBxl9gFqNY_110_117 jPBxl9gFqNY_110_117 jPBxl9gFqNY_110_117
+
+aadr:     77
+sent:     a group of men play soccer on the beach
+cluster:  CBD9h0jUq3w_1_7
+
+aadr:     78
+sent:     a man is diving into a pool
+cluster:  zS50h-a8RTg_3_9
+
+aadr:     79
+sent:     A guy is playing hackysack
+cluster:  fvBs0xpEZhQ_10_30
+
+aadr:     80
+sent:     racers are running down a track
+cluster:  muI1BFsdbdo_33_45 u4T76jsPin0_0_11
+
+aadr:     81
+sent:     a woman is cutting a tomatoe
+cluster:  l_AVz90c4jQ_22_43
+
+aadr:     82
+sent:     the man is playing with a skull
+cluster:  x_8RiVI6rH8_41_54
+
+aadr:     83
+sent:     the cat played with a watermelon
+cluster:  0vmoZEaN_-o_5_21
+
+aadr:     84
+sent:     a man plays the guitar
+cluster:  EiylMb_mWk4_2_20 MWzeInQaUk4_12_20 kk3TIio1-Uw_5_14 _pBeOAMjGm8_1_18 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 _KMoC6ZdeXs_10_16 LqPIBHAmt4E_22_30 SJZFNwfcSOw_3_18 326U8N2husw_26_28 kI6MWZrl8v8_149_161 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 W8l_ezoU8Lc_156_162 WpB4-eLyiBc_10_20 SFFfhAUEoj0_10_16 hoinj6vyQ2g_8_16 W8l_ezoU8Lc_55_70 9uDPqigcnzw_36_46 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 P2WM91LENgk_40_50 g36ho6UrBz0_5_20 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 jI58q6rcNLc_8_18 tn1d5DmdMqY_15_28 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 Pm9L60YBj3s_0_32 k-SWy-sU8cE_5_10 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 lSnWhsmlGec_5_10 QA_JTtM1hKA_5_15
+
+aadr:     85
+sent:     a monkey is riding a bike
+cluster:  nc8hwLaOyZU_1_19 nc8hwLaOyZU_1_19 nc8hwLaOyZU_1_19 nc8hwLaOyZU_1_19 nc8hwLaOyZU_1_19
+
+aadr:     86
+sent:     A man is playing a piano.
+cluster:  PECk9A-07Pw_1_9
+
+aadr:     87
+sent:     the man is eating cereal
+cluster:  4s_0-zIWEog_1_15
+
+aadr:     88
+sent:     three men are dancing
+cluster:  fGc6_D0JEIQ_31_46
+
+aadr:     89
+sent:     a man is cutting onions
+cluster:  TgFmoZj3NoM_10_18 w28TljSqtW8_64_75 zHy7pM0U49w_103_109 Je3V7U5Ctj4_504_511
+
+aadr:     90
+sent:     a boy is playing a piano
+cluster:  -AwoiGR6c8M_10_14 -AwoiGR6c8M_10_14 -AwoiGR6c8M_10_14 -AwoiGR6c8M_10_14 -AwoiGR6c8M_10_14 v7iIZXtpIb8_5_15 v7iIZXtpIb8_5_15 v7iIZXtpIb8_5_15 v7iIZXtpIb8_5_15 v7iIZXtpIb8_5_15 v7iIZXtpIb8_5_15 emblM4a76jg_5_15 emblM4a76jg_5_15 j7xz1nos-xc_10_20 j7xz1nos-xc_10_20 j7xz1nos-xc_10_20 j7xz1nos-xc_10_20 j7xz1nos-xc_10_20 j7xz1nos-xc_10_20 htWPOGTagec_2_18 htWPOGTagec_2_18 bxDlC7YV5is_0_12 bxDlC7YV5is_0_12 bxDlC7YV5is_0_12 bxDlC7YV5is_0_12 bxDlC7YV5is_0_12 bxDlC7YV5is_0_12
+
+aadr:     91
+sent:     A man is talking.
+cluster:  -7KMZQEsJW4_205_208 Lr8ds5iY5uk_8_15 Lr8ds5iY5uk_8_15 t8Nf1MK7lts_0_10 t8Nf1MK7lts_0_10 47D9-U8hn5I_11_16 5XxshEdcfAM_96_107 nd0ToNwccl4_12_17 5XxshEdcfAM_85_100 r4qv_BNlQNk_119_124 RZL9irxnhZ0_34_40 RZL9irxnhZ0_34_40 Jag7oTemldY_12_25 sm0OYD0NSbQ_51_59 sm0OYD0NSbQ_51_59 sm0OYD0NSbQ_51_59 sm0OYD0NSbQ_51_59 sm0OYD0NSbQ_51_59 sm0OYD0NSbQ_51_59 sm0OYD0NSbQ_51_59 sm0OYD0NSbQ_51_59 Cjf21Y19aUQ_82_86 Cjf21Y19aUQ_82_86 Cjf21Y19aUQ_82_86 clKtfGBVI1I_15_28 clKtfGBVI1I_15_28 clKtfGBVI1I_15_28 clKtfGBVI1I_15_28 clKtfGBVI1I_15_28 clKtfGBVI1I_15_28 clKtfGBVI1I_15_28 m4D72WXFd8s_557_564 jTaLGh_MKCM_5_20 jTaLGh_MKCM_5_20 jTaLGh_MKCM_5_20 jTaLGh_MKCM_5_20 drsPD5fI1IA_170_180 drsPD5fI1IA_170_180 drsPD5fI1IA_170_180 drsPD5fI1IA_170_180 drsPD5fI1IA_170_180 drsPD5fI1IA_170_180 drsPD5fI1IA_170_180 drsPD5fI1IA_170_180 gnEE6oWoz7U_124_132 953PkxFNiko_82_85 QGgJlHi3tjw_1_15 QGgJlHi3tjw_1_15 Qjbcibrv3L0_26_32 QsKIlhn6if8_270_276 b-d-CxHaKGU_10_30 1qU-kF-km1Q_6_16 EwTZ2xpQwpA_14_21 f9_bP219ehQ_63_70 f9_bP219ehQ_63_70 f9_bP219ehQ_63_70 f9_bP219ehQ_63_70
+
+aadr:     92
+sent:     a woman is exercising
+cluster:  -YI0cxuNcq8_262_272
+
+aadr:     93
+sent:     A man is doing exercise.
+cluster:  xxHx6s_DbUo_36_40 xxHx6s_DbUo_57_61 xxHx6s_DbUo_98_101 2YhDTpzxd3c_45_49
+
+aadr:     94
+sent:     a guinea pig eats a carrot
+cluster:  ifS2nXfCyYo_4_34 ifS2nXfCyYo_4_34
+
+aadr:     95
+sent:     lionel richie is dancing on the ceiling
+cluster:  5XxshEdcfAM_96_107 5XxshEdcfAM_96_107 5XxshEdcfAM_85_100
+
+aadr:     96
+sent:     a man is slicing potato
+cluster:  Uc63MFVwfrs_360_372 veE0E79dEEc_18_45 uuM0BFHTTsQ_9_50 zMg9dChF97A_12_38 9eJPVpoOtOs_115_130 YXixZrSxefk_17_48 K6xy6C-Hsa0_2_28 K6xy6C-Hsa0_2_28
+
+aadr:     97
+sent:     a girl is brushing her hair
+cluster:  aA05I5QaZnM_66_75 aA05I5QaZnM_66_75 5x_OGEdO6Z8_0_21 5x_OGEdO6Z8_0_21 5zkCnHUnoYY_69_74 6GJ1DNOGDAM_223_233
+
+aadr:     98
+sent:     A man is playing the guitar and singing.
+cluster:  326U8N2husw_26_28
+
+aadr:     99
+sent:     a boy is playing a guitar
+cluster:  N2Cm0SLr0ZE_18_29 tYQ7O6V0Fvk_20_55 tYQ7O6V0Fvk_20_55 tYQ7O6V0Fvk_20_55 tYQ7O6V0Fvk_20_55 tYQ7O6V0Fvk_20_55 wgrrQwLdME8_66_74 wgrrQwLdME8_66_74 kzyFBlNRohs_82_88 kzyFBlNRohs_82_88 kzyFBlNRohs_82_88 kzyFBlNRohs_82_88 kzyFBlNRohs_82_88 kzyFBlNRohs_82_88 kzyFBlNRohs_82_88 wgrrQwLdME8_0_10 4UOVKok7j1U_1_8 4UOVKok7j1U_1_8 LLkehH86ABY_30_36 LLkehH86ABY_30_36 LLkehH86ABY_30_36 LLkehH86ABY_30_36 lv8d_qLLqsk_1_20 Pm9L60YBj3s_0_32 G_hxdUG6QXE_23_28 dQmaVQZz7EE_1_18 dQmaVQZz7EE_1_18 dQmaVQZz7EE_1_18
+
+aadr:     100
+sent:     a man is getting into a car in a garage
+cluster:  uGDuIyfJXXg_23_33
+
+aadr:     101
+sent:     the men are putting suitcases into the car's trunk
+cluster:  fjDvKHkmxs0_72_87
+
+aadr:     102
+sent:     a toy train strikes a toy car
+cluster:  rOic25PnIx8_1_3
+
+aadr:     103
+sent:     the man added seasoning to water in a bowl
+cluster:  bQJQGoJF7_k_109_115
+
+aadr:     104
+sent:     a man is mowing grass
+cluster:  xEDCfcMZlZY_91_100 xEDCfcMZlZY_91_100 xfRIRSWy0y0_10_20
+
+aadr:     105
+sent:     A small monkey walks through water.
+cluster:  DhwrBs96Kgk_120_124
+
+aadr:     106
+sent:     a woman is slicing a carrot
+cluster:  _O9kWD8nuRU_16_23 _O9kWD8nuRU_16_23 _O9kWD8nuRU_16_23 _O9kWD8nuRU_16_23 _O9kWD8nuRU_16_23 9HTUcMjWB3g_122_128 9HTUcMjWB3g_122_128 9HTUcMjWB3g_122_128 -_hbPLsZvvo_43_55 -_hbPLsZvvo_43_55 -_hbPLsZvvo_43_55 -_hbPLsZvvo_43_55 -_hbPLsZvvo_43_55 -_hbPLsZvvo_43_55 LSuVRWPoHr0_0_37 LSuVRWPoHr0_0_37 -_hbPLsZvvo_49_55 -_hbPLsZvvo_49_55 -_hbPLsZvvo_49_55 -_hbPLsZvvo_49_55 -_hbPLsZvvo_49_55
+
+aadr:     107
+sent:     a man is loading a rifle with bullets
+cluster:  b71bI0rH1g8_75_90
+
+aadr:     108
+sent:     a woman is handling a frog
+cluster:  vRC9sBNt9vs_10_16
+
+aadr:     109
+sent:     A puppy is repeatedly rolling from side to side while on its back.
+cluster:  JIKaIriiK8w_0_15
+
+aadr:     110
+sent:     a women slicing green pepper
+cluster:  6t0BpjwYKco_59_69
+
+aadr:     111
+sent:     a woman is opening a soda and drinking it
+cluster:  7uF-2adCsI0_60_67
+
+aadr:     112
+sent:     A woman is beating two eggs in a bowl using a wire whisk.
+cluster:  0lh_UWF9ZP4_82_87
+
+aadr:     113
+sent:     a group of people sing
+cluster:  lmCrIZeob4w_23_26
+
+aadr:     114
+sent:     the man is aiming a gun
+cluster:  IAvBB2lv8iw_142_148
+
+aadr:     115
+sent:     a man is karate kicking at another man wearing protective boxing gloves
+cluster:  tHLiYTS9Iz8_1_16
+
+aadr:     116
+sent:     a man is kicking a soccer ball
+cluster:  q8t7iSGAKik_11_31 q8t7iSGAKik_11_31 q8t7iSGAKik_11_31 Ffv7fhL1EDY_177_184 q8t7iSGAKik_57_74 q8t7iSGAKik_57_74 q8t7iSGAKik_57_74
+
+aadr:     117
+sent:     A cat gets stuck on a moving ceiling fan.
+cluster:  64Xn9edeWRA_0_11
+
+aadr:     118
+sent:     a person is kicking a soccer ball back and forth between his feet
+cluster:  z2kUc8wp9l8_40_46
+
+aadr:     119
+sent:     a clown is singing and people are dancing
+cluster:  labytsb3gfI_146_154
+
+aadr:     120
+sent:     a dog bounces on a trampoline
+cluster:  yg4aNiO1JnI_111_114 yg4aNiO1JnI_111_114
+
+aadr:     121
+sent:     the man is slicing bread
+cluster:  OCcy9TDRGKo_41_51 IpHJffM3G1c_412_418 VahnQw2gTQY_274_280 1dfR0A_BXjw_524_532
+
+aadr:     122
+sent:     A woman is boiling shrimp.
+cluster:  0lh_UWF9ZP4_165_170
+
+aadr:     123
+sent:     a man is riding a mechanical bull
+cluster:  xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7 xlPyHMkpaQY_1_7
+
+aadr:     124
+sent:     A teenager talks to a girl over a webcam.
+cluster:  hq8dCkkhYsk_0_10
+
+aadr:     125
+sent:     a person throws a cat on the ceiling
+cluster:  IytNBm8WA1c_63_67
+
+aadr:     126
+sent:     a squirrel is spinning around in circles
+cluster:  4ikH9ZRcF2Q_89_105
+
+aadr:     127
+sent:     the man is using a camera to hammer a nail
+cluster:  D1tTBncIsm8_681_688
+
+aadr:     128
+sent:     someone is banging a camera lense against a nail
+cluster:  D1tTBncIsm8_681_688
+
+aadr:     129
+sent:     a person is drawing
+cluster:  OKBLPpAPp9c_2_17 nlU3crMsbWI_19_23 nlU3crMsbWI_19_23 nlU3crMsbWI_19_23 xOQn1z_oWDY_30_39 xOQn1z_oWDY_30_39
+
+aadr:     130
+sent:     the girl is riding the horse
+cluster:  NFxWwI0J3As_78_84
+
+aadr:     131
+sent:     paper is being cut with scissors
+cluster:  o4OsYxsNGMI_77_82
+
+aadr:     132
+sent:     a woman is peeling a potato
+cluster:  3OPQqH3YlHA_50_54
+
+aadr:     133
+sent:     the girl is using an eye pencil on her eyelid
+cluster:  oSnYUfCGiCA_7_17
+
+aadr:     134
+sent:     a man is drawing on a digital dry erase board
+cluster:  d7eGypGOlOc_13_22
+
+aadr:     135
+sent:     someone is stirring chili in a kettle
+cluster:  0hyZ__3YhZc_485_490
+
+aadr:     136
+sent:     a person is combing a cat hair
+cluster:  gyOVZz7kXyM_1_10
+
+aadr:     137
+sent:     a big green ball knocks a potato over
+cluster:  5fDBl1wT2Lk_34_39
+
+aadr:     138
+sent:     a man is talking on a phone
+cluster:  bDoCQEwghZU_201_211 fr9H1WLcF1A_141_148 fr9H1WLcF1A_141_148 fr9H1WLcF1A_141_148 fr9H1WLcF1A_141_148 3_51FhosiVY_93_101 6q1dX6thX3E_286_295 6q1dX6thX3E_286_295 6q1dX6thX3E_286_295 6q1dX6thX3E_286_295 6owu8Mow0_g_850_855 n_Z0-giaspE_62_78
+
+aadr:     139
+sent:     a person is quickly chopping mushrooms with a knife
+cluster:  K6xy6C-Hsa0_2_28
+
+aadr:     140
+sent:     the man is riding a horse
+cluster:  wFPmKChNrhU_3_11 lGk1MA6YP-M_36_48 MUkKFFdpm4E_121_135 MUkKFFdpm4E_121_135 Goj131_GxYs_2_7 yU5sxW9bErQ_0_17 yU5sxW9bErQ_0_17 MUkKFFdpm4E_40_58 zulPFoY64wE_26_33 zulPFoY64wE_26_33 dJEoDaA6VXc_1_19 WinaH9SkW9c_11_38
+
+aadr:     141
+sent:     the man sang and played his guitar
+cluster:  IiH6yl3j4gI_20_30 5hSW67ySCio_33_41 LqPIBHAmt4E_22_30 C2rDp6FnbP0_10_17 326U8N2husw_26_28 P2WM91LENgk_40_50 G_hxdUG6QXE_23_28 81fABEiwcIM_31_45 81fABEiwcIM_31_45
+
+aadr:     142
+sent:     a rhino is grazing in a field
+cluster:  mfJjIOfj6D8_3_10
+
+aadr:     143
+sent:     a man is fishing in the river
+cluster:  W-dcOOW_ztM_56_62
+
+aadr:     144
+sent:     A boat sails along the water.
+cluster:  xgIIcPSh4EU_0_6
+
+aadr:     145
+sent:     a woman is dancing near a fire
+cluster:  4D1o4FC8YbA_207_216
+
+aadr:     146
+sent:     a child is waking up
+cluster:  lB1UPJ4leqs_1_6
+
+aadr:     147
+sent:     A man is climbing a rope.
+cluster:  2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86
+
+aadr:     148
+sent:     a baby tiger is playing with a ball
+cluster:  UqBafx3iRKw_22_29 UqBafx3iRKw_22_29 UqBafx3iRKw_22_29 UqBafx3iRKw_22_29 UqBafx3iRKw_22_29 UqBafx3iRKw_22_29 UqBafx3iRKw_22_29 UqBafx3iRKw_22_29 UqBafx3iRKw_22_29 UqBafx3iRKw_22_29
+
+aadr:     149
+sent:     two people flipped tractor tires in a race
+cluster:  jbzaMtPYtl8_48_58 jbzaMtPYtl8_48_58
+
+aadr:     150
+sent:     a man is dancing on the ceiling of a room
+cluster:  5XxshEdcfAM_96_107
+
+aadr:     151
+sent:     Someone is feeding a animal.
+cluster:  yEhV8xbekRo_0_10
+
+aadr:     152
+sent:     A man is giving an interview.
+cluster:  RZL9irxnhZ0_34_40 RZL9irxnhZ0_34_40 clKtfGBVI1I_15_28 clKtfGBVI1I_15_28 clKtfGBVI1I_15_28
+
+aadr:     153
+sent:     the woman picked up the kangaroo
+cluster:  2R_OAYQIkXM_14_22
+
+aadr:     154
+sent:     a man is riding a motorcycle through a town
+cluster:  uO7Eysrs8_k_80_90
+
+aadr:     155
+sent:     a man drills a hole in a piece of wood
+cluster:  me1D1WZ0yNM_120_124
+
+aadr:     156
+sent:     a baby is talking
+cluster:  _pj2Nutu5v8_1_8 _pj2Nutu5v8_1_8 _pj2Nutu5v8_1_8
+
+aadr:     157
+sent:     A man is speaking on a stage.
+cluster:  Lr8ds5iY5uk_8_15
+
+aadr:     158
+sent:     a woman is putting on eyeshadow
+cluster:  r0rmrbTb7fU_98_109 b4FM9OLBGyM_37_49 fIaLVw_Gc_w_99_109
+
+aadr:     159
+sent:     a person is brushing a cat
+cluster:  gyOVZz7kXyM_1_10 gyOVZz7kXyM_1_10 gyOVZz7kXyM_1_10
+
+aadr:     160
+sent:     a panda bear is eating some bamboo
+cluster:  Jxw16bqzVqE_18_28
+
+aadr:     161
+sent:     a girl is exercising
+cluster:  ZlX_Gy4HP2E_38_55
+
+aadr:     162
+sent:     A boy is playing in the mud.
+cluster:  93n_oYVCLpk_9_12
+
+aadr:     163
+sent:     The man sat in his chair and stared.
+cluster:  tn-Hoz4KbkE_89_93
+
+aadr:     164
+sent:     A man is slicing a carrot by a machine.
+cluster:  GtrTNldo0LI_33_46
+
+aadr:     165
+sent:     two men compete in a tire rolling race
+cluster:  jbzaMtPYtl8_48_58
+
+aadr:     166
+sent:     a bunny is playing with a stuffed bunny
+cluster:  hSgGBHbJrmE_0_17
+
+aadr:     167
+sent:     the woman is walking her dog
+cluster:  cR2yi-JnGcQ_8_16 cR2yi-JnGcQ_8_16
+
+aadr:     168
+sent:     the woman is poking holes in the potato
+cluster:  gXVaC3gBWbc_22_30
+
+aadr:     169
+sent:     a group of people are dancing in concert
+cluster:  3ytUOoa1SBE_12_23
+
+aadr:     170
+sent:     two men fistfight in a ring
+cluster:  DB-3-TVjrxU_58_75
+
+aadr:     171
+sent:     a woman is riding a water scooter
+cluster:  DIebwNHGjm8_133_148
+
+aadr:     172
+sent:     someone is cooking okra in a pan
+cluster:  -9CUm-2cui8_39_44
+
+aadr:     173
+sent:     a man wearing a hard hat is dancing
+cluster:  0M-PyX2DbZc_25_31
+
+aadr:     174
+sent:     a man is reading an email
+cluster:  b97TK8XVLHE_40_50 b97TK8XVLHE_40_50
+
+aadr:     175
+sent:     a woman is seasoning a piece of meat
+cluster:  6t0BpjwYKco_240_247 klFyrnrUSck_63_73 ACOmKiJDkA4_75_81 6t0BpjwYKco_217_229 6t0BpjwYKco_217_229
+
+aadr:     176
+sent:     a boy is playing a key-board
+cluster:  htWPOGTagec_2_18
+
+aadr:     177
+sent:     a person is frying meat in a pan
+cluster:  IhwPQL9dFYc_153_170
+
+aadr:     178
+sent:     someone is pouring ingrediants into a pot
+cluster:  hJFBXHtxKIc_225_230 0hyZ__3YhZc_289_295
+
+aadr:     179
+sent:     the lady broke raw eggs into a bowl
+cluster:  WTf5EgVY5uU_98_104
+
+aadr:     180
+sent:     a cat is sliding upside down under a couch
+cluster:  bkazguPsusc_74_85
+
+aadr:     181
+sent:     A woman is cutting meat into pieces.
+cluster:  WTf5EgVY5uU_15_19
+
+aadr:     182
+sent:     a woman is cooking fish
+cluster:  UbmZAe5u5FI_101_110 ACOmKiJDkA4_130_144 ACOmKiJDkA4_130_144 ACOmKiJDkA4_130_144 QTAqjSbMkXU_65_75
+
+aadr:     183
+sent:     a woman is slicing a garlic
+cluster:  WTf5EgVY5uU_58_76
+
+aadr:     184
+sent:     A baby is laughing.
+cluster:  MPuKVz3sjBA_1_12 3qqEKTPxLNs_1_15 4zPSShqsq-o_3_16 DcDYRpa34W8_11_25
+
+aadr:     185
+sent:     the man is cracking eggs into a bowl
+cluster:  UXs3eq68ZjE_194_200
+
+aadr:     186
+sent:     a man is shaking a container over a kitchen sink
+cluster:  8MVo7fje_oE_139_144
+
+aadr:     187
+sent:     a woman peels a potato
+cluster:  yREFkmrrYiw_51_57 _O9kWD8nuRU_45_49 _O9kWD8nuRU_45_49 BOLKaQeB6j0_101_111 BOLKaQeB6j0_101_111 BOLKaQeB6j0_101_111 BOLKaQeB6j0_101_111 _O9kWD8nuRU_70_76 _O9kWD8nuRU_70_76 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 DuMkW35BwK8_43_47
+
+aadr:     188
+sent:     several kids jump up and down on a trampoline
+cluster:  3SKyc0aKx70_46_52
+
+aadr:     189
+sent:     a man is slicing a potato into pieces
+cluster:  1sffYOXq4Iw_23_49 uuM0BFHTTsQ_9_50 zMg9dChF97A_12_38 9eJPVpoOtOs_115_130 YXixZrSxefk_17_48
+
+aadr:     190
+sent:     Three young men run, jump, and kick off of a Coke machine.
+cluster:  6ZhKOK08tgM_45_49
+
+aadr:     191
+sent:     a man is patting an alligator on the mouth
+cluster:  sTMlQSbAGfE_0_12
+
+aadr:     192
+sent:     a woman is cutting an onion
+cluster:  aeA-HN7BMdo_16_33 aeA-HN7BMdo_16_33 VahnQw2gTQY_315_320 klFyrnrUSck_13_19 klFyrnrUSck_13_19 klFyrnrUSck_13_19 kWLNZzuo3do_17_23 kWLNZzuo3do_17_23 WTf5EgVY5uU_66_75 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 04Gt01vatkk_248_265 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 WTf5EgVY5uU_33_39 WTf5EgVY5uU_33_39 WTf5EgVY5uU_33_39 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 aDjNl5gs4nM_18_47 aDjNl5gs4nM_18_47 m1NR0uNNs5Y_88_94 m1NR0uNNs5Y_88_94 m1NR0uNNs5Y_88_94 m1NR0uNNs5Y_57_64 m1NR0uNNs5Y_57_64 nq4hG6qgyPs_240_251 VahnQw2gTQY_322_327 m1NR0uNNs5Y_104_110
+
+aadr:     193
+sent:     different sets of teams are playing football on a field
+cluster:  mCrRHP4LFmo_24_40
+
+aadr:     194
+sent:     the man is dropping sliced cucumbers into water
+cluster:  kquB3rIgfGk_537_544
+
+aadr:     195
+sent:     A man and woman are walking arm in arm through a wooded area.
+cluster:  rw9h_574HxE_127_133
+
+aadr:     196
+sent:     a boy is walking across a bridge
+cluster:  ywHBKayhyvQ_19_28 ywHBKayhyvQ_19_28 ywHBKayhyvQ_19_28 ywHBKayhyvQ_19_28
+
+aadr:     197
+sent:     a man is opening a box using a knife
+cluster:  fX5G_JwPlLo_640_660
+
+aadr:     198
+sent:     the man is putting chicken into the container
+cluster:  Je3V7U5Ctj4_956_961
+
+aadr:     199
+sent:     a monkey is teasing a dog at the zoo
+cluster:  KpmVL4ANieA_0_9
+
+aadr:     200
+sent:     two women are dancing
+cluster:  Aa7yf9XtcJM_45_50
+
+aadr:     201
+sent:     a woman is tapping her fingers on a table
+cluster:  R8FDJgVW3Vc_0_4 R8FDJgVW3Vc_0_4 R8FDJgVW3Vc_0_4
+
+aadr:     202
+sent:     a baby is crawling happily
+cluster:  eb-Zp4pJLKk_2_19
+
+aadr:     203
+sent:     a slow loris is eating
+cluster:  nb12bAaKzvA_0_10 nb12bAaKzvA_0_10 nb12bAaKzvA_0_10 QqYWLR47eLI_10_18 QqYWLR47eLI_10_18 wpUT0DNB3qs_9_19
+
+aadr:     204
+sent:     A man is throwing knives at a tree.
+cluster:  RX6NSOuCCAE_13_27 RX6NSOuCCAE_13_27 RX6NSOuCCAE_13_27 RX6NSOuCCAE_13_27
+
+aadr:     205
+sent:     a man is tying his shoe
+cluster:  YZ0-6hdQ0mU_0_3 YZ0-6hdQ0mU_0_3 YZ0-6hdQ0mU_0_3 YZ0-6hdQ0mU_0_3 YZ0-6hdQ0mU_0_3 YZ0-6hdQ0mU_0_3 YZ0-6hdQ0mU_0_3 YZ0-6hdQ0mU_0_3
+
+aadr:     206
+sent:     a woman dances while a man plays the keyboard
+cluster:  D1X6qXkLjYE_41_49
+
+aadr:     207
+sent:     a hamster is singing
+cluster:  sqy2CMDl7U0_7_10
+
+aadr:     208
+sent:     two boys on a couch are playing video games
+cluster:  CHVhwcOg6y8_1_12
+
+aadr:     209
+sent:     a boy runs away from his fishing line
+cluster:  wkgGxsuNVSg_34_41
+
+aadr:     210
+sent:     a woman is cutting broccoli
+cluster:  aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165
+
+aadr:     211
+sent:     a guy is mowing the lawn
+cluster:  xEDCfcMZlZY_91_100
+
+aadr:     212
+sent:     two men are packing suitcases into the trunk of a car
+cluster:  fjDvKHkmxs0_72_87
+
+aadr:     213
+sent:     a girl is communicating with sign language
+cluster:  Oq3FV_zdyy0_843_855
+
+aadr:     214
+sent:     a person pours cooking oil into a pot
+cluster:  hJFBXHtxKIc_118_123
+
+aadr:     215
+sent:     a man and and woman are running together, holding hands
+cluster:  ItFqogTmAvQ_389_395
+
+aadr:     216
+sent:     a cat plays with a small bottle
+cluster:  NMlKMfiHSho_1_15
+
+aadr:     217
+sent:     a woman with a knife is slicing a pepper
+cluster:  6t0BpjwYKco_59_69
+
+aadr:     218
+sent:     a woman slices a fish
+cluster:  0lh_UWF9ZP4_191_197
+
+aadr:     219
+sent:     a man is shooting off guns
+cluster:  bnN_o0Hkn3M_73_80
+
+aadr:     220
+sent:     three teenage girls danced in the room
+cluster:  5OuYhq6Zl0g_0_10
+
+aadr:     221
+sent:     a dog is eating a doll
+cluster:  W_iR4YVCxUY_8_15
+
+aadr:     222
+sent:     a boy is looking at a calendar
+cluster:  GPT4vUwlrXY_1_10 GPT4vUwlrXY_1_10 GPT4vUwlrXY_1_10 GPT4vUwlrXY_1_10 GPT4vUwlrXY_1_10 GPT4vUwlrXY_1_10
+
+aadr:     223
+sent:     a girl is applying makeup on her face
+cluster:  tIMDKdMnNYM_266_273
+
+aadr:     224
+sent:     a person is slicing a potato
+cluster:  1sffYOXq4Iw_23_49
+
+aadr:     225
+sent:     some men are fighting
+cluster:  dvhJGidrrKE_254_260 dvhJGidrrKE_254_260 RiglOfJon8I_3_18 PqvKNqkGI9o_47_52 PqvKNqkGI9o_47_52 PqvKNqkGI9o_47_52
+
+aadr:     226
+sent:     a dog knocks a boy into the water twice
+cluster:  VLBsAPZ2DDE_34_41
+
+aadr:     227
+sent:     A woman is cutting some flowers.
+cluster:  -rkErLY0rRc_26_35
+
+aadr:     228
+sent:     a man is walking along a path through wilderness
+cluster:  jlahRlo4jlU_30_36
+
+aadr:     229
+sent:     a man is cutting a paper
+cluster:  eZLxohGP4IE_147_158 AX38yo7Wuws_81_91
+
+aadr:     230
+sent:     a person is cutting an onion into pieces
+cluster:  oDcd2JbOyzg_38_55
+
+aadr:     231
+sent:     boys are dancing in front of people
+cluster:  n_Z0-giaspE_437_447
+
+aadr:     232
+sent:     someone is folding a piece of paper
+cluster:  sT5Bzt9w354_11_34 z8dcUzdi2bw_3_16 z8dcUzdi2bw_3_16 iuqVpMdb1NM_35_43 bXsKw3TOQXs_30_55 bXsKw3TOQXs_30_55
+
+aadr:     233
+sent:     a person is throwing a cat on to the ceiling
+cluster:  IytNBm8WA1c_63_67
+
+aadr:     234
+sent:     the military officer barked at the recruits
+cluster:  t8Nf1MK7lts_0_10
+
+aadr:     235
+sent:     a man is praying
+cluster:  xxHx6s_DbUo_216_222
+
+aadr:     236
+sent:     A woman is slicing tofu.
+cluster:  IhwPQL9dFYc_124_129 IhwPQL9dFYc_124_129 IhwPQL9dFYc_124_129 IhwPQL9dFYc_124_129 kWLNZzuo3do_38_42 IhwPQL9dFYc_130_136 IhwPQL9dFYc_130_136 IhwPQL9dFYc_130_136 IhwPQL9dFYc_130_136
+
+aadr:     237
+sent:     A person is riding a motorcyle.
+cluster:  o4pL7FObqds_243_263
+
+aadr:     238
+sent:     A lion is pacing in a pen.
+cluster:  7HcYJKMxpcg_20_28
+
+aadr:     239
+sent:     the animal with the big eyes is eating
+cluster:  nb12bAaKzvA_0_10
+
+aadr:     240
+sent:     A man is picking up a tree.
+cluster:  YmXCfQm0_CA_68_75
+
+aadr:     241
+sent:     a woman is cutting potatoes
+cluster:  s20OlIRK340_147_174 iEW-EkPQywU_61_83 0lh_UWF9ZP4_21_26 -rvjK0lE3z4_33_43 _O9kWD8nuRU_77_81
+
+aadr:     242
+sent:     a woman is frying something
+cluster:  WTf5EgVY5uU_121_135 klFyrnrUSck_87_100 klFyrnrUSck_87_100 eTnlw7v8ea0_36_50 WTf5EgVY5uU_130_135 qeKX-N1nKiM_133_142 9Q0JfdP36kI_167_170
+
+aadr:     243
+sent:     a man mixes vegetables in a pot
+cluster:  0hyZ__3YhZc_302_307
+
+aadr:     244
+sent:     A man is playing a guitar.
+cluster:  EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 MWzeInQaUk4_12_20 IiTzJQE67FA_74_86 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 5hSW67ySCio_33_41 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 C2rDp6FnbP0_10_17 C2rDp6FnbP0_10_17 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 326U8N2husw_26_28 326U8N2husw_26_28 326U8N2husw_26_28 kI6MWZrl8v8_149_161 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 tYh4iDFgmEE_50_54 tYh4iDFgmEE_50_54 tYh4iDFgmEE_50_54 tYh4iDFgmEE_50_54 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 4UOVKok7j1U_1_8 4UOVKok7j1U_1_8 4UOVKok7j1U_1_8 4UOVKok7j1U_1_8 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 xb-Nacm-pKc_78_82 W8l_ezoU8Lc_55_70 W8l_ezoU8Lc_55_70 W8l_ezoU8Lc_55_70 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 LLkehH86ABY_30_36 LLkehH86ABY_30_36 LLkehH86ABY_30_36 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 FvfjDQj5sOY_1_10 FvfjDQj5sOY_1_10 FvfjDQj5sOY_1_10 FvfjDQj5sOY_1_10 FvfjDQj5sOY_1_10 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 Pm9L60YBj3s_0_32 Pm9L60YBj3s_0_32 Pm9L60YBj3s_0_32 Pm9L60YBj3s_0_32 Pm9L60YBj3s_0_32 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 Ya-MkA187c8_36_45 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 81fABEiwcIM_31_45 81fABEiwcIM_31_45 k9Brw_0gncU_14_33 k9Brw_0gncU_14_33 k9Brw_0gncU_14_33 k9Brw_0gncU_14_33 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 7NNg0_n-bS8_21_30 7NNg0_n-bS8_21_30 7NNg0_n-bS8_21_30 M_TP6UTrh30_343_358
+
+aadr:     245
+sent:     a man dives off of a cliff
+cluster:  jv-eV6jR3Qw_7_12
+
+aadr:     246
+sent:     a dog is jumping on a trampoline
+cluster:  yg4aNiO1JnI_111_114 yg4aNiO1JnI_111_114 yg4aNiO1JnI_111_114 yg4aNiO1JnI_111_114
+
+aadr:     247
+sent:     a woman is cutting onions
+cluster:  m1NR0uNNs5Y_123_129 04Gt01vatkk_248_265 04Gt01vatkk_248_265 WTf5EgVY5uU_33_39 WTf5EgVY5uU_32_52 m1NR0uNNs5Y_88_94 m1NR0uNNs5Y_88_94
+
+aadr:     248
+sent:     a man cut a tree with an axe
+cluster:  umjc1CkO4JA_290_305
+
+aadr:     249
+sent:     Kittens are eating food on trays.
+cluster:  wNv74rvkAw8_30_40
+
+aadr:     250
+sent:     a man is kick boxing with a trainer
+cluster:  tHLiYTS9Iz8_1_16
+
+aadr:     251
+sent:     a woman is dancing
+cluster:  ViWQUOGIaSU_9_16 ViWQUOGIaSU_9_16 ViWQUOGIaSU_9_16 ViWQUOGIaSU_9_16 ViWQUOGIaSU_9_16 c2a0GcoJAjw_107_129 c2a0GcoJAjw_107_129 c2a0GcoJAjw_107_129 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 iwpnUHFhjWc_9_14 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_78_88 JnNe61UZsdM_42_51 JnNe61UZsdM_42_51 GWQTAe64m-0_160_166 fKqBnl8D1Qo_5_44 fKqBnl8D1Qo_5_44 fKqBnl8D1Qo_5_44 pQYEZTwSVbQ_12_18 sBjr8UJOpsQ_181_195 sBjr8UJOpsQ_181_195 sBjr8UJOpsQ_181_195 D1X6qXkLjYE_41_49 D1X6qXkLjYE_41_49 D1X6qXkLjYE_41_49 D1X6qXkLjYE_41_49 D1X6qXkLjYE_41_49 d7Gs0uGFLh0_5_13 tZzJ9dDnncY_37_41 tZzJ9dDnncY_37_41 tZzJ9dDnncY_37_41 tZzJ9dDnncY_37_41 tZzJ9dDnncY_37_41 4D1o4FC8YbA_29_39 4D1o4FC8YbA_29_39 4D1o4FC8YbA_29_39 kRNHJSc4AXE_220_228 Pgm-mOQu2MM_48_62 Pgm-mOQu2MM_48_62 Pgm-mOQu2MM_48_62 Pgm-mOQu2MM_48_62 Pgm-mOQu2MM_48_62 Pgm-mOQu2MM_48_62 4D1o4FC8YbA_207_216 4D1o4FC8YbA_207_216 4D1o4FC8YbA_207_216 4D1o4FC8YbA_207_216 4D1o4FC8YbA_207_216 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 yvfhk1kwKls_103_113 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 iwpnUHFhjWc_84_94 pRpeEdMmmQ0_65_70 gtixLEvO2Us_0_6 gtixLEvO2Us_0_6 gtixLEvO2Us_0_6 gtixLEvO2Us_0_6 gtixLEvO2Us_0_6 gtixLEvO2Us_0_6 gtixLEvO2Us_0_6 gtixLEvO2Us_0_6 fY0lZTWlBAg_470_485
+
+aadr:     252
+sent:     a person is slicing a carrot into pieces
+cluster:  DAmOfcvfKZ0_22_32
+
+aadr:     253
+sent:     A woman is dancing and singing with other women.
+cluster:  pRpeEdMmmQ0_65_70
+
+aadr:     254
+sent:     a woman is collecting tap water in a mug
+cluster:  Q7H9mI9dtMY_20_34
+
+aadr:     255
+sent:     women are dancing
+cluster:  c2a0GcoJAjw_107_129 c2a0GcoJAjw_107_129 PAN5IVvMlVc_17_23 5OuYhq6Zl0g_0_10 sRKQfxxEP4M_117_125 sRKQfxxEP4M_117_125 sRKQfxxEP4M_117_125 2HpZvL-_fiY_40_44 2HpZvL-_fiY_40_44 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 HzYtvOYOEoU_21_32 HzYtvOYOEoU_21_32 HzYtvOYOEoU_21_32 UgUFP5baQ9Y_0_7 UgUFP5baQ9Y_0_7 Aa7yf9XtcJM_45_50 9OvXb1fot74_21_29 9OvXb1fot74_21_29 9OvXb1fot74_21_29 pRpeEdMmmQ0_65_70 pRpeEdMmmQ0_65_70 pRpeEdMmmQ0_65_70 UgUFP5baQ9Y_0_10 UgUFP5baQ9Y_0_10 UgUFP5baQ9Y_0_10 VfqlfprZsaQ_75_85 VfqlfprZsaQ_75_85 SRzoLVNgHoI_56_66
+
+aadr:     256
+sent:     a person is cutting an onion
+cluster:  VahnQw2gTQY_315_320 m1NR0uNNs5Y_123_129 e-j59PqJjSM_163_173 ObBss94n3gI_35_46
+
+aadr:     257
+sent:     a toy train is striking a toy car
+cluster:  rOic25PnIx8_1_3
+
+aadr:     258
+sent:     swimmers are racing in a lake
+cluster:  oBt257I-pL0_0_10
+
+aadr:     259
+sent:     a woman is putting meat in a pan
+cluster:  TvBsaMgqh5s_61_68 -wa0umYJVGg_23_41
+
+aadr:     260
+sent:     a monkey is brushing a bull dog
+cluster:  MwOEK-KXSPc_1_10
+
+aadr:     261
+sent:     a woman is picking a can
+cluster:  -rkErLY0rRc_63_67
+
+aadr:     262
+sent:     a woman is slicing carrots
+cluster:  PeUHy0A1GF0_99_103 DAmOfcvfKZ0_22_32 _O9kWD8nuRU_16_23 9HTUcMjWB3g_122_128 9HTUcMjWB3g_122_128 LSuVRWPoHr0_0_37 suj4VNfZz5E_33_50 suj4VNfZz5E_33_50
+
+aadr:     263
+sent:     a woman is sewing on a machine
+cluster:  aJoDt4DMkFU_118_124
+
+aadr:     264
+sent:     a baby is playing a guitar
+cluster:  wgrrQwLdME8_66_74 wgrrQwLdME8_66_74 wgrrQwLdME8_66_74 wgrrQwLdME8_0_10 wgrrQwLdME8_0_10 wgrrQwLdME8_0_10
+
+aadr:     265
+sent:     the girl trotted the horse
+cluster:  2mUMTFnQWaw_1_9
+
+aadr:     266
+sent:     A girl jumps on a car.
+cluster:  lsanQj2yacs_80_85 lsanQj2yacs_80_85 lsanQj2yacs_80_85 lsanQj2yacs_80_85
+
+aadr:     267
+sent:     a small guinea pig is gnawing and eating a piece of carrot on the floor
+cluster:  ifS2nXfCyYo_4_34
+
+aadr:     268
+sent:     a woman is chopping garlic
+cluster:  IhwPQL9dFYc_50_59 IhwPQL9dFYc_50_59 WTf5EgVY5uU_58_76 WTf5EgVY5uU_58_76 WTf5EgVY5uU_58_76 WTf5EgVY5uU_58_76 WTf5EgVY5uU_58_76 WTf5EgVY5uU_66_75 WTf5EgVY5uU_66_75 m1NR0uNNs5Y_192_198 kEGmZDpZ_RE_352_370 kEGmZDpZ_RE_352_370
+
+aadr:     269
+sent:     a woman is chopping octopus
+cluster:  PHDmVhShE80_20_29 PHDmVhShE80_20_29
+
+aadr:     270
+sent:     a boy is sitting in a room playing a piano by lamp light
+cluster:  -AwoiGR6c8M_10_14
+
+aadr:     271
+sent:     a man is riding a horse in the desert
+cluster:  wFPmKChNrhU_3_11 wFPmKChNrhU_3_11
+
+aadr:     272
+sent:     a dog is running on the ground
+cluster:  jDFn-1lXJ98_71_80 8yS2wqwActs_2_14
+
+aadr:     273
+sent:     a man skateboards on a half pipe
+cluster:  e4QGnppJ-ys_6_14
+
+aadr:     274
+sent:     a bmx biker rides along the top of a fence
+cluster:  ZnLgsasu82g_71_81
+
+aadr:     275
+sent:     a man in a suit is standing at a microphone and singing
+cluster:  otLEUwHao_E_140_151
+
+aadr:     276
+sent:     a onion is being sliced
+cluster:  kIZanu909lw_67_80
+
+aadr:     277
+sent:     a man is riding an electric bicycle
+cluster:  XEOH3t5AYY0_22_29 XEOH3t5AYY0_22_29 XEOH3t5AYY0_22_29 XEOH3t5AYY0_22_29
+
+aadr:     278
+sent:     a man is jumping a wall
+cluster:  ItFqogTmAvQ_48_52
+
+aadr:     279
+sent:     a man plays an acoustic guitar
+cluster:  EiylMb_mWk4_2_20 _pBeOAMjGm8_1_18 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 _KMoC6ZdeXs_10_16 cM55xNJ_pfU_1_20 fgWFxFg7-GU_10_26 cLNrpO6wBk4_37_47 mYzajpeAWuA_100_112 JsD6uEZsIsU_45_58 tn1d5DmdMqY_15_28 k-SWy-sU8cE_5_10
+
+aadr:     280
+sent:     a woman is cracking eggs
+cluster:  PHDmVhShE80_78_82 WTf5EgVY5uU_98_104 WTf5EgVY5uU_98_104 0lh_UWF9ZP4_71_77 0lh_UWF9ZP4_71_77 WTf5EgVY5uU_104_108 WTf5EgVY5uU_100_104 9zXqkHvs0po_59_65 9zXqkHvs0po_59_65
+
+aadr:     281
+sent:     four boys are standing in front of the burning car
+cluster:  krAk8WPZRL4_207_212
+
+aadr:     282
+sent:     a dog swims after a tennis ball
+cluster:  glii-kazad8_21_29
+
+aadr:     283
+sent:     a baby elephant is eating a small tree
+cluster:  g1Gldu1KS44_8_14
+
+aadr:     284
+sent:     a boy is playing guitar
+cluster:  7_XASfcYdBk_3_13 81fABEiwcIM_31_45
+
+aadr:     285
+sent:     A girl is slicing a butter into two pieces.
+cluster:  IhwPQL9dFYc_124_129
+
+aadr:     286
+sent:     Two men are playing table tennis.
+cluster:  hxZ-5wELSJM_0_12 hxZ-5wELSJM_0_12 hxZ-5wELSJM_0_12 hxZ-5wELSJM_0_12 hxZ-5wELSJM_0_12 fr9H1WLcF1A_256_261 fr9H1WLcF1A_256_261 fr9H1WLcF1A_256_261
+
+aadr:     287
+sent:     a man is slicing a tomato
+cluster:  e-j59PqJjSM_264_277 e-j59PqJjSM_264_277 e-j59PqJjSM_264_277 e-j59PqJjSM_264_277 zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 l_AVz90c4jQ_22_43 WPG-BIWOrG4_608_613 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469
+
+aadr:     288
+sent:     a man is dancing
+cluster:  D-K3ThvAqfo_43_47
+
+aadr:     289
+sent:     a person is slicing a garlic into pieces
+cluster:  WTf5EgVY5uU_66_75 UbmZAe5u5FI_60_70
+
+aadr:     290
+sent:     a south african airways plane is flying in a blue sky
+cluster:  ZbzDGXEwtGc_6_15
+
+aadr:     291
+sent:     a woman is slicing butter
+cluster:  IhwPQL9dFYc_137_143 IhwPQL9dFYc_130_136
+
+aadr:     292
+sent:     two men are fighting in a cattle pen
+cluster:  dvhJGidrrKE_254_260
+
+aadr:     293
+sent:     a woman is eating a cupcake
+cluster:  ngHDYzhDBk4_24_29 ngHDYzhDBk4_24_29 ngHDYzhDBk4_24_29 ngHDYzhDBk4_24_29 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20
+
+aadr:     294
+sent:     a woman is chopping up garlic
+cluster:  WTf5EgVY5uU_66_75 kEGmZDpZ_RE_352_370
+
+aadr:     295
+sent:     a man and woman are driving down the road in an open air vehicle
+cluster:  I2eWXGaoWko_20_24
+
+aadr:     296
+sent:     the rhino grazed on the grass
+cluster:  mfJjIOfj6D8_3_10 mfJjIOfj6D8_3_10
+
+aadr:     297
+sent:     a man is sprinkling seasoning on several split and buttered loaves of bread
+cluster:  IpHJffM3G1c_464_470
+
+aadr:     298
+sent:     the boy cut the grass by the curb with scissors
+cluster:  IY1Fn796MoY_7_10
+
+aadr:     299
+sent:     a person is cutting a capsicum into pieces
+cluster:  l_AVz90c4jQ_65_106
+
+aadr:     300
+sent:     a person is buttering a tray
+cluster:  1dfR0A_BXjw_401_408
+
+aadr:     301
+sent:     A man is dancing.
+cluster:  D-K3ThvAqfo_43_47
+
+aadr:     302
+sent:     a person is cutting mushrooms with a knife
+cluster:  kWLNZzuo3do_77_83
+
+aadr:     303
+sent:     a person is cutting garlic into pieces with a knife
+cluster:  kEGmZDpZ_RE_352_370
+
+aadr:     304
+sent:     a woman is pouring egg into a frying pan
+cluster:  1rECrfrdNTo_200_207
+
+aadr:     305
+sent:     A man plays a guitar.
+cluster:  _pBeOAMjGm8_1_18 IiH6yl3j4gI_20_30 JsD6uEZsIsU_1_47 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 LqPIBHAmt4E_22_30 9IrWyZ0KZuk_160_166 SJZFNwfcSOw_3_18 cM55xNJ_pfU_1_20 WpB4-eLyiBc_10_20 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 W8l_ezoU8Lc_55_70 9uDPqigcnzw_36_46 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 mYzajpeAWuA_100_112 jI58q6rcNLc_8_18 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 81fABEiwcIM_31_45
+
+aadr:     306
+sent:     a girl is filing her nails
+cluster:  9W6aQNcU3PA_92_103
+
+aadr:     307
+sent:     a man with a hard hat is dancing
+cluster:  0M-PyX2DbZc_25_31
+
+aadr:     308
+sent:     a man dives into a pool
+cluster:  lcu-DwrnYY8_2_5 lcu-DwrnYY8_2_5 zS50h-a8RTg_3_9 zS50h-a8RTg_3_9 zS50h-a8RTg_3_9 zS50h-a8RTg_3_9 zS50h-a8RTg_3_9 zS50h-a8RTg_3_9 zS50h-a8RTg_3_9 zS50h-a8RTg_3_9
+
+aadr:     309
+sent:     a man is petting two dogs
+cluster:  fcvW1vr8hAs_96_102 fcvW1vr8hAs_96_102 fcvW1vr8hAs_96_102 fcvW1vr8hAs_96_102 fcvW1vr8hAs_96_102 fcvW1vr8hAs_96_102 fcvW1vr8hAs_96_102 fcvW1vr8hAs_96_102
+
+aadr:     310
+sent:     a kid is playing a guitar
+cluster:  N2Cm0SLr0ZE_18_29 kzyFBlNRohs_82_88 4UOVKok7j1U_1_8 LLkehH86ABY_30_36 Pm9L60YBj3s_0_32
+
+aadr:     311
+sent:     a woman picks up and holds a baby kangaroo
+cluster:  2R_OAYQIkXM_14_22 2R_OAYQIkXM_14_22
+
+aadr:     312
+sent:     a monkey is karate kicking at someone's gloved hand
+cluster:  hNPZmTlY_3Q_0_8
+
+aadr:     313
+sent:     the baby is laughing and crawling
+cluster:  eb-Zp4pJLKk_2_19
+
+aadr:     314
+sent:     men are playing cricket
+cluster:  giLxPCgLLqg_9_19 Qp-k0H93iJE_35_39 Qp-k0H93iJE_35_39 Qp-k0H93iJE_35_39 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 LLHUB8ciPrc_0_13 LLHUB8ciPrc_0_13 LLHUB8ciPrc_0_13 b_BuSVZwq6M_1_9 b_BuSVZwq6M_1_9
+
+aadr:     315
+sent:     a man is buttering a piece of bread
+cluster:  WrsS6X-FB-I_30_47 1dfR0A_BXjw_545_560 1dfR0A_BXjw_545_560 1dfR0A_BXjw_545_560 1dfR0A_BXjw_545_560
+
+aadr:     316
+sent:     the woman is waterskiing
+cluster:  0NPtAv3_uVI_46_54 0NPtAv3_uVI_46_54
+
+aadr:     317
+sent:     a man is running on the road
+cluster:  xxHx6s_DbUo_162_165
+
+aadr:     318
+sent:     a man is coming out into the water
+cluster:  5EXVeP6R3yc_105_108
+
+aadr:     319
+sent:     a lady mixed up a meat mixture in bowl
+cluster:  BVjvRpmHg0w_121_130
+
+aadr:     320
+sent:     someone is stirring a pot of chili with a spoon
+cluster:  0hyZ__3YhZc_485_490
+
+aadr:     321
+sent:     a man and woman is walking in the grand
+cluster:  rw9h_574HxE_59_66
+
+aadr:     322
+sent:     a man is playing a harp
+cluster:  POv7JaE3vJ8_40_50 POv7JaE3vJ8_40_50 POv7JaE3vJ8_40_50 POv7JaE3vJ8_40_50 POv7JaE3vJ8_40_50 POv7JaE3vJ8_40_50 POv7JaE3vJ8_40_50 POv7JaE3vJ8_40_50
+
+aadr:     323
+sent:     two men are fighting
+cluster:  dvhJGidrrKE_254_260 dvhJGidrrKE_247_252 dvhJGidrrKE_247_252 dvhJGidrrKE_247_252 dvhJGidrrKE_247_252 n_Z0-giaspE_168_193 n_Z0-giaspE_168_193 qDjtN7xxNr4_44_51 i3fd4nE8OCI_174_181 i3fd4nE8OCI_174_181 i3fd4nE8OCI_174_181 i3fd4nE8OCI_174_181 i3fd4nE8OCI_174_181 i3fd4nE8OCI_174_181 i3fd4nE8OCI_174_181 i3fd4nE8OCI_174_181 i3fd4nE8OCI_174_181 WlGESqqv0jg_77_82 WlGESqqv0jg_77_82 WlGESqqv0jg_77_82 WlGESqqv0jg_77_82 WlGESqqv0jg_77_82 WlGESqqv0jg_77_82 WlGESqqv0jg_77_82 WlGESqqv0jg_77_82 K2LxyytY3Dw_104_112 K2LxyytY3Dw_104_112 K2LxyytY3Dw_104_112 K2LxyytY3Dw_104_112 K2LxyytY3Dw_104_112 K2LxyytY3Dw_104_112 K2LxyytY3Dw_104_112 omGWjiwxcTE_18_23 omGWjiwxcTE_18_23 omGWjiwxcTE_18_23 omGWjiwxcTE_18_23 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 98Alrg4pFXs_148_153 DB-3-TVjrxU_58_75 DB-3-TVjrxU_58_75
+
+aadr:     324
+sent:     a person is cutting mushrooms
+cluster:  kWLNZzuo3do_77_83
+
+aadr:     325
+sent:     a girl is tapping her finger nails
+cluster:  R8FDJgVW3Vc_0_4
+
+aadr:     326
+sent:     a man is cutting a rope with a sword
+cluster:  8PQiaurIiDM_94_99 8PQiaurIiDM_94_99 8PQiaurIiDM_94_99 8PQiaurIiDM_94_99 8PQiaurIiDM_94_99
+
+aadr:     327
+sent:     a man is cutting a boot with a sword
+cluster:  8PQiaurIiDM_143_151 8PQiaurIiDM_143_151
+
+aadr:     328
+sent:     an animal run in circles
+cluster:  4ikH9ZRcF2Q_89_105
+
+aadr:     329
+sent:     A man is slicing a tomato.
+cluster:  e-j59PqJjSM_264_277 e-j59PqJjSM_264_277 e-j59PqJjSM_264_277 e-j59PqJjSM_264_277 zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 l_AVz90c4jQ_22_43 WPG-BIWOrG4_608_613 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469 cUW_bXll6YM_462_469
+
+aadr:     330
+sent:     a kitten is playing with a toy
+cluster:  HZ-BuDDmvVk_0_10 aN0WsBcja_E_0_15 aN0WsBcja_E_0_15 eyMYc-37Sk4_0_10
+
+aadr:     331
+sent:     a man is playing a keyboard
+cluster:  N5wsl86P37Q_1_15 akXjIEoecNs_2_12 akXjIEoecNs_2_12 akXjIEoecNs_2_12 FXWdmIHXS_U_3_10 PECk9A-07Pw_1_9 Wv3u2q3oGeU_35_45 Wv3u2q3oGeU_35_45 ry7AUQtuwdU_4_39 ry7AUQtuwdU_4_39 ry7AUQtuwdU_4_39 po2tcrG6KzM_2_8 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23
+
+aadr:     332
+sent:     A woman is brushing her feet.
+cluster:  FoL7aWvpvNs_199_204
+
+aadr:     333
+sent:     a dog licks a baby
+cluster:  mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16
+
+aadr:     334
+sent:     a woman is grating carrots
+cluster:  6t0BpjwYKco_80_84 6t0BpjwYKco_80_84 6t0BpjwYKco_80_84
+
+aadr:     335
+sent:     a large green ball hits a potato
+cluster:  5fDBl1wT2Lk_34_39
+
+aadr:     336
+sent:     A woman is slicing carrot.
+cluster:  PeUHy0A1GF0_99_103 _O9kWD8nuRU_16_23 eiyuac7hA4A_4_47 LSuVRWPoHr0_0_37 -_hbPLsZvvo_49_55
+
+aadr:     337
+sent:     A woman is slicing meat with a knife.
+cluster:  -wa0umYJVGg_271_276 WTf5EgVY5uU_15_19 WTf5EgVY5uU_18_23
+
+aadr:     338
+sent:     a kid plays the guitar
+cluster:  N2Cm0SLr0ZE_18_29 dQmaVQZz7EE_1_18
+
+aadr:     339
+sent:     the woman is pencilling on eye shadow
+cluster:  oSnYUfCGiCA_7_17
+
+aadr:     340
+sent:     A woman is combing her hair.
+cluster:  aA05I5QaZnM_66_75 aA05I5QaZnM_66_75 aA05I5QaZnM_66_75 NZWiKMZS_k8_39_48 NZWiKMZS_k8_39_48 NZWiKMZS_k8_39_48 NZWiKMZS_k8_39_48 5zkCnHUnoYY_69_74 5zkCnHUnoYY_69_74 5zkCnHUnoYY_69_74 5zkCnHUnoYY_69_74
+
+aadr:     341
+sent:     A woman beats two eggs in a bowl.
+cluster:  WTf5EgVY5uU_104_108
+
+aadr:     342
+sent:     a man is slicing vegetables
+cluster:  VahnQw2gTQY_203_210 zMg9dChF97A_12_38 suj4VNfZz5E_33_50 w28TljSqtW8_64_75
+
+aadr:     343
+sent:     a dog is barking
+cluster:  jDFn-1lXJ98_71_80 jDFn-1lXJ98_71_80 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 RSx5G0_xH48_12_17 Cx1We6GX4IM_0_8 Cx1We6GX4IM_0_8 Cx1We6GX4IM_0_8 Cx1We6GX4IM_0_8 Cx1We6GX4IM_0_8 MJNStEgDKXU_3_10 MJNStEgDKXU_3_10 MJNStEgDKXU_3_10 MJNStEgDKXU_3_10 MJNStEgDKXU_3_10 zfQOH4UGU_I_1_10 zfQOH4UGU_I_1_10 zfQOH4UGU_I_1_10 zfQOH4UGU_I_1_10 qOiN__I1-Zo_2_8 qOiN__I1-Zo_2_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8 -_hbPLsZvvo_5_8
+
+aadr:     344
+sent:     A woman is talking on a telephone.
+cluster:  EBWPZIjtnTM_1_6
+
+aadr:     345
+sent:     the dog is playing with a plastic container
+cluster:  JsmHZlUgf1w_0_21 JsmHZlUgf1w_0_21
+
+aadr:     346
+sent:     a man is dancing on the road
+cluster:  D-K3ThvAqfo_151_158
+
+aadr:     347
+sent:     an oriental lady is cutting a carrot into thin pieces
+cluster:  -_hbPLsZvvo_43_55
+
+aadr:     348
+sent:     a chef is cleaning up a bowl of soup
+cluster:  5U3xz9Ovmhk_258_265
+
+aadr:     349
+sent:     a cat is jumping into a box
+cluster:  xdhLQCYQ-nQ_50_63 xdhLQCYQ-nQ_50_63 xdhLQCYQ-nQ_50_63 xdhLQCYQ-nQ_50_63
+
+aadr:     350
+sent:     The man is feeding a mouse to the snake.
+cluster:  OpR1Er5o6IY_209_217
+
+aadr:     351
+sent:     a man is talking to a woman
+cluster:  gvVsgOK1iJw_32_38 pQYEZTwSVbQ_12_18 pQYEZTwSVbQ_12_18 pQYEZTwSVbQ_12_18 pQYEZTwSVbQ_12_18 pQYEZTwSVbQ_12_18 pQYEZTwSVbQ_12_18 pQYEZTwSVbQ_12_18 yVpwra1TJDY_67_80 fHfpMUDrQCs_17_31 bSrpvMSuhPM_17_31 bSrpvMSuhPM_17_31 omIPdpxg--4_39_46
+
+aadr:     352
+sent:     A chimp is kicking a target.
+cluster:  hNPZmTlY_3Q_0_8
+
+aadr:     353
+sent:     a man is wiping the edge of a bowl off
+cluster:  5U3xz9Ovmhk_258_265
+
+aadr:     354
+sent:     a man plays the keyboard with his nose
+cluster:  uppFvcVwqqY_5_15 uppFvcVwqqY_5_15
+
+aadr:     355
+sent:     A man is smearing butter on a slice of garlic bread.
+cluster:  IpHJffM3G1c_439_446
+
+aadr:     356
+sent:     a man chops down a tree with an axe
+cluster:  umjc1CkO4JA_290_305 umjc1CkO4JA_290_305
+
+aadr:     357
+sent:     a woman is slicing egg plant
+cluster:  6t0BpjwYKco_53_59
+
+aadr:     358
+sent:     A dog is rolling from side to side.
+cluster:  JIKaIriiK8w_0_15
+
+aadr:     359
+sent:     a man catches a fish
+cluster:  D-K3ThvAqfo_215_220 D-K3ThvAqfo_215_220
+
+aadr:     360
+sent:     someoen is playing guitar
+cluster:  Ya-MkA187c8_36_45
+
+aadr:     361
+sent:     a skateboarder does tricks on a half-pipe
+cluster:  e4QGnppJ-ys_6_14
+
+aadr:     362
+sent:     two people are riding a motorcycle
+cluster:  Rq_VfjGH7kg_104_110 E4k0Aylzdyo_97_104
+
+aadr:     363
+sent:     someone is boiling okra in a pot
+cluster:  -9CUm-2cui8_39_44
+
+aadr:     364
+sent:     a woman is playing a guitar
+cluster:  Rf0TUCA3XNs_3_16 Lz-2QTNp5O8_6_16
+
+aadr:     365
+sent:     a man climbs up a rope
+cluster:  xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86
+
+aadr:     366
+sent:     the lady peeled the potatoe
+cluster:  yREFkmrrYiw_51_57 yREFkmrrYiw_51_57 _O9kWD8nuRU_45_49 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 DuMkW35BwK8_43_47 DuMkW35BwK8_43_47
+
+aadr:     367
+sent:     the man sliced through a thick rope with a sword
+cluster:  8PQiaurIiDM_94_99
+
+aadr:     368
+sent:     a man is cutting tomatoes
+cluster:  zHy7pM0U49w_110_116 zHy7pM0U49w_110_116 cUW_bXll6YM_462_469 VahnQw2gTQY_298_305
+
+aadr:     369
+sent:     a woman is riding a horse
+cluster:  Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 4VLrxtf7Z_8_0_7 4VLrxtf7Z_8_0_7 onW5hJXnI5s_10_16 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 BLXzfdNmydQ_151_156 BLXzfdNmydQ_151_156 BLXzfdNmydQ_151_156 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 L8h2DazQZJY_0_10 L8h2DazQZJY_0_10 L8h2DazQZJY_0_10 L8h2DazQZJY_0_10 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 8mSUD7JGNO0_198_204 8mSUD7JGNO0_198_204 8mSUD7JGNO0_198_204 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 zTn-nNj5Bng_61_77 zTn-nNj5Bng_61_77 WeOU0Iba1Xg_1_30 WeOU0Iba1Xg_1_30 NFxWwI0J3As_78_84 NFxWwI0J3As_78_84 PAm82v0AMFc_5_10 PAm82v0AMFc_5_10 PAm82v0AMFc_5_10 PAm82v0AMFc_5_10 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20
+
+aadr:     370
+sent:     Someone is playing a piano.
+cluster:  N5wsl86P37Q_1_15 dJ3ba9zwx6c_5_15 dJ3ba9zwx6c_5_15 dJ3ba9zwx6c_5_15 emblM4a76jg_5_15 zFIn8DeV5PM_20_33 ry7AUQtuwdU_4_39 po2tcrG6KzM_2_8
+
+aadr:     371
+sent:     The cat is drinking milk.
+cluster:  RJNBxdDQOw4_13_26
+
+aadr:     372
+sent:     The chef pours oil in the pan.
+cluster:  jPBxl9gFqNY_110_117
+
+aadr:     373
+sent:     the man used a stenograph.
+cluster:  xy9LLUUZ6ic_50_60
+
+aadr:     374
+sent:     a woman is preparing an egg in a skillet
+cluster:  WTf5EgVY5uU_218_236
+
+aadr:     375
+sent:     A man is spitting.
+cluster:  953PkxFNiko_82_85 953PkxFNiko_82_85 953PkxFNiko_82_85 953PkxFNiko_82_85 953PkxFNiko_82_85
+
+aadr:     376
+sent:     the man sang on stage into the microphone
+cluster:  otLEUwHao_E_140_151
+
+aadr:     377
+sent:     a man is playing the piano
+cluster:  FGjtmhI-Rmk_30_37
+
+aadr:     378
+sent:     a woman is applying eye liner to her eyelid using an eye pencil
+cluster:  oSnYUfCGiCA_7_17
+
+aadr:     379
+sent:     A woman is peeling a potato.
+cluster:  3OPQqH3YlHA_50_54
+
+aadr:     380
+sent:     a person is slicing onions
+cluster:  oDcd2JbOyzg_38_55 TgFmoZj3NoM_10_18 TgFmoZj3NoM_10_18
+
+aadr:     381
+sent:     the two men did a funny skit with a boxer in front of a crowd of people
+cluster:  n_Z0-giaspE_437_447
+
+aadr:     382
+sent:     the panda bear lay on the logs
+cluster:  q-JHcsqJXWY_0_8
+
+aadr:     383
+sent:     a man rides a water toy in the water
+cluster:  e40bBP0_AbE_64_67
+
+aadr:     384
+sent:     a man is riding a scooter
+cluster:  ItFqogTmAvQ_361_365 pGCRurvXQGM_45_56 C9vRgZDxTv4_26_33 C9vRgZDxTv4_26_33 C9vRgZDxTv4_26_33 C9vRgZDxTv4_26_33 21uB8g-jDZI_70_79 21uB8g-jDZI_70_79 9Bxknsvy3jQ_53_58
+
+aadr:     385
+sent:     A woman is riding an elephant.
+cluster:  DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42 DIToA1dDwGQ_32_42
+
+aadr:     386
+sent:     a woman pours a mixture into a bowl and mixes it
+cluster:  WTf5EgVY5uU_218_236
+
+aadr:     387
+sent:     a boy cuts grass with scissors
+cluster:  IY1Fn796MoY_7_10 IY1Fn796MoY_7_10
+
+aadr:     388
+sent:     some teenage girls are dancing for the camera
+cluster:  5OuYhq6Zl0g_0_10
+
+aadr:     389
+sent:     a person is performing tricks on a motorcycle
+cluster:  c_-eFL7Sfw4_19_35 AjZ-R3LFMzo_5_10
+
+aadr:     390
+sent:     a piece of paper is being cut
+cluster:  o4OsYxsNGMI_77_82
+
+aadr:     391
+sent:     a cow is eating grass
+cluster:  WqwcWk1In_g_46_54
+
+aadr:     392
+sent:     a dog is playing with a toy
+cluster:  qOiN__I1-Zo_2_8
+
+aadr:     393
+sent:     a man is playing keyboards
+cluster:  PECk9A-07Pw_1_9 Wv3u2q3oGeU_35_45
+
+aadr:     394
+sent:     the man sprinkled cheese on the pizza
+cluster:  6owu8Mow0_g_302_307
+
+aadr:     395
+sent:     a man is playing his guitar
+cluster:  _pBeOAMjGm8_1_18
+
+aadr:     396
+sent:     a woman is slicing a cucumber
+cluster:  -_hbPLsZvvo_19_26 -_hbPLsZvvo_19_26 wON-YuA1GjA_3_63 wON-YuA1GjA_3_63 -_hbPLsZvvo_18_25 -_hbPLsZvvo_18_25 -_hbPLsZvvo_18_25 UbmZAe5u5FI_16_23 UbmZAe5u5FI_16_23 UbmZAe5u5FI_16_23 UbmZAe5u5FI_16_23
+
+aadr:     397
+sent:     the man is using a sledghammer to break the concrete block that is on the other man
+cluster:  2YhDTpzxd3c_240_245
+
+aadr:     398
+sent:     A man is opening a package containing headphones.
+cluster:  pW9DFPqoIsI_26_50
+
+aadr:     399
+sent:     a man is riding on one wheel on a motorcycle
+cluster:  c_-eFL7Sfw4_19_35
+
+aadr:     400
+sent:     a person cuts an onion
+cluster:  VahnQw2gTQY_315_320 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 ObBss94n3gI_35_46 nq4hG6qgyPs_240_251 m1NR0uNNs5Y_104_110
+
+aadr:     401
+sent:     a woman is slicing a big pepper
+cluster:  l_AVz90c4jQ_65_106
+
+aadr:     402
+sent:     a fish is swimming
+cluster:  QsvBYKaCXEc_5_15 QsvBYKaCXEc_5_15 -8rBYNP0UKM_50_82 sFExO_PW22s_10_18 sFExO_PW22s_10_18 sFExO_PW22s_10_18
+
+aadr:     403
+sent:     A boy spanks a man with a plastic sword.
+cluster:  e996zZ0uV_A_196_204
+
+aadr:     404
+sent:     a man is giving a woman a massage
+cluster:  JAFGw0WRHHU_108_116
+
+aadr:     405
+sent:     the woman is dicing onions
+cluster:  aeA-HN7BMdo_16_33 VahnQw2gTQY_315_320 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 WTf5EgVY5uU_33_39 WTf5EgVY5uU_32_52
+
+aadr:     406
+sent:     Men are sawing logs.
+cluster:  tZzJ9dDnncY_43_46
+
+aadr:     407
+sent:     two kids push an inflatable crocodile around in a pool
+cluster:  ub-aYLzCF_Q_1_10
+
+aadr:     408
+sent:     A horse is standing.
+cluster:  lvFYUmDSOvU_34_38 lvFYUmDSOvU_34_38
+
+aadr:     409
+sent:     a man is speaking
+cluster:  sm0OYD0NSbQ_51_59
+
+aadr:     410
+sent:     a man is taking pictures of a lake
+cluster:  u9prcUCHlqM_235_241
+
+aadr:     411
+sent:     a woman is adding spices on a meat
+cluster:  ACOmKiJDkA4_75_81
+
+aadr:     412
+sent:     a chef prepared a meal
+cluster:  N3A7944_UJw_63_70
+
+aadr:     413
+sent:     a boy is running in front of fish hanging on fishing rod
+cluster:  wkgGxsuNVSg_34_41
+
+aadr:     414
+sent:     A band is performing on a stage.
+cluster:  RvJH_POzxmc_10_25 bJJndejsUWc_88_98
+
+aadr:     415
+sent:     someone typed on a keyboard
+cluster:  NUYu9c9XsgY_7_21
+
+aadr:     416
+sent:     A woman dips a shrimp in batter.
+cluster:  kWLNZzuo3do_222_227
+
+aadr:     417
+sent:     a cow is eating hay
+cluster:  WqwcWk1In_g_46_54 WqwcWk1In_g_46_54 WqwcWk1In_g_46_54
+
+aadr:     418
+sent:     a man shoots a shotgun
+cluster:  vloe_60s_dk_0_9 vloe_60s_dk_0_9 4PayIIIOeIs_230_238 4PayIIIOeIs_230_238 4PayIIIOeIs_230_238
+
+aadr:     419
+sent:     A woman is putting oil into a skillet.
+cluster:  IhwPQL9dFYc_143_147
+
+aadr:     420
+sent:     a man is playing a guitar
+cluster:  EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 EiylMb_mWk4_2_20 MWzeInQaUk4_12_20 IiTzJQE67FA_74_86 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 5hSW67ySCio_33_41 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 _KMoC6ZdeXs_10_16 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 C2rDp6FnbP0_10_17 C2rDp6FnbP0_10_17 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 326U8N2husw_26_28 326U8N2husw_26_28 326U8N2husw_26_28 kI6MWZrl8v8_149_161 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 tYh4iDFgmEE_50_54 tYh4iDFgmEE_50_54 tYh4iDFgmEE_50_54 tYh4iDFgmEE_50_54 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 4UOVKok7j1U_1_8 4UOVKok7j1U_1_8 4UOVKok7j1U_1_8 4UOVKok7j1U_1_8 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 xb-Nacm-pKc_78_82 W8l_ezoU8Lc_55_70 W8l_ezoU8Lc_55_70 W8l_ezoU8Lc_55_70 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 9uDPqigcnzw_36_46 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 LLkehH86ABY_30_36 LLkehH86ABY_30_36 LLkehH86ABY_30_36 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 P2WM91LENgk_40_50 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 FvfjDQj5sOY_1_10 FvfjDQj5sOY_1_10 FvfjDQj5sOY_1_10 FvfjDQj5sOY_1_10 FvfjDQj5sOY_1_10 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 Pm9L60YBj3s_0_32 Pm9L60YBj3s_0_32 Pm9L60YBj3s_0_32 Pm9L60YBj3s_0_32 Pm9L60YBj3s_0_32 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 k-SWy-sU8cE_5_10 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 Ya-MkA187c8_36_45 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 lSnWhsmlGec_5_10 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 81fABEiwcIM_31_45 81fABEiwcIM_31_45 k9Brw_0gncU_14_33 k9Brw_0gncU_14_33 k9Brw_0gncU_14_33 k9Brw_0gncU_14_33 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 QA_JTtM1hKA_5_15 7NNg0_n-bS8_21_30 7NNg0_n-bS8_21_30 7NNg0_n-bS8_21_30 M_TP6UTrh30_343_358
+
+aadr:     421
+sent:     The little girl is putting her hair into a pony tail.
+cluster:  5x_OGEdO6Z8_0_21
+
+aadr:     422
+sent:     A man makes a call on a cell phone.
+cluster:  MICawzo1MqI_3_13 MICawzo1MqI_3_13
+
+aadr:     423
+sent:     A kitten is drinking milk.
+cluster:  5OvgDatToBU_0_8 5OvgDatToBU_0_8 5OvgDatToBU_0_8 5OvgDatToBU_0_8 5OvgDatToBU_0_8 5OvgDatToBU_0_8 5OvgDatToBU_0_8 5OvgDatToBU_0_8 5OvgDatToBU_0_8
+
+aadr:     424
+sent:     a animated airplane is landing
+cluster:  5W02895vT8c_460_470
+
+aadr:     425
+sent:     a man is riding a motorcycle
+cluster:  klteYv1Uv9A_27_33
+
+aadr:     426
+sent:     a man is adding a silencer to a gun
+cluster:  ACK7SekJWts_140_150
+
+aadr:     427
+sent:     A man is pressing microwave buttons.
+cluster:  glrijRGnmc0_211_215
+
+aadr:     428
+sent:     a guy is riding a horse
+cluster:  wFPmKChNrhU_3_11
+
+aadr:     429
+sent:     four young men stand still as a car explodes behind them
+cluster:  krAk8WPZRL4_207_212
+
+aadr:     430
+sent:     two men are talking
+cluster:  nd0ToNwccl4_12_17 yq8CjZ2ZzyI_285_295 T6lPRKRpu9w_32_39 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 ul9Xvjt83eI_111_120 Qjbcibrv3L0_26_32 bmOy6p87TWI_26_35 bmOy6p87TWI_26_35 bmOy6p87TWI_26_35 bmOy6p87TWI_26_35 bmOy6p87TWI_26_35 bmOy6p87TWI_26_35 bmOy6p87TWI_26_35 bmOy6p87TWI_26_35 bmOy6p87TWI_26_35
+
+aadr:     431
+sent:     a woman is tapping her fingers
+cluster:  R8FDJgVW3Vc_0_4 R8FDJgVW3Vc_0_4
+
+aadr:     432
+sent:     Animals are playing in water.
+cluster:  Z3rj9LbCOaM_0_12
+
+aadr:     433
+sent:     A cat is licking from a saucer of milk.
+cluster:  RJNBxdDQOw4_13_26
+
+aadr:     434
+sent:     a woman is scrubbing a zucchini with a vegetable brush
+cluster:  NNYLo1OeZ-Q_48_54
+
+aadr:     435
+sent:     a woman is putting on makeup
+cluster:  tIMDKdMnNYM_266_273 buJ5HDCinrM_150_166 buJ5HDCinrM_150_166 buJ5HDCinrM_150_166 buJ5HDCinrM_150_166 O9yLRzpPp44_167_190 oSnYUfCGiCA_7_17 b4FM9OLBGyM_37_49 -joBOHlg5J0_72_80 wX-Bl25Htag_104_115
+
+aadr:     436
+sent:     A boy whacks a man with a sword.
+cluster:  e996zZ0uV_A_196_204
+
+aadr:     437
+sent:     a person is making a bed
+cluster:  LF51fban_x4_300_325
+
+aadr:     438
+sent:     the lady sliced a tomatoe
+cluster:  l_AVz90c4jQ_22_43 YndZ9YulpTo_61_76 aeA-HN7BMdo_52_58
+
+aadr:     439
+sent:     the woman is dicing garlic
+cluster:  IhwPQL9dFYc_50_59 IhwPQL9dFYc_50_59 WTf5EgVY5uU_58_76 WTf5EgVY5uU_58_76 WTf5EgVY5uU_66_75 m1NR0uNNs5Y_192_198
+
+aadr:     440
+sent:     a man is preparing a snake for cooking
+cluster:  R3a9r8qFlhQ_0_12
+
+aadr:     441
+sent:     Women are holding each other and dancing together.
+cluster:  HzYtvOYOEoU_21_32
+
+aadr:     442
+sent:     a woman is playing an electric guitar
+cluster:  Ya-MkA187c8_36_45 Ya-MkA187c8_36_45 Ya-MkA187c8_36_45
+
+aadr:     443
+sent:     the cat is licking a bottle
+cluster:  NMlKMfiHSho_1_15
+
+aadr:     444
+sent:     a woman is riding on a horse
+cluster:  MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 lGk1MA6YP-M_36_48 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 ao-9B8IV9_E_72_77 BLXzfdNmydQ_151_156 Hd-NeIhbYGc_43_48 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 Hd-NeIhbYGc_28_31 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 zTn-nNj5Bng_8_19 8mSUD7JGNO0_198_204 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 zTn-nNj5Bng_61_77 NFxWwI0J3As_78_84 NFxWwI0J3As_78_84 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20
+
+aadr:     445
+sent:     A man spreads butter on a big piece of bread.
+cluster:  IpHJffM3G1c_439_446
+
+aadr:     446
+sent:     a squirrel runs around in circles
+cluster:  4ikH9ZRcF2Q_89_105
+
+aadr:     447
+sent:     A person is performing a card trick.
+cluster:  4yYapi-5QYQ_33_57 4yYapi-5QYQ_33_57 2KrdBUFeFtY_22_27 n016q1w8Q30_2_11
+
+aadr:     448
+sent:     one woman hands volleyballs to another woman who serves them
+cluster:  bmxIurBrW5s_51_70
+
+aadr:     449
+sent:     A man is playing two keyboards.
+cluster:  PECk9A-07Pw_1_9 PECk9A-07Pw_1_9 PECk9A-07Pw_1_9
+
+aadr:     450
+sent:     a woman is slicing octopus
+cluster:  PeUHy0A1GF0_105_112 PHDmVhShE80_20_29 PHDmVhShE80_20_29
+
+aadr:     451
+sent:     a man does floor exercises
+cluster:  gIvetX_oXeI_85_90
+
+aadr:     452
+sent:     a man is singing and playing a guitar
+cluster:  IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 5hSW67ySCio_33_41 5hSW67ySCio_33_41 LqPIBHAmt4E_22_30 C2rDp6FnbP0_10_17 SJZFNwfcSOw_3_18 326U8N2husw_26_28 326U8N2husw_26_28 kI6MWZrl8v8_149_161 WpB4-eLyiBc_10_20 xb-Nacm-pKc_78_82 xb-Nacm-pKc_78_82 xb-Nacm-pKc_78_82 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 Pm9L60YBj3s_0_32 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 81fABEiwcIM_31_45 81fABEiwcIM_31_45 7NNg0_n-bS8_21_30 7NNg0_n-bS8_21_30
+
+aadr:     453
+sent:     The machine shaved the end of the pencil.
+cluster:  EKL6elkbFy0_16_30
+
+aadr:     454
+sent:     a person is dumping chopped vegetables into a pot on the stove
+cluster:  0hyZ__3YhZc_289_295
+
+aadr:     455
+sent:     Three boys in karate costumes are fighting.
+cluster:  n_Z0-giaspE_168_193
+
+aadr:     456
+sent:     A woman is slicing a tomato.
+cluster:  WTx-K045yQM_85_98
+
+aadr:     457
+sent:     A man is playing a flute.
+cluster:  bAYIIlX-WWw_5_15
+
+aadr:     458
+sent:     a man is cutting a paper plate
+cluster:  CquJjlNuotg_147_155 CquJjlNuotg_147_155 CquJjlNuotg_147_155 CquJjlNuotg_147_155 CquJjlNuotg_147_155 CquJjlNuotg_147_155 CquJjlNuotg_147_155 CquJjlNuotg_147_155 CquJjlNuotg_147_155 CquJjlNuotg_147_155
+
+aadr:     459
+sent:     a person is tearing paper
+cluster:  HmVPxs4ygMc_44_53 HmVPxs4ygMc_44_53
+
+aadr:     460
+sent:     a man is playing a violin
+cluster:  kk3TIio1-Uw_5_14 kk3TIio1-Uw_5_14 kk3TIio1-Uw_5_14 _QJbjKkfdcs_52_57 _QJbjKkfdcs_52_57 _QJbjKkfdcs_52_57 _QJbjKkfdcs_52_57 _QJbjKkfdcs_52_57 _QJbjKkfdcs_52_57 _QJbjKkfdcs_52_57 _QJbjKkfdcs_52_57 CGllPWAwmUo_1_15 9fkS7wqrzAY_13_25 9fkS7wqrzAY_13_25 9fkS7wqrzAY_13_25
+
+aadr:     461
+sent:     A cat is drinking some water.
+cluster:  q6vz80UkVtw_0_7 q6vz80UkVtw_0_7
+
+aadr:     462
+sent:     A man is driving a car.
+cluster:  IhzXQ-gc9IQ_125_129 IhzXQ-gc9IQ_125_129 fnEvy64GuIE_137_146 De815YpTBic_41_48 De815YpTBic_41_48 De815YpTBic_41_48 3ftaoFnhTyY_140_150 3ftaoFnhTyY_140_150 3ftaoFnhTyY_140_150 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 uVPnDJKt1M0_0_6 urXDqw3S34I_12_17 PslVHtXc7Tg_8_14 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126
+
+aadr:     463
+sent:     people are playing cricket
+cluster:  giLxPCgLLqg_9_19 Qp-k0H93iJE_35_39 Qp-k0H93iJE_35_39 Qp-k0H93iJE_35_39 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 q9ew_nITQWY_54_62 LLHUB8ciPrc_0_13 LLHUB8ciPrc_0_13 LLHUB8ciPrc_0_13
+
+aadr:     464
+sent:     a man is cutting up a fish
+cluster:  otvx5OZHTJc_1_22 WPG-BIWOrG4_672_677
+
+aadr:     465
+sent:     a man is singing to a woman
+cluster:  EdV81a5Mg9E_178_200
+
+aadr:     466
+sent:     a man is reading his email
+cluster:  b97TK8XVLHE_40_50
+
+aadr:     467
+sent:     a woman and man are riding in a car
+cluster:  ZdNP0dXCx2I_78_90
+
+aadr:     468
+sent:     A woman is putting a baby into a trash can.
+cluster:  Ixw6wmoC_xg_116_126
+
+aadr:     469
+sent:     a young boy is running toward and from the ocean waves
+cluster:  onxE6PpEXes_8_25
+
+aadr:     470
+sent:     A man is mixing.
+cluster:  lfGlDg47How_361_367
+
+aadr:     471
+sent:     A girl is playing a flute.
+cluster:  Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15
+
+aadr:     472
+sent:     the man is drawing
+cluster:  j2sOMdilDWU_87_97 j2sOMdilDWU_87_97 nlU3crMsbWI_19_23
+
+aadr:     473
+sent:     a girl is playing a guitar
+cluster:  DlOhXqKcLXk_7_14 ruoHOXo2PRQ_2_20 ruoHOXo2PRQ_2_20 ruoHOXo2PRQ_2_20 ruoHOXo2PRQ_2_20 ruoHOXo2PRQ_2_20 ruoHOXo2PRQ_2_20 ruoHOXo2PRQ_2_20 61OSscPtQWQ_1_6 61OSscPtQWQ_1_6 61OSscPtQWQ_1_6 61OSscPtQWQ_1_6 61OSscPtQWQ_1_6 Rf0TUCA3XNs_3_16 Rf0TUCA3XNs_3_16 Rf0TUCA3XNs_3_16 Rf0TUCA3XNs_3_16 Ya-MkA187c8_36_45 Ya-MkA187c8_36_45 Ya-MkA187c8_36_45 oRBgVOiZVsc_16_22 oRBgVOiZVsc_16_22 oRBgVOiZVsc_16_22 oRBgVOiZVsc_16_22 Lz-2QTNp5O8_6_16 Lz-2QTNp5O8_6_16 Lz-2QTNp5O8_6_16 Lz-2QTNp5O8_6_16
+
+aadr:     474
+sent:     a man is drawing
+cluster:  j2sOMdilDWU_87_97 j2sOMdilDWU_87_97 j2sOMdilDWU_87_97 j2sOMdilDWU_87_97 j2sOMdilDWU_87_97 nlU3crMsbWI_19_23 xOQn1z_oWDY_30_39
+
+aadr:     475
+sent:     a small dog is laying on a bed
+cluster:  tzd3AYTZq0U_0_6
+
+aadr:     476
+sent:     an old woman is shaking hand with a man
+cluster:  s0hwEUC5emA_127_132
+
+aadr:     477
+sent:     a man is throwing blades into a close target outside
+cluster:  RX6NSOuCCAE_13_27
+
+aadr:     478
+sent:     the man set up his camera to take sunset pictures at the beach
+cluster:  u9prcUCHlqM_235_241
+
+aadr:     479
+sent:     a man playing the guitar
+cluster:  JsD6uEZsIsU_1_47 9IrWyZ0KZuk_160_166 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 g36ho6UrBz0_5_20 Ugb_uH72d0I_8_17
+
+aadr:     480
+sent:     the man and woman are walking
+cluster:  rw9h_574HxE_229_236 rw9h_574HxE_229_236 rw9h_574HxE_127_133 D9I1Z6O_mbw_141_146 D9I1Z6O_mbw_141_146 4xVGpDmA4lE_23_33
+
+aadr:     481
+sent:     a woman puts make-up on
+cluster:  fIaLVw_Gc_w_99_109
+
+aadr:     482
+sent:     a woman is wake boarding on a lake
+cluster:  0NPtAv3_uVI_46_54
+
+aadr:     483
+sent:     a slow loris hanging on a cord
+cluster:  FHwC2THZJfA_0_10
+
+aadr:     484
+sent:     a woman is cutting meat
+cluster:  6t0BpjwYKco_230_240 0lh_UWF9ZP4_183_190 -wa0umYJVGg_271_276 -wa0umYJVGg_271_276 -wa0umYJVGg_271_276 WTf5EgVY5uU_15_19 WTf5EgVY5uU_15_19 WTf5EgVY5uU_15_19 WTf5EgVY5uU_15_19 klFyrnrUSck_25_36 WTf5EgVY5uU_18_23 WTf5EgVY5uU_18_23 WTf5EgVY5uU_18_23 WTf5EgVY5uU_18_23 PeUHy0A1GF0_62_66 _ZwwKOzpt2I_69_76
+
+aadr:     485
+sent:     A truck is going down a hill.
+cluster:  OIjsSu_I4So_6_10
+
+aadr:     486
+sent:     someone is peeling a banana
+cluster:  inzk2fTUe1w_1_15 inzk2fTUe1w_1_15 inzk2fTUe1w_1_15
+
+aadr:     487
+sent:     a woman puts cosmetics on her eyelid
+cluster:  oSnYUfCGiCA_7_17
+
+aadr:     488
+sent:     A man is playing on his keyboard.
+cluster:  haJn6k5zVnE_1_23
+
+aadr:     489
+sent:     A man is feeding a mouse to a snake.
+cluster:  OpR1Er5o6IY_209_217
+
+aadr:     490
+sent:     a person is stirring vegetables in a pot
+cluster:  0hyZ__3YhZc_302_307
+
+aadr:     491
+sent:     a dog is looking around
+cluster:  6KS8R3RxrV8_0_23
+
+aadr:     492
+sent:     a woman is cutting a lemon
+cluster:  kWLNZzuo3do_48_53 kWLNZzuo3do_48_53
+
+aadr:     493
+sent:     a woman is peeling potato
+cluster:  yREFkmrrYiw_51_57 _O9kWD8nuRU_45_49 DuMkW35BwK8_43_47 s20OlIRK340_125_138
+
+aadr:     494
+sent:     two boys are playing a video game
+cluster:  CHVhwcOg6y8_1_12 CHVhwcOg6y8_1_12 CHVhwcOg6y8_1_12 CHVhwcOg6y8_1_12
+
+aadr:     495
+sent:     a woman seated is singing a song and playing the guitar too
+cluster:  1N_Ic2pBM1o_2_23
+
+aadr:     496
+sent:     a man is cutting open a box
+cluster:  fX5G_JwPlLo_640_660 fX5G_JwPlLo_640_660
+
+aadr:     497
+sent:     a woman rides a horse
+cluster:  Ke21boTg2Vg_24_29 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 2F9jX7u5nOg_114_130 ao-9B8IV9_E_72_77 BLXzfdNmydQ_151_156 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 2mUMTFnQWaw_1_9 zTn-nNj5Bng_61_77 NFxWwI0J3As_78_84 NFxWwI0J3As_78_84 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20
+
+aadr:     498
+sent:     A man is carrying a tree.
+cluster:  YmXCfQm0_CA_68_75 YmXCfQm0_CA_68_75
+
+aadr:     499
+sent:     a boy is filling a pitcher with water
+cluster:  Q7H9mI9dtMY_20_34
+
+aadr:     500
+sent:     a man is preparing some dish
+cluster:  nYwbAb0QvBE_195_210
+
+aadr:     501
+sent:     A person is rinsing a steak off with water.
+cluster:  0RWJEOScToE_414_421
+
+aadr:     502
+sent:     A man is walking outside.
+cluster:  jlahRlo4jlU_30_36 BefkDBj5gSw_104_109
+
+aadr:     503
+sent:     the cats are playing with each other
+cluster:  btxCxlO1Euc_1_20
+
+aadr:     504
+sent:     a group of people are marching in place
+cluster:  hNECyt6Bo0A_5_10
+
+aadr:     505
+sent:     a man is playing a flute
+cluster:  bAYIIlX-WWw_5_15
+
+aadr:     506
+sent:     someone is cutting a tomato
+cluster:  l_AVz90c4jQ_22_43 YndZ9YulpTo_61_76 j2Dhf-xFUxU_20_29
+
+aadr:     507
+sent:     a cat is walking on hardwood floor
+cluster:  7s0AXJtLL0Y_57_61
+
+aadr:     508
+sent:     a woman is painting her lips
+cluster:  O9yLRzpPp44_167_190 O9yLRzpPp44_167_190
+
+aadr:     509
+sent:     a woman is cooking something
+cluster:  6t0BpjwYKco_142_151
+
+aadr:     510
+sent:     a woman is placing food in a pot of hot water
+cluster:  klFyrnrUSck_87_100
+
+aadr:     511
+sent:     a man is slicing bread
+cluster:  IpHJffM3G1c_412_418
+
+aadr:     512
+sent:     a woman is cracking an egg into a bowl
+cluster:  PHDmVhShE80_78_82 PHDmVhShE80_78_82 5QJf-l4lPJw_133_138 5QJf-l4lPJw_133_138 5QJf-l4lPJw_133_138 WTf5EgVY5uU_98_104 WTf5EgVY5uU_100_104 WTf5EgVY5uU_100_104 WTf5EgVY5uU_100_104 6t0BpjwYKco_200_205
+
+aadr:     513
+sent:     A woman is playing the flute.
+cluster:  Ea0thGZKPXA_25_35 6FmN22YcVVE_11_18 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 -Ms9tsWmhyU_80_95 -Ms9tsWmhyU_80_95 -Ms9tsWmhyU_80_95 -Ms9tsWmhyU_80_95
+
+aadr:     514
+sent:     a man is doing back flips on a trampoline
+cluster:  3SKyc0aKx70_46_52
+
+aadr:     515
+sent:     a woman is riding a seadoo
+cluster:  DIebwNHGjm8_133_148
+
+aadr:     516
+sent:     the man is talking on the phone
+cluster:  bDoCQEwghZU_201_211 bDoCQEwghZU_201_211 fr9H1WLcF1A_141_148 fr9H1WLcF1A_141_148 3_51FhosiVY_93_101 6q1dX6thX3E_286_295 6q1dX6thX3E_286_295 6owu8Mow0_g_850_855 6owu8Mow0_g_850_855
+
+aadr:     517
+sent:     Two boys are talking on the phone.
+cluster:  bDoCQEwghZU_201_211
+
+aadr:     518
+sent:     A boy is playing the piano.
+cluster:  j7xz1nos-xc_10_20 htWPOGTagec_2_18
+
+aadr:     519
+sent:     a man rides a horse
+cluster:  wFPmKChNrhU_3_11 MUkKFFdpm4E_1_12 MUkKFFdpm4E_121_135 MUkKFFdpm4E_121_135 MUkKFFdpm4E_121_135 MUkKFFdpm4E_121_135 yU5sxW9bErQ_0_17 MUkKFFdpm4E_40_58 MUkKFFdpm4E_40_58 WeOU0Iba1Xg_1_30 WeOU0Iba1Xg_1_30 WeOU0Iba1Xg_1_30 WinaH9SkW9c_11_38
+
+aadr:     520
+sent:     a person is eating at a table
+cluster:  o4pL7FObqds_137_147 o4pL7FObqds_137_147 o4pL7FObqds_137_147
+
+aadr:     521
+sent:     a woman is stirring meat in a bowl
+cluster:  BVjvRpmHg0w_121_130
+
+aadr:     522
+sent:     the man lifted barbells
+cluster:  EqOGzNkekMk_5_15
+
+aadr:     523
+sent:     the woman is seasoning the oil
+cluster:  0lh_UWF9ZP4_38_46
+
+aadr:     524
+sent:     a chef is preparing some food
+cluster:  5U3xz9Ovmhk_258_265 YAud4eS3DoA_54_65 N3A7944_UJw_63_70
+
+aadr:     525
+sent:     A woman peels a potato.
+cluster:  yREFkmrrYiw_51_57 _O9kWD8nuRU_45_49 _O9kWD8nuRU_45_49 BOLKaQeB6j0_101_111 BOLKaQeB6j0_101_111 BOLKaQeB6j0_101_111 BOLKaQeB6j0_101_111 _O9kWD8nuRU_70_76 _O9kWD8nuRU_70_76 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 3OPQqH3YlHA_50_54 DuMkW35BwK8_43_47
+
+aadr:     526
+sent:     a man is playing a large flute
+cluster:  QOmrchUPnBs_10_20 QOmrchUPnBs_10_20 z1PEyzk4ADU_8_18
+
+aadr:     527
+sent:     a man is holding a frog
+cluster:  vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16
+
+aadr:     528
+sent:     two pandas are laying together
+cluster:  hksxtbcS780_7_14 hksxtbcS780_7_14
+
+aadr:     529
+sent:     a man plays the drum
+cluster:  JXSkYkiKO0I_112_116
+
+aadr:     530
+sent:     a man is passionately playing a guitar in front of an audience
+cluster:  mYzajpeAWuA_100_112
+
+aadr:     531
+sent:     a man is playing an acoustic guitar
+cluster:  JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 DDtX5a-OgLQ_1_15 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 4UOVKok7j1U_1_8 9uDPqigcnzw_36_46 owiXDr1xQ8Y_66_75 mYzajpeAWuA_100_112 k-SWy-sU8cE_5_10 QHkvBU8diwU_1_18 lSnWhsmlGec_5_10
+
+aadr:     532
+sent:     a tiger is walking around his cage
+cluster:  sb1dX5xAFvk_10_17
+
+aadr:     533
+sent:     a person is peeling a potato
+cluster:  pfQPRXcihkI_127_138 pfQPRXcihkI_127_138 pfQPRXcihkI_127_138 YXixZrSxefk_6_15 YXixZrSxefk_6_15 YXixZrSxefk_6_15 YXixZrSxefk_6_15 YXixZrSxefk_6_15 YXixZrSxefk_6_15 05gNigkqfNU_11_23 05gNigkqfNU_11_23 05gNigkqfNU_11_23 05gNigkqfNU_11_23 05gNigkqfNU_11_23 pfQPRXcihkI_135_144 pfQPRXcihkI_135_144 pfQPRXcihkI_135_144 pfQPRXcihkI_135_144 s20OlIRK340_125_138 s20OlIRK340_125_138
+
+aadr:     534
+sent:     a person is folding a piece of paper
+cluster:  sT5Bzt9w354_11_34 sT5Bzt9w354_11_34 sT5Bzt9w354_11_34 sT5Bzt9w354_11_34 z8dcUzdi2bw_3_16 iuqVpMdb1NM_35_43
+
+aadr:     535
+sent:     the man is dancing
+cluster:  5XxshEdcfAM_96_107
+
+aadr:     536
+sent:     a man is riding a horse
+cluster:  4VLrxtf7Z_8_0_7 zTn-nNj5Bng_61_77
+
+aadr:     537
+sent:     A person is mixing ingredients in a bowl.
+cluster:  -_hbPLsZvvo_172_179 UXs3eq68ZjE_235_240 lfGlDg47How_361_367 WTf5EgVY5uU_104_108 pptYu3YQnxY_160_170 pptYu3YQnxY_160_170 0lh_UWF9ZP4_50_60 0lh_UWF9ZP4_50_60
+
+aadr:     538
+sent:     a person wipes butter on a tray
+cluster:  1dfR0A_BXjw_401_408
+
+aadr:     539
+sent:     A man is playing a trumpet.
+cluster:  nS6oQxX_Qi8_2_12 lR8RrUBhCQg_5_15
+
+aadr:     540
+sent:     a person cuts ginger
+cluster:  UbmZAe5u5FI_60_70
+
+aadr:     541
+sent:     a dog is barking at a ball
+cluster:  glii-kazad8_21_29
+
+aadr:     542
+sent:     a person is slicing an onion
+cluster:  ObBss94n3gI_35_46
+
+aadr:     543
+sent:     the girl sat on the couch to crochet
+cluster:  PCXHuseKwDc_68_76
+
+aadr:     544
+sent:     a man is performing tricks with a soccer ball
+cluster:  q8t7iSGAKik_57_74
+
+aadr:     545
+sent:     a man is squeezing water
+cluster:  OE6H_M52Sng_89_97
+
+aadr:     546
+sent:     someone is typing
+cluster:  xy9LLUUZ6ic_50_60 xy9LLUUZ6ic_50_60 NUYu9c9XsgY_7_21 NUYu9c9XsgY_7_21
+
+aadr:     547
+sent:     A band is playing onstage.
+cluster:  bJJndejsUWc_88_98 n6U-TGahwvs_100_110 M_TP6UTrh30_343_358
+
+aadr:     548
+sent:     ferrets climb down from a shelf
+cluster:  OVEe1DMsOq0_43_52
+
+aadr:     549
+sent:     a man is exercising
+cluster:  w9mqbwOIkVg_6_12
+
+aadr:     550
+sent:     a man is cutting an onion
+cluster:  X6uJyuD_Zso_3_17
+
+aadr:     551
+sent:     a man is firing a shot gun
+cluster:  4PayIIIOeIs_230_238
+
+aadr:     552
+sent:     a woman picks up a baby kangaroo
+cluster:  2R_OAYQIkXM_14_22
+
+aadr:     553
+sent:     people ride and paddle a raft
+cluster:  QzulzuWr0Zw_20_45
+
+aadr:     554
+sent:     the men are talking
+cluster:  nd0ToNwccl4_12_17 ul9Xvjt83eI_111_120
+
+aadr:     555
+sent:     a man is shown slicing a carrot with a knife
+cluster:  DAmOfcvfKZ0_22_32
+
+aadr:     556
+sent:     A cat is drinking milk.
+cluster:  RJNBxdDQOw4_13_26
+
+aadr:     557
+sent:     a woman is cutting a carrot
+cluster:  -_hbPLsZvvo_43_55 -_hbPLsZvvo_43_55 -_hbPLsZvvo_43_55 -_hbPLsZvvo_43_55 -_hbPLsZvvo_49_55 -_hbPLsZvvo_49_55
+
+aadr:     558
+sent:     two cats are fighting each other
+cluster:  btxCxlO1Euc_1_20 btxCxlO1Euc_1_20
+
+aadr:     559
+sent:     four people are floating on a raft
+cluster:  QzulzuWr0Zw_20_45
+
+aadr:     560
+sent:     someone is reading an email
+cluster:  b97TK8XVLHE_40_50
+
+aadr:     561
+sent:     a woman is slicing a potato
+cluster:  1sffYOXq4Iw_23_49 s20OlIRK340_147_174 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 iEW-EkPQywU_61_83 iEW-EkPQywU_61_83 iEW-EkPQywU_61_83 IhwPQL9dFYc_61_75 0lh_UWF9ZP4_21_26 0lh_UWF9ZP4_21_26 -rvjK0lE3z4_33_43
+
+aadr:     562
+sent:     A woman is dancing and singing in the rain.
+cluster:  4D1o4FC8YbA_29_39
+
+aadr:     563
+sent:     two men are playing guitar
+cluster:  W8l_ezoU8Lc_55_70 W8l_ezoU8Lc_55_70 n6U-TGahwvs_100_110
+
+aadr:     564
+sent:     a little girl is playing the piano
+cluster:  OO-5-eVEKPA_25_31 OO-5-eVEKPA_25_31
+
+aadr:     565
+sent:     a woman is boiling noodles in water
+cluster:  -wa0umYJVGg_286_290
+
+aadr:     566
+sent:     A woman is adding ingredients to a bowl.
+cluster:  -_hbPLsZvvo_172_179 -_hbPLsZvvo_172_179 nohvigNMsbo_199_207 0lh_UWF9ZP4_79_82 0lh_UWF9ZP4_79_82
+
+aadr:     567
+sent:     someone is scratching an animals belly
+cluster:  AE9UaQwum8c_0_10
+
+aadr:     568
+sent:     a man is slicing potatoes
+cluster:  veE0E79dEEc_18_45
+
+aadr:     569
+sent:     A man pours oil on some tomatos.
+cluster:  cUW_bXll6YM_390_395
+
+aadr:     570
+sent:     women are talking
+cluster:  DIGIvSOLTIE_24_30 DIGIvSOLTIE_24_30
+
+aadr:     571
+sent:     The woman is measuring the other woman.
+cluster:  xBW_uR3kGr4_42_55
+
+aadr:     572
+sent:     The girl is playing the guitar.
+cluster:  ruoHOXo2PRQ_2_20 ruoHOXo2PRQ_2_20 61OSscPtQWQ_1_6 Rf0TUCA3XNs_3_16 Lz-2QTNp5O8_6_16
+
+aadr:     573
+sent:     a girl is riding a horse
+cluster:  8mSUD7JGNO0_174_181
+
+aadr:     574
+sent:     a panda dog is running on the road
+cluster:  bLqmf8x7rLI_2_8
+
+aadr:     575
+sent:     someone is sitring noodles in water
+cluster:  -wa0umYJVGg_286_290
+
+aadr:     576
+sent:     a man is mixing a bowl
+cluster:  e-j59PqJjSM_405_416
+
+aadr:     577
+sent:     the lady cracked an egg into a bowl
+cluster:  PHDmVhShE80_78_82 6t0BpjwYKco_200_205
+
+aadr:     578
+sent:     a man is doing pull-ups
+cluster:  xxHx6s_DbUo_57_61 xxHx6s_DbUo_57_61 xxHx6s_DbUo_57_61 2YhDTpzxd3c_45_49 2YhDTpzxd3c_45_49 2YhDTpzxd3c_45_49
+
+aadr:     579
+sent:     a panda is climbing
+cluster:  zlS1_zBYluY_15_21 -pUwIypksfE_13_23 -pUwIypksfE_13_23 -pUwIypksfE_13_23 -pUwIypksfE_13_23
+
+aadr:     580
+sent:     someone is playing piano
+cluster:  N5wsl86P37Q_1_15
+
+aadr:     581
+sent:     a woman is frying fish
+cluster:  ACOmKiJDkA4_130_144
+
+aadr:     582
+sent:     The comedic mimes performed on stage.
+cluster:  W1052h2rzoA_91_98
+
+aadr:     583
+sent:     a band is playing instruments
+cluster:  IiTzJQE67FA_74_86 IiTzJQE67FA_74_86 UJKythlXAIY_17_21
+
+aadr:     584
+sent:     A cat is playing with an antenna.
+cluster:  0ONJfp95yoE_1_10 0ONJfp95yoE_1_10 0ONJfp95yoE_1_10 0ONJfp95yoE_1_10 0ONJfp95yoE_1_10 0ONJfp95yoE_1_10 0ONJfp95yoE_1_10 0ONJfp95yoE_1_10
+
+aadr:     585
+sent:     a man cuts a potato
+cluster:  veE0E79dEEc_18_45 dabI5gfaFm4_19_25 dabI5gfaFm4_19_25 pfQPRXcihkI_160_184 zMg9dChF97A_12_38 9eJPVpoOtOs_115_130
+
+aadr:     586
+sent:     a person is frying
+cluster:  kWLNZzuo3do_228_232
+
+aadr:     587
+sent:     three women are dancing
+cluster:  5OuYhq6Zl0g_0_10 UgUFP5baQ9Y_0_7 UgUFP5baQ9Y_0_7 UgUFP5baQ9Y_0_7 UgUFP5baQ9Y_0_7 UgUFP5baQ9Y_0_7 UgUFP5baQ9Y_0_7 UgUFP5baQ9Y_0_10 UgUFP5baQ9Y_0_10 UgUFP5baQ9Y_0_10 UgUFP5baQ9Y_0_10 UgUFP5baQ9Y_0_10 UgUFP5baQ9Y_0_10 VfqlfprZsaQ_75_85 VfqlfprZsaQ_75_85 VfqlfprZsaQ_75_85 SRzoLVNgHoI_56_66 SRzoLVNgHoI_56_66 SRzoLVNgHoI_56_66 SRzoLVNgHoI_56_66 SRzoLVNgHoI_56_66
+
+aadr:     588
+sent:     A person is chopping an onion.
+cluster:  kIZanu909lw_67_80 aDjNl5gs4nM_18_47
+
+aadr:     589
+sent:     a woman driving a car is talking to the man seated beside her
+cluster:  ZdNP0dXCx2I_78_90
+
+aadr:     590
+sent:     a baby sneezed and scared another baby
+cluster:  JledeVyklPw_1_6
+
+aadr:     591
+sent:     a squirrel runs in circles
+cluster:  4ikH9ZRcF2Q_89_105 4ikH9ZRcF2Q_89_105
+
+aadr:     592
+sent:     a man is playing a trumpet
+cluster:  nS6oQxX_Qi8_2_12 lR8RrUBhCQg_5_15
+
+aadr:     593
+sent:     a man is slicing a potato
+cluster:  YXixZrSxefk_17_48
+
+aadr:     594
+sent:     a woman is playing the violin
+cluster:  n2NLoLNecgI_168_178 n2NLoLNecgI_168_178 n2NLoLNecgI_168_178 n2NLoLNecgI_168_178 n2NLoLNecgI_168_178 n2NLoLNecgI_168_178 n2NLoLNecgI_168_178 n2NLoLNecgI_168_178 73vUksucPz8_12_20 73vUksucPz8_12_20
+
+aadr:     595
+sent:     A badger is digging the earth.
+cluster:  HPFLN5azwtA_56_63
+
+aadr:     596
+sent:     the man erased what the other man had on the board
+cluster:  HVR7KpItLfA_62_70
+
+aadr:     597
+sent:     A woman is riding a horse.
+cluster:  Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 Ke21boTg2Vg_24_29 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 4VLrxtf7Z_8_0_7 4VLrxtf7Z_8_0_7 onW5hJXnI5s_10_16 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 ht2oIYBSoI0_9_21 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 WV9K6MbLjHA_106_116 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 lGk1MA6YP-M_36_48 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 2F9jX7u5nOg_114_130 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 ao-9B8IV9_E_72_77 BLXzfdNmydQ_151_156 BLXzfdNmydQ_151_156 BLXzfdNmydQ_151_156 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Goj131_GxYs_2_7 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 Hd-NeIhbYGc_43_48 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 8mSUD7JGNO0_174_181 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 Hd-NeIhbYGc_28_31 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 v4_AzQSnmY4_40_55 L8h2DazQZJY_0_10 L8h2DazQZJY_0_10 L8h2DazQZJY_0_10 L8h2DazQZJY_0_10 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 8mSUD7JGNO0_198_204 8mSUD7JGNO0_198_204 8mSUD7JGNO0_198_204 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 2mUMTFnQWaw_1_9 zTn-nNj5Bng_61_77 zTn-nNj5Bng_61_77 WeOU0Iba1Xg_1_30 WeOU0Iba1Xg_1_30 NFxWwI0J3As_78_84 NFxWwI0J3As_78_84 PAm82v0AMFc_5_10 PAm82v0AMFc_5_10 PAm82v0AMFc_5_10 PAm82v0AMFc_5_10 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 2F9jX7u5nOg_83_97 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20 u4kMN1jamdM_10_20
+
+aadr:     598
+sent:     a dog is watching a store counter
+cluster:  6KS8R3RxrV8_0_23
+
+aadr:     599
+sent:     a person is riding a jetski in the waves
+cluster:  DIebwNHGjm8_133_148
+
+aadr:     600
+sent:     a man folds a tortilla
+cluster:  Je3V7U5Ctj4_634_639
+
+aadr:     601
+sent:     A man is holding a frog.
+cluster:  vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16 vRC9sBNt9vs_10_16
+
+aadr:     602
+sent:     a girl is playing the piano
+cluster:  OO-5-eVEKPA_25_31 OO-5-eVEKPA_25_31
+
+aadr:     603
+sent:     a person is pouring olive oil into a pot on the stove
+cluster:  hJFBXHtxKIc_118_123 hJFBXHtxKIc_118_123
+
+aadr:     604
+sent:     a baby rhino is walking around his pen with his mother
+cluster:  -uT_1VDvXok_8_15
+
+aadr:     605
+sent:     the boy is riding a tricycle
+cluster:  Ud3Qy8m6OxQ_52_62
+
+aadr:     606
+sent:     a man is playing a bamboo flute
+cluster:  1pw5ZdRhiig_50_59
+
+aadr:     607
+sent:     a man is shooting off a gun
+cluster:  vloe_60s_dk_0_9 gnEE6oWoz7U_124_132 zH4v_DClIoc_3_28 kBjUDCyDCuI_20_26
+
+aadr:     608
+sent:     a child runs into and out of the ocean waves
+cluster:  onxE6PpEXes_8_25
+
+aadr:     609
+sent:     a man is riding a horse by a creek
+cluster:  zulPFoY64wE_26_33
+
+aadr:     610
+sent:     a man rises from a swamp
+cluster:  5EXVeP6R3yc_105_108
+
+aadr:     611
+sent:     a woman plays on a flute
+cluster:  6FmN22YcVVE_11_18 e-sf-hyrkTs_20_35
+
+aadr:     612
+sent:     A machine is sharpening a pencil.
+cluster:  EKL6elkbFy0_16_30 EKL6elkbFy0_16_30 EKL6elkbFy0_16_30 EKL6elkbFy0_16_30 EKL6elkbFy0_16_30 EKL6elkbFy0_16_30
+
+aadr:     613
+sent:     a woman cracks two eggs into a glass bowl
+cluster:  WTf5EgVY5uU_98_104 0lh_UWF9ZP4_71_77
+
+aadr:     614
+sent:     a man is putting foods in a box
+cluster:  Je3V7U5Ctj4_956_961
+
+aadr:     615
+sent:     a man puts some cheese on a pizza
+cluster:  6owu8Mow0_g_302_307
+
+aadr:     616
+sent:     a cat is eating corn on the cob
+cluster:  OIg10Bl7urs_0_10 OIg10Bl7urs_0_10 OIg10Bl7urs_0_10 OIg10Bl7urs_0_10 OIg10Bl7urs_0_10 OIg10Bl7urs_0_10
+
+aadr:     617
+sent:     a woman is cutting tofu
+cluster:  IhwPQL9dFYc_137_143 IhwPQL9dFYc_137_143 IhwPQL9dFYc_124_129 IhwPQL9dFYc_130_136
+
+aadr:     618
+sent:     the woman is putting makeup on the man
+cluster:  1Dty_eGY9Ec_123_133
+
+aadr:     619
+sent:     doctors are trying to revive a man
+cluster:  lexLAjh8fPA_27_31
+
+aadr:     620
+sent:     a woman is frying meat
+cluster:  BVjvRpmHg0w_231_250 klFyrnrUSck_87_100 klFyrnrUSck_87_100 klFyrnrUSck_87_100 kWLNZzuo3do_251_260
+
+aadr:     621
+sent:     the girl is spraying the plants with water
+cluster:  8VUbN3hkdBo_36_50 8VUbN3hkdBo_36_50
+
+aadr:     622
+sent:     a man is emptying a plastic container
+cluster:  8MVo7fje_oE_139_144
+
+aadr:     623
+sent:     some people are singing
+cluster:  lmCrIZeob4w_23_26
+
+aadr:     624
+sent:     a woman is playing flute
+cluster:  e-sf-hyrkTs_20_35 -Ms9tsWmhyU_80_95
+
+aadr:     625
+sent:     an animal is biting a persons finger
+cluster:  45AGQSbodbU_5_15
+
+aadr:     626
+sent:     a woman slices tofu
+cluster:  IhwPQL9dFYc_137_143 IhwPQL9dFYc_137_143 IhwPQL9dFYc_130_136
+
+aadr:     627
+sent:     a man is getting into a car
+cluster:  uGDuIyfJXXg_23_33 uGDuIyfJXXg_23_33 uGDuIyfJXXg_23_33 uGDuIyfJXXg_23_33 uGDuIyfJXXg_23_33
+
+aadr:     628
+sent:     two people are riding a bike
+cluster:  D9I1Z6O_mbw_112_119 D9I1Z6O_mbw_112_119 D-K3ThvAqfo_209_213 rw9h_574HxE_70_74
+
+aadr:     629
+sent:     A man is showing magic.
+cluster:  dJCtOz32dnw_40_60 5rNWGoDoiKE_10_15 5rNWGoDoiKE_10_15
+
+aadr:     630
+sent:     A deer jumps over a cyclone fence.
+cluster:  2MCpA01Sn_c_75_82
+
+aadr:     631
+sent:     A man is speaking at a podium.
+cluster:  Lr8ds5iY5uk_8_15 Lr8ds5iY5uk_8_15 Lr8ds5iY5uk_8_15 QGgJlHi3tjw_1_15 QGgJlHi3tjw_1_15 QGgJlHi3tjw_1_15 QGgJlHi3tjw_1_15
+
+aadr:     632
+sent:     A woman is cracking three eggs into a bowl.
+cluster:  9zXqkHvs0po_59_65
+
+aadr:     633
+sent:     A man is riding on a horse.
+cluster:  wFPmKChNrhU_3_11 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 4VLrxtf7Z_8_0_7 lGk1MA6YP-M_36_48 PiyoeFC31kE_9_27 MUkKFFdpm4E_121_135 MUkKFFdpm4E_121_135 8mSUD7JGNO0_174_181 yU5sxW9bErQ_0_17 yU5sxW9bErQ_0_17 MUkKFFdpm4E_40_58 MUkKFFdpm4E_40_58 MUkKFFdpm4E_40_58 MUkKFFdpm4E_40_58 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_61_77 WeOU0Iba1Xg_1_30 zulPFoY64wE_26_33 zulPFoY64wE_26_33 dJEoDaA6VXc_1_19 PAm82v0AMFc_5_10 WinaH9SkW9c_11_38 WinaH9SkW9c_11_38
+
+aadr:     634
+sent:     several ferrets climb out of their cage
+cluster:  OVEe1DMsOq0_43_52
+
+aadr:     635
+sent:     A small child is drinking water from a cup.
+cluster:  _UqnTFs1BLc_23_27
+
+aadr:     636
+sent:     a woman is painting the face of a man
+cluster:  1Dty_eGY9Ec_123_133
+
+aadr:     637
+sent:     a man in a hat is playing a harp
+cluster:  POv7JaE3vJ8_40_50
+
+aadr:     638
+sent:     a man is climbing a rope
+cluster:  2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 2YhDTpzxd3c_166_170 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86 xxHx6s_DbUo_82_86
+
+aadr:     639
+sent:     A girl is jumping onto a car.
+cluster:  lsanQj2yacs_80_85
+
+aadr:     640
+sent:     a dog pushes a toddler into a rain puddle
+cluster:  VLBsAPZ2DDE_34_41
+
+aadr:     641
+sent:     a man is rowing a boat
+cluster:  HO_ovIrLWfQ_1_11 HO_ovIrLWfQ_1_11 HO_ovIrLWfQ_1_11 HO_ovIrLWfQ_1_11 HO_ovIrLWfQ_1_11 HO_ovIrLWfQ_1_11 HO_ovIrLWfQ_1_11
+
+aadr:     642
+sent:     a rabbit is playing with a toy rabbit
+cluster:  hSgGBHbJrmE_0_17
+
+aadr:     643
+sent:     someone is beating an egg
+cluster:  WTf5EgVY5uU_104_108 PHDmVhShE80_82_86
+
+aadr:     644
+sent:     a group of boys are playing soccer on the beach
+cluster:  CBD9h0jUq3w_1_7
+
+aadr:     645
+sent:     a little boy is playing a guitar
+cluster:  N2Cm0SLr0ZE_18_29 tYQ7O6V0Fvk_20_55 wgrrQwLdME8_66_74 wgrrQwLdME8_0_10 dQmaVQZz7EE_1_18
+
+aadr:     646
+sent:     someone is holding a hedgehog
+cluster:  hW8TKz2Aea4_5_12 hW8TKz2Aea4_5_12
+
+aadr:     647
+sent:     the lady sliced up the meat
+cluster:  -wa0umYJVGg_271_276
+
+aadr:     648
+sent:     the boy is playing the piano
+cluster:  -AwoiGR6c8M_10_14 -AwoiGR6c8M_10_14 v7iIZXtpIb8_5_15 dJ3ba9zwx6c_5_15 emblM4a76jg_5_15 j7xz1nos-xc_10_20 bxDlC7YV5is_0_12 bxDlC7YV5is_0_12
+
+aadr:     649
+sent:     a man holds a small animal in one hand
+cluster:  LwvyrDxM2G0_0_11
+
+aadr:     650
+sent:     a man is rapidly chopping some mushrooms using a knife
+cluster:  K6xy6C-Hsa0_2_28
+
+aadr:     651
+sent:     a man and a woman walk through the woods
+cluster:  rw9h_574HxE_127_133 rw9h_574HxE_127_133 D9I1Z6O_mbw_141_146 D9I1Z6O_mbw_141_146
+
+aadr:     652
+sent:     A band is singing.
+cluster:  n6U-TGahwvs_100_110
+
+aadr:     653
+sent:     A man is rinsing a large steak.
+cluster:  0RWJEOScToE_414_421
+
+aadr:     654
+sent:     A cheetah chases prey on across a field.
+cluster:  TxzxPyfsSxY_0_10
+
+aadr:     655
+sent:     a man is chopping a log with an axe
+cluster:  G-M78KIy19E_315_330 G-M78KIy19E_315_330
+
+aadr:     656
+sent:     the woman is slicing herbs
+cluster:  ACOmKiJDkA4_57_65
+
+aadr:     657
+sent:     a dog biting on a can
+cluster:  MWvCcwTw7Ac_154_181
+
+aadr:     658
+sent:     A man is crying.
+cluster:  4QdX5Q3qQsQ_6_14 6ZhKOK08tgM_225_233 6ZhKOK08tgM_225_233 6ZhKOK08tgM_225_233 6ZhKOK08tgM_225_233 6ZhKOK08tgM_225_233 6ZhKOK08tgM_225_233 6ZhKOK08tgM_225_233 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79 q3I3R_gqy8M_73_79
+
+aadr:     659
+sent:     fish are swimming
+cluster:  sFExO_PW22s_10_18
+
+aadr:     660
+sent:     a woman is cooking eggs
+cluster:  Xwrl4htUPjo_22_38 WTf5EgVY5uU_218_236 WTf5EgVY5uU_218_236 WTf5EgVY5uU_218_236 WTf5EgVY5uU_218_236 WTf5EgVY5uU_218_236 -wa0umYJVGg_100_115 -_hbPLsZvvo_211_219 -_hbPLsZvvo_211_219 -_hbPLsZvvo_211_219 0lh_UWF9ZP4_103_110
+
+aadr:     661
+sent:     a young man is talking to a leaf
+cluster:  r4qv_BNlQNk_119_124
+
+aadr:     662
+sent:     the men are playing soccer
+cluster:  hNOzHvsEmg4_31_36 hNOzHvsEmg4_31_36 mCrRHP4LFmo_24_40 mCrRHP4LFmo_24_40 Ffv7fhL1EDY_177_184 VU4qLrk5axA_40_58 VU4qLrk5axA_40_58 vcCMId0DQaQ_19_38 q-a6NEotUX8_5_10 q-a6NEotUX8_5_10
+
+aadr:     663
+sent:     woman is adding sugar to meat
+cluster:  ACOmKiJDkA4_75_81
+
+aadr:     664
+sent:     a man is singing into a microphone
+cluster:  HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 otLEUwHao_E_140_151 otLEUwHao_E_140_151 otLEUwHao_E_140_151 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 EwTZ2xpQwpA_14_21 EwTZ2xpQwpA_14_21 EwTZ2xpQwpA_14_21 EwTZ2xpQwpA_14_21
+
+aadr:     665
+sent:     a cat is crawling under a piece of furniture on it's back
+cluster:  bkazguPsusc_74_85
+
+aadr:     666
+sent:     a man is fitting silencer on a pistol
+cluster:  ACK7SekJWts_140_150
+
+aadr:     667
+sent:     someone is cleaning a animal
+cluster:  hW8TKz2Aea4_40_50
+
+aadr:     668
+sent:     a man is doing a card trick
+cluster:  Sude_yGIbJI_18_67 Sude_yGIbJI_18_67 4JVpbYmqfcI_5_19 4yYapi-5QYQ_33_57 4yYapi-5QYQ_33_57 n016q1w8Q30_2_11 n016q1w8Q30_2_11
+
+aadr:     669
+sent:     a man lifts weights
+cluster:  8SxALJoNNFI_10_21 w9mqbwOIkVg_6_12 VyBXcQ1v_cw_7_15 VyBXcQ1v_cw_7_15 VyBXcQ1v_cw_7_15 EqOGzNkekMk_5_15 6Q3ltyPJJMQ_67_72 xxHx6s_DbUo_98_101 xxHx6s_DbUo_98_101
+
+aadr:     670
+sent:     a man is riding on a horse
+cluster:  wFPmKChNrhU_3_11 MUkKFFdpm4E_1_12 MUkKFFdpm4E_1_12 4VLrxtf7Z_8_0_7 lGk1MA6YP-M_36_48 PiyoeFC31kE_9_27 MUkKFFdpm4E_121_135 MUkKFFdpm4E_121_135 8mSUD7JGNO0_174_181 yU5sxW9bErQ_0_17 yU5sxW9bErQ_0_17 MUkKFFdpm4E_40_58 MUkKFFdpm4E_40_58 MUkKFFdpm4E_40_58 MUkKFFdpm4E_40_58 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_8_19 zTn-nNj5Bng_61_77 WeOU0Iba1Xg_1_30 zulPFoY64wE_26_33 zulPFoY64wE_26_33 dJEoDaA6VXc_1_19 PAm82v0AMFc_5_10 WinaH9SkW9c_11_38 WinaH9SkW9c_11_38
+
+aadr:     671
+sent:     the man cut a paper plate
+cluster:  CquJjlNuotg_147_155
+
+aadr:     672
+sent:     the man talked on the telephone
+cluster:  fr9H1WLcF1A_141_148 6q1dX6thX3E_286_295
+
+aadr:     673
+sent:     a woman is slicing a tomato
+cluster:  WTx-K045yQM_85_98
+
+aadr:     674
+sent:     the woman is cracking eggs into a bowl
+cluster:  PHDmVhShE80_78_82 WTf5EgVY5uU_98_104 0lh_UWF9ZP4_71_77 WTf5EgVY5uU_100_104 9zXqkHvs0po_59_65 9zXqkHvs0po_59_65
+
+aadr:     675
+sent:     a woman is deep frying food
+cluster:  klFyrnrUSck_87_100
+
+aadr:     676
+sent:     a tiger walks around aimlessly
+cluster:  sb1dX5xAFvk_10_17
+
+aadr:     677
+sent:     A man is making a phone call.
+cluster:  MICawzo1MqI_3_13 MICawzo1MqI_3_13
+
+aadr:     678
+sent:     a man is playing the drums
+cluster:  bb6V0Grtub4_174_185 BAf3LXFUaGs_28_38
+
+aadr:     679
+sent:     a man is running
+cluster:  dF1n2Sa2eCE_6_14
+
+aadr:     680
+sent:     a woman is coating a pork chop
+cluster:  6t0BpjwYKco_240_247 klFyrnrUSck_79_85
+
+aadr:     681
+sent:     a man rode a mechanical bull
+cluster:  xlPyHMkpaQY_1_7
+
+aadr:     682
+sent:     meat is dropped into a pan
+cluster:  TvBsaMgqh5s_61_68
+
+aadr:     683
+sent:     the woman is playing the flute
+cluster:  e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 -Ms9tsWmhyU_80_95
+
+aadr:     684
+sent:     A woman is cutting up some meat.
+cluster:  -wa0umYJVGg_271_276 WTf5EgVY5uU_15_19
+
+aadr:     685
+sent:     a man is opening a door
+cluster:  HM-ZDoRWiH4_0_5 HM-ZDoRWiH4_0_5 HM-ZDoRWiH4_0_5
+
+aadr:     686
+sent:     a woman is frying a food
+cluster:  klFyrnrUSck_87_100 6t0BpjwYKco_261_284
+
+aadr:     687
+sent:     the man is slicing a potato
+cluster:  VahnQw2gTQY_203_210 dabI5gfaFm4_19_25 YXixZrSxefk_17_48
+
+aadr:     688
+sent:     A person is whisking eggs in a bowl.
+cluster:  0lh_UWF9ZP4_82_87
+
+aadr:     689
+sent:     the men played follow the leader on the grass
+cluster:  qLwgb3F0aPU_298_305
+
+aadr:     690
+sent:     two baby pandas are playing
+cluster:  hksxtbcS780_7_14 ufFT2BWh3BQ_0_8 ufFT2BWh3BQ_0_8 ufFT2BWh3BQ_0_8
+
+aadr:     691
+sent:     Three men are jumping off a wall.
+cluster:  6ZhKOK08tgM_45_49
+
+aadr:     692
+sent:     lionel ritchie dances while standing on the ceiling
+cluster:  5XxshEdcfAM_96_107
+
+aadr:     693
+sent:     a boy studies a calendar
+cluster:  GPT4vUwlrXY_1_10
+
+aadr:     694
+sent:     a group of people are dancing
+cluster:  ogcqFaNbah4_475_487 ogcqFaNbah4_475_487 sRKQfxxEP4M_117_125 sRKQfxxEP4M_117_125 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 KWK7szRdbrE_80_90 Sj6GSmDpNDw_0_12 gqxpGOHUH9k_113_119 gqxpGOHUH9k_113_119 gqxpGOHUH9k_113_119 Afmc6FeN-hM_20_24 qyZ9z_3f94Q_6_9 qyZ9z_3f94Q_6_9 qyZ9z_3f94Q_6_9 GMuijLIJH-U_1_10 -s4-6QTT7HE_235_241 -s4-6QTT7HE_235_241 -s4-6QTT7HE_235_241 GlW6n43pUQA_0_12 3ytUOoa1SBE_12_23 3ytUOoa1SBE_12_23 hJuqBDw_TT4_105_112 hJuqBDw_TT4_105_112
+
+aadr:     695
+sent:     runners compete in a race
+cluster:  -dm-ds5rRaM_44_52
+
+aadr:     696
+sent:     a man is standing on a roof top playing a violin
+cluster:  CGllPWAwmUo_1_15
+
+aadr:     697
+sent:     A man is playing a keyboard.
+cluster:  N5wsl86P37Q_1_15 akXjIEoecNs_2_12 akXjIEoecNs_2_12 akXjIEoecNs_2_12 FXWdmIHXS_U_3_10 PECk9A-07Pw_1_9 Wv3u2q3oGeU_35_45 Wv3u2q3oGeU_35_45 ry7AUQtuwdU_4_39 ry7AUQtuwdU_4_39 ry7AUQtuwdU_4_39 po2tcrG6KzM_2_8 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23
+
+aadr:     698
+sent:     a herd of deer are crossing the street
+cluster:  mZVPkPqwzR4_38_45 mZVPkPqwzR4_38_45
+
+aadr:     699
+sent:     A man is playing guitar.
+cluster:  EiylMb_mWk4_2_20 MWzeInQaUk4_12_20 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 W8l_ezoU8Lc_76_86 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 _KMoC6ZdeXs_10_16 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 C2rDp6FnbP0_10_17 C2rDp6FnbP0_10_17 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 326U8N2husw_26_28 326U8N2husw_26_28 326U8N2husw_26_28 326U8N2husw_26_28 kI6MWZrl8v8_149_161 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 4UOVKok7j1U_1_8 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 xb-Nacm-pKc_78_82 W8l_ezoU8Lc_55_70 W8l_ezoU8Lc_55_70 9uDPqigcnzw_36_46 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 LLkehH86ABY_30_36 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 P2WM91LENgk_40_50 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 FvfjDQj5sOY_1_10 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 jI58q6rcNLc_8_18 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 k-SWy-sU8cE_5_10 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 lSnWhsmlGec_5_10 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 81fABEiwcIM_31_45 81fABEiwcIM_31_45 k9Brw_0gncU_14_33 QA_JTtM1hKA_5_15 7NNg0_n-bS8_21_30 7NNg0_n-bS8_21_30
+
+aadr:     700
+sent:     a small dog laying on the bed
+cluster:  tzd3AYTZq0U_0_6
+
+aadr:     701
+sent:     a person is blow torching cameras
+cluster:  D1tTBncIsm8_841_848
+
+aadr:     702
+sent:     A badger is burrowing a hole.
+cluster:  HPFLN5azwtA_56_63
+
+aadr:     703
+sent:     a woman is cutting a tomato
+cluster:  l_AVz90c4jQ_22_43 l_AVz90c4jQ_22_43 l_AVz90c4jQ_22_43 xPR0xFgCAZY_17_27 aeA-HN7BMdo_52_58 aeA-HN7BMdo_52_58 aeA-HN7BMdo_52_58
+
+aadr:     704
+sent:     a baby is playing with a dog
+cluster:  z0Si1XxMibg_0_30 z0Si1XxMibg_0_30 z0Si1XxMibg_0_30 z0Si1XxMibg_0_30 z0Si1XxMibg_0_30 z0Si1XxMibg_0_30 z0Si1XxMibg_0_30 k4hhWYtaQ14_0_10 k4hhWYtaQ14_0_10 k4hhWYtaQ14_0_10
+
+aadr:     705
+sent:     a man is eating a bowl of cereal
+cluster:  4s_0-zIWEog_1_15 4s_0-zIWEog_1_15
+
+aadr:     706
+sent:     a girl is waking up
+cluster:  lB1UPJ4leqs_1_6 lB1UPJ4leqs_1_6
+
+aadr:     707
+sent:     a panda is lying down
+cluster:  q-JHcsqJXWY_0_8
+
+aadr:     708
+sent:     a person is playing a keyboard piano
+cluster:  FXWdmIHXS_U_3_10 zFIn8DeV5PM_20_33
+
+aadr:     709
+sent:     a big cat opens a plastic drawer with his paws and then hops inside
+cluster:  EA-J-Y6QjUo_40_61
+
+aadr:     710
+sent:     a man breaks a slab of concrete that is lying on a prone man with a sledge hammer
+cluster:  2YhDTpzxd3c_240_245
+
+aadr:     711
+sent:     a man is singing
+cluster:  jlahRlo4jlU_30_36 5hSW67ySCio_33_41 C2rDp6FnbP0_10_17 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 HZqscSWtHmo_24_34 4QdX5Q3qQsQ_38_44 4QdX5Q3qQsQ_38_44 W8l_ezoU8Lc_156_162 IiTzJQE67FA_36_46 RvJH_POzxmc_10_25 RvJH_POzxmc_10_25 O_Pst-uryQI_1_14 hWhKdXcqYeU_3_12 xb-Nacm-pKc_78_82 Jag7oTemldY_12_25 Jag7oTemldY_12_25 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 QklHhN8pQBE_0_10 otLEUwHao_E_140_151 otLEUwHao_E_140_151 otLEUwHao_E_140_151 953PkxFNiko_82_85 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 X7sQq-Iu1gQ_12_22 EwTZ2xpQwpA_14_21 EwTZ2xpQwpA_14_21 EwTZ2xpQwpA_14_21 EwTZ2xpQwpA_14_21 EwTZ2xpQwpA_14_21 EwTZ2xpQwpA_14_21 fcvW1vr8hAs_96_102
+
+aadr:     712
+sent:     Three men are practicing karate moves in a field.
+cluster:  n_Z0-giaspE_168_193
+
+aadr:     713
+sent:     A parrot is talking into a microphone.
+cluster:  2G9fkvBzzQE_10_20
+
+aadr:     714
+sent:     someone is playing guitar
+cluster:  EpMuCrbxE8A_107_115
+
+aadr:     715
+sent:     a man is playing an electronic keyboard
+cluster:  akXjIEoecNs_2_12 akXjIEoecNs_2_12 akXjIEoecNs_2_12 akXjIEoecNs_2_12 PECk9A-07Pw_1_9 haJn6k5zVnE_1_23 haJn6k5zVnE_1_23
+
+aadr:     716
+sent:     a person is slicing a bread pieces
+cluster:  OCcy9TDRGKo_41_51
+
+aadr:     717
+sent:     A man is playing a guitar and singing.
+cluster:  IiH6yl3j4gI_20_30 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 C2rDp6FnbP0_10_17 326U8N2husw_26_28 kI6MWZrl8v8_149_161 kI6MWZrl8v8_149_161 WpB4-eLyiBc_10_20 jI58q6rcNLc_8_18 lv8d_qLLqsk_1_20 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 81fABEiwcIM_31_45 7NNg0_n-bS8_21_30
+
+aadr:     718
+sent:     a man is playing the trumpet
+cluster:  nS6oQxX_Qi8_2_12 nS6oQxX_Qi8_2_12 nS6oQxX_Qi8_2_12 nS6oQxX_Qi8_2_12 c_XV7nPoRg8_2_12 c_XV7nPoRg8_2_12 c_XV7nPoRg8_2_12 c_XV7nPoRg8_2_12 lR8RrUBhCQg_5_15 lR8RrUBhCQg_5_15 lR8RrUBhCQg_5_15 lR8RrUBhCQg_5_15 lR8RrUBhCQg_5_15 lR8RrUBhCQg_5_15 lR8RrUBhCQg_5_15
+
+aadr:     719
+sent:     A monkey is wading across a marsh.
+cluster:  DhwrBs96Kgk_120_124
+
+aadr:     720
+sent:     a tiger is walking around
+cluster:  sb1dX5xAFvk_10_17 sb1dX5xAFvk_10_17 sb1dX5xAFvk_10_17
+
+aadr:     721
+sent:     a girl is playing a flute
+cluster:  Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 Ea0thGZKPXA_25_35 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 6FmN22YcVVE_11_18 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 PuQVs2Ch1LY_5_15 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15 6ZZkO14S7GY_5_15
+
+aadr:     722
+sent:     a baby is playing with a doll
+cluster:  JpjAgSvr42k_0_12
+
+aadr:     723
+sent:     a man ties a shoe
+cluster:  YZ0-6hdQ0mU_0_3
+
+aadr:     724
+sent:     a man is drawing some figures
+cluster:  d7eGypGOlOc_13_22
+
+aadr:     725
+sent:     a woman is pouring ingredients in a bowl
+cluster:  0lh_UWF9ZP4_38_46
+
+aadr:     726
+sent:     A man is playing soccer.
+cluster:  Ffv7fhL1EDY_177_184 Ffv7fhL1EDY_177_184
+
+aadr:     727
+sent:     a woman is firing a rifle
+cluster:  6eokrw6_bjU_1_9
+
+aadr:     728
+sent:     a person is slicing some onions
+cluster:  5U3xz9Ovmhk_99_105
+
+aadr:     729
+sent:     a cat is playing a piano
+cluster:  TZ860P4iTaM_11_20 TZ860P4iTaM_11_20 A6XrTsLsUbA_4_15 A6XrTsLsUbA_4_15 A6XrTsLsUbA_4_15 A6XrTsLsUbA_4_15 A6XrTsLsUbA_4_15 J---aiyznGQ_0_6 J---aiyznGQ_0_6 J---aiyznGQ_0_6 TZ860P4iTaM_10_24 TZ860P4iTaM_10_24 TZ860P4iTaM_10_24 TZ860P4iTaM_15_28 TZ860P4iTaM_15_28 TZ860P4iTaM_15_28 TZ860P4iTaM_15_28
+
+aadr:     730
+sent:     a woman places two eggs into a pot of water
+cluster:  -wa0umYJVGg_100_115
+
+aadr:     731
+sent:     a man is eating food
+cluster:  1dfR0A_BXjw_590_600 cnsjm3fNEec_4_10 cnsjm3fNEec_4_10 rw9h_574HxE_13_18 8MVo7fje_oE_180_185 0hyZ__3YhZc_632_637 0hyZ__3YhZc_632_637 sZf3VDsdDPM_107_114 sZf3VDsdDPM_107_114 hJFBXHtxKIc_317_322 o4pL7FObqds_137_147 o4pL7FObqds_137_147 o4pL7FObqds_137_147 o4pL7FObqds_137_147
+
+aadr:     732
+sent:     the man is seasoning the sausages
+cluster:  hJFBXHtxKIc_163_168
+
+aadr:     733
+sent:     a cat opens a drawer and climbs inside
+cluster:  EA-J-Y6QjUo_40_61 EA-J-Y6QjUo_40_61
+
+aadr:     734
+sent:     soccer players are kicking a soccer ball into the goal
+cluster:  vcCMId0DQaQ_19_38
+
+aadr:     735
+sent:     A man turns on the microwave.
+cluster:  glrijRGnmc0_211_215
+
+aadr:     736
+sent:     The man is playing the guitar.
+cluster:  kk3TIio1-Uw_5_14
+
+aadr:     737
+sent:     a man is walking in the rain
+cluster:  5MzJRgpclwQ_48_55
+
+aadr:     738
+sent:     A dog rides a skateboard.
+cluster:  XNzXXiE6qR4_0_10 XNzXXiE6qR4_0_10 77iDIp40m9E_119_123 77iDIp40m9E_126_131
+
+aadr:     739
+sent:     a woman is dancing in a cage
+cluster:  GWQTAe64m-0_160_166 GWQTAe64m-0_160_166 GWQTAe64m-0_160_166 GWQTAe64m-0_160_166 GWQTAe64m-0_160_166 GWQTAe64m-0_160_166 GWQTAe64m-0_160_166
+
+aadr:     740
+sent:     a plane is taking off
+cluster:  Eamd2wMKixs_48_72 Eamd2wMKixs_48_72 Eamd2wMKixs_48_72 5W02895vT8c_312_322 5W02895vT8c_312_322 5W02895vT8c_312_322 5W02895vT8c_312_322 5W02895vT8c_312_322 5W02895vT8c_312_322 Gn4Iv5ARIXc_37_40 Gn4Iv5ARIXc_37_40 Gn4Iv5ARIXc_37_40 Gn4Iv5ARIXc_37_40
+
+aadr:     741
+sent:     the man is playing the guitar
+cluster:  kk3TIio1-Uw_5_14
+
+aadr:     742
+sent:     the women are singing and dancing
+cluster:  PxygpGLKEps_410_420 pRpeEdMmmQ0_65_70
+
+aadr:     743
+sent:     a woman is squeezing juice out of a lemon
+cluster:  tJHUH9tpqPg_113_118
+
+aadr:     744
+sent:     a woman picks up and holds a baby kangaroo in her arms
+cluster:  2R_OAYQIkXM_14_22
+
+aadr:     745
+sent:     A woman is cutting an onion.
+cluster:  aeA-HN7BMdo_16_33 aeA-HN7BMdo_16_33 VahnQw2gTQY_315_320 klFyrnrUSck_13_19 klFyrnrUSck_13_19 klFyrnrUSck_13_19 kWLNZzuo3do_17_23 kWLNZzuo3do_17_23 WTf5EgVY5uU_66_75 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 04Gt01vatkk_248_265 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 WTf5EgVY5uU_33_39 WTf5EgVY5uU_33_39 WTf5EgVY5uU_33_39 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 aDjNl5gs4nM_18_47 aDjNl5gs4nM_18_47 m1NR0uNNs5Y_88_94 m1NR0uNNs5Y_88_94 m1NR0uNNs5Y_88_94 m1NR0uNNs5Y_57_64 m1NR0uNNs5Y_57_64 nq4hG6qgyPs_240_251 VahnQw2gTQY_322_327 m1NR0uNNs5Y_104_110
+
+aadr:     746
+sent:     a jet is flying
+cluster:  ZbzDGXEwtGc_6_15 VxM96IYzw0Q_2_15 VxM96IYzw0Q_2_15
+
+aadr:     747
+sent:     the lady added cheese to the sauce
+cluster:  ok4cM6WTA5E_142_150
+
+aadr:     748
+sent:     A man playing the guitar.
+cluster:  JsD6uEZsIsU_1_47 9IrWyZ0KZuk_160_166 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 g36ho6UrBz0_5_20 Ugb_uH72d0I_8_17
+
+aadr:     749
+sent:     a boy is playing on a toy phone
+cluster:  YJ2aGe7CLBo_25_35
+
+aadr:     750
+sent:     a man sitting on the floor in a room is strumming a guitar
+cluster:  X4yzrIc072w_4_20
+
+aadr:     751
+sent:     a man is working on his laptop
+cluster:  R2DvpPTfl-E_20_25
+
+aadr:     752
+sent:     the man is throwing knives at a tree
+cluster:  RX6NSOuCCAE_13_27
+
+aadr:     753
+sent:     a man puts vegetables into a pot
+cluster:  0hyZ__3YhZc_289_295
+
+aadr:     754
+sent:     a cat, perched on a table, looks out the window
+cluster:  MY-rGamtAJc_6_22
+
+aadr:     755
+sent:     A person dices up an orange pepper.
+cluster:  VahnQw2gTQY_298_305
+
+aadr:     756
+sent:     a boy is checking a calender
+cluster:  GPT4vUwlrXY_1_10
+
+aadr:     757
+sent:     a man is spitting
+cluster:  953PkxFNiko_82_85 953PkxFNiko_82_85 953PkxFNiko_82_85 953PkxFNiko_82_85 953PkxFNiko_82_85
+
+aadr:     758
+sent:     a woman is pulling some kind of sticky goo out of a bowl
+cluster:  PeUHy0A1GF0_51_55
+
+aadr:     759
+sent:     a man is tracking in the wood
+cluster:  eQcUmH0VE90_9_15
+
+aadr:     760
+sent:     a man and woman are driving down the street in a jeep
+cluster:  I2eWXGaoWko_20_24
+
+aadr:     761
+sent:     an air plane is taking off
+cluster:  Eamd2wMKixs_48_72 Eamd2wMKixs_48_72 5W02895vT8c_312_322 Gn4Iv5ARIXc_37_40
+
+aadr:     762
+sent:     The cook is slicing bell peppers.
+cluster:  VahnQw2gTQY_298_305
+
+aadr:     763
+sent:     a man is slicing open a fish
+cluster:  WPG-BIWOrG4_672_677
+
+aadr:     764
+sent:     A woman is chopping an onion.
+cluster:  aeA-HN7BMdo_16_33 aeA-HN7BMdo_16_33 klFyrnrUSck_13_19 klFyrnrUSck_13_19 kWLNZzuo3do_17_23 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 WTf5EgVY5uU_33_39 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 aDjNl5gs4nM_18_47 9HTUcMjWB3g_143_151
+
+aadr:     765
+sent:     the man is hiking in the woods
+cluster:  eQcUmH0VE90_9_15 eQcUmH0VE90_9_15
+
+aadr:     766
+sent:     a man is breaking tiles with his hands
+cluster:  2YhDTpzxd3c_102_105
+
+aadr:     767
+sent:     a man sitting on the floor plays a guitar
+cluster:  X4yzrIc072w_4_20
+
+aadr:     768
+sent:     a couple are running towards the ocean
+cluster:  ItFqogTmAvQ_389_395
+
+aadr:     769
+sent:     a cat is playing with a watermelon
+cluster:  0vmoZEaN_-o_4_12 0vmoZEaN_-o_4_12 0vmoZEaN_-o_4_12 0vmoZEaN_-o_4_12 0vmoZEaN_-o_4_12 0vmoZEaN_-o_4_12 0vmoZEaN_-o_4_12 0vmoZEaN_-o_4_12 0vmoZEaN_-o_4_12 0vmoZEaN_-o_5_21 0vmoZEaN_-o_5_21 0vmoZEaN_-o_5_21 0vmoZEaN_-o_5_21 0vmoZEaN_-o_5_21 0vmoZEaN_-o_5_21 0vmoZEaN_-o_5_21
+
+aadr:     770
+sent:     a woman is stroking a lemur
+cluster:  AE9UaQwum8c_0_10
+
+aadr:     771
+sent:     a monkey brushes a dog
+cluster:  MwOEK-KXSPc_1_10
+
+aadr:     772
+sent:     a woman stirs eggs in a bowl
+cluster:  WTf5EgVY5uU_104_108
+
+aadr:     773
+sent:     the man is slicing the tape from the box
+cluster:  fX5G_JwPlLo_640_660
+
+aadr:     774
+sent:     some children are jumping on trampoline
+cluster:  3SKyc0aKx70_46_52
+
+aadr:     775
+sent:     a pankda is eating bamboo
+cluster:  Jxw16bqzVqE_18_28
+
+aadr:     776
+sent:     Meat is being put into a skillet.
+cluster:  TvBsaMgqh5s_61_68
+
+aadr:     777
+sent:     a girl is styling her hair
+cluster:  5x_OGEdO6Z8_0_21 5x_OGEdO6Z8_0_21 5x_OGEdO6Z8_0_21 5dv8MSWlxoQ_10_40 5dv8MSWlxoQ_10_40 5dv8MSWlxoQ_10_40 Ted3imMggC0_48_58 Ted3imMggC0_48_58 Ted3imMggC0_48_58 qqYysi3qotc_148_195
+
+aadr:     778
+sent:     a woman is cooking a breaded pork chop
+cluster:  6t0BpjwYKco_261_284
+
+aadr:     779
+sent:     an officer is talking to recruits
+cluster:  t8Nf1MK7lts_0_10
+
+aadr:     780
+sent:     a woman is placing skewers onto a rack
+cluster:  9Q0JfdP36kI_167_170
+
+aadr:     781
+sent:     the man is playing the piano with his nose
+cluster:  uppFvcVwqqY_5_15
+
+aadr:     782
+sent:     a monkey pulls the tail of a dog
+cluster:  KpmVL4ANieA_0_9 Gw0FU733zzg_58_66
+
+aadr:     783
+sent:     a baby rhino is following an adult rhino
+cluster:  -uT_1VDvXok_8_15
+
+aadr:     784
+sent:     A man is riding a horse.
+cluster:  4VLrxtf7Z_8_0_7 zTn-nNj5Bng_61_77
+
+aadr:     785
+sent:     a woman is deboning a fish
+cluster:  UbmZAe5u5FI_132_141
+
+aadr:     786
+sent:     a person is holding a skunk
+cluster:  gp8XjWSoP2k_0_10 gp8XjWSoP2k_0_10 gp8XjWSoP2k_0_10
+
+aadr:     787
+sent:     a dog is licking a baby
+cluster:  mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16 mJ9eRvxjLc4_0_16
+
+aadr:     788
+sent:     a man is driving a car
+cluster:  IhzXQ-gc9IQ_125_129 IhzXQ-gc9IQ_125_129 fnEvy64GuIE_137_146 De815YpTBic_41_48 De815YpTBic_41_48 De815YpTBic_41_48 3ftaoFnhTyY_140_150 3ftaoFnhTyY_140_150 3ftaoFnhTyY_140_150 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 uVPnDJKt1M0_0_6 urXDqw3S34I_12_17 PslVHtXc7Tg_8_14 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126
+
+aadr:     789
+sent:     The man is stirring oil.
+cluster:  bQJQGoJF7_k_120_126
+
+aadr:     790
+sent:     The lady measured the other woman's ankle.
+cluster:  xBW_uR3kGr4_42_55
+
+aadr:     791
+sent:     A man is tying on a stenographers machine.
+cluster:  xy9LLUUZ6ic_50_60
+
+aadr:     792
+sent:     a man is pouring oil into a skillet
+cluster:  jPBxl9gFqNY_110_117 jPBxl9gFqNY_110_117
+
+aadr:     793
+sent:     A man is emptying a plastic container.
+cluster:  8MVo7fje_oE_139_144
+
+aadr:     794
+sent:     pieces of butter is added in the stand mixer
+cluster:  IBgsLmDcL78_80_84
+
+aadr:     795
+sent:     a man pours a plate of shredded cheese into a pot of sauce
+cluster:  ok4cM6WTA5E_142_150
+
+aadr:     796
+sent:     the man is singing and playing the guitar
+cluster:  EiylMb_mWk4_2_20 MWzeInQaUk4_12_20 MWzeInQaUk4_12_20 IiH6yl3j4gI_20_30 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 C2rDp6FnbP0_10_17 C2rDp6FnbP0_10_17 SJZFNwfcSOw_3_18 326U8N2husw_26_28 326U8N2husw_26_28 kI6MWZrl8v8_149_161 kI6MWZrl8v8_149_161 WpB4-eLyiBc_10_20 WpB4-eLyiBc_10_20 P2WM91LENgk_40_50 P2WM91LENgk_40_50 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 jI58q6rcNLc_8_18 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 Pm9L60YBj3s_0_32 G_hxdUG6QXE_23_28 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 81fABEiwcIM_31_45 n6U-TGahwvs_100_110 7NNg0_n-bS8_21_30
+
+aadr:     797
+sent:     a man is sprinkling shredded cheese on a pizza
+cluster:  6owu8Mow0_g_302_307
+
+aadr:     798
+sent:     A man is playing on a guitar and singing.
+cluster:  IiH6yl3j4gI_20_30
+
+aadr:     799
+sent:     a girl plays a wind instrument
+cluster:  6FmN22YcVVE_11_18
+
+aadr:     800
+sent:     a girl is eating a cupcake
+cluster:  ngHDYzhDBk4_24_29 ngHDYzhDBk4_24_29 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20 CuBgBtQAN7E_7_20
+
+aadr:     801
+sent:     Five kittens are eating out of five dishes.
+cluster:  wNv74rvkAw8_30_40
+
+aadr:     802
+sent:     a man and woman are talking
+cluster:  QdXRgR30bE4_9_19 QdXRgR30bE4_9_19 QdXRgR30bE4_9_19 QdXRgR30bE4_9_19 FwCmcZpkk-k_22_32 rw9h_574HxE_251_254 bSrpvMSuhPM_17_31 bSrpvMSuhPM_17_31 bSrpvMSuhPM_17_31 bSrpvMSuhPM_17_31 bSrpvMSuhPM_17_31
+
+aadr:     803
+sent:     runners race around a track
+cluster:  -dm-ds5rRaM_44_52
+
+aadr:     804
+sent:     a man carries a women
+cluster:  4xVGpDmA4lE_23_33
+
+aadr:     805
+sent:     a man is cutting a potato
+cluster:  YXixZrSxefk_17_48
+
+aadr:     806
+sent:     a cat is playing keyboards
+cluster:  J---aiyznGQ_0_6
+
+aadr:     807
+sent:     two boy are playing on a trampoline
+cluster:  3SKyc0aKx70_46_52
+
+aadr:     808
+sent:     a woman is frying something in the pan
+cluster:  ACOmKiJDkA4_121_128
+
+aadr:     809
+sent:     a woman is slicing potatoes
+cluster:  s20OlIRK340_147_174 s20OlIRK340_147_174 seTkGZlEU64_81_110 seTkGZlEU64_81_110 qeKX-N1nKiM_68_72 iEW-EkPQywU_61_83 rOic25PnIx8_1_3
+
+aadr:     810
+sent:     someone is slicing a tomato
+cluster:  YndZ9YulpTo_61_76 WTx-K045yQM_85_98 WTx-K045yQM_85_98 j2Dhf-xFUxU_20_29 j2Dhf-xFUxU_20_29 j2Dhf-xFUxU_20_29 cUW_bXll6YM_462_469 aeA-HN7BMdo_52_58 aeA-HN7BMdo_52_58
+
+aadr:     811
+sent:     a little girl peddling a scooter
+cluster:  psXeA8sSYdI_25_30
+
+aadr:     812
+sent:     a child is walking down the street as a jeep pulls up
+cluster:  Gm1WnWVXYzQ_0_9
+
+aadr:     813
+sent:     A woman is mixing eggs.
+cluster:  0lh_UWF9ZP4_82_87 WTf5EgVY5uU_108_116 xtbsD3PUua4_84_94
+
+aadr:     814
+sent:     A man is screaming.
+cluster:  9LOJmQQktHA_10_18 Jag7oTemldY_12_25 Jag7oTemldY_12_25 Jag7oTemldY_12_25 Jag7oTemldY_12_25 Jag7oTemldY_12_25
+
+aadr:     815
+sent:     a tiger cub is making a sound
+cluster:  idRc_KkInds_0_6
+
+aadr:     816
+sent:     several swimmers jump into the water
+cluster:  oBt257I-pL0_0_10
+
+aadr:     817
+sent:     a small boy is playing with a dog
+cluster:  z0Si1XxMibg_0_30
+
+aadr:     818
+sent:     A man is chopping butter into a container.
+cluster:  IBgsLmDcL78_80_84
+
+aadr:     819
+sent:     a man is cutting pieces of butter into a mixing bowl
+cluster:  IBgsLmDcL78_80_84
+
+aadr:     820
+sent:     two women are dancing and singing in front of a crowd
+cluster:  PxygpGLKEps_410_420
+
+aadr:     821
+sent:     a man is drawing a picture
+cluster:  nlU3crMsbWI_19_23
+
+aadr:     822
+sent:     a herd of caribou are crossing a road
+cluster:  mZVPkPqwzR4_38_45
+
+aadr:     823
+sent:     A man is frying a tortilla.
+cluster:  Je3V7U5Ctj4_634_639
+
+aadr:     824
+sent:     a man is eating
+cluster:  1dfR0A_BXjw_590_600 6owu8Mow0_g_692_697 hJFBXHtxKIc_317_322
+
+aadr:     825
+sent:     a man is on a roof dancing
+cluster:  CGllPWAwmUo_1_15
+
+aadr:     826
+sent:     a man is screwing wood to a wall
+cluster:  4z3b4mnw5y4_56_60
+
+aadr:     827
+sent:     the man erased the work on the board
+cluster:  HVR7KpItLfA_62_70
+
+aadr:     828
+sent:     A man is playing flute.
+cluster:  6Lzq1HN33lE_5_15 6Lzq1HN33lE_5_15
+
+aadr:     829
+sent:     two sumo ringers are fighting each other
+cluster:  UxhKb-zZoWE_0_15
+
+aadr:     830
+sent:     a woman is dancing on a stage
+cluster:  iwpnUHFhjWc_9_14 D1X6qXkLjYE_41_49 yvfhk1kwKls_103_113
+
+aadr:     831
+sent:     a dog opens a can of food
+cluster:  MWvCcwTw7Ac_154_181 MWvCcwTw7Ac_154_181
+
+aadr:     832
+sent:     a man is eating a food
+cluster:  sZf3VDsdDPM_107_114
+
+aadr:     833
+sent:     a clown is singing
+cluster:  labytsb3gfI_146_154 labytsb3gfI_146_154 labytsb3gfI_146_154
+
+aadr:     834
+sent:     the woman is frying a breaded pork chop
+cluster:  6t0BpjwYKco_261_284
+
+aadr:     835
+sent:     a man is eating a banana by a tree
+cluster:  hkkmKk9LcQk_36_43
+
+aadr:     836
+sent:     someone is playing a piano
+cluster:  N5wsl86P37Q_1_15 dJ3ba9zwx6c_5_15 dJ3ba9zwx6c_5_15 dJ3ba9zwx6c_5_15 emblM4a76jg_5_15 zFIn8DeV5PM_20_33 ry7AUQtuwdU_4_39 po2tcrG6KzM_2_8
+
+aadr:     837
+sent:     the woman is cutting cooked octopus
+cluster:  PHDmVhShE80_20_29
+
+aadr:     838
+sent:     a man is jumping rope outside
+cluster:  lFyPUgJCmtU_100_110 lFyPUgJCmtU_100_110
+
+aadr:     839
+sent:     the woman is putting paste into a dish
+cluster:  PeUHy0A1GF0_51_55
+
+aadr:     840
+sent:     men are running a race
+cluster:  -dm-ds5rRaM_44_52 muI1BFsdbdo_33_45 u4T76jsPin0_0_11
+
+aadr:     841
+sent:     A man is spreading out dough.
+cluster:  jxdubZzQrio_33_46 jxdubZzQrio_33_46 jxdubZzQrio_33_46
+
+aadr:     842
+sent:     a woman is playing a flute
+cluster:  -Ms9tsWmhyU_80_95
+
+aadr:     843
+sent:     a man pours cleaner in his sink
+cluster:  zWVQImPY2Cc_27_44
+
+aadr:     844
+sent:     a woman is slicing a onion
+cluster:  klFyrnrUSck_13_19 04Gt01vatkk_248_265
+
+aadr:     845
+sent:     a boy is trying to say firetruck
+cluster:  _pj2Nutu5v8_1_8
+
+aadr:     846
+sent:     a man is putting garlic on some bread slices
+cluster:  IpHJffM3G1c_464_470
+
+aadr:     847
+sent:     a person is boiling noodles
+cluster:  -wa0umYJVGg_286_290
+
+aadr:     848
+sent:     a little girl is playing a grand piano on stage
+cluster:  OO-5-eVEKPA_25_31 OO-5-eVEKPA_25_31
+
+aadr:     849
+sent:     two men are fistfighting in a ring
+cluster:  DB-3-TVjrxU_58_75
+
+aadr:     850
+sent:     a young boy sings and plays a guitar
+cluster:  N2Cm0SLr0ZE_18_29
+
+aadr:     851
+sent:     a slow loris is biting a persons finger
+cluster:  45AGQSbodbU_5_15
+
+aadr:     852
+sent:     a man is playing guitar
+cluster:  EiylMb_mWk4_2_20 MWzeInQaUk4_12_20 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 _pBeOAMjGm8_1_18 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 IiH6yl3j4gI_20_30 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 JsD6uEZsIsU_1_47 W8l_ezoU8Lc_76_86 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 ITNh8tWZPOA_5_25 _KMoC6ZdeXs_10_16 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 X4yzrIc072w_4_20 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 LqPIBHAmt4E_22_30 9IrWyZ0KZuk_160_166 9IrWyZ0KZuk_160_166 C2rDp6FnbP0_10_17 C2rDp6FnbP0_10_17 SJZFNwfcSOw_3_18 SJZFNwfcSOw_3_18 326U8N2husw_26_28 326U8N2husw_26_28 326U8N2husw_26_28 326U8N2husw_26_28 kI6MWZrl8v8_149_161 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 cM55xNJ_pfU_1_20 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 W8l_ezoU8Lc_156_162 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 SFFfhAUEoj0_10_16 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 xpOYXbMDDBY_1_20 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 4UOVKok7j1U_1_8 hoinj6vyQ2g_8_16 hoinj6vyQ2g_8_16 xb-Nacm-pKc_78_82 W8l_ezoU8Lc_55_70 W8l_ezoU8Lc_55_70 9uDPqigcnzw_36_46 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 cLNrpO6wBk4_37_47 LLkehH86ABY_30_36 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 owiXDr1xQ8Y_66_75 P2WM91LENgk_40_50 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 FvfjDQj5sOY_1_10 mYzajpeAWuA_100_112 mYzajpeAWuA_100_112 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 JsD6uEZsIsU_45_58 jI58q6rcNLc_8_18 tn1d5DmdMqY_15_28 tn1d5DmdMqY_15_28 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 7_XASfcYdBk_3_13 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 k-SWy-sU8cE_5_10 G_hxdUG6QXE_23_28 G_hxdUG6QXE_23_28 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 QHkvBU8diwU_1_18 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 30PpKtVT8Z4_35_50 lSnWhsmlGec_5_10 EpMuCrbxE8A_107_115 EpMuCrbxE8A_107_115 81fABEiwcIM_31_45 81fABEiwcIM_31_45 k9Brw_0gncU_14_33 QA_JTtM1hKA_5_15 7NNg0_n-bS8_21_30 7NNg0_n-bS8_21_30
+
+aadr:     853
+sent:     A woman is slicing a potato.
+cluster:  1sffYOXq4Iw_23_49 s20OlIRK340_147_174 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 qeKX-N1nKiM_68_72 iEW-EkPQywU_61_83 iEW-EkPQywU_61_83 iEW-EkPQywU_61_83 IhwPQL9dFYc_61_75 0lh_UWF9ZP4_21_26 0lh_UWF9ZP4_21_26 -rvjK0lE3z4_33_43
+
+aadr:     854
+sent:     a man is walking down a road
+cluster:  jlahRlo4jlU_30_36 jlahRlo4jlU_30_36 jlahRlo4jlU_30_36 jlahRlo4jlU_30_36
+
+aadr:     855
+sent:     a man plays a guitar
+cluster:  _pBeOAMjGm8_1_18 IiH6yl3j4gI_20_30 JsD6uEZsIsU_1_47 DDtX5a-OgLQ_1_15 ITNh8tWZPOA_5_25 LqPIBHAmt4E_22_30 9IrWyZ0KZuk_160_166 SJZFNwfcSOw_3_18 cM55xNJ_pfU_1_20 WpB4-eLyiBc_10_20 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 fgWFxFg7-GU_10_26 W8l_ezoU8Lc_55_70 9uDPqigcnzw_36_46 g36ho6UrBz0_5_20 g36ho6UrBz0_5_20 mYzajpeAWuA_100_112 jI58q6rcNLc_8_18 Ugb_uH72d0I_8_17 Ugb_uH72d0I_8_17 lv8d_qLLqsk_1_20 lv8d_qLLqsk_1_20 81fABEiwcIM_31_45
+
+aadr:     856
+sent:     a young girl is using sign language
+cluster:  Oq3FV_zdyy0_843_855
+
+aadr:     857
+sent:     A man and woman are walking together through the woods.
+cluster:  rw9h_574HxE_127_133
+
+aadr:     858
+sent:     a man shows off a small monkey
+cluster:  LwvyrDxM2G0_0_11
+
+aadr:     859
+sent:     a couple of policewomen are singing karaoke
+cluster:  PxygpGLKEps_410_420
+
+aadr:     860
+sent:     a man is singing while walking down the sidewalk
+cluster:  rV5VmhY3-Sw_65_76
+
+aadr:     861
+sent:     A woman is cutting broccoli.
+cluster:  aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 aeA-HN7BMdo_34_41 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165 BVjvRpmHg0w_157_165
+
+aadr:     862
+sent:     a man drives a car
+cluster:  3ftaoFnhTyY_140_150 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 gHzws6FpuNE_10_12 fjDvKHkmxs0_119_126 fjDvKHkmxs0_119_126
+
+aadr:     863
+sent:     the person is riding the horse
+cluster:  WeOU0Iba1Xg_1_30
+
+aadr:     864
+sent:     a woman is playing the flute
+cluster:  Ea0thGZKPXA_25_35 6FmN22YcVVE_11_18 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 e-sf-hyrkTs_20_35 -Ms9tsWmhyU_80_95 -Ms9tsWmhyU_80_95 -Ms9tsWmhyU_80_95 -Ms9tsWmhyU_80_95
+
+aadr:     865
+sent:     a man jumps onto a short wall
+cluster:  ItFqogTmAvQ_48_52
+
+aadr:     866
+sent:     a man is running down a road
+cluster:  xxHx6s_DbUo_32_36 dfOuTx66bJU_34_39 2YhDTpzxd3c_22_27
+
+aadr:     867
+sent:     A man cuts an onion.
+cluster:  m1NR0uNNs5Y_57_64 nq4hG6qgyPs_240_251 zHy7pM0U49w_103_109 X6uJyuD_Zso_3_17
+
+aadr:     868
+sent:     a monkey pratices martial arts
+cluster:  hNPZmTlY_3Q_0_8
+
+aadr:     869
+sent:     someone is playing with a toad
+cluster:  00jrXRMlZOY_0_10
+
+aadr:     870
+sent:     a kid is playing guitar
+cluster:  tYQ7O6V0Fvk_20_55 kI6MWZrl8v8_149_161 LLkehH86ABY_30_36 Pm9L60YBj3s_0_32 Ya-MkA187c8_36_45 dQmaVQZz7EE_1_18
+
+aadr:     871
+sent:     a person is writing
+cluster:  zCf8NWJ8kzA_47_52 zCf8NWJ8kzA_47_52 zCf8NWJ8kzA_47_52 zCf8NWJ8kzA_47_52
+
+aadr:     872
+sent:     a little girl plays the violin on a beach
+cluster:  wn9rDTZj-m4_8_18
+
+aadr:     873
+sent:     a woman is lying on a blanket on a rock and reading a book
+cluster:  CulG2SMC7DU_14_25
+
+aadr:     874
+sent:     a man is dancing upside-down on the ceiling
+cluster:  5XxshEdcfAM_96_107
+
+aadr:     875
+sent:     A man plays a keyboard.
+cluster:  N5wsl86P37Q_1_15 akXjIEoecNs_2_12 zFIn8DeV5PM_20_33 Wv3u2q3oGeU_35_45 ry7AUQtuwdU_4_39 po2tcrG6KzM_2_8 po2tcrG6KzM_2_8 po2tcrG6KzM_2_8 haJn6k5zVnE_1_23
+
+aadr:     876
+sent:     A woman is playing an acoustic guitar and singing.
+cluster:  Rf0TUCA3XNs_3_16 1N_Ic2pBM1o_2_23
+
+aadr:     877
+sent:     Two men are playing ping pong.
+cluster:  hxZ-5wELSJM_0_12 hxZ-5wELSJM_0_12 hxZ-5wELSJM_0_12 fr9H1WLcF1A_256_261 fr9H1WLcF1A_256_261
+
+aadr:     878
+sent:     The woman is eating.
+cluster:  Z8rTzW9Gb6Y_116_123 Z8rTzW9Gb6Y_116_123
+
+aadr:     879
+sent:     someone is putting ingredients into a wok
+cluster:  WTf5EgVY5uU_121_135
+
+aadr:     880
+sent:     a man severs the toe of an empty leather boot using a sword
+cluster:  8PQiaurIiDM_143_151
+
+aadr:     881
+sent:     a man is riding a bicycle
+cluster:  D-K3ThvAqfo_126_130 lAznAeFFldg_6_10
+
+aadr:     882
+sent:     two men are fighting in a cow pasture
+cluster:  dvhJGidrrKE_254_260 dvhJGidrrKE_254_260 dvhJGidrrKE_247_252
+
+aadr:     883
+sent:     A woman is putting on makeup.
+cluster:  tIMDKdMnNYM_266_273 buJ5HDCinrM_150_166 buJ5HDCinrM_150_166 buJ5HDCinrM_150_166 buJ5HDCinrM_150_166 O9yLRzpPp44_167_190 oSnYUfCGiCA_7_17 b4FM9OLBGyM_37_49 -joBOHlg5J0_72_80 wX-Bl25Htag_104_115
+
+aadr:     884
+sent:     a monkey is karate kicking a person
+cluster:  hNPZmTlY_3Q_0_8
+
+aadr:     885
+sent:     a white cat perched on a small wooden cabinet is looking outside the window
+cluster:  MY-rGamtAJc_6_22
+
+aadr:     886
+sent:     someone fell off a horse
+cluster:  onW5hJXnI5s_126_133
+
+aadr:     887
+sent:     a man and a woman shake hands
+cluster:  s0hwEUC5emA_127_132 s0hwEUC5emA_127_132
+
+aadr:     888
+sent:     a man and woman is eating
+cluster:  sZf3VDsdDPM_107_114
+
+aadr:     889
+sent:     A cheetah is running behind its prey.
+cluster:  TxzxPyfsSxY_0_10
+
+aadr:     890
+sent:     a woman boils eggs
+cluster:  -wa0umYJVGg_100_115
+
+aadr:     891
+sent:     a woman serving volleyballs over a net
+cluster:  bmxIurBrW5s_51_70
+
+aadr:     892
+sent:     two teams are playing soccer
+cluster:  hNOzHvsEmg4_31_36 mCrRHP4LFmo_24_40 mCrRHP4LFmo_24_40 VU4qLrk5axA_40_58
+
+aadr:     893
+sent:     a woman is slicing garlics
+cluster:  m1NR0uNNs5Y_192_198
+
+aadr:     894
+sent:     a woman is cleaning a shrimp
+cluster:  kWLNZzuo3do_152_164 qeKX-N1nKiM_37_43
+
+aadr:     895
+sent:     A person is playing the keyboard.
+cluster:  N5wsl86P37Q_1_15 N5wsl86P37Q_1_15 FXWdmIHXS_U_3_10 ry7AUQtuwdU_4_39 po2tcrG6KzM_2_8
+
+aadr:     896
+sent:     a woman is slicing an onion
+cluster:  aeA-HN7BMdo_16_33 aeA-HN7BMdo_16_33 aeA-HN7BMdo_16_33 aeA-HN7BMdo_16_33 klFyrnrUSck_13_19 klFyrnrUSck_13_19 klFyrnrUSck_13_19 klFyrnrUSck_13_19 klFyrnrUSck_13_19 klFyrnrUSck_13_19 klFyrnrUSck_13_19 klFyrnrUSck_13_19 kWLNZzuo3do_17_23 m1NR0uNNs5Y_123_129 m1NR0uNNs5Y_123_129 TgFmoZj3NoM_10_18 04Gt01vatkk_248_265 04Gt01vatkk_248_265 04Gt01vatkk_248_265 6t0BpjwYKco_15_31 6t0BpjwYKco_15_31 WTf5EgVY5uU_33_39 WTf5EgVY5uU_33_39 WTf5EgVY5uU_33_39 WTf5EgVY5uU_33_39 WTf5EgVY5uU_33_39 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 WTf5EgVY5uU_32_52 m1NR0uNNs5Y_88_94 ObBss94n3gI_35_46 ObBss94n3gI_35_46 m1NR0uNNs5Y_57_64 m1NR0uNNs5Y_57_64 m1NR0uNNs5Y_104_110 m1NR0uNNs5Y_104_110 m1NR0uNNs5Y_104_110 m1NR0uNNs5Y_104_110 m1NR0uNNs5Y_104_110
+
+aadr:     897
+sent:     a person is writing with a pencil
+cluster:  zCf8NWJ8kzA_47_52
+
+aadr:     898
+sent:     a woman cuts up a vegetable
+cluster:  6t0BpjwYKco_53_59
+
+aadr:     899
+sent:     a woman is using a sewing machine
+cluster:  aJoDt4DMkFU_118_124 aJoDt4DMkFU_118_124
+

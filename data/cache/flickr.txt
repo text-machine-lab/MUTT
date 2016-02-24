@@ -1,0 +1,100 @@
+aadr:     0
+sent:     A white and brown dog is walking through the water.
+cluster:  3682277595_55f8b16975.jpg
+
+aadr:     1
+sent:     two dogs run through the park
+cluster:  2663248626_f000f2661d.jpg
+
+aadr:     2
+sent:     somebody in the air on a board
+cluster:  2971431335_e192613db4.jpg
+
+aadr:     3
+sent:     a man wearing a long sleeved blue shirt and jeans is riding a unicycle down a street
+cluster:  3705430840_e108de78bf.jpg
+
+aadr:     4
+sent:     a woman is standing at the beach with her dog on a leash
+cluster:  2786299623_a3c48bd318.jpg
+
+aadr:     5
+sent:     a brown dog is running after a black dog on a rocky shore
+cluster:  1056873310_49c665eb22.jpg
+
+aadr:     6
+sent:     a brown dog is running across the yard with its toy in its mouth
+cluster:  316833109_6500b526dc.jpg
+
+aadr:     7
+sent:     A motorcycle rider starts to sand up on the seat of his white motorcycle.
+cluster:  2719102611_fef453bf30.jpg
+
+aadr:     8
+sent:     A black dog and a white dog with brown spots are staring at each other in the street.
+cluster:  1001773457_577c3a7d70.jpg
+
+aadr:     9
+sent:     a man with a white hat and brown shirt, behind a woman in red, looks to the left
+cluster:  3173157541_70b16b4318.jpg
+
+aadr:     10
+sent:     a woman is looking down and wearing a white hair piece that looks like a wedding veil
+cluster:  2286235203_af3cd8f243.jpg
+
+aadr:     11
+sent:     a brown and black dog runs through the leaves
+cluster:  380041023_0dfd712ef1.jpg
+
+aadr:     12
+sent:     child in light colored clothing standing with arms extended outward
+cluster:  698107542_3aa0ba78b4.jpg
+
+aadr:     13
+sent:     two people on a bench
+cluster:  269898095_d00ac7d7a4.jpg
+
+aadr:     14
+sent:     a bee clings to a yellow flower
+cluster:  463786229_b54c9a3436.jpg
+
+aadr:     15
+sent:     two dogs playing on a beach
+cluster:  1056873310_49c665eb22.jpg
+
+aadr:     16
+sent:     women wearing bunny ears and race numbers point at something in the distance
+cluster:  2607383384_d9ce9de793.jpg
+
+aadr:     17
+sent:     a bearded man is standing by a shopping cart holding up a cardboard sign
+cluster:  518251319_40e031e818.jpg
+
+aadr:     18
+sent:     two women, one in white, one in black, are sitting on a bench
+cluster:  3608567609_aae96d4a5e.jpg
+
+aadr:     19
+sent:     a lone bicyclists jumping in the air over a ramp.
+cluster:  2905948395_ca3e6b3c9a.jpg
+
+aadr:     20
+sent:     a child makes a ball out of snow
+cluster:  2052702658_da1204f6d1.jpg
+
+aadr:     21
+sent:     woman wearing a blue shirt with a white vest and a white cap talking while marching
+cluster:  2354829523_9542fc74ba.jpg
+
+aadr:     22
+sent:     A man dressed in black rides a green bike.
+cluster:  3122938209_2b2c6c1fab.jpg
+
+aadr:     23
+sent:     a surfer rides the wave
+cluster:  3073535022_4af81f360c.jpg 3707990914_843e8f15f1.jpg
+
+aadr:     24
+sent:     a person stands in the snow at the edge of a mountain
+cluster:  3352199368_b35f25793e.jpg
+
