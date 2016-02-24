@@ -1,2 +1,2 @@
-# MUT
-machine translation Metrics Unit Testing
+# MUTT
+Metrics Unit TesTing (MUTT) for machine translation and other similarity metrics.
