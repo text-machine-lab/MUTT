@@ -1,7 +1,0 @@
-# Ignore everying in this directory...
-*
-
-# ...except for this file.
-!.gitignore
-# ... and python files
-!*.py
