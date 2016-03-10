@@ -37,12 +37,13 @@ def main():
 
   for corruption, entries in corruptions.items():
     # If these files already exist, skip the corruption gathering and go to metrics testing.
-    if writer.check_json(corruption):
-       print "JSON files for", corruption, "found. Clear tmp to redo reference gathering." 
+    if writer.check_json(corruption) and writer.check_xml(corruption):
+       print "Files for", corruption, "found. Clear tmp to redo reference gathering." 
        continue
 
     # Open files
     json_files = writer.init_json(corruption)
+    xml_files  = writer.init_xml(corruption)
 
     print corruption, len(entries)
     print "Gathering references for each entry in", corruption, "..."
@@ -54,62 +55,24 @@ def main():
       # We only want entries with 20+ references
       if len(refs) >= 20:
         writer.write_json(json_files, entry, refs)
+        writer.write_xml(xml_files, entry, refs)
 
     # Close files
     writer.close_json(json_files)
+    writer.close_xml(xml_files)
 
   # Run metrics tests
+#  coco_file = open(os.path.join(RES_DIR, 'coco.txt'), 'w')
+#  badger_file = open(os.path.join(RES_DIR, 'badger.txt'), 'w')
+  terp_file = open(os.path.join(RES_DIR, 'terp.txt'), 'w')
   for corruption in corruptions.keys():
-    sent_a  = os.path.join(TMP_DIR, corruption + '_a.json') 
-    sent_b  = os.path.join(TMP_DIR, corruption + '_b.json')
-    refs_5  = os.path.join(TMP_DIR, corruption + '_r5.json')
-    refs_10 = os.path.join(TMP_DIR, corruption + '_r10.json')
-    refs_20 = os.path.join(TMP_DIR, corruption + '_r20.json')
+#    metrics.coco(*writer.files_json(corruption), corruption=corruption, f=coco_file)
+#    metrics.badger(*writer.files_xml(corruption), corruption=corruption, f=badger_file)
+    metrics.terp(*writer.files_xml(corruption), corruption=corruption, f=terp_file)
+  terp_file.close()
+#  badger_file.close()
+#  coco_file.close()
 
-    with open(os.path.join(RES_DIR, 'coco.txt'), 'a') as f:
-      print >>f, "Corruption:", corruption
-      print >>f, "#  References:     5   |    10   |    20"
-      print >>f, "-----------------------+---------+---------"
-      coco_results= [coco_accuracy(sent_a, sent_b, refs_5,  metrics.coco),
-                     coco_accuracy(sent_a, sent_b, refs_10, metrics.coco),
-                     coco_accuracy(sent_a, sent_b, refs_20, metrics.coco)]
-      for metric in coco_results[0].keys():
-        print >>f, "   %10s: %0.5f | %0.5f | %0.5f" % (metric, 
-                                                   coco_results[0][metric], 
-                                                   coco_results[1][metric], 
-                                                   coco_results[2][metric])
-      print >>f, "-----------------------+---------+---------"
-      print >>f, ""
-
-def coco_accuracy(sent_a, sent_b, refs, eval_func):
-  """
-    A special function for the coco-caption metric 
-    to extract the accuracy of all the metrics that were run.
-  """
-  res   = {}
-  total = 0.0
-  for a, b in zip(eval_func(sent_a, refs), eval_func(sent_b, refs)):
-    for metric in a.keys():
-      if a[metric] > b[metric]:
-        try:
-          res[metric] += 1
-        except:
-          res[metric]  = 1
-    total += 1
-
-  for metric in res.keys():
-    res[metric] /= total
-  return res
-
-
-def calculate_accuracy(sent_a, sent_b, refs, eval_func):
-  total = 0
-  right = 0.0
-  for a, b in zip(eval_func(sent_a, refs), eval_func(sent_b, refs)):
-    if a > b:
-      right += 1
-    total += 1
-  return right/total
 
 if __name__ == '__main__':
   main()
