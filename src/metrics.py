@@ -238,6 +238,8 @@ def terp_accuracy(sent_a, sent_b, refs):
   total = 0.0
   for a,b in zip(terp_eval(sent_a, refs), terp_eval(sent_b, refs)):
     # note: terp gives a higher score to the worst candidate
+    print "a:", a
+    print "b:", b
     if a < b:
       count += 1
     total += 1
@@ -250,7 +252,7 @@ def terp_eval(cand_file, ref_file):
   """
 
   param_file = os.path.join(METRICS_DIR, 'terp', 'willie', 'params.param')
-  res_file   = os.path.join(METRICS_DIR, 'terp', 'willie', 'out.')
+  res_file   = cand_file
   phrase_db = os.path.join(METRICS_DIR, 'terp', 'data', 'phrases.db')
   with open(param_file, 'w') as f:
       print >>f, 'Phrase Database (filename)               : ' + phrase_db
@@ -265,13 +267,11 @@ def terp_eval(cand_file, ref_file):
   cmd = '%s %s' % (terpa,param_file)
   status,output = commands.getstatusoutput(cmd)
 
-  print output
   # parse results
   scores = list()
-  with open(res_file + 'sample.seg.scr') as f:
+  with open(res_file + '.seg.scr', 'r') as f:
     for line in f:
-      print line 
-      scores.append(float(line.split()[4]))
+      scores.append(float(line.split()[3]))
 
   return scores
 

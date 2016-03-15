@@ -62,16 +62,16 @@ def main():
     writer.close_xml(xml_files)
 
   # Run metrics tests
-#  coco_file = open(os.path.join(RES_DIR, 'coco.txt'), 'w')
-#  badger_file = open(os.path.join(RES_DIR, 'badger.txt'), 'w')
+  coco_file = open(os.path.join(RES_DIR, 'coco.txt'), 'w')
+  badger_file = open(os.path.join(RES_DIR, 'badger.txt'), 'w')
   terp_file = open(os.path.join(RES_DIR, 'terp.txt'), 'w')
   for corruption in corruptions.keys():
-#    metrics.coco(*writer.files_json(corruption), corruption=corruption, f=coco_file)
-#    metrics.badger(*writer.files_xml(corruption), corruption=corruption, f=badger_file)
+    metrics.coco(*writer.files_json(corruption), corruption=corruption, f=coco_file)
+    metrics.badger(*writer.files_xml(corruption), corruption=corruption, f=badger_file)
     metrics.terp(*writer.files_xml(corruption), corruption=corruption, f=terp_file)
   terp_file.close()
-#  badger_file.close()
-#  coco_file.close()
+  badger_file.close()
+  coco_file.close()
 
 
 if __name__ == '__main__':

@@ -197,25 +197,20 @@ def init_xml(corruption):
   f_refs_20 = open(os.path.join(TMP_DIR, corruption + '_r20.xml'), 'w')
 
   f_sent_a.write('<?xml version="1.0" encoding="UTF-8"?>\n\
-                  <!DOCTYPE mteval SYSTEM "foo">\n\
                   <mteval>\n\
                   <tstset setid="example_set" srclang="bar" trglang="baz" sysid="sample_system">\n\
                   <doc docid="doc1" genre="nw">\n\
                   <p>\n')
   f_sent_b.write('<?xml version="1.0" encoding="UTF-8"?>\n\
-                  <!DOCTYPE mteval SYSTEM "foo">\n\
                   <mteval>\n\
                   <tstset setid="example_set" srclang="bar" trglang="baz" sysid="sample_system">\n\
                   <doc docid="doc1" genre="nw">\n\
                   <p>\n')
   f_refs_5.write('<?xml version="1.0" encoding="UTF-8"?>\n\
-                  <!DOCTYPE mteval SYSTEM "foo">\n\
                   <mteval>\n')
   f_refs_10.write('<?xml version="1.0" encoding="UTF-8"?>\n\
-                   <!DOCTYPE mteval SYSTEM "foo">\n\
                    <mteval>\n')
   f_refs_20.write('<?xml version="1.0" encoding="UTF-8"?>\n\
-                   <!DOCTYPE mteval SYSTEM "foo">\n\
                    <mteval>\n')
 
   # psuedo-static variables for write_xml
