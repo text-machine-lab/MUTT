@@ -14,8 +14,10 @@
 
 import os
 import re
-from collections import defaultdict
+import random
 
+from collections import defaultdict
+from pattern.en import parse
 from read_data import sick
 from tools import edit_distance
 
@@ -180,14 +182,16 @@ def are_sem_opposites(entry):
 #  main                                                                        #
 ################################################################################
 
-corruptions = {
-                'passive':(is_corruption_passive, 'active to passive') ,
-                'neg_subj':(is_corruption_negated_subj, 'negated subject') ,
-                'neg_verb':(is_corruption_negated_verb, 'negated action') ,
-                'shuffled':(is_corruption_shuffled, 're-order words') ,
-                'det_sub':(is_corruption_det_replace, 'replace DTs') ,
-                'near_syms':(are_near_synonyms, 'synonyms/similar word replacement'),
+corruptions = { 
+# Meaning altering
                 'sem_opps':(are_sem_opposites, 'Replace words with semantic opposites'),
+                'neg_subj': (is_corruption_negated_subj, 'negated subject') ,
+                'neg_verb': (is_corruption_negated_verb, 'negated action') ,
+                'shuffled': (is_corruption_shuffled, 're-order words') ,
+# Meaning preserving
+                'det_sub': (is_corruption_det_replace, 'replace DTs') ,
+                'near_syms': (are_near_synonyms, 'synonyms/similar word replacement'),
+                'passive': (is_corruption_passive, 'active to passive') ,
               }
 
 def gather_corruptions():
@@ -204,7 +208,7 @@ def gather_corruptions():
     filtered = filter(same_orig, sick)
 
     # for each corruption
-    for corruption,(f_corr, description) in corruptions.items():
+    for corruption, (f_corr, description) in corruptions.items():
         out[corruption] = apply_corruption(filtered, corruption, f_corr, description)
    
     return out
@@ -279,7 +283,7 @@ def apply_corruption(entries, corruption, f_corr, description):
             print >>f, '\tsent:       ', sent
             print >>f, '\tcorr:       ', corr
             print >>f, '\tscore:      ', score
-        return ranked
+    return ranked
 
 if __name__ == '__main__':
     gather_corruptions()

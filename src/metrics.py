@@ -28,6 +28,9 @@ sys.path.append(os.path.join(METRICS_DIR, 'coco-caption'))
 from pycocotools.coco import COCO
 from pycocoevalcap.eval import COCOEvalCap
 
+# The set of meaning preserving corruptions
+m_p = set(['det_sub', 'near_syms', 'passive'])
+
 def coco(sent_a, sent_b, ref_5, ref_10, ref_20, corruption, f):
   """
     Runs the coco evaluation for each ref list and prints to the output file.
@@ -36,18 +39,18 @@ def coco(sent_a, sent_b, ref_5, ref_10, ref_20, corruption, f):
   print >>f, "Corruption:", corruption
   print >>f, "#  References:     5   |    10   |    20"
   print >>f, "-----------------------+---------+---------"
-  coco_results= [coco_accuracy(sent_a, sent_b, ref_5),
-                 coco_accuracy(sent_a, sent_b, ref_10),
-                 coco_accuracy(sent_a, sent_b, ref_20)]
+  coco_results= [coco_accuracy(sent_a, sent_b, ref_5, corruption in m_p),
+                 coco_accuracy(sent_a, sent_b, ref_10, corruption in m_p),
+                 coco_accuracy(sent_a, sent_b, ref_20, corruption in m_p)]
   for metric in coco_results[0].keys():
-    print >>f, "   %10s: %0.5f | %0.5f | %0.5f" % (metric, 
-                                               coco_results[0][metric], 
-                                               coco_results[1][metric], 
-                                               coco_results[2][metric])
+    print >>f, "   %10s: %0.1f | %0.1f | %0.1f" % (metric, 
+                                               coco_results[0][metric] * 100, 
+                                               coco_results[1][metric] * 100, 
+                                               coco_results[2][metric] * 100)
   print >>f, "-----------------------+---------+---------"
   print >>f, ""
 
-def coco_accuracy(sent_a, sent_b, refs):
+def coco_accuracy(sent_a, sent_b, refs, near):
   """
     For the coco-caption metric 
     to extract the accuracy of all the metrics that were run.
@@ -56,7 +59,17 @@ def coco_accuracy(sent_a, sent_b, refs):
   total = 0.0
   for a, b in zip(coco_eval(sent_a, refs), coco_eval(sent_b, refs)):
     for metric in a.keys():
-      if a[metric] > b[metric]:
+      # Special case of meaning preserving corruptions
+      if near:
+        # Adding .1 to everything to avoid divide by zero error
+        per_diff = abs(((a[metric]+.1) - (b[metric]+.1)) / float(a[metric] + .1)) * 100
+        # 15 % threshold
+        if per_diff <= 15:
+          try:
+            ret[metric] += 1
+          except:
+            res[metric]  = 1
+      elif a[metric] > b[metric]:
         try:
           res[metric] += 1
         except:
@@ -106,14 +119,14 @@ def badger(sent_a, sent_b, ref_5, ref_10, ref_20, corruption, f):
   print >>f, "Corruption:", corruption
   print >>f, "#  References:     5   |    10   |    20"
   print >>f, "-----------------------+---------+---------"
-  print >>f, "   %10s: %0.5f | %0.5f | %0.5f" % ('badger',
-                                                 badger_accuracy(sent_a, sent_b, ref_5), 
-                                                 badger_accuracy(sent_a, sent_b, ref_10), 
-                                                 badger_accuracy(sent_a, sent_b, ref_20)) 
+  print >>f, "   %10s: %0.1f | %0.1f | %0.1f" % ('badger',
+                                                 badger_accuracy(sent_a, sent_b, ref_5, corruption in m_p) * 100, 
+                                                 badger_accuracy(sent_a, sent_b, ref_10, corruption in m_p) * 100, 
+                                                 badger_accuracy(sent_a, sent_b, ref_20, corruption in m_p) * 100) 
   print >>f, "-----------------------+---------+---------"
   print >>f, ""
 
-def badger_accuracy(sent_a, sent_b, refs):
+def badger_accuracy(sent_a, sent_b, refs, near):
   """
     Calculates the accuracy for the badger metric.
   """
@@ -121,7 +134,13 @@ def badger_accuracy(sent_a, sent_b, refs):
   count = 0.0
   total = 0.0
   for a,b in zip(badger_eval(sent_a, refs), badger_eval(sent_b, refs)):
-    if a > b:
+    # Special case of meaning preserving corruptions
+    if near:
+      per_diff = abs(((a+.1) - (b+.1)) / float(a+.1)) * 100
+      # 15 % threshold
+      if per_diff <= 15:
+        count += 1
+    elif a > b:
       count += 1
     total += 1
   return count / total
@@ -222,14 +241,14 @@ def terp(sent_a, sent_b, ref_5, ref_10, ref_20, corruption, f):
   print >>f, "Corruption:", corruption
   print >>f, "#  References:     5   |    10   |    20"
   print >>f, "-----------------------+---------+---------"
-  print >>f, "   %10s: %0.5f | %0.5f | %0.5f" % ('terp',
-                                                 terp_accuracy(sent_a, sent_b, ref_5), 
-                                                 terp_accuracy(sent_a, sent_b, ref_10), 
-                                                 terp_accuracy(sent_a, sent_b, ref_20)) 
+  print >>f, "   %10s: %0.1f | %0.1f | %0.1f" % ('terp',
+                                                 terp_accuracy(sent_a, sent_b, ref_5,  corruption in m_p) * 100, 
+                                                 terp_accuracy(sent_a, sent_b, ref_10, corruption in m_p) * 100, 
+                                                 terp_accuracy(sent_a, sent_b, ref_20, corruption in m_p) * 100) 
   print >>f, "-----------------------+---------+---------"
   print >>f, ""
 
-def terp_accuracy(sent_a, sent_b, refs):
+def terp_accuracy(sent_a, sent_b, refs, near):
   """
     Calculates the accuracy for the nist metric.
   """
@@ -237,10 +256,14 @@ def terp_accuracy(sent_a, sent_b, refs):
   count = 0.0
   total = 0.0
   for a,b in zip(terp_eval(sent_a, refs), terp_eval(sent_b, refs)):
+    # Special case of meaning preserving corruptions
+    if near:
+      per_diff = abs(((a+.1) - (b+.1)) / float(a+.1)) * 100
+      # 15 % threshold
+      if per_diff <= 15:
+        count += 1
     # note: terp gives a higher score to the worst candidate
-    print "a:", a
-    print "b:", b
-    if a < b:
+    elif a < b:
       count += 1
     total += 1
   return count / total
@@ -266,6 +289,8 @@ def terp_eval(cand_file, ref_file):
   # invoke terp
   cmd = '%s %s' % (terpa,param_file)
   status,output = commands.getstatusoutput(cmd)
+
+  print output
 
   # parse results
   scores = list()
