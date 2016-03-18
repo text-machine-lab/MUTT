@@ -62,11 +62,11 @@ def coco_accuracy(sent_a, sent_b, refs, near):
       # Special case of meaning preserving corruptions
       if near:
         # Adding .1 to everything to avoid divide by zero error
-        per_diff = abs(((a[metric]+.1) - (b[metric]+.1)) / float(a[metric] + .1)) * 100
+        per_diff = abs((a[metric] - b[metric]) / float(a[metric] + 1e-9)) * 100
         # 15 % threshold
         if per_diff <= 15:
           try:
-            ret[metric] += 1
+            res[metric] += 1
           except:
             res[metric]  = 1
       elif a[metric] > b[metric]:
@@ -136,7 +136,7 @@ def badger_accuracy(sent_a, sent_b, refs, near):
   for a,b in zip(badger_eval(sent_a, refs), badger_eval(sent_b, refs)):
     # Special case of meaning preserving corruptions
     if near:
-      per_diff = abs(((a+.1) - (b+.1)) / float(a+.1)) * 100
+      per_diff = abs((a - b) / float(a+1e-9)) * 100
       # 15 % threshold
       if per_diff <= 15:
         count += 1
@@ -258,7 +258,7 @@ def terp_accuracy(sent_a, sent_b, refs, near):
   for a,b in zip(terp_eval(sent_a, refs), terp_eval(sent_b, refs)):
     # Special case of meaning preserving corruptions
     if near:
-      per_diff = abs(((a+.1) - (b+.1)) / float(a+.1)) * 100
+      per_diff = abs((a - b) / float(a+1e-9)) * 100
       # 15 % threshold
       if per_diff <= 15:
         count += 1
@@ -289,8 +289,6 @@ def terp_eval(cand_file, ref_file):
   # invoke terp
   cmd = '%s %s' % (terpa,param_file)
   status,output = commands.getstatusoutput(cmd)
-
-  print output
 
   # parse results
   scores = list()
