@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                  <mteval>
+                  <tstset setid="example_set" srclang="bar" trglang="baz" sysid="sample_system">
+                  <doc docid="doc1" genre="nw">
+                  <p>
+<seg id="1"> Different teams are playing football on a field </seg>
+<seg id="2"> A squirrel is running in circles </seg>
+<seg id="3"> Someone is falling off a horse </seg>
+<seg id="4"> A boy is playing a guitar </seg>
+<seg id="5"> A man is playing a flute </seg>
+<seg id="6"> A woman is putting make-up on </seg>
+<seg id="7"> A woman is slicing a clove of garlic </seg>
+<seg id="8"> A man is running on the road </seg>
+<seg id="9"> A man is tying a shoe </seg>
+<seg id="10"> A guy is cheerfully playing with a footbag </seg>
+<seg id="11"> The guitar is being played by the man </seg>
+<seg id="12"> A lion is pacing tiredly in a pen </seg>
+<seg id="13"> A girl is cutting butter into two pieces </seg>
+<seg id="14"> A person is singing and playing a guitar </seg>
+<seg id="15"> A man is playing a guitar </seg>
+<seg id="16"> A man with a hard hat is dancing </seg>
+<seg id="17"> A woman is walking the dog down the street </seg>
+<seg id="18"> A plane is landing </seg>
+<seg id="19"> The man is lifting barbells </seg>
+<seg id="20"> A girl is applying makeup to her face </seg>
+<seg id="21"> A baby is crawling happily </seg>
+<seg id="22"> A man is slicing a tomato </seg>
+<seg id="23"> A woman is squeezing juice out of a lemon </seg>
+<seg id="24"> The woman is slicing herbs </seg>
+<seg id="25"> A woman is cleaning a shrimp </seg>
+<seg id="26"> A man is catching a fish </seg>
+<seg id="27"> A woman is dancing </seg>
+<seg id="28"> A person is writing </seg>
+<seg id="29"> A man is dancing </seg>
+<seg id="30"> A person is peeling an onion </seg>
+<seg id="31"> A woman is dancing and a man is playing the keyboard </seg>
+<seg id="32"> A boy is checking a calendar </seg>
+<seg id="33"> A biker is riding along the top of a fence </seg>
+<seg id="34"> A man is climbing up a rope </seg>
+<seg id="35"> A girl is tapping her fingernails </seg>
+<seg id="36"> A man is typing on a machine used for stenography </seg>
+<seg id="37"> A parrot is speaking </seg>
+<seg id="38"> A man is dangerously throwing knives at a tree </seg>
+<seg id="39"> A cat is playing with a device </seg>
+<seg id="40"> A small boy is playing with a dog </seg>
+<seg id="41"> A cat is eating some corn </seg>
+<seg id="42"> A monkey is brushing the dog </seg>
+<seg id="43"> A person is boiling noodles </seg>
+<seg id="44"> A woman is cooking eggs </seg>
+<seg id="45"> The woman is penciling on eyeshadow </seg>
+<seg id="46"> A man in a suit is standing at a microphone and singing </seg>
+<seg id="47"> A man is pouring oil into a pan </seg>
+<seg id="48"> A person is brushing a cat </seg>
+<seg id="49"> A man is sitting on the floor in a room and strumming a guitar </seg>
+<seg id="50"> The man is cutting the tape on the box </seg>
+<seg id="51"> A man is playing the guitar </seg>
+<seg id="52"> A man and a woman are walking through the woods </seg>
+<seg id="53"> A man is playing a harp </seg>
+<seg id="54"> A man is thinking </seg>
+<seg id="55"> A dog is licking a baby </seg>
+<seg id="56"> A boy is studying a calendar </seg>
+<seg id="57"> A person is scrubbing a zucchini </seg>
+<seg id="58"> A woman is playing a flute </seg>
+<seg id="59"> A cat is playing keyboards </seg>
+<seg id="60"> A man is rising from a swamp </seg>
+<seg id="61"> A man is dancing upside-down on the ceiling </seg>
+<seg id="62"> A girl is exercising </seg>
+<seg id="63"> A woman is peeling a potato </seg>
+<seg id="64"> A person is riding a jetski in the waves </seg>
+<seg id="65"> A small dog is lying on a bed </seg>
+</p>
+</doc>
+</tstset>
+</mteval>

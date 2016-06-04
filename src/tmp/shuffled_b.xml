@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                  <mteval>
+                  <tstset setid="example_set" srclang="bar" trglang="baz" sysid="sample_system">
+                  <doc docid="doc1" genre="nw">
+                  <p>
+<seg id="1"> Four young men are exploding and a car is standing still behind them </seg>
+<seg id="2"> A person is kicking a monkey </seg>
+<seg id="3"> A gloved person is kicking at the hand of a monkey </seg>
+<seg id="4"> The patient is helping the doctor </seg>
+<seg id="5"> A big potato is knocking a green ball </seg>
+<seg id="6"> A dog is teasing a monkey at the zoo </seg>
+<seg id="7"> A man is spanking a boy with a plastic sword </seg>
+<seg id="8"> A man is whacking a boy with a sword </seg>
+<seg id="9"> A woman is playing the keyboard and a man is dancing </seg>
+<seg id="10"> The fish is following the turtle </seg>
+<seg id="11"> The kangaroo is picking up the woman </seg>
+<seg id="12"> A baby is licking a dog </seg>
+<seg id="13"> A woman is talking to a man </seg>
+<seg id="14"> A tiger is aimlessly walking around </seg>
+</p>
+</doc>
+</tstset>
+</mteval>

@@ -1,0 +1,3103 @@
+sem_opps
+Replace words with semantic opposites
+
+num:     619
+mean:    3.68647819063
+stddev:  0.421103294431
+
+
+	dataset:     SEMEVAL
+	orig:        a person is riding a horse
+	sent:        A person is riding a horse
+	corr:        A person is riding a motorbike
+	score:       2.2
+	dataset:     FLICKR
+	orig:        a black dog and small white and black dog look up at a kitchen countertop
+	sent:        A black dog and a small white and black dog are looking up at a kitchen countertop
+	corr:        A black cat and a small white and black cat are looking up at a kitchen countertop
+	score:       2.2
+	dataset:     SEMEVAL
+	orig:        a man is eating
+	sent:        A man is eating
+	corr:        A man is puking
+	score:       2.3
+	dataset:     FLICKR
+	orig:        The woman is performing a trick on a ramp with a bicycle.
+	sent:        A woman is performing a trick on a ramp with a bicycle
+	corr:        A woman is performing a trick on a ramp with a car
+	score:       2.4
+	dataset:     SEMEVAL
+	orig:        A man is crying.
+	sent:        A man is crying
+	corr:        A man is laughing
+	score:       2.5
+	dataset:     FLICKR
+	orig:        a man doing a trick on a skateboard
+	sent:        A man is doing a trick on a skateboard
+	corr:        A man is doing a trick on a bike
+	score:       2.5
+	dataset:     FLICKR
+	orig:        a little dog running on sand
+	sent:        A little dog is running on the sand
+	corr:        No little dog is running on the sand
+	score:       2.5
+	dataset:     FLICKR
+	orig:        A man sitting cross-legged in a field
+	sent:        A man is sitting in a field
+	corr:        A man is running in a field
+	score:       2.6
+	dataset:     FLICKR
+	orig:        A group of people at a distance on a beach.
+	sent:        A group of people is on a beach
+	corr:        A group of people is on a mountain
+	score:       2.6
+	dataset:     SEMEVAL
+	orig:        a man is petting two dogs
+	sent:        A man is petting two dogs
+	corr:        A man is petting two cats
+	score:       2.6
+	dataset:     SEMEVAL
+	orig:        a cat is jumping into a box
+	sent:        A cat is jumping into a box
+	corr:        A dog is jumping into a box
+	score:       2.6
+	dataset:     SEMEVAL
+	orig:        A man is dancing.
+	sent:        A man is dancing
+	corr:        A man is sitting
+	score:       2.7
+	dataset:     SEMEVAL
+	orig:        The man is feeding a mouse to the snake.
+	sent:        The man is cautiously feeding a mouse to the snake
+	corr:        The man isn't cautiously feeding a mouse to the snake
+	score:       2.7
+	dataset:     SEMEVAL
+	orig:        a woman is deboning a fish
+	sent:        A woman is deboning a fish
+	corr:        A woman is freeing a fish
+	score:       2.7
+	dataset:     SEMEVAL
+	orig:        Two men are playing table tennis.
+	sent:        Two men are playing table tennis
+	corr:        Two men are playing table football
+	score:       2.8
+	dataset:     SEMEVAL
+	orig:        a man is singing
+	sent:        A man is singing
+	corr:        A man is silent
+	score:       2.8
+	dataset:     SEMEVAL
+	orig:        someone is folding a piece of paper
+	sent:        Someone is folding a piece of paper
+	corr:        Nobody is folding a piece of paper
+	score:       2.8
+	dataset:     SEMEVAL
+	orig:        the girl trotted the horse
+	sent:        The girl is trotting on the horse
+	corr:        The boy is trotting on the horse
+	score:       2.8
+	dataset:     SEMEVAL
+	orig:        a man is rowing a boat
+	sent:        A man is rowing a boat
+	corr:        A woman is rowing a boat
+	score:       2.8
+	dataset:     FLICKR
+	orig:        a woman in blue has a yellow ball in her mitt
+	sent:        A woman in blue has a yellow ball in the mitt
+	corr:        A man in blue has a yellow ball in the mitt
+	score:       2.8
+	dataset:     FLICKR
+	orig:        a lady stands on the street, surrounded by school children
+	sent:        A lady is standing on the street and is surrounded by school children
+	corr:        No lady is standing on the street and is surrounded by school children
+	score:       2.8
+	dataset:     SEMEVAL
+	orig:        A machine is sharpening a pencil.
+	sent:        A machine is sharpening a pencil
+	corr:        A machine is sharpening a knife
+	score:       2.9
+	dataset:     SEMEVAL
+	orig:        A woman is riding an elephant.
+	sent:        The elephant is being ridden by the woman
+	corr:        The elephant isn't being ridden by the woman
+	score:       2.9
+	dataset:     SEMEVAL
+	orig:        The man is playing the guitar.
+	sent:        The man is intensely playing the guitar
+	corr:        The man isn't intensely playing the guitar
+	score:       2.9
+	dataset:     SEMEVAL
+	orig:        the lady cracked an egg for the mixer
+	sent:        The lady is cracking an egg for the mixer
+	corr:        The lady isn't cracking an egg for the mixer
+	score:       2.9
+	dataset:     SEMEVAL
+	orig:        the girl is riding the horse
+	sent:        The girl is riding the horse
+	corr:        The man is riding the horse
+	score:       2.9
+	dataset:     FLICKR
+	orig:        a man on a motorcycle riding on a track and waving
+	sent:        A man on a motorcycle is riding on a track and waving
+	corr:        A man on a horse is riding on a track and waving
+	score:       2.9
+	dataset:     FLICKR
+	orig:        a woman is looking down and wearing a white hair piece that looks like a wedding veil
+	sent:        A woman is looking down and is wearing a wedding veil
+	corr:        A boy is looking down and wearing a wedding veil
+	score:       2.9
+	dataset:     FLICKR
+	orig:        a soccer player sits on the field drinking water
+	sent:        A soccer player is sitting on the field and is drinking water
+	corr:        A soccer player is sitting on the field and is drinking beer
+	score:       2.9
+	dataset:     FLICKR
+	orig:        a large wet yellow dog retrives his toy
+	sent:        A large wet yellow dog is retrieving a toy
+	corr:        A large wet yellow cat is retrieving a toy
+	score:       2.9
+	dataset:     FLICKR
+	orig:        a boy next to the opening of a fountain
+	sent:        A boy is standing next to the opening of a fountain
+	corr:        A girl is standing next to the opening of a fountain
+	score:       2.9
+	dataset:     FLICKR
+	orig:        the person is hiking
+	sent:        The person is hiking
+	corr:        No person is hiking
+	score:       2.9
+	dataset:     FLICKR
+	orig:        A person in a black jacket doing tricks on a motorbike.
+	sent:        A person in a black jacket is doing tricks on a motorbike
+	corr:        A person on a black motorbike is doing tricks with a jacket
+	score:       3.0
+	dataset:     FLICKR
+	orig:        Two people kiss near a crowd.
+	sent:        Two people are kissing near a crowd
+	corr:        Two people are arguing near a crowd
+	score:       3.0
+	dataset:     SEMEVAL
+	orig:        The lady measured the other woman's ankle.
+	sent:        The lady is measuring the ankle of another woman
+	corr:        The lady isn't measuring the ankle of another woman
+	score:       3.0
+	dataset:     SEMEVAL
+	orig:        a dog opens a can of food
+	sent:        A dog is opening a can of food
+	corr:        A dog is closing a can of food
+	score:       3.0
+	dataset:     SEMEVAL
+	orig:        a dog is watching a store counter
+	sent:        A dog is looking at a store counter
+	corr:        A cat is looking at a store counter
+	score:       3.0
+	dataset:     SEMEVAL
+	orig:        a man is jumping rope outside
+	sent:        A man is jumping rope outside
+	corr:        A woman is jumping rope outside
+	score:       3.0
+	dataset:     SEMEVAL
+	orig:        a kid plays the guitar
+	sent:        A kid is playing the guitar
+	corr:        A kid is playing the piano
+	score:       3.0
+	dataset:     SEMEVAL
+	orig:        a woman is dancing
+	sent:        A woman is dancing
+	corr:        A woman is sleeping
+	score:       3.0
+	dataset:     FLICKR
+	orig:        a surfer rides a big wave across dark green water
+	sent:        A surfer is riding a big wave across dark green water
+	corr:        No surfer is riding a big wave across dark green water
+	score:       3.0
+	dataset:     FLICKR
+	orig:        a man in blue is riding a horse on a dirt road
+	sent:        A man in blue is riding a horse on a dirt road
+	corr:        A woman in blue is riding a horse on a dirt road
+	score:       3.0
+	dataset:     FLICKR
+	orig:        two basketball players are scrambling for the ball on the court
+	sent:        Two basketball players are scrambling for the ball on the court
+	corr:        Two football players are scrambling for the ball on the court
+	score:       3.0
+	dataset:     FLICKR
+	orig:        a blond girl and brunette brown hanging by gymnastic ropes
+	sent:        A blonde girl is hanging by gymnastic ropes
+	corr:        A blonde man is hanging by gymnastic ropes
+	score:       3.0
+	dataset:     FLICKR
+	orig:        a brown and white dog playing on grass
+	sent:        A brown and white dog is playing on the grass
+	corr:        A brown and white cat is playing on the grass
+	score:       3.0
+	dataset:     FLICKR
+	orig:        three dogs on a sidewalk
+	sent:        Three dogs are resting on a sidewalk
+	corr:        Three dogs are resting on a couch
+	score:       3.0
+	dataset:     FLICKR
+	orig:        a man dressed all in black performs a trick on a rail while wearing inline skates
+	sent:        A man dressed in black is wearing inline skates and performing a trick on a rail
+	corr:        A woman dressed in black is wearing inline skates and performing a trick on a rail
+	score:       3.0
+	dataset:     FLICKR
+	orig:        two dogs on a lawn play with a plastic toy, in a distorted photograph
+	sent:        Two dogs on a lawn are playing with a plastic toy
+	corr:        Two cats on a lawn are playing with a plastic toy
+	score:       3.0
+	dataset:     FLICKR
+	orig:        A man, woman, and two girls walk on the beach barefoot.
+	sent:        A man, a woman and two girls are walking on the beach
+	corr:        A man, a woman and two girls are sitting on the beach
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        A baby is laughing.
+	sent:        A baby is laughing
+	corr:        A baby is crying
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        A woman is cutting some flowers.
+	sent:        A woman is cutting some flowers
+	corr:        A woman is planting some flowers
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        A man is cutting an onion.
+	sent:        An onion is being cut by a man
+	corr:        No onion is being cut by a man
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        A lady is playing the guitar.
+	sent:        The guitar is being sold by a lady
+	corr:        The guitar is being played by a lady
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        A teenager talks to a girl over a webcam.
+	sent:        A boy in his teens is talking to a girl with a webcam
+	corr:        A boy in his teens isn't talking to a girl with a webcam
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        a man is tracking in the wood
+	sent:        A man is trekking in the woods
+	corr:        A man is sitting in the woods
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        a person folds a tortilla
+	sent:        A person is folding a tortilla
+	corr:        A person is unfolding a tortilla
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        a man and woman is walking in the grand
+	sent:        A man and a woman are walking
+	corr:        A man and a woman are sitting
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        two men are playing guitar
+	sent:        Two men are playing guitar
+	corr:        Two girls are playing guitar
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        a man is playing the trumpet
+	sent:        A man is playing the trumpet
+	corr:        A woman is playing the trumpet
+	score:       3.1
+	dataset:     FLICKR
+	orig:        a woman dressed in elegant clothing is looking down while inside a crowd of people
+	sent:        A woman dressed in elegant clothing is inside a crowd of people and is looking up
+	corr:        A woman dressed in elegant clothing is inside a crowd of people and is looking down
+	score:       3.1
+	dataset:     FLICKR
+	orig:        a group of people hold drinks and point at the camera
+	sent:        A group of people is holding drinks and pointing at the camera
+	corr:        A group of people is holding food and pointing at the camera
+	score:       3.1
+	dataset:     FLICKR
+	orig:        a woman shows a dog with very long hair at a dog show
+	sent:        A woman is showing a dog with very long hair at a dog show
+	corr:        A woman is showing a dog with very short hair at a dog show
+	score:       3.1
+	dataset:     FLICKR
+	orig:        a small white dog running across a lawn
+	sent:        A small white dog is running across a lawn
+	corr:        A big white dog is running across a lawn
+	score:       3.1
+	dataset:     FLICKR
+	orig:        a boy sits in his seat
+	sent:        A boy is sitting in a seat
+	corr:        A girl is sitting in a seat
+	score:       3.1
+	dataset:     FLICKR
+	orig:        a dog has it's head inside a red and green gift bag
+	sent:        A dog has its head inside a red and green gift bag
+	corr:        A dog has its head outside a red and green gift bag
+	score:       3.1
+	dataset:     FLICKR
+	orig:        a brown and white dog jumps on the sidewalk
+	sent:        A brown and white dog is jumping on the sidewalk
+	corr:        A brown and white cat is jumping on the sidewalk
+	score:       3.1
+	dataset:     FLICKR
+	orig:        the players manuever for the soccer ball
+	sent:        The players is maneuvering for the soccer ball
+	corr:        The players is maneuvering for the basket ball
+	score:       3.1
+	dataset:     FLICKR
+	orig:        a dog runs through the snow
+	sent:        A dog is running through the snow
+	corr:        No dog is running through the snow
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        a man is climbing a rope
+	sent:        A man is climbing a rope
+	corr:        A man is untying a rope
+	score:       3.15
+	dataset:     SEMEVAL
+	orig:        A woman is brushing her feet.
+	sent:        A woman is brushing her feet
+	corr:        A woman is brushing her hand
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        A woman peels a potato.
+	sent:        The potato is being peeled by a woman
+	corr:        The potato isn't being peeled by a woman
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        A man is giving an interview.
+	sent:        The man is denying an interview
+	corr:        The man is granting an interview
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        the man is eating
+	sent:        The man is eating
+	corr:        The man is fasting
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        a man plays the guitar
+	sent:        A man is playing the guitar
+	corr:        A man is dropping the guitar
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        someone is beating an egg
+	sent:        Someone is beating an egg
+	corr:        Nobody is beating an egg
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        someone is playing a piano
+	sent:        Someone is playing a piano
+	corr:        Someone is dismantling a piano
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        the man erased what the other man had on the board
+	sent:        The man is erasing the other man's work from the board
+	corr:        The girl is erasing the other man's work from the board
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        the animal with the big eyes is eating
+	sent:        The animal with big eyes is eating
+	corr:        The animal with big eyes is sleeping
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        an officer is talking to recruits
+	sent:        An officer is talking to the recruits
+	corr:        An officer is listening to the recruits
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        a small dog is laying on a bed
+	sent:        A small dog is lying on a bed
+	corr:        A small cat is lying on a bed
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        two men are fighting
+	sent:        Two men are fighting
+	corr:        Two men are hugging
+	score:       3.2
+	dataset:     FLICKR
+	orig:        a dog running uphill
+	sent:        A dog is running uphill
+	corr:        A dog is running downhill
+	score:       3.2
+	dataset:     FLICKR
+	orig:        two people sitting on a park bench on a sunny day
+	sent:        Two people are sitting on a park bench on a sunny day
+	corr:        Two people are sitting on a park bench on a rainy day
+	score:       3.2
+	dataset:     FLICKR
+	orig:        the people are standing around at a carnival
+	sent:        The people are standing at a carnival
+	corr:        The people are standing at a parade
+	score:       3.2
+	dataset:     FLICKR
+	orig:        two dogs run through the park
+	sent:        Two dogs are running through the park
+	corr:        Two dogs are running through the beach
+	score:       3.2
+	dataset:     FLICKR
+	orig:        a black and brown dog eyeing a fly
+	sent:        A black and brown dog is eyeing a fly
+	corr:        A black and brown cat is eyeing a fly
+	score:       3.2
+	dataset:     FLICKR
+	orig:        a dog in a sandy area with the sand stirred up into the air and several plants in the background
+	sent:        A dog is in a sandy area with the sand that is being stirred up into the air and several plants are in the background
+	corr:        A cat is in a sandy area with the sand that is being stirred up into the air and several plants are in the background
+	score:       3.2
+	dataset:     FLICKR
+	orig:        two men walk through the water
+	sent:        Two men are walking through the water
+	corr:        Two men are walking through the grass
+	score:       3.2
+	dataset:     FLICKR
+	orig:        a white car and a yellow car race down the track
+	sent:        A white car and a yellow car are racing down the track
+	corr:        A white bike and a yellow bike are racing down the track
+	score:       3.2
+	dataset:     FLICKR
+	orig:        several young people posing for this photo holding beers
+	sent:        Several young people are posing for a photo and holding beers
+	corr:        Several old people are posing for a photo and holding beers
+	score:       3.265
+	dataset:     FLICKR
+	orig:        three friends making faces for the camera
+	sent:        Three friends are making faces for the camera
+	corr:        Three enemies are making faces for the camera
+	score:       3.285
+	dataset:     FLICKR
+	orig:        Two daschunds play with a red ball
+	sent:        Two daschunds are playing with a red ball
+	corr:        Two cats are playing with a red ball
+	score:       3.3
+	dataset:     FLICKR
+	orig:        A man is climbing a rope up a cliff.
+	sent:        One man is climbing a cliff with a rope
+	corr:        One man is descending a cliff with a rope
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        A man is talking.
+	sent:        A man is talking
+	corr:        A man is laughing
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        Three boys in karate costumes are fighting.
+	sent:        Three boys in karate costumes are fighting
+	corr:        Three boys in karate costumes aren't fighting
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        the man used a stenograph.
+	sent:        The man is operating a stenograph
+	corr:        The man isn't operating a stenograph
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        A man is playing a piano.
+	sent:        A piano is being played by a man
+	corr:        A piano isn't being played by a man
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        Kittens are eating food on trays.
+	sent:        The food on the trays is being eaten by the kittens
+	corr:        The food on the trays isn't being eaten by the kittens
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        A man is riding a motorcycle.
+	sent:        A man is riding a motorbike
+	corr:        A man is parking a motorbike
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        a dog biting on a can
+	sent:        A dog is biting a can
+	corr:        A dog is dropping a can
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        a man is dancing
+	sent:        A man is dancing
+	corr:        A man is motionless
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        a man is speaking
+	sent:        A man is speaking
+	corr:        A man is silent
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        a big green ball knocks a potato over
+	sent:        A big green ball is knocking a potato
+	corr:        A big green ball is missing a potato
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        a boy studies a calendar
+	sent:        A boy is studying a calendar
+	corr:        A boy is shredding a calendar
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        two men are talking
+	sent:        Two men are talking
+	corr:        Two women are talking
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        two men compete in a tire rolling race
+	sent:        Two men are competing in a tire rolling race
+	corr:        Two women are competing in a tire rolling race
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        a man is dancing in the rain
+	sent:        A man is dancing in the rain
+	corr:        A man is sitting in the rain
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        a little boy is playing a guitar
+	sent:        A little boy is playing a guitar
+	corr:        A little girl is playing a guitar
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        the military officer barked at the recruits
+	sent:        The military officer is barking at the recruits
+	corr:        The recruits are barking at the military officer
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        the man talked on the telephone
+	sent:        The man is talking on the telephone
+	corr:        The man isn't talking on the telephone
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        a man dives into a pool
+	sent:        A man is diving into a pool
+	corr:        A woman is diving into a pool
+	score:       3.3
+	dataset:     SEMEVAL
+	orig:        the man is playing the guitar
+	sent:        The man is playing the guitar
+	corr:        The woman is playing the guitar
+	score:       3.3
+	dataset:     FLICKR
+	orig:        the man surrounded by photographers is wearing a gray suit and glasses
+	sent:        The man surrounded by photographers is wearing a gray suit and glasses
+	corr:        The woman surrounded by photographers is wearing a gray suit and glasses
+	score:       3.3
+	dataset:     FLICKR
+	orig:        a young girl sitting in swimming gear
+	sent:        A young girl is sitting in swimming gear
+	corr:        A young man is sitting in swimming gear
+	score:       3.3
+	dataset:     FLICKR
+	orig:        girl in blue tries to get a base runner number 11 out during softball game
+	sent:        The girl in blue is chasing the base runner with a number on the jersey
+	corr:        The man in blue is chasing the base runner with a number on the jersey
+	score:       3.3
+	dataset:     FLICKR
+	orig:        a boy wears sunglasses
+	sent:        A boy is wearing sunglasses
+	corr:        A girl is wearing sunglasses
+	score:       3.3
+	dataset:     FLICKR
+	orig:        a young girl with her face painted stands next to some other children
+	sent:        A young girl with painted face is standing next to some other children
+	corr:        A young boy with painted face is standing next to some other children
+	score:       3.3
+	dataset:     FLICKR
+	orig:        a black man is walking next to a building in a big city
+	sent:        A black man is walking next to a building in a big city
+	corr:        A white man is walking next to a building in a big city
+	score:       3.3
+	dataset:     FLICKR
+	orig:        a skateboarder makes a jump off a ramp
+	sent:        A skateboarder is making a jump off a ramp
+	corr:        No skateboarder is making a jump off a ramp
+	score:       3.3
+	dataset:     FLICKR
+	orig:        three children running down hill
+	sent:        Three children are running down hill
+	corr:        Three children are running up hill
+	score:       3.3
+	dataset:     FLICKR
+	orig:        the man in the blue is posing for a picture next to his car
+	sent:        The man in blue is posing for a picture next to a car
+	corr:        The woman in blue is posing for a picture next to a car
+	score:       3.3
+	dataset:     FLICKR
+	orig:        a black dog and a white dog are wrestling on the ground
+	sent:        A black dog and a white dog are wrestling on the ground
+	corr:        A black dog and a white dog are wrestling on the bed
+	score:       3.3
+	dataset:     FLICKR
+	orig:        a dog jumping high into the air in the country
+	sent:        A dog is jumping high into the air in the country
+	corr:        A cat is jumping high into the air in the country
+	score:       3.335
+	dataset:     FLICKR
+	orig:        a man in a red shirt is doing a trick with his skateboard
+	sent:        A man in a red shirt is doing a trick with the skateboard
+	corr:        A man in a red shirt is doing a trick with the rollerblades
+	score:       3.365
+	dataset:     FLICKR
+	orig:        People walk outside of a building that has many murals painted on it.
+	sent:        People are walking outside a building that has many murals on it
+	corr:        People are walking inside a building that has many murals on it
+	score:       3.4
+	dataset:     FLICKR
+	orig:        A dog next to pine tree biting on a bucket
+	sent:        A dog next to a tree, which is probably a pine, is biting a bucket
+	corr:        A dog next to a tree, which is probably a pine, is dropping a bucket
+	score:       3.4
+	dataset:     FLICKR
+	orig:        The man in the purple hat is operating a video camera.
+	sent:        The man in the purple hat is operating a camera that makes videos
+	corr:        The man in the purple hat isn't operating a camera that makes videos
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        The woman is eating.
+	sent:        The woman is eating
+	corr:        The woman is drinking
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        A man is emptying a plastic container.
+	sent:        A man is emptying a container made of plastic
+	corr:        A man is filling a container made of plastic
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        A boy is playing in the mud.
+	sent:        The boy is playing in the mud
+	corr:        The boy isn't playing in the mud
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        A cat is licking from a saucer of milk.
+	sent:        The cat is licking milk from a saucer
+	corr:        The cat isn't licking milk from a saucer
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        a man is playing a guitar
+	sent:        A man is playing a guitar
+	corr:        A man is packing a guitar
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        a man jumps onto a short wall
+	sent:        A man is jumping onto a low wall
+	corr:        A man is jumping off a low wall
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        a woman boils eggs
+	sent:        A woman is boiling eggs
+	corr:        A woman is drying eggs
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        someone is cleaning a animal
+	sent:        Someone is cleaning an animal
+	corr:        Someone is dirtying an animal
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        a man rises from a swamp
+	sent:        A man is rising from a swamp
+	corr:        A man is escaping a rising swamp
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        a person is drawing
+	sent:        The person is drawing
+	corr:        The person is painting
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        the panda bear lay on the logs
+	sent:        The panda bear is lying on the logs
+	corr:        The log is lying on the panda bear
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        the girl is spraying the plants with water
+	sent:        The girl is spraying the plants with water
+	corr:        The boy is spraying the plants with water
+	score:       3.4
+	dataset:     SEMEVAL
+	orig:        a man is talking to a woman
+	sent:        A man is talking to a woman
+	corr:        A man is talking to a boy
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a young girl in a blue shirt is walking in the sidewalk and holding up a pink sign that says, "the rescue."
+	sent:        A young girl in a blue shirt is walking on the sidewalk and holding up a pink sign
+	corr:        A young girl by a pink sign is holding up a blue shirt and is walking on the sidewalk
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a black dog running in grass
+	sent:        A black dog is running in the grass
+	corr:        A black dog is lying in the grass
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a brown dog runs through a snowy trail
+	sent:        A brown dog is running through a snowy trail
+	corr:        A white dog is running through a snowy trail
+	score:       3.4
+	dataset:     FLICKR
+	orig:        large brown dog jumps over red hurdle
+	sent:        A large brown dog is jumping over a red hurdle
+	corr:        A large brown cat is jumping over a red hurdle
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a young man pushes his motocross bike up a dirt hill
+	sent:        A young man is pushing a motocross bike up a dirt hill
+	corr:        A young man is pushing a motocross bike down a dirt hill
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a man wearing a beret rides his bicycle on a recreation trail
+	sent:        A man is wearing a beret and is riding the bicycle on a recreation trail
+	corr:        A woman is wearing a beret and is riding the bicycle on a recreation trail
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a little girl in a pink shirt takes a swing at a t-ball
+	sent:        A little girl in a pink shirt is playing t-ball and taking a swing
+	corr:        A little boy in a pink shirt is playing t-ball and taking a swing
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a shirtless man poses with a girl hiking in a park
+	sent:        A shirtless man is posing with a girl who is hiking in a park
+	corr:        A shirtless woman is posing with a girl who is hiking in a park
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a girl jumping rope on a sidewalk near a parking garage
+	sent:        A girl is jumping rope on a sidewalk near a parking garage
+	corr:        A boy is jumping rope on a sidewalk near a parking garage
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a brown dog is standing in a lake
+	sent:        A brown dog is standing in a lake
+	corr:        A white dog is standing in a lake
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a man and woman are standing in front of an art gallery, looking at a map
+	sent:        A man and a woman are standing in front of an art gallery and are looking at a map
+	corr:        A man and a woman are sitting in front of an art gallery and are looking at a map
+	score:       3.4
+	dataset:     FLICKR
+	orig:        the dog is running across the gravel
+	sent:        The dog is running across the gravel
+	corr:        The cat is running across the gravel
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a small group of people standing while two sit on the couch
+	sent:        A small group of people are standing and two are sitting on the couch
+	corr:        A big group of people are standing and two are sitting on the couch
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a group of five young adults lounging indoors
+	sent:        A group of five young adults are lounging indoors
+	corr:        A group of five old adults are lounging indoors
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a yellow dog anticipates a ball
+	sent:        A yellow dog is chasing a ball
+	corr:        A yellow cat is chasing a ball
+	score:       3.4
+	dataset:     FLICKR
+	orig:        two construction workers are sitting up on the side of a building
+	sent:        Two construction workers are sitting up on the side of a building
+	corr:        Two construction workers are sitting up on the top of a building
+	score:       3.4
+	dataset:     FLICKR
+	orig:        a girl in a orange shirt and a stripe tie
+	sent:        A girl is wearing an orange shirt and a striped tie
+	corr:        A boy is wearing an orange shirt and a striped tie
+	score:       3.4
+	dataset:     FLICKR
+	orig:        two people drive a jeep while a lady sits on the top of it
+	sent:        Two people are driving a jeep and a lady is sitting on the top of it
+	corr:        Two people are driving a boat and a lady is sitting on the top of it
+	score:       3.415
+	dataset:     SEMEVAL
+	orig:        a woman is slicing butter
+	sent:        A woman is slicing butter
+	corr:        A man is slicing butter
+	score:       3.465
+	dataset:     FLICKR
+	orig:        a girl with a bikini plays in the dunes
+	sent:        A girl with a bikini is playing in the dunes
+	corr:        No girl with a bikini is playing in the dunes
+	score:       3.465
+	dataset:     FLICKR
+	orig:        A large group of asian people are eating at a restaurant.
+	sent:        A large group of Asian people is eating at a restaurant
+	corr:        A group of people in a large Asian restaurant is eating
+	score:       3.5
+	dataset:     FLICKR
+	orig:        People walking
+	sent:        Some people are walking
+	corr:        Some people are standing
+	score:       3.5
+	dataset:     FLICKR
+	orig:        The two men and their bikes are on the side of a snowy road.
+	sent:        Two men with bikes are on the side of a snowy road
+	corr:        Two men with cars are on the side of a snowy road
+	score:       3.5
+	dataset:     FLICKR
+	orig:        The lady is surfing and riding a wave.
+	sent:        A lady is surfing and riding a wave
+	corr:        A boy is surfing and riding a wave
+	score:       3.5
+	dataset:     FLICKR
+	orig:        A man dressed in black rides a green bike.
+	sent:        A man dressed in black is riding a bike
+	corr:        A black man in green is riding a bike
+	score:       3.5
+	dataset:     FLICKR
+	orig:        A group of people in protective gear.
+	sent:        A group of people is equipped with protective gear
+	corr:        A group of people is equipped with unprotective gear
+	score:       3.5
+	dataset:     FLICKR
+	orig:        A person riding the number 157 dirt bike on a sandy track.
+	sent:        The person is riding a motorbike on a sandy track
+	corr:        The person isn't riding a motorbike on a sandy track
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        A man and woman are walking together through the woods.
+	sent:        A man and a woman are walking together through the woods
+	corr:        A man and a woman are walking together through the city
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        A boy spanks a man with a plastic sword.
+	sent:        A boy is spanking a man with a plastic sword
+	corr:        A boy is spanking a woman with a plastic sword
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        A woman is slicing tofu.
+	sent:        Tofu is being sliced by a woman
+	corr:        Tofu isn't being sliced by a woman
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a baby rhino is following an adult rhino
+	sent:        A baby rhino is following an adult rhino
+	corr:        A baby rhino is shunning an adult rhino
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a large green ball hits a potato
+	sent:        A large green ball is hitting a potato
+	corr:        A large green ball is missing a potato
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        the man sang on stage into the microphone
+	sent:        The man on stage is singing into the microphone
+	corr:        The man on stage isn't singing into the microphone
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        three teenage girls danced in the room
+	sent:        Three teenage girls are dancing in the room
+	corr:        Three teenage girls are idling in the room
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a monkey pratices martial arts
+	sent:        The monkey is practicing martial arts
+	corr:        The monkey isn't practicing martial arts
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a man plays the drum
+	sent:        A man is playing the drum
+	corr:        A man is disassembling the drum
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a man plays the guitar
+	sent:        A man is playing the guitar
+	corr:        A man is packing the guitar
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a man is buttering a piece of bread
+	sent:        A man is buttering a piece of bread
+	corr:        A woman is buttering a piece of bread
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        two baby pandas are playing
+	sent:        Two baby pandas are playing
+	corr:        Two baby pandas are sleeping
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a boy is playing on a toy phone
+	sent:        A boy is playing on a toy phone
+	corr:        A girl is playing on a toy phone
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a cat plays with a small bottle
+	sent:        A cat is playing with a small bottle
+	corr:        A cat is playing with a big bottle
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a small dog laying on the bed
+	sent:        A small dog is lying on the bed
+	corr:        A small dog is lying under the bed
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a woman is cutting a tomatoe
+	sent:        A woman is cutting a tomato
+	corr:        A man is cutting a tomato
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        someone is pouring ingrediants into a pot
+	sent:        Someone is pouring ingredients into a pot
+	corr:        Nobody is pouring ingredients into a pot
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a yellow dog runs on white snow on a sunny day
+	sent:        A yellow dog is running on white snow on a sunny day
+	corr:        A yellow dog is stopping on white snow on a sunny day
+	score:       3.5
+	dataset:     FLICKR
+	orig:        the bundled up child is playing with toys outdoors
+	sent:        The child is playing with toys outdoors
+	corr:        The child is playing with toys indoors
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a little boy wearing a yellow tank top is laughing
+	sent:        A little boy is wearing a yellow tank top and is laughing
+	corr:        A laughing boy is in a yellow tank and is wearing a top
+	score:       3.5
+	dataset:     FLICKR
+	orig:        small boy in forest
+	sent:        A small boy is sitting in the forest
+	corr:        A small boy is standing in the forest
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a large duck in flight over a rocky stream
+	sent:        A large duck is flying over a rocky stream
+	corr:        A large duck is perching over a rocky stream
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a happy family poses by the fireplace
+	sent:        A happy family is posing by the fireplace
+	corr:        A sad family is posing by the fireplace
+	score:       3.5
+	dataset:     FLICKR
+	orig:        two boys wearing brown shirts tug at a rope on a wooden platform
+	sent:        Two boys are wearing brown shirts and are tugging at a rope on a wooden platform
+	corr:        Two girls are wearing brown shirts and are tugging at a rope on a wooden platform
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a woman in a fur hat and fur coat stands outside a building
+	sent:        A woman in a fur hat and fur coat is standing outside a building
+	corr:        A woman in a fur hat and fur coat is sitting outside a building
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a dog jumps at a shiny blue soccer ball in a field of dry leaves
+	sent:        A dog is jumping at a shiny blue soccer ball in a field of dry leaves
+	corr:        A dog is jumping at dry leaves in a field of shiny blue soccer balls
+	score:       3.5
+	dataset:     FLICKR
+	orig:        four atheletes and a man with a crowded stadium in the background
+	sent:        Four athletes are with a man in a crowded stadium
+	corr:        Four athletes are with a woman in a crowded stadium
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a grey dog is jumping toward a black and white dog in the snow
+	sent:        A grey dog is jumping toward a black and white dog in the snow
+	corr:        A grey dog is jumping toward a black and white dog in the water
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a young boy jumping into a still lake
+	sent:        A young boy is jumping into a still lake
+	corr:        A young girl is jumping into a still lake
+	score:       3.5
+	dataset:     FLICKR
+	orig:        two people carrying colorful baskets and blankets walk near a building
+	sent:        Two people are carrying colorful baskets and blankets and walking near a building
+	corr:        Two people are carrying gray baskets and blankets and walking near a building
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a dog runs on a snowy path
+	sent:        A dog is running on a snowy path
+	corr:        A dog is running on a muddy path
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a black and white dog playing with a broken volleyball
+	sent:        A black and white dog is playing with a broken volleyball
+	corr:        A black and white dog is playing with a new volleyball
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a young boy in a helmet rides a bike on the road
+	sent:        A young boy in a helmet is riding a bike on the road
+	corr:        A young boy in a helmet is riding a bike on the lawn
+	score:       3.5
+	dataset:     FLICKR
+	orig:        bride with a white veil looking down
+	sent:        A bride with a white veil is looking down
+	corr:        A bride with a black veil is looking down
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a girl in a white dress running
+	sent:        A girl in a white dress is running
+	corr:        A girl in a white dress is standing
+	score:       3.5
+	dataset:     FLICKR
+	orig:        five people are standing with three dogs in the green field beside the road
+	sent:        Five people are standing with three dogs in the green field beside the road
+	corr:        Five people are running with three dogs in the green field beside the road
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a toddler is making a splash inside a blue paddling pool
+	sent:        A toddler is making a splash inside a blue paddling pool
+	corr:        A toddler is making a splash outside a blue paddling pool
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a woman walks on a city street
+	sent:        A woman is walking in a city street
+	corr:        A man is walking in a city street
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a man leaning against a pole surrounded by people
+	sent:        A man is leaning against a pole and is surrounded by people
+	corr:        A woman is leaning against a pole and is surrounded by people
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a man in a black jersey is standing in gym
+	sent:        A man in a black jersey is standing in a gym
+	corr:        A woman in a black jersey is standing in a gym
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a woman in blue jeans is standing in front of a group of children beside a stone built house
+	sent:        A woman in blue jeans is standing in front of a group of children beside a stone built house
+	corr:        A man in blue jeans is standing in front of a group of children beside a stone built house
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a man in a red jacket and khaki pants is walking through a part of what looks like arizona
+	sent:        A man in a red jacket and khaki pants is walking through an European state
+	corr:        A man in a red jacket and khaki pants is walking through an American state
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a man performs tricks on a dirt ramp on a green bike
+	sent:        A man on a green car is performing tricks on a dirt ramp
+	corr:        A man on a green bike is performing tricks on a dirt ramp
+	score:       3.5
+	dataset:     FLICKR
+	orig:        kid sits wearing swim gear
+	sent:        A kid is sitting wearing swim gear
+	corr:        A woman is sitting wearing swim gear
+	score:       3.5
+	dataset:     FLICKR
+	orig:        brown puppy biting pole
+	sent:        A brown puppy is biting a pole
+	corr:        A white puppy is biting a pole
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a woman playing with a brown dog on a garden path
+	sent:        A woman is playing with a brown dog on a garden path
+	corr:        A woman is playing with a brown cat on a garden path
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a brown and white dog attempts to catch a dirty tennis ball in a dirt field
+	sent:        A brown and white dog is catching a dirty tennis ball in a dirt field
+	corr:        A brown and white dog is catching a dirty golf ball in a dirt field
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a woman showing a small dog to an infant
+	sent:        A woman is showing a small dog to an infant
+	corr:        A woman is showing a small cat to an infant
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a person is pouring olive oil into a pot on the stove
+	sent:        A person is pouring olive oil into a pot on the stove
+	corr:        A person is pouring olive oil into the stove from a pot
+	score:       3.515
+	dataset:     FLICKR
+	orig:        Two dogs play by a tree.
+	sent:        Two dogs are playing by a tree
+	corr:        Two dogs are sleeping by a tree
+	score:       3.565
+	dataset:     FLICKR
+	orig:        a female cheerleader sits on the knee of a male cheerleader
+	sent:        A female cheerleader is sitting on the knee of a male cheerleader
+	corr:        A female cheerleader is jumping on the knee of a male cheerleader
+	score:       3.58
+	dataset:     FLICKR
+	orig:        a dog catches black frisbee
+	sent:        A dog is catching a black frisbee
+	corr:        A dog is catching a white frisbee
+	score:       3.585
+	dataset:     FLICKR
+	orig:        A boy up to his knees in water.
+	sent:        A boy is standing in the water
+	corr:        A boy is standing outside the water
+	score:       3.6
+	dataset:     FLICKR
+	orig:        A snowboarder launches into the air over white snow
+	sent:        The snowboarder isn't leaping over white snow
+	corr:        The snowboarder is leaping over white snow
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        A woman is cracking three eggs into a bowl.
+	sent:        A woman is cracking some eggs into a bowl
+	corr:        A woman is cracking some eggs outside a bowl
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        A man and woman are walking arm in arm through a wooded area.
+	sent:        A man and a woman are walking through a wooded area
+	corr:        A man and a woman are walking through a desert area
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        A man is screaming.
+	sent:        A man is screaming
+	corr:        A man is scared
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        A man is carrying a tree.
+	sent:        A man is carrying a tree
+	corr:        A man is dropping a tree
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        A man is holding a frog.
+	sent:        A man is carelessly holding a frog
+	corr:        A man is carelessly dropping a frog
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        A woman is putting oil into a skillet.
+	sent:        The woman is pouring oil into a skillet
+	corr:        The woman isn't pouring oil into a skillet
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        A man is showing magic.
+	sent:        The man is doing a magic trick
+	corr:        The man isn't doing a magic trick
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a woman is sewing on a machine
+	sent:        A woman is sewing with a machine
+	corr:        A woman is unstitching with a machine
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        men are playing cricket
+	sent:        A few men are playing cricket
+	corr:        A few men are watching cricket
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a person is blow torching cameras
+	sent:        A person is burning some cameras with a blow torch
+	corr:        A person is repairing some cameras with a blow torch
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a man is playing a violin
+	sent:        A man is playing a violin
+	corr:        A man is packing a violin
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a person is scrubbing a zucchini
+	sent:        A person is scrubbing a zucchini
+	corr:        A person is packing a zucchini
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a woman is cutting a tomato
+	sent:        A woman is cutting a tomato
+	corr:        A man is cutting a tomato
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a man and and woman are running together, holding hands
+	sent:        A man and a woman are running together and holding hands
+	corr:        A man and a woman are standing together and holding hands
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        the man talked on the telephone
+	sent:        The man is talking on the telephone
+	corr:        The man is talking about the telephone
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a woman is seasoning a piece of meat
+	sent:        A woman is seasoning a piece of meat
+	corr:        A woman is eating a piece of meat
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        the man is cracking eggs into a bowl
+	sent:        The man is cracking eggs into a bowl
+	corr:        The woman is cracking eggs into a bowl
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        lionel ritchie dances while standing on the ceiling
+	sent:        A man is dancing on the ceiling
+	corr:        A man is dancing on the floor
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a woman is cracking eggs
+	sent:        A woman is cracking eggs
+	corr:        A man is cracking eggs
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a man is slicing open a fish
+	sent:        A man is slicing a fish
+	corr:        A woman is slicing a fish
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a man is shooting off a gun
+	sent:        A man is shooting with a gun
+	corr:        A man is shooting with a bow
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a slow loris is biting a persons finger
+	sent:        A lemur is biting a person's finger
+	corr:        A lemur is licking a person's finger
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a woman in a black shirt is sitting next to a florescent green bag
+	sent:        A woman in a black shirt is sitting next to a fluorescent green bag
+	corr:        A woman in a black shirt is standing next to a fluorescent green bag
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a black dog is leaping from a cylindrical hay bale
+	sent:        A black dog is leaping from a cylindrical hay bale
+	corr:        A white dog is leaping from a cylindrical hay bale
+	score:       3.6
+	dataset:     FLICKR
+	orig:        two white dogs are playing with a brown dog and a ball
+	sent:        Two white dogs are playing with a brown dog and a ball
+	corr:        Two white cats are playing with a brown dog and a ball
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a white rally car is throwing mud into the air as it approaches a bend in the track
+	sent:        A white rally car is throwing mud into the air and is approaching a bend in the track
+	corr:        A black rally car is throwing mud into the air and is approaching a bend in the track
+	score:       3.6
+	dataset:     FLICKR
+	orig:        the little boy rides his bicycle in a race
+	sent:        The little boy is riding a bicycle in a race
+	corr:        The little girl is riding a bicycle in a race
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a man in a purple had climbs a rocky wall with his hands
+	sent:        A man in a purple hat is climbing a rocky wall with bare hands
+	corr:        A man in a purple hat isn't climbing a rocky wall with bare hands
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a black dog walking along a rocky terrain
+	sent:        A black dog is walking along rocky terrain
+	corr:        A black cat is walking along rocky terrain
+	score:       3.6
+	dataset:     FLICKR
+	orig:        the dog is running through the wet sand
+	sent:        The dog is running through the wet sand
+	corr:        The dog is running through the dry sand
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a man on a motorcycle going around a corner
+	sent:        A man on a motorcycle is going around a corner
+	corr:        A woman on a motorcycle is going around a corner
+	score:       3.6
+	dataset:     FLICKR
+	orig:        two women, one in white, one in black, are sitting on a bench
+	sent:        Two women dressed in white and black are sitting on a bench
+	corr:        Two men dressed in white and black are sitting on a bench
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a person on a yellow dirt bike is taking a jump
+	sent:        A person on a yellow dirt bike is taking a jump
+	corr:        A person on a yellow clean bike is taking a jump
+	score:       3.6
+	dataset:     FLICKR
+	orig:        two white puppies play near a pool
+	sent:        Two white puppies are playing near a pool
+	corr:        Two black puppies are playing near a pool
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a young couple lying on a bed together
+	sent:        A young couple is lying on a bed together
+	corr:        A young couple is lying on a couch together
+	score:       3.6
+	dataset:     FLICKR
+	orig:        people are clustered around a bonfire at night
+	sent:        People are clustered around a bonfire at night
+	corr:        People are clustered around a bonfire at morning
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a black dog on a leash walking in water
+	sent:        A black dog on a leash is walking in the water
+	corr:        A white dog on a leash is walking in the water
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a young girl in a bikini jumping on the beach
+	sent:        A young girl in a bikini is jumping on the beach
+	corr:        A young girl in a bikini is sitting on the beach
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a brown dog is running after a black dog on a rocky shore
+	sent:        A brown dog is running after a black dog on a rocky shore
+	corr:        A brown dog is running after a white dog on a rocky shore
+	score:       3.6
+	dataset:     FLICKR
+	orig:        two young boys wearing hats and sticking their colored tongues out
+	sent:        Two young boys are wearing hats and sticking their colored tongues out
+	corr:        Two young girls are wearing hats and sticking their colored tongues out
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a woman wears a colorful shirt and a lot of jewelry
+	sent:        A woman is wearing a colorful shirt and a lot of jewelry
+	corr:        A man is wearing a colorful shirt and a lot of jewelry
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a lady wearing a black dress carrying a white cross
+	sent:        A lady is wearing a black dress and is carrying a white cross
+	corr:        A boy is wearing a black dress and is carrying a white cross
+	score:       3.6
+	dataset:     FLICKR
+	orig:        two dogs and two people in the woods
+	sent:        Two dogs and two people are sitting in the woods
+	corr:        Two dogs and two people are walking in the woods
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a man skiing down a hill and over a red obstacle
+	sent:        A man is skiing down a hill and over a red obstacle
+	corr:        A woman is skiing down a hill and over a red obstacle
+	score:       3.6
+	dataset:     FLICKR
+	orig:        three women sit together near woven walls
+	sent:        Three women are sitting together near woven walls
+	corr:        Three men are sitting together near woven walls
+	score:       3.6
+	dataset:     FLICKR
+	orig:        three women sit in a village
+	sent:        Three women are sitting in a village
+	corr:        Three women are running in a village
+	score:       3.6
+	dataset:     FLICKR
+	orig:        the black and white dog is running outdoors
+	sent:        The black and white dog is running outdoors
+	corr:        The black and white dog is running indoors
+	score:       3.6
+	dataset:     FLICKR
+	orig:        girl in blue coverall painting
+	sent:        The girl in the blue coverall is painting
+	corr:        The boy in the blue coverall is painting
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a man wearing a blue shirt walking barefoot on a tennis court
+	sent:        A man is wearing a blue shirt and walking barefoot on a tennis court
+	corr:        A woman is wearing a blue shirt and walking barefoot on a tennis court
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a man standing in the water at the base of a waterfall
+	sent:        A man is standing in the water at the base of a waterfall
+	corr:        A woman is standing in the water at the base of a waterfall
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a dog is running on the sand whilst chasing a ball
+	sent:        A dog is running on the sand and chasing a ball
+	corr:        A dog is running on the grass and chasing a ball
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a woman shoots at target practice
+	sent:        A woman is shooting at target practice
+	corr:        A man is shooting at target practice
+	score:       3.6
+	dataset:     FLICKR
+	orig:        a woman wearing ear protection is firing a gun at an indoor shooting range
+	sent:        A woman is wearing ear protection and is firing a gun at an indoor shooting range
+	corr:        A woman is wearing ear protection and is firing a gun at an outdoor shooting range
+	score:       3.6
+	dataset:     FLICKR
+	orig:        the large dog is walking outside, carrying a colorful toy in its mouth
+	sent:        The large dog is walking outside and is carrying a colorful toy in its mouth
+	corr:        The small dog is walking outside and is carrying a colorful toy in its mouth
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a man is riding on a horse
+	sent:        A man is riding a horse
+	corr:        A man is stopping a horse
+	score:       3.635
+	dataset:     FLICKR
+	orig:        a man on inline-skates at a skate park
+	sent:        A man on inline skates is skating at a skate park
+	corr:        A man on inline skates is resting at a skate park
+	score:       3.65
+	dataset:     FLICKR
+	orig:        A brown dog is jumping up at another dog in front of the man in jeans.
+	sent:        A brown dog is helping another animal in front of the man in pants
+	corr:        A brown dog is attacking another animal in front of the man in pants
+	score:       3.665
+	dataset:     FLICKR
+	orig:        two children are rolling in muddy water
+	sent:        Two children are rolling in muddy water
+	corr:        Two children are rolling in clean water
+	score:       3.67
+	dataset:     FLICKR
+	orig:        A little boy hits a baseball while his family watches
+	sent:        A little boy is watching a family that is hitting a baseball
+	corr:        A family is watching a little boy who is hitting a baseball
+	score:       3.7
+	dataset:     FLICKR
+	orig:        A white dog and a black dog running side by side on the grass while onlookers watch.
+	sent:        One white dog and one black one are running side by side on the grass
+	corr:        One white dog and one black one are sitting side by side on the grass
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        A woman is brushing her feet.
+	sent:        A woman is brushing her feet
+	corr:        A woman is washing her feet
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        A man is doing exercise.
+	sent:        A man is exercising
+	corr:        A man is resting
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        Three men are practicing karate moves in a field.
+	sent:        Three men are practicing karate in a field
+	corr:        Three men are practicing karate in a gym
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        A horse is standing.
+	sent:        A horse is standing
+	corr:        A horse is running
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        Five kittens are eating out of five dishes.
+	sent:        Some kittens are eating
+	corr:        Some kittens are hungry
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a dog knocks a boy into the water twice
+	sent:        The dog is knocking a boy into the water
+	corr:        The dog is not knocking the boy into the water
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        someone is typing
+	sent:        Someone is typing
+	corr:        Someone is writing
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a cat, perched on a table, looks out the window
+	sent:        The cat perched on the table is looking out the window
+	corr:        The cat perched on the table isn't looking out the window
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        someone is cooking okra in a pan
+	sent:        Someone is cooking okra in a pan
+	corr:        Nobody is cooking okra in a pan
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a woman is peeling a potato
+	sent:        A woman is peeling a potato
+	corr:        A woman is refrigerating a potato
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a man is breaking tiles with his hands
+	sent:        A man is breaking tiles with his hands
+	corr:        A man is repairing tiles with his hands
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        the man erased the work on the board
+	sent:        The man is erasing the drawing on the board
+	corr:        The woman is erasing the drawing on the board
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a person is tearing paper
+	sent:        A person is tearing paper
+	corr:        A person is tearing sheets
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a man drills a hole in a piece of wood
+	sent:        A man is drilling a hole in a piece of wood
+	corr:        A man is closing a hole in a piece of wood
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a man is doing a card trick
+	sent:        A man is doing a card trick
+	corr:        A man is doing a magic trick
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a girl plays a wind instrument
+	sent:        A girl is playing a wind instrument
+	corr:        A boy is playing a wind instrument
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a woman is playing the flute
+	sent:        A woman is playing the flute
+	corr:        A man is playing the flute
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        someone is stirring a pot of chili with a spoon
+	sent:        Someone is stirring a pot of chili with a spoon
+	corr:        Nobody is stirring a pot of chili with a spoon
+	score:       3.7
+	dataset:     SEMEVAL
+	orig:        a man is firing a shot gun
+	sent:        A man is firing a shotgun
+	corr:        A man is reloading a shotgun
+	score:       3.7
+	dataset:     FLICKR
+	orig:        four people sitting on low cement ledge
+	sent:        Four people are sitting on a low cement ledge
+	corr:        Four people are standing on a low cement ledge
+	score:       3.7
+	dataset:     FLICKR
+	orig:        two young men play outside near a golden statue of ghandi
+	sent:        Two young men are playing outside near a golden statue
+	corr:        Two young men are sitting outside near a golden statue
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a child makes a ball out of snow
+	sent:        A child is making a snow ball
+	corr:        A child is smashing a snow ball
+	score:       3.7
+	dataset:     FLICKR
+	orig:        two dogs playing on the beach
+	sent:        Two dogs are playing on the beach
+	corr:        Two dogs are resting on the beach
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a person stands on a mountain top
+	sent:        A person is standing on a mountain top
+	corr:        A person is sitting on a mountain top
+	score:       3.7
+	dataset:     FLICKR
+	orig:        dog chasing after a ball on the grass
+	sent:        A dog is chasing a ball on the grass
+	corr:        A dog is losing a ball on the grass
+	score:       3.7
+	dataset:     FLICKR
+	orig:        the muscular black man is dancing while the man behind him wears green beads
+	sent:        The muscular black man is dancing and the man behind him is wearing green beads
+	corr:        The muscular white man is dancing and the man behind him is wearing green beads
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a man crouching and holding a camera
+	sent:        A man is crouching and holding a camera
+	corr:        A woman is crouching and holding a camera
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a man in a blue cowboy hat is riding a white horse
+	sent:        A man in a blue cowboy hat is riding a white horse
+	corr:        A man in a blue cowboy hat is riding a black horse
+	score:       3.7
+	dataset:     FLICKR
+	orig:        three people on four wheel atv's in a field
+	sent:        Three people are driving four wheel ATVs in a field
+	corr:        Three people are driving four wheel ATVs in a street
+	score:       3.7
+	dataset:     FLICKR
+	orig:        the white dogs look curiously at the black llama
+	sent:        The white dogs are looking curiously at the black llama
+	corr:        The white dogs aren't looking curiously at the black llama
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a dog is playing on the green grass
+	sent:        A dog is playing on the green grass
+	corr:        A dog is sleeping on the green grass
+	score:       3.7
+	dataset:     FLICKR
+	orig:        two kids and a man play games at an arcade
+	sent:        Two kids and a man are playing games at an arcade
+	corr:        Two kids and a woman are playing games at an arcade
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a black dog is running across a rocky landscape
+	sent:        A black dog is running across a rocky landscape
+	corr:        A white dog is running across a rocky landscape
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a collie and a springer spaniel playing outside
+	sent:        Two dogs are playing outside
+	corr:        Two dogs are playing inside
+	score:       3.7
+	dataset:     FLICKR
+	orig:        two men are standing together while one looks through binoculars
+	sent:        Two men are standing together and one is looking through binoculars
+	corr:        Two women are standing together and one is looking through binoculars
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a young child is riding a 3 wheeled scooter down the sidewalk
+	sent:        A young child is riding a three wheeled scooter down the sidewalk
+	corr:        No young child is riding a three wheeled scooter down the sidewalk
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a boy speeding down a steep slide
+	sent:        A boy is speeding down a steep slide
+	corr:        A girl is speeding down a steep slide
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a brown and white dog with a brown and black bandanna running very fast
+	sent:        A brown and white dog with a brown and black bandanna is running very fast
+	corr:        A brown and white cat with a brown and black bandanna is running very fast
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a little girl in a green coat and a boy holding a red sled walk in the snow
+	sent:        A little girl in a green coat and a boy holding a red sled are walking in the snow
+	corr:        A little girl in a green coat and a boy holding a red sled are lying in the snow
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a boy sits in his seat
+	sent:        A boy is sitting in a seat
+	corr:        A toddler is sitting in a seat
+	score:       3.7
+	dataset:     FLICKR
+	orig:        cyclist in snowy forest at night
+	sent:        A cyclist is biking in a snowy forest at night
+	corr:        A cyclist is biking in a snowy forest at day
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a man in a black hat touches a cardboard box
+	sent:        A man in a black hat is touching a cardboard box
+	corr:        A man in a white hat is touching a cardboard box
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a large white dog is jumping in the air over a snowy area
+	sent:        A large white dog is jumping in the air over a snowy area
+	corr:        A large black dog is jumping in the air over a snowy area
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a large white dog jumping up in the snow
+	sent:        A large white dog is jumping up in the snow
+	corr:        A small white dog is jumping up in the snow
+	score:       3.7
+	dataset:     FLICKR
+	orig:        brown and black dog with it's nose pointed upwards
+	sent:        A brown and black dog is pointing the nose upwards
+	corr:        A brown and black dog is pointing the nose downwards
+	score:       3.7
+	dataset:     FLICKR
+	orig:        little brown and white dog running on the sidewalk
+	sent:        A little brown and white dog is running on the sidewalk
+	corr:        A little brown and white dog is running on the road
+	score:       3.7
+	dataset:     FLICKR
+	orig:        two people on a bench
+	sent:        Two people are sitting on a bench
+	corr:        Two people are standing on a bench
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a man stands at dusk on an almost-pristine, snowy road, lit only by headlights
+	sent:        A man is standing at dusk on an almost pristine, snowy road, that is lit only by headlights
+	corr:        A woman is standing at dusk on an almost pristine, snowy road, that is lit only by headlights
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a shirtless man leading a horse that is pulling a carriage
+	sent:        A shirtless man is leading a horse that is pulling a carriage
+	corr:        A shirtless woman is leading a horse that is pulling a carriage
+	score:       3.7
+	dataset:     FLICKR
+	orig:        a boy wearing a striped shirt runs barefoot in the sandy hill
+	sent:        A boy wearing a striped shirt is running barefoot on the sandy hill
+	corr:        A girl wearing a striped shirt is running barefoot on the sandy hill
+	score:       3.7
+	dataset:     FLICKR
+	orig:        two young boys look up at the camera as one sticks out his tongue
+	sent:        Two young boys are looking up at the camera and one is sticking out his tongue
+	corr:        Two young girl are looking up at the camera and one is sticking out his tongue
+	score:       3.7
+	dataset:     FLICKR
+	orig:        Three kids jumping in leaves.
+	sent:        Three kids are jumping in the leaves
+	corr:        Three kids are sitting in the leaves
+	score:       3.8
+	dataset:     FLICKR
+	orig:        Four children do backbends in the park.
+	sent:        Four children are doing backbends in the park
+	corr:        Four children are doing backbends in the gym
+	score:       3.8
+	dataset:     FLICKR
+	orig:        A child hits a baseball.
+	sent:        A child is hitting a baseball
+	corr:        A child is missing a baseball
+	score:       3.8
+	dataset:     FLICKR
+	orig:        two girls sitting on ground
+	sent:        Two girls are sitting on the ground
+	corr:        Two girls are lying on the ground
+	score:       3.8
+	dataset:     FLICKR
+	orig:        A dark black dog is playing with a light brown dog in a backyard.
+	sent:        A dark black dog and a light brown dog are playing in the backyard
+	corr:        A dark black dog and a light brown dog are fighting in the backyard
+	score:       3.8
+	dataset:     FLICKR
+	orig:        A male doing a bicycle trick in midair.
+	sent:        The cyclist is performing a trick in the air
+	corr:        The cyclist isn't performing a trick in the air
+	score:       3.8
+	dataset:     FLICKR
+	orig:        Two people are walking two golden dogs in the snow.
+	sent:        Two people are walking two dogs with golden coats in the snow
+	corr:        Two people are in the snow holding two dogs with golden coats
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a man gets knocked off of a horse
+	sent:        The man is not knocked off of a horse
+	corr:        The man is being knocked off of a horse
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a group of people sing
+	sent:        A group of people is singing
+	corr:        A group of people is silent
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        the lady broke raw eggs into a bowl
+	sent:        The lady is breaking raw eggs into a bowl
+	corr:        The lady isn't breaking raw eggs into a bowl
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        some children are jumping on trampoline
+	sent:        Some children are jumping on a trampoline
+	corr:        Some children are jumping off a trampoline
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a man is on a roof dancing
+	sent:        A man is dancing on a roof 
+	corr:        A man is standing on a roof
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a man folds a tortilla
+	sent:        A man is folding a tortilla
+	corr:        A man is unfolding a tortilla
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a toy train strikes a toy car
+	sent:        A toy train is striking a toy car
+	corr:        A toy train is missing a toy car
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a woman is riding a seadoo
+	sent:        A woman is riding a Seadoo
+	corr:        A woman is parking a Seadoo
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a dog is jumping on a trampoline
+	sent:        A dog is jumping on a trampoline
+	corr:        A dog is lying on a trampoline
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        the woman is cutting cooked octopus
+	sent:        The woman is cutting cooked octopus
+	corr:        The man is cutting cooked octopus
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a woman is picking a can
+	sent:        A woman is picking a can
+	corr:        A man is picking a can
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a man is mixing a bowl
+	sent:        A man is mixing the content of a bowl
+	corr:        A woman is mixing the content of a bowl
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a man drills a hole in a piece of wood
+	sent:        A man is drilling a hole in a piece of wood
+	corr:        A man is drilling a hole with a piece of wood
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        someone drills a hole in a strip of wood with a power drill
+	sent:        Someone is drilling a hole in a strip of wood with a power drill
+	corr:        Nobody is drilling a hole in a strip of wood with a power drill
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a man is singing into a microphone
+	sent:        A man is singing into a microphone
+	corr:        A woman is singing into a microphone
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a woman is opening a soda and drinking it
+	sent:        A woman is opening a soda and drinking it
+	corr:        A man is opening a soda and drinking it
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a little girl peddling a scooter
+	sent:        A little girl is peddling a scooter
+	corr:        A little girl is selling a scooter
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a chef is preparing some food
+	sent:        A chef is preparing some food
+	corr:        A chef is discarding some food
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a man dives off of a cliff
+	sent:        A man is diving off a cliff
+	corr:        A man is diving off a rock
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a wolf-like dog herds a pack of white sheep on a dusty farm
+	sent:        A dog is herding a pack of white sheep on a dusty farm
+	corr:        A dog is scattering a pack of white sheep on a dusty farm
+	score:       3.8
+	dataset:     FLICKR
+	orig:        three boys walk on rocks along a river
+	sent:        Three boys are walking on rocks along a river
+	corr:        Three boys are resting on rocks along a river
+	score:       3.8
+	dataset:     FLICKR
+	orig:        two men, a woman, and two young boys stand in front of a large gathering of people outside a building
+	sent:        Two men, a woman, and two young boys are standing in front of a large gathering of people outside a building
+	corr:        Two men, a woman, and two young boys are sitting in front of a large gathering of people outside a building
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a white dog standing on fallen leaves
+	sent:        A white dog is standing on fallen leaves
+	corr:        A white dog is lying on fallen leaves
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a small child shows excitement on a swing set at the park
+	sent:        A small child is showing excitement on a swing set at the park
+	corr:        A small child is showing boredom on a swing set at the park
+	score:       3.8
+	dataset:     FLICKR
+	orig:        two kids are bouncing on colorful balls
+	sent:        Two kids are bouncing on colorful balls
+	corr:        Two kids are sitting on colorful balls
+	score:       3.8
+	dataset:     FLICKR
+	orig:        boy running through the water at the beach
+	sent:        A boy is running through the water at the beach
+	corr:        A girl is running through the water at the beach
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a woman in blue has a yellow ball in her mitt
+	sent:        A woman in blue has a yellow ball in the mitt
+	corr:        A woman in blue has a yellow ball in the hand
+	score:       3.8
+	dataset:     FLICKR
+	orig:        in rural outdoors, blond woman sits on roof of yellow bmw vehicle, two people inside
+	sent:        A blond woman is sitting on the roof of a yellow vehicle and two people are inside
+	corr:        A blond woman is sitting on the roof of a yellow vehicle and two people are outside
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a middle aged man and woman ride bikes down a road beside the water
+	sent:        A middle aged man and woman are riding bikes down a road beside the water
+	corr:        A middle aged man and woman are riding horses down a road beside the water
+	score:       3.8
+	dataset:     FLICKR
+	orig:        the young girl in blue is having fun on a slide
+	sent:        The young girl in blue is having fun on a slide
+	corr:        The young girl in blue is having fun on a swing
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a black dog jumping from a dock into water
+	sent:        A black dog is jumping from a dock into the water
+	corr:        A white dog is jumping from a dock into the water
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a girl in gold and purple is holding a rainbow afghan
+	sent:        A girl in gold and purple is holding a rainbow afghan
+	corr:        A man in gold and purple is holding a rainbow afghan
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a dog rolls on the ground
+	sent:        A dog is rolling on the ground
+	corr:        A dog is sleeping on the ground
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a dirty tan dog rolling in the dirt and looking right at the camera
+	sent:        A dirty tan dog is rolling in the dirt and looking right at the camera
+	corr:        A dirty tan dog is rolling in the water and looking right at the camera
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a black bird with a yellow beak standing in green grass
+	sent:        A black bird with a yellow beak is standing in the green grass
+	corr:        A white bird with a yellow beak is standing in the green grass
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a boy wearing all black is sliding down a blow up yellow slide
+	sent:        A boy is wearing all black and is sliding down a blow up yellow slide
+	corr:        A girl is wearing all black and is sliding down a blow up yellow slide
+	score:       3.8
+	dataset:     FLICKR
+	orig:        man leaning on ledge of a balcony
+	sent:        A man is leaning on the ledge of a balcony
+	corr:        A woman is leaning on the ledge of a balcony
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a man and woman are standing in front of an art gallery, looking at a map
+	sent:        A man and a woman are standing in front of an art gallery and are looking at a map
+	corr:        A man and a woman are standing in front of an art gallery and are looking at a signboard 
+	score:       3.8
+	dataset:     FLICKR
+	orig:        the rider is biking in the snow and wearing a red jacket
+	sent:        The rider is biking in the snow and wearing a red jacket
+	corr:        The rider is biking in the rain and wearing a red jacket
+	score:       3.8
+	dataset:     FLICKR
+	orig:        two boys are laying in the ocean close to the beach
+	sent:        Two boys are laying in the ocean close to the beach
+	corr:        Two boys are laying in the ocean far to the beach
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a woman stands, in a black dress pulling a cart, in front of two men seated on a park bench
+	sent:        A woman in a black dress is pulling a cart and is standing in front of two men who are seated on a park bench
+	corr:        A man in a black dress is pulling a cart and is standing in front of two men who are seated on a park bench
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a shirtless man jumps over a log
+	sent:        A shirtless man is jumping over a log
+	corr:        A shirtless woman is jumping over a log
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a woman is sitting near a flower bed overlooking a tunnel
+	sent:        A woman is sitting near a flower bed and is overlooking a tunnel
+	corr:        A man is sitting near a flower bed and is overlooking a tunnel
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a man is snowboarding down a railing in the snow
+	sent:        A man is snowboarding down a railing in the snow
+	corr:        A woman is snowboarding down a railing in the snow
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a man and a woman are standing on the curb
+	sent:        A man and a woman are standing on the curb
+	corr:        A man and a woman are jumping on the curb
+	score:       3.8
+	dataset:     FLICKR
+	orig:        a black dog and a tan dog fighting
+	sent:        A black dog and a tan dog are fighting
+	corr:        A black dog and a tan dog are sleeping
+	score:       3.8
+	dataset:     FLICKR
+	orig:        two men, one in a blue swimcap, stand in torso-deep water
+	sent:        Two men are swimming in deep water
+	corr:        Two men are standing in deep water
+	score:       3.8
+	dataset:     FLICKR
+	orig:        number 75 motorcycle racer rides his red and black bike
+	sent:        The motorcycle racer is riding a red and black bike
+	corr:        No motorcycle racer is riding a red and black bike
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        a man skateboards on a half pipe
+	sent:        A man is skateboarding on a half pipe
+	corr:        A girl is skateboarding on a half pipe
+	score:       3.835
+	dataset:     FLICKR
+	orig:        A little boy hits a baseball while his family watches
+	sent:        A family is watching a little boy who is hitting a baseball
+	corr:        A family is watching a little boy who is missing a baseball
+	score:       3.9
+	dataset:     FLICKR
+	orig:        Two men running outside in a competition.
+	sent:        A few men in a competition are running outside
+	corr:        A few men in a competition are running indoors
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        A band is singing.
+	sent:        The band is singing 
+	corr:        The band isn't singing
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        some people are singing
+	sent:        Some people are singing
+	corr:        Some people are silent
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        someone is slicing a tomato
+	sent:        Someone is slicing a tomato
+	corr:        Nobody is slicing a tomato
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a woman is chopping broccoli
+	sent:        A woman is chopping broccoli
+	corr:        A woman is storing broccoli
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a woman stirs eggs in a bowl
+	sent:        The woman is stirring eggs in a bowl
+	corr:        The woman isn't stirring eggs in a bowl
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a woman is slicing a big pepper
+	sent:        A woman is slicing a big pepper
+	corr:        A woman is washing a big pepper
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        the man is drawing
+	sent:        The man is drawing
+	corr:        The man is painting
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a baby is crawling happily
+	sent:        A baby is crawling happily
+	corr:        A baby is toddling happily
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a big cat opens a plastic drawer with his paws and then hops inside
+	sent:        A big cat is opening a plastic drawer with its paws and is jumping inside
+	corr:        A small cat is opening a plastic drawer with its paws and jumping inside
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a woman is painting the face of a man
+	sent:        A woman is painting a man's face
+	corr:        A woman is cleaning a man's face
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        someone is playing with a toad
+	sent:        Someone is playing with a toad
+	corr:        Nobody is playing with a toad
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a man is playing a large flute
+	sent:        A man is playing a large flute
+	corr:        A man is playing a small flute
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a man is riding a scooter
+	sent:        A man is riding a scooter
+	corr:        A man is riding a motorbike
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a man is passionately playing a guitar in front of an audience
+	sent:        A man is passionately playing a guitar in front of an audience
+	corr:        A woman is passionately playing a guitar in front of an audience
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a group of people are marching in place
+	sent:        A group of people are marching
+	corr:        A group of people are standing
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a girl is eating a cupcake
+	sent:        A girl is eating a cupcake
+	corr:        A boy is eating a cupcake
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a man is riding a mechanical bull
+	sent:        A man is riding a mechanical bull
+	corr:        A man is riding a rodeo bull
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        the cat is licking a bottle
+	sent:        The cat is licking a bottle
+	corr:        The dog is licking a bottle
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a man skateboards on a half pipe
+	sent:        A man is skateboarding on a half pipe
+	corr:        A boy is skateboarding on a half pipe
+	score:       3.9
+	dataset:     FLICKR
+	orig:        two people in chairs reading
+	sent:        Two people in two chairs are reading
+	corr:        Two people in two chairs are talking
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a black dog in shallow water
+	sent:        A black dog is standing in shallow water
+	corr:        A black dog is standing in deep water
+	score:       3.9
+	dataset:     FLICKR
+	orig:        two small boys dressed in tuxedos sitting on a red carpeted floor
+	sent:        Two small boys dressed in tuxedos are sitting on a red carpeted floor
+	corr:        Two small boys dressed in tuxedos are standing on a red carpeted floor
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a man is standing on a sidewalk in the background with a blurry image of another man in the foreground
+	sent:        A man is standing on a sidewalk
+	corr:        A man is sitting on a sidewalk
+	score:       3.9
+	dataset:     FLICKR
+	orig:        the surfer is coming in from riding a big wave
+	sent:        The surfer is riding a big wave
+	corr:        The surfer is riding a small wave
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a man jumps through the air while snowboarding
+	sent:        A snowboarding man is jumping through the air
+	corr:        A snowboarding woman is jumping through the air
+	score:       3.9
+	dataset:     FLICKR
+	orig:        two dogs look at something splashing in the water
+	sent:        Two dogs are looking at something that is splashing in the water
+	corr:        Two cats are looking at something that is splashing in the water
+	score:       3.9
+	dataset:     FLICKR
+	orig:        two boys do martial arts on a blue mat
+	sent:        Two boys are doing martial arts on a blue mat
+	corr:        Two boys are doing martial arts on a green mat
+	score:       3.9
+	dataset:     FLICKR
+	orig:        the yellow dog is drinking water from a bottle
+	sent:        The yellow dog is drinking water from a bottle
+	corr:        The yellow dog is drinking water from a pot
+	score:       3.9
+	dataset:     FLICKR
+	orig:        man doing a skateboard trick on an outdoor park porch
+	sent:        A man is doing a skateboard trick on an outdoor park porch
+	corr:        A woman is doing a skateboard trick on an outdoor park porch
+	score:       3.9
+	dataset:     FLICKR
+	orig:        people are sitting at square tables in a red room
+	sent:        People are sitting at square tables in a red room
+	corr:        People are sitting at round tables in a red room
+	score:       3.9
+	dataset:     FLICKR
+	orig:        several people sitting at small tables in a darkened room
+	sent:        Several people are sitting at small tables in a darkened room
+	corr:        Several people are sitting at small tables in a light room
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a little girl about to hit a baseball off a tee
+	sent:        A little girl is hitting a baseball off a tee
+	corr:        A girl is hitting a little tee with a baseball
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a woman wearing a long black jacket and a brown hat is walking beside a park with a lot of blooming trees
+	sent:        A woman is wearing a long black jacket and a brown hat and is walking past a park with a lot of blooming trees
+	corr:        A man is wearing a long black jacket and a brown hat and is walking past a park with a lot of blooming trees
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a woman in a bikini pulls a dog on a leash at the beach
+	sent:        A woman in a bikini is pulling a dog on a leash at the beach
+	corr:        A woman in a bikini is pulling a cat on a leash at the beach
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a black dog is approaching a golden dog on pebbly beach
+	sent:        A black dog is approaching a golden dog on pebbly beach
+	corr:        A white dog is approaching a golden dog on pebbly beach
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a large man sits in a military accessories store
+	sent:        A large man is sitting in a military accessories store
+	corr:        A small man is sitting in a military accessories store
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a grey dog is bouncing a soccer ball on his head in a grass field
+	sent:        A grey dog is bouncing a soccer ball on its head in a grass field
+	corr:        A grey dog is bouncing a tennis ball on its head in a grass field
+	score:       3.9
+	dataset:     FLICKR
+	orig:        two men and a girl pose with funny faces in front of a wood panel wall
+	sent:        Two men and a girl in behind of a wood panel wall are posing with funny faces
+	corr:        Two men and a girl in front of a wood panel wall are posing with funny faces
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a man is leaning on a racing motorcycle
+	sent:        A man is leaning on a racing motorcycle
+	corr:        A woman is leaning on a racing motorcycle
+	score:       3.9
+	dataset:     FLICKR
+	orig:        a woman wearing paint and costume pieces rides a bike on a busy street
+	sent:        A woman is wearing paint and costume pieces and is riding a bike on a busy street
+	corr:        A woman is wearing paint and costume pieces and is riding a bike on a empty street
+	score:       3.915
+	dataset:     FLICKR
+	orig:        the man stands in a body of water near a waterfall
+	sent:        The man is standing in a body of water near a waterfall
+	corr:        The body of a man is in the water near a waterfall
+	score:       3.95
+	dataset:     FLICKR
+	orig:        two dogs playing on a rocky beach
+	sent:        Two dogs are playing on a rocky beach
+	corr:        Two dogs are playing on a sandy beach
+	score:       3.965
+	dataset:     FLICKR
+	orig:        Children in red shirts play in the leaves.
+	sent:        Children in red shirts are playing in the leaves
+	corr:        Children in red shirts are sleeping in the leaves
+	score:       4.0
+	dataset:     FLICKR
+	orig:        Four girls do backbends while playing outdoors.
+	sent:        Four girls are doing backbends and playing outdoors
+	corr:        Four girls are doing backbends and playing indoors
+	score:       4.0
+	dataset:     FLICKR
+	orig:        A woman wears an Egytian-like headdress.
+	sent:        A woman is wearing an Egyptian headdress
+	corr:        A woman is wearing an Indian headdress
+	score:       4.0
+	dataset:     FLICKR
+	orig:        A woman with silver pants and pink bellbottoms, and a pink scarf riding her bike by a fence, with a buildings in the background.
+	sent:        The woman wearing silver pants, pink bellbottoms and a pink scarf isn't riding a bike
+	corr:        The woman wearing silver pants, pink bellbottoms and a pink scarf is riding a bike
+	score:       4.0
+	dataset:     FLICKR
+	orig:        German Shepard standing up snapping at droplets of water
+	sent:        The dog is snapping at some droplets of water
+	corr:        The dog isn't snapping at some droplets of water
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        The turtle followed the fish.
+	sent:        The turtle is following the fish
+	corr:        The turtle isn't following the fish
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A monkey is wading across a marsh.
+	sent:        A monkey is wading through a marsh
+	corr:        A monkey is wading through a river
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A cat gets stuck on a moving ceiling fan.
+	sent:        A cat is stuck on a moving ceiling fan
+	corr:        A cat is playing on a moving ceiling fan
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        Men are sawing logs.
+	sent:        Men are sawing logs
+	corr:        Women are sawing logs
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A man is spreading out dough.
+	sent:        A man is spreading dough
+	corr:        A man is lumping dough
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        Three men are jumping off a wall.
+	sent:        Three men are jumping off a wall
+	corr:        Three men are jumping on a wall
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A badger is burrowing a hole.
+	sent:        The badger is burrowing a hole
+	corr:        The badger isn't burrowing a hole
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A man turns on the microwave.
+	sent:        One man is turning on the microwave
+	corr:        One man is turning off the microwave
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A kitten is drinking milk from a bowl.
+	sent:        The kitten is eagerly drinking some milk from the bowl
+	corr:        The kitten isn't eagerly drinking some milk from the bowl
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A truck is going down a hill.
+	sent:        A truck is quickly going down a hill
+	corr:        A truck is quickly going up a hill
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A man is playing guitar.
+	sent:        The person is practicing the guitar
+	corr:        The person isn't practicing the guitar
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        the cat played with a watermelon
+	sent:        The cat is playing with a watermelon
+	corr:        The cat isn't playing with a watermelon
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        the man lifted barbells
+	sent:        The man is lifting barbells
+	corr:        The man is lowering barbells
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a man lifts weights
+	sent:        The man is lifting weights
+	corr:        The man isn't lifting weights
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a man catches a fish
+	sent:        A man is catching a fish
+	corr:        A man is freeing a fish
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        someone is scratching an animals belly
+	sent:        Someone is scratching the back of an animal
+	corr:        Someone is scratching the belly of an animal
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a man is kicking a soccer ball
+	sent:        A man is kicking a soccer ball
+	corr:        A man is punching a soccer ball
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a man is emptying a plastic container
+	sent:        A man is emptying a plastic container
+	corr:        A man is filling a plastic container
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a man drills a hole in a piece of wood
+	sent:        A man is drilling a hole in a piece of wood
+	corr:        A man is carving a hole in a piece of wood
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a man holds a small animal in one hand
+	sent:        A man is holding a small animal in one hand
+	corr:        A man is holding a big animal in one hand
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a woman is cutting a lemon
+	sent:        A woman is cutting a lemon
+	corr:        A man is cutting a lemon
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a man is drawing some figures
+	sent:        A man is drawing some figures
+	corr:        A man is erasing some figures
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a dog swims after a tennis ball
+	sent:        A dog is swimming after a tennis ball
+	corr:        A cat is swimming after a tennis ball
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a woman is eating a cupcake
+	sent:        A woman is eating a cupcake
+	corr:        A woman is eating a cake
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a man severs the toe of an empty leather boot using a sword
+	sent:        A man is severing the toe of an empty leather boot with a sword
+	corr:        A woman is severing the toe of an empty leather boot with a sword
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        the man sprinkled cheese on the pizza
+	sent:        The man is sprinkling cheese on the pizza
+	corr:        The cook is sprinkling cheese on the pizza
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a girl is playing a guitar
+	sent:        A girl is playing a guitar
+	corr:        A boy is playing a guitar
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a woman is boiling noodles in water
+	sent:        A woman is boiling noodles in water
+	corr:        A man is boiling noodles in water
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        a dog is running on the ground
+	sent:        A dog is running on the ground
+	corr:        A dog is sitting on the ground
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a sheepdog is rounding up a herd of sheep
+	sent:        A sheepdog is grouping a herd of sheep
+	corr:        A sheepdog is dispersing a herd of sheep
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a bearded man on a train
+	sent:        The bearded man is sitting on a train
+	corr:        The hairy man is sitting on a train
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a football player runs past an official carrying a football
+	sent:        A football player is running past an official carrying a football
+	corr:        A football player is running into an official carrying a football
+	score:       4.0
+	dataset:     FLICKR
+	orig:        person rides a dirt bike down a dirt hill
+	sent:        A person is riding a dirt bike down a dirt hill
+	corr:        A person is riding a dirt bike up a dirt hill
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a little black dog wearing a red collar is in the leaves with a blue ball
+	sent:        A little black dog is wearing a red collar and is in the leaves with a blue ball
+	corr:        A big black dog is wearing a red collar and is in the leaves with a blue ball
+	score:       4.0
+	dataset:     FLICKR
+	orig:        young dirt bikers try to get a dirt bike up a sandy hill
+	sent:        Some young dirt bikers are getting a dirt bike up a sandy hill
+	corr:        Some old dirt bikers are getting a dirt bike up a sandy hill
+	score:       4.0
+	dataset:     FLICKR
+	orig:        pedestrians and cars make their way through times square in new york
+	sent:        Pedestrians and cars are moving through a traffic jam in a big city
+	corr:        Pedestrians and cars are moving through a traffic jam in a small city
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a man sits on the grass and drinks from a water bottle
+	sent:        A man is sitting on the grass and drinking from a water bottle
+	corr:        A woman is sitting on the grass and is drinking from a water bottle
+	score:       4.0
+	dataset:     FLICKR
+	orig:        kids are dressed in costume and playing a game
+	sent:        Kids are not dressed in costumes and playing a game
+	corr:        Kids are being dressed in costumes and playing a game
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a downhill skier in black catches a tiny bit of air
+	sent:        A skier in black is catching a tiny bit of air
+	corr:        A skier in white is catching a tiny bit of air
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a light brown dog is running in the water
+	sent:        A light brown dog is running in the water
+	corr:        A light brown dog is running in the grass
+	score:       4.0
+	dataset:     FLICKR
+	orig:        three people are wlking across a rope and wood bridge over a river
+	sent:        Three people are walking across a rope and wood bridge over a river
+	corr:        Three people are walking across a rope and steel bridge over a river
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a boy plays a game with wooden blocks
+	sent:        A boy is playing a game with wooden blocks
+	corr:        A boy is playing a game with steel blocks
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a boy wearing a white hat is running on the beach
+	sent:        A boy is wearing a white hat and is running on the beach
+	corr:        A boy is wearing a white hat and is walking on the beach
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a girls in a strange outfit rides her bike
+	sent:        A girl in a strange outfit is riding the bike
+	corr:        A boy in a strange outfit is riding the bike
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a man stands at the wheel of a classic american car, door and trunk open
+	sent:        A man is standing at the wheel of a classic American car that has its door and trunk open
+	corr:        A woman is standing at the wheel of a classic American car that has its door and trunk open
+	score:       4.0
+	dataset:     FLICKR
+	orig:        two women with their dogs on a forest path
+	sent:        Two women with dogs are walking on a forest path
+	corr:        Two men with dogs are walking on a forest path
+	score:       4.0
+	dataset:     FLICKR
+	orig:        two people dressed in green and red costumes are outside on the sidewalk
+	sent:        Two people dressed in green and red costumes are outside on the sidewalk
+	corr:        Two people dressed in green and red costumes are outside on the seashore
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a woman is petting her dog near a stone path
+	sent:        A woman is petting a dog near a stone path
+	corr:        A man is petting a dog near a stone path
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a dog is fetching a stick out of very clear water
+	sent:        A dog is fetching a stick out of very clear water
+	corr:        A dog is fetching a stick out of very dirty water
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a small black and white dog carries a stick while swimming
+	sent:        A small black and white dog is carrying a stick and is swimming
+	corr:        A big black and white dog is carrying a stick and is swimming
+	score:       4.0
+	dataset:     FLICKR
+	orig:        two people are seated on a camel while another camel is in the foreground
+	sent:        Two people are seated on a camel and another camel is in the foreground
+	corr:        Two people are seated near a camel and another camel is in the foreground
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a barefoot man in his pajamas is looking toward the sky while walking on the tennis court
+	sent:        A barefoot man in pajamas is looking toward the sky and is walking on the tennis court
+	corr:        A barefoot man in pajamas is looking toward the sky and is standing on the tennis court
+	score:       4.0
+	dataset:     FLICKR
+	orig:        the man stands in a body of water near a waterfall
+	sent:        The man is standing in a body of water near a waterfall
+	corr:        The man is swimming in a body of water near a waterfall
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a dog emerging from a lake
+	sent:        A dog is emerging from a lake
+	corr:        No dog is emerging from a lake
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a black and white dog carries a huge stick on the green grass
+	sent:        A black and white dog is carrying a huge stick on the green grass
+	corr:        A black and white dog is carrying a small stick on the green grass
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a boy runs through the sand
+	sent:        A boy is running through the sand
+	corr:        A boy is running through the grass
+	score:       4.0
+	dataset:     SEMEVAL
+	orig:        A cat is playing with an antenna.
+	sent:        A cat is playing with a device
+	corr:        A playing device is amusing a cat
+	score:       4.085
+	dataset:     SEMEVAL
+	orig:        someone is slicing a vegetable
+	sent:        The person is slicing a vegetable
+	corr:        The person isn't slicing a vegetable
+	score:       4.085
+	dataset:     FLICKR
+	orig:        girl in blue sweater and holding a multicolor toy sitting on the shoulders of a man with grey hair
+	sent:        A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a man with grey hair
+	corr:        A girl in blue sweater is holding a multicolor toy and is sitting on the shoulders of a woman with grey hair
+	score:       4.085
+	dataset:     FLICKR
+	orig:        Girl in blue and white uniform doing cheers
+	sent:        The girl in the blue and white uniform isn't cheering
+	corr:        The girl in the blue and white uniform is cheering
+	score:       4.1
+	dataset:     FLICKR
+	orig:        The man and the boy are standing at the bottom of the outdoor stairs.
+	sent:        The man and the boy are standing at the bottom of the stairs, which are outdoors
+	corr:        The man and the boy are standing at the top of the stairs, which are outdoors
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        A woman is combing her hair.
+	sent:        A woman is combing her hair
+	corr:        A woman is arranging her hair
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        A woman is cutting some flowers.
+	sent:        A woman is cutting some flowers
+	corr:        A woman is cutting some plants
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        A cat is playing a key board.
+	sent:        A cat is playing a keyboard
+	corr:        A cat is playing a piano
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        a woman is tapping her fingers on a table
+	sent:        A woman is tapping her fingers on a table
+	corr:        A woman is resting her fingers on a table
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        the man is slicing a potato
+	sent:        The man is slicing a potato
+	corr:        The man is wrapping a potato
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        a man is running
+	sent:        A man is running
+	corr:        A man is racing
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        the lady sliced up the meat
+	sent:        The lady is slicing up the meat
+	corr:        The lady isn't slicing up the meat
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        a soccer player scores a goal
+	sent:        A soccer player is scoring a goal
+	corr:        A soccer player is missing a goal
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        a person is combing a cat hair
+	sent:        A person is combing the fur of a cat
+	corr:        A person is ruffling the fur of a cat
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        several swimmers jump into the water
+	sent:        Several swimmers are jumping into the water
+	corr:        Several swimmers are dashing into the water
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        a cat opens a drawer and climbs inside
+	sent:        A cat is opening a drawer and climbing inside
+	corr:        A dog is opening a drawer and climbing inside
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        a man is singing while walking down the sidewalk
+	sent:        A man is singing and walking down the sidewalk
+	corr:        A man is singing and walking down the road
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        a woman is placing food in a pot of hot water
+	sent:        A woman is placing food in a pot of hot water
+	corr:        A woman is placing food in a pot of cold water
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        a young girl is using sign language
+	sent:        A young girl is using sign language
+	corr:        A young boy is using sign language
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        someone is sitring noodles in water
+	sent:        Someone is stirring noodles in the water
+	corr:        Nobody is stirring noodles in the water
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        two women are dancing and singing in front of a crowd
+	sent:        Two women are dancing and singing in front of a crowd
+	corr:        Two men are dancing and singing in front of a crowd
+	score:       4.1
+	dataset:     SEMEVAL
+	orig:        the woman is seasoning the oil
+	sent:        The woman is seasoning the oil
+	corr:        The chef is seasoning the oil
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a man in a hat is making his way through a store
+	sent:        A man in a hat is walking through a store
+	corr:        A man in a hat is walking past a store
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a dog with long hair and a red vest runs in the grass
+	sent:        A dog with long hair and a red vest is running in the grass
+	corr:        A dog with long hair and a red vest is sitting in the grass
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a woman in a white dress and a woman in a blue dress on stage
+	sent:        A woman in a white dress and a woman in a blue dress are standing on a stage
+	corr:        A woman in a white dress and a woman in a blue dress are standing beside a stage
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a football player runs past an official carrying a football
+	sent:        A football player is running past an official carrying a football
+	corr:        A football player is carrying an official past a rolling football
+	score:       4.1
+	dataset:     FLICKR
+	orig:        the white dogs look curiously at the black llama
+	sent:        The white dogs are looking curiously at the black llama
+	corr:        The black llama is curiously looking at the white dogs
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a man skis down a snowy hill
+	sent:        A man is skiing down a snowy hill
+	corr:        A man is skiing down a snowy mountain
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a shirtless man playing football on a lawn
+	sent:        A shirtless man is playing football on a lawn
+	corr:        A shirtless man is playing football on a field
+	score:       4.1
+	dataset:     FLICKR
+	orig:        an arabic man in a white hat
+	sent:        An Arabic man is wearing a white hat
+	corr:        An Arabic man isn't wearing a white hat
+	score:       4.1
+	dataset:     FLICKR
+	orig:        little kids are playing in a water fountain in front of lots of people
+	sent:        Little kids are playing in a water fountain in front of lots of people
+	corr:        Little kids are playing in a water fountain in front of few people
+	score:       4.1
+	dataset:     FLICKR
+	orig:        the people are standing around at a carnival
+	sent:        The people are standing at a carnival
+	corr:        The people are running at a carnival
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a woman marches with a pair of dogs
+	sent:        A woman is marching with a pair of dogs
+	corr:        A woman is standing with a pair of dogs
+	score:       4.1
+	dataset:     FLICKR
+	orig:        four people walk on a bridge over a body of water
+	sent:        Four people are walking on a bridge over a body of water
+	corr:        Four people are sitting on a bridge over a body of water
+	score:       4.1
+	dataset:     FLICKR
+	orig:        man leaning on ledge of a balcony
+	sent:        A man is leaning on the ledge of a balcony
+	corr:        A man is hanging on the ledge of a balcony
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a dog catches black frisbee
+	sent:        A dog is catching a black frisbee
+	corr:        A dog is biting a black frisbee
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a white dog is standing on a grassy hillside
+	sent:        A white dog is standing on a grassy hillside
+	corr:        A black dog is standing on a grassy hillside
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a girl in a band is playing the flute
+	sent:        A girl in a band is playing the flute
+	corr:        A boy in a band is playing the flute
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a person stands in the snow at the edge of a mountain
+	sent:        A person is standing in the snow at the edge of a mountain
+	corr:        A person is walking in the snow at the edge of a mountain
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a surfer surfs a huge wave
+	sent:        A surfer is surfing a huge wave
+	corr:        A surfer is surfing a small wave
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a kid splashes in the ocean
+	sent:        A kid is splashing in the ocean
+	corr:        A kid is splashing in the pool
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a dog and sand blowing in the wind
+	sent:        A dog is in the sand that is blowing in the wind
+	corr:        No dog is in the sand that is blowing in the wind
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a woman wearing a blue shirt and high heels stands on the sidewalk next to a man
+	sent:        A woman wearing a blue shirt and high heels is standing on the sidewalk next to a man
+	corr:        A woman wearing a blue shirt and high heels is standing on the sidewalk next to a dog
+	score:       4.1
+	dataset:     FLICKR
+	orig:        brown puppy biting pole
+	sent:        A brown puppy is biting a pole
+	corr:        A brown puppy is biting a stick
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a man on a yellow sport bike does a wheelie as his friend on a black bike catches up
+	sent:        A man on a yellow sport bike is doing a wheelie and a friend on a black bike is catching up
+	corr:        A man on a yellow sport bike is doing a wheelie and a friend on a white bike is catching up
+	score:       4.1
+	dataset:     FLICKR
+	orig:        brown dog runs in snow
+	sent:        A brown dog is running in the snow
+	corr:        A black dog is running in the snow
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a brown and white dog attempts to catch a dirty tennis ball in a dirt field
+	sent:        A brown and white dog is catching a dirty tennis ball in a dirt field
+	corr:        A brown and white dog is biting a dirty tennis ball in a dirt field
+	score:       4.1
+	dataset:     FLICKR
+	orig:        Child sliding in the snow.
+	sent:        The kid is sliding in the snow
+	corr:        The kid is still in the snow
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        A man is playing two keyboards.
+	sent:        A man is playing two keyboards
+	corr:        A musician is playing two keyboards
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        A man is driving a car.
+	sent:        The man is driving a car
+	corr:        The man isn't driving a car
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        a man plays an acoustic guitar
+	sent:        The man is playing an acoustic guitar
+	corr:        The man isn't playing an acoustic guitar
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        a man is singing to a woman
+	sent:        A man is singing to a woman
+	corr:        A man is singing to a girl
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        the baby is laughing and crawling
+	sent:        The baby is laughing and crawling
+	corr:        The baby is laughing and toddling
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        the girl sat on the couch to crochet
+	sent:        The girl is standing on the couch and crocheting
+	corr:        The girl is sitting on the couch and is crocheting
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        an officer is talking to recruits
+	sent:        An officer is talking to the recruits
+	corr:        An officer is talking to the soldiers
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        someone is holding a hedgehog
+	sent:        Someone is holding a hedgehog
+	corr:        Nobody is holding a hedgehog
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        someone is playing with a toad
+	sent:        Someone is playing with a toad
+	corr:        Someone is playing with a frog
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        a man is playing the drums
+	sent:        A man is playing the drums
+	corr:        A woman is playing the drums
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        a woman is dancing near a fire
+	sent:        A woman is dancing near a fire
+	corr:        A woman is dancing near a fireplace
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a dog with a muzzle and blue jacket runs around the yard
+	sent:        A dog with a muzzle and a blue jacket is running around the yard
+	corr:        A dog with a muzzle and a blue jacket is running around the court
+	score:       4.2
+	dataset:     FLICKR
+	orig:        young lady in bikini lying on the beach
+	sent:        A young lady in a bikini is lying on the beach
+	corr:        A young lady in a bikini is standing on the beach
+	score:       4.2
+	dataset:     FLICKR
+	orig:        two people walking laden down with baskets and blankets
+	sent:        Two people are walking with laden baskets and blankets
+	corr:        Two people are sitting with laden baskets and blankets
+	score:       4.2
+	dataset:     FLICKR
+	orig:        two children in white outfits and red protective gear spar on a mat
+	sent:        Two children in white outfits and red protective gear are sparring on a mat
+	corr:        Two children in white outfits and red protective gear are sitting on a mat
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a boy is jumping off the side of a running stone water fountain in front of a building
+	sent:        A boy is jumping off the side of a stone water fountain in front of a building
+	corr:        A boy is jumping on the side of a stone water fountain in front of a building
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a young oriential girl is standing above the crowd playing with a pinwheel
+	sent:        A young oriental girl is standing above the crowd and is playing with a pinwheel
+	corr:        A young occidental girl is standing above the crowd and is playing with a pinwheel
+	score:       4.2
+	dataset:     FLICKR
+	orig:        two women, one in white, one in black, are sitting on a bench
+	sent:        Two women dressed in white and black are sitting on a bench
+	corr:        Two women dressed in white and black are relaxing on a bench
+	score:       4.2
+	dataset:     FLICKR
+	orig:        five people stand in the grass with three dogs
+	sent:        Five people are standing in the grass with three dogs
+	corr:        Five people are standing in the grass with no dogs
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a tan dog splashing in water on the bank of a pond or river
+	sent:        A tan dog is splashing in the water on the bank of a pond
+	corr:        A tan dog is playing in the water on the bank of a pond
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a dog rolls on the ground
+	sent:        A dog is rolling on the ground
+	corr:        A dog is playing on the ground
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a man rock climbing pauses to calculate his route
+	sent:        A man is rock climbing, pausing and calculating the route
+	corr:        A woman is rock climbing, pausing and calculating the route
+	score:       4.2
+	dataset:     FLICKR
+	orig:        rollerbladers roll in formation down a hill
+	sent:        Rollerbladers are rolling in formation down a hill
+	corr:        Rollerbladers are running in formation down a hill
+	score:       4.2
+	dataset:     FLICKR
+	orig:        three men sitting on a hill looking at the mountains and sky
+	sent:        Three men are sitting on a hill and looking at the mountains and sky
+	corr:        Three men are lying on a hill and looking at the mountains and sky
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a skateboarder jumps in the air
+	sent:        A skateboarder is jumping in the air
+	corr:        No skateboarder is jumping in the air
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a surfer in a black wetsuit is riding a foamy wave
+	sent:        A surfer in a black wetsuit is riding a foamy wave
+	corr:        A surfer in a white wetsuit is riding a foamy wave
+	score:       4.2
+	dataset:     FLICKR
+	orig:        big brown and white spotted dog laying on a jacket on the street
+	sent:        A big brown and white spotted dog is lying on a jacket on the street
+	corr:        A small brown and white spotted dog is lying on a jacket on the street
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a group of children in a church basement play maracas and tambourines
+	sent:        A group of children in a church basement is playing maracas and tambourines
+	corr:        A group of children in a church basement is playing guitars and tambourines
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a little girl and woman wearing a yellow shirt get splashed by a city fountain
+	sent:        A little girl and a woman wearing a yellow shirt are getting splashed by a city fountain
+	corr:        A little boy and a woman wearing a yellow shirt are getting splashed by a city fountain
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a woman crouches down next to her terrier dog to smile at a little girl sitting on the sidewalk
+	sent:        A woman is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk
+	corr:        A man is crouching down next to a dog and is smiling at a little girl sitting on the sidewalk
+	score:       4.2
+	dataset:     FLICKR
+	orig:        there is a black and white dog with a large branch running in the field
+	sent:        A black and white dog with a large branch is running in the field
+	corr:        A black and white dog with a large branch is standing in the field
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a little boy sticks his tongue out for the camera. another boy looks on
+	sent:        A little boy is sticking his tongue out for the camera and another boy is looking on
+	corr:        A little boy is sticking his tongue out for the camera and another boy is not looking
+	score:       4.2
+	dataset:     FLICKR
+	orig:        a dog runs on concrete holding a blue ball
+	sent:        A dog is running on concrete and is holding a blue ball
+	corr:        A dog is standing on concrete and is holding a blue ball
+	score:       4.2
+	dataset:     FLICKR
+	orig:        Children play in front of a large door.
+	sent:        The children are playing in front of a large door
+	corr:        The children aren't playing in front of a large door
+	score:       4.3
+	dataset:     FLICKR
+	orig:        A man and bride walk down the aisle
+	sent:        The bride and the groom are leaving after the wedding
+	corr:        The bride and the groom are arriving after the wedding
+	score:       4.3
+	dataset:     SEMEVAL
+	orig:        A man is playing a flute.
+	sent:        A flute is being played by a man
+	corr:        A flute isn't being played by a man
+	score:       4.3
+	dataset:     SEMEVAL
+	orig:        A lady is playing the guitar.
+	sent:        The guitar is being played by a lady
+	corr:        The guitar is being played by a girl
+	score:       4.3
+	dataset:     SEMEVAL
+	orig:        a dog opens a can of food
+	sent:        A dog is opening a can of food
+	corr:        A dog is opening a jar of food
+	score:       4.3
+	dataset:     SEMEVAL
+	orig:        the man sliced through a thick rope with a sword
+	sent:        A man is cutting a thick rope with a sword
+	corr:        A man is cutting a big rope with a sword
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a blonde boy in green is on a swing
+	sent:        A blonde boy in green is sitting on a swing
+	corr:        A blonde boy in green is standing on a swing
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a little girl is smiling, while running outside
+	sent:        A little girl is smiling and running outside
+	corr:        A little girl is smiling and running inside
+	score:       4.3
+	dataset:     FLICKR
+	orig:        two people sitting on a park bench on a sunny day
+	sent:        Two people are sitting on a park bench on a sunny day
+	corr:        Two people are sitting on a park bench on a hot day
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a tan dog splashing in water on the bank of a pond or river
+	sent:        A tan dog is splashing in the water on the bank of a river
+	corr:        A tan dog is splashing in the water on the bank of a pond
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a man with a white hat and brown shirt, behind a woman in red, looks to the left
+	sent:        A man with a white hat and brown shirt is behind a woman in red and is looking to the left
+	corr:        A man with a white hat and brown shirt is behind a woman in red and is looking to the right
+	score:       4.3
+	dataset:     FLICKR
+	orig:        three children running down a grassy hillside
+	sent:        Three children are running down a grassy hillside
+	corr:        Three children are running up a grassy hillside
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a large wet yellow dog retrives his toy
+	sent:        A large wet yellow dog is retrieving a toy
+	corr:        A large wet yellow dog is holding a toy
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a little kid wearing a hat is walking in the wet sand
+	sent:        A little kid is wearing a hat and is walking in the wet sand
+	corr:        A little kid is wearing a hat and is walking in the dry sand
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a dog jumping in the shade of trees
+	sent:        A dog is jumping in the shade of some trees
+	corr:        No dog is jumping in the shade of some trees
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a young swimmer sits in a bathing suit and waits for the next race
+	sent:        A young swimmer is sitting in a bathing suit and waiting for the next race
+	corr:        A young swimmer is standing in a bathing suit and waiting for the next race
+	score:       4.3
+	dataset:     FLICKR
+	orig:        kid sits wearing swim gear
+	sent:        A kid is waiting wearing swim gear
+	corr:        A kid is sitting wearing swim gear
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a yellow dog running down a sandy path
+	sent:        A yellow dog is running down a sandy path
+	corr:        A yellow dog is running up a sandy path
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a girl in orange shirt and clown makeup stands in a park while others look on
+	sent:        A girl in an orange shirt and clown makeup is standing in a park and others are looking on
+	corr:        A girl in an orange shirt and clown makeup is walking in a park and others are looking on
+	score:       4.3
+	dataset:     FLICKR
+	orig:        a man is leaning on a racing motorcycle
+	sent:        A man is leaning on a racing motorcycle
+	corr:        A racer is leaning on a racing motorcycle
+	score:       4.3
+	dataset:     FLICKR
+	orig:        two men ride an orange raft to shore
+	sent:        Two men are riding an orange raft on the shore
+	corr:        Two men are riding an orange raft on the beach
+	score:       4.33
+	dataset:     FLICKR
+	orig:        A classroom of students watching a presentation.
+	sent:        The presentation isn't being watched by a classroom of students
+	corr:        The presentation is being watched by a classroom of students
+	score:       4.4
+	dataset:     SEMEVAL
+	orig:        a girl is styling her hair
+	sent:        A girl is styling her hair
+	corr:        A girl is combing her hair
+	score:       4.4
+	dataset:     SEMEVAL
+	orig:        a man is fishing in the river
+	sent:        A man is fishing in the river
+	corr:        A man is fishing in the stream
+	score:       4.4
+	dataset:     SEMEVAL
+	orig:        a woman is placing food in a pot of hot water
+	sent:        A woman is placing food in a pot of hot water
+	corr:        A woman is cooking food in a pot of hot water
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a group of people sit on both sides of a red stone structure
+	sent:        A group of people is sitting on both sides of a red stone structure
+	corr:        A group of people is standing on both sides of a red stone structure
+	score:       4.4
+	dataset:     FLICKR
+	orig:        two girls playing inside a jumper house
+	sent:        Two girls are playing inside a jumper house
+	corr:        Two girls are jumping inside a playing house
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a young boy jumping off a chair
+	sent:        A young boy is jumping off a chair
+	corr:        A young boy is jumping onto a chair
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a tennis player with green a green headband on is ready to hit the ball
+	sent:        A tennis player with a green headband is hitting the ball
+	corr:        A tennis player with a green headband is missing the ball
+	score:       4.4
+	dataset:     FLICKR
+	orig:        kids in bathing suits with water splashing around them
+	sent:        The kids are wearing bathing suits and water is splashing around
+	corr:        The kids are not wearing suits and water is splashing around
+	score:       4.4
+	dataset:     FLICKR
+	orig:        the adults and children are gathered near an outdoor seating arrangement
+	sent:        The adults and children are not gathered near an outdoor seating arrangement
+	corr:        The adults and children are being gathered near an outdoor seating arrangement
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a boy in s striped shirt is jumping in front of a water fountain
+	sent:        A boy in a striped shirt is jumping in front of a water fountain
+	corr:        A boy in a striped shirt is playing in front of a water fountain
+	score:       4.4
+	dataset:     FLICKR
+	orig:        three hikers are sitting on a mountainside looking at the view, one using a pair of binoculars
+	sent:        Three hikers are sitting on a mountainside and looking at the view with a pair of binoculars
+	corr:        Three hikers are standing on a mountainside and looking at the view with a pair of binoculars
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a man with a white mustache stands on a balcony looking at the road below
+	sent:        A man with a white moustache is standing on a balcony and is looking at the road below
+	corr:        A man with a white moustache is sitting on a balcony and is looking at the road below
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a surfer in a black wetsuit is riding a foamy wave
+	sent:        A surfer in a black wetsuit is riding a foamy wave
+	corr:        A man in a black wetsuit is riding a foamy wave
+	score:       4.4
+	dataset:     FLICKR
+	orig:        big brown and white spotted dog laying on a jacket on the street
+	sent:        A big brown and white spotted dog is lying on a jacket on the street
+	corr:        A big brown and white spotted dog is lying on a cloth on the street
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a shirtless man escorts a horse pulling a carriage along a paved road
+	sent:        A shirtless man is escorting a horse that is pulling a carriage along a paved road
+	corr:        A shirtless man is escorting a horse that is pulling a carriage along a dirty road
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a cyclist performing a jump on a bicycle
+	sent:        A cyclist is performing a jump on a bicycle
+	corr:        A man is performing a jump on a bicycle
+	score:       4.4
+	dataset:     SEMEVAL
+	orig:        a girl is brushing her hair
+	sent:        A girl is brushing her hair
+	corr:        A girl is combing her hair
+	score:       4.435
+	dataset:     FLICKR
+	orig:        bride with a white veil looking down
+	sent:        A bride with a white veil is looking down
+	corr:        A bride with a white dress is looking down
+	score:       4.435
+	dataset:     FLICKR
+	orig:        A close-up of a young girl with a pink shirt laying on grass.
+	sent:        The young girl with a pink shirt is peacefully lying on the grass
+	corr:        The young girl with a pink shirt isn't peacefully lying on the grass
+	score:       4.5
+	dataset:     SEMEVAL
+	orig:        A person is mixing ingredients in a bowl.
+	sent:        Some ingredients are being mixed in a bowl by a person
+	corr:        Some ingredients are being separated in a bowl by a person
+	score:       4.6
+	dataset:     FLICKR
+	orig:        little boy sitting in a green tunnel with a smile on his face
+	sent:        A little boy is sitting in a green tunnel with a smile on his face
+	corr:        A little boy is crawling in a green tunnel with a smile on his face
+	score:       4.6
+	dataset:     FLICKR
+	orig:        a group of people gather at a stand at the fair
+	sent:        A group of people is gathering at a stand at the fair
+	corr:        No group of people is gathering at a stand at the fair
+	score:       4.6
+	dataset:     SEMEVAL
+	orig:        A man is feeding a mouse to a snake.
+	sent:        A snake is being fed a mouse by a man
+	corr:        No snake is being fed a mouse by a man
+	score:       4.7

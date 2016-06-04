@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+                  <mteval>
+<refset setid="example_set" srclang="bar" trglang="baz" refid="ref0">
+                          <doc docid="doc1" genre="nw">
+                          <p>
+<seg id="1"> A car blows up. </seg>
+<seg id="2"> A monkey is karate kicking at someone's gloved hand. </seg>
+<seg id="3"> A monkey is karate kicking at someone's gloved hand. </seg>
+<seg id="4"> A man is being treated for an emergency in a hospital. </seg>
+<seg id="5"> A big ball bounces over a nut. </seg>
+<seg id="6"> A monkey pulls a dogs tail, runs away, then comes back and yanks at the dog's leg, again running away. </seg>
+<seg id="7"> A boy is beating other boy by stick. </seg>
+<seg id="8"> A boy is beating other boy by stick. </seg>
+<seg id="9"> A woman dancing in front of a microphone begins to sing while accompanied by a man on a keyboard. </seg>
+<seg id="10"> A tortoise chases fish in the ocean. </seg>
+<seg id="11"> A woman picks up a baby kangaroo. </seg>
+<seg id="12"> A dog is licking a baby. </seg>
+<seg id="13"> A man has a conversation with a woman. </seg>
+<seg id="14"> A tiger is walking around in an enclosure. </seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="bar" trglang="baz" refid="ref1">
+                          <doc docid="doc1" genre="nw">
+                          <p>
+<seg id="1"> A car blows up behind four people. </seg>
+<seg id="2"> A chimp is kicking a target. </seg>
+<seg id="3"> A chimp is kicking a target. </seg>
+<seg id="4"> A doctor is giving chest compressions to a man in a stretcher. </seg>
+<seg id="5"> A ball hits a potato. </seg>
+<seg id="6"> A monkey attacks a dog. </seg>
+<seg id="7"> A boy smacks a mans back with a sword. </seg>
+<seg id="8"> A boy smacks a mans back with a sword. </seg>
+<seg id="9"> A band is playing on stage. </seg>
+<seg id="10"> A turtle is walking underwater. </seg>
+<seg id="11"> A girl is hugging a kangaroo. </seg>
+<seg id="12"> A dog is licking a baby. </seg>
+<seg id="13"> A boy is talking to a girl. </seg>
+<seg id="14"> A tiger is walking in a pen. </seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="bar" trglang="baz" refid="ref2">
+                          <doc docid="doc1" genre="nw">
+                          <p>
+<seg id="1"> A car blows up behind some men. </seg>
+<seg id="2"> A chimp is doing karate moves. </seg>
+<seg id="3"> A chimp is doing karate moves. </seg>
+<seg id="4"> A man is dieing in an operating room. </seg>
+<seg id="5"> A ball knocked over a potato. </seg>
+<seg id="6"> A monkey pulls the tail of a dog. </seg>
+<seg id="7"> A boy spanks a man with a plastic sword. </seg>
+<seg id="8"> A boy spanks a man with a plastic sword. </seg>
+<seg id="9"> A woman is dancing in front of a microphone while a man is playing a keyboard instrument. </seg>
+<seg id="10"> A turtle is walking underwater. </seg>
+<seg id="11"> A woman holds a kangaroo. </seg>
+<seg id="12"> A dog is licking a baby. </seg>
+<seg id="13"> A man and woman are speaking. </seg>
+<seg id="14"> A tiger is pacing in a cage. </seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="bar" trglang="baz" refid="ref3">
+                          <doc docid="doc1" genre="nw">
+                          <p>
+<seg id="1"> A car blows up. </seg>
+<seg id="2"> A chimpanzee and a man are practicing karate. </seg>
+<seg id="3"> A chimpanzee and a man are practicing karate. </seg>
+<seg id="4"> A man is injured and bleeding on a stretcher. </seg>
+<seg id="5"> A ball knocks down a potato. </seg>
+<seg id="6"> A monkey is teasing a dog by grabbing at it and then running away. </seg>
+<seg id="7"> A boy whacks a man with a sword. </seg>
+<seg id="8"> A boy whacks a man with a sword. </seg>
+<seg id="9"> A band is performing on a stage out side. </seg>
+<seg id="10"> A turtle is swimming underwater near the floor of a body of water. </seg>
+<seg id="11"> A woman is carrying a kangaroo. </seg>
+<seg id="12"> A dog is licking a baby. </seg>
+<seg id="13"> A man and woman are talking with each other. </seg>
+<seg id="14"> A tiger is walking in the cage. </seg>
+</p>
+</doc>
+</refset>
+<refset setid="example_set" srclang="bar" trglang="baz" refid="ref4">
+                          <doc docid="doc1" genre="nw">
+                          <p>
+<seg id="1"> A car exploded. </seg>
+<seg id="2"> A monkey is fighting with a man. </seg>
+<seg id="3"> A monkey is fighting with a man. </seg>
+<seg id="4"> A patient is lying in the operating room. </seg>
+<seg id="5"> A balls rolls over a potato. </seg>
+<seg id="6"> A monkey is teasing a dog. </seg>
+<seg id="7"> A man is beating another man. </seg>
+<seg id="8"> A man is beating another man. </seg>
+<seg id="9"> A woman is dancing. </seg>
+<seg id="10"> A turtle and fishes are swimming under the water. </seg>
+<seg id="11"> A woman is cradling a kangaroo. </seg>
+<seg id="12"> A dog is licking a baby. </seg>
+<seg id="13"> A man is angry with a woman. </seg>
+<seg id="14"> A tiger is walking around. </seg>
+</p>
+</doc>
+</refset>
+</mteval>

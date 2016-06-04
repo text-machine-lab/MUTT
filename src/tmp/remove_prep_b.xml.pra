@@ -1,0 +1,3278 @@
+Sentence ID: [doc1][0001]
+Original Reference: The man is playing with a skull.
+Original Hypothesis: The man is playing a skull
+Reference: the man is playing with a skull .
+Hypothesis: the man is playing a skull
+Hypothesis After Shift: the man is playing a skull
+Alignment: (    D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.274 (2.854 / 10.400)
+
+Sentence ID: [doc1][0002]
+Original Reference: A man is cutting the rope
+Original Hypothesis: A man is cutting a rope a sword
+Reference: a man is cutting the rope
+Hypothesis: a man is cutting a rope a sword
+Hypothesis After Shift: a man is cutting a rope a sword
+Alignment: (    S II)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.212 (2.074 / 9.800)
+
+Sentence ID: [doc1][0003]
+Original Reference: A boy whacks a man with a sword.
+Original Hypothesis: A boy is whacking a man a sword
+Reference: a boy whacks a man with a sword .
+Hypothesis: a boy is whacking a man a sword
+Hypothesis After Shift: a boy is whacking a man a sword
+Alignment: (  IT  D  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.308 (3.113 / 10.100)
+
+Sentence ID: [doc1][0004]
+Original Reference: A girl is playing piano
+Original Hypothesis: A little girl is playing a grand piano stage
+Reference: a girl is playing piano
+Hypothesis: a little girl is playing a grand piano stage
+Hypothesis After Shift: a little girl is playing a grand piano stage
+Alignment: ( I   II I)
+HypErrs: 0.000 0.259 0.000 0.000 0.000 0.259 0.259 0.000 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.134 (1.035 / 7.750)
+
+Sentence ID: [doc1][0005]
+Original Reference: Rhinos are grassing.
+Original Hypothesis: The rhino is grazing the grass
+Reference: rhinos are grassing .
+Hypothesis: the rhino is grazing the grass
+Hypothesis After Shift: the rhino is grazing the grass
+Alignment: (ITYIITD)
+HypErrs: 0.259 0.000 0.000 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.355 (2.203 / 6.200)
+
+Sentence ID: [doc1][0006]
+Original Reference: The man is playing the piano with his nose.
+Original Hypothesis: The man is playing the piano his nose
+Reference: the man is playing the piano with his nose .
+Hypothesis: the man is playing the piano his nose
+Hypothesis After Shift: the man is playing the piano his nose
+Alignment: (      D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.285 (2.854 / 10.000)
+
+Sentence ID: [doc1][0007]
+Original Reference: A monkey is teasing a dog.
+Original Hypothesis: A monkey is teasing a dog the zoo
+Reference: a monkey is teasing a dog .
+Hypothesis: a monkey is teasing a dog the zoo
+Hypothesis After Shift: a monkey is teasing a dog the zoo
+Alignment: (      IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.191 (1.815 / 9.500)
+
+Sentence ID: [doc1][0008]
+Original Reference: A man is speaking.
+Original Hypothesis: A man is speaking a podium
+Reference: a man is speaking .
+Hypothesis: a man is speaking a podium
+Hypothesis After Shift: a man is speaking a podium
+Alignment: (    IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.227 (1.815 / 8.000)
+
+Sentence ID: [doc1][0009]
+Original Reference: Soccer players are kicking a soccer ball into the goal.
+Original Hypothesis: Soccer players are kicking a soccer ball the goal
+Reference: soccer players are kicking a soccer ball into the goal .
+Hypothesis: soccer players are kicking a soccer ball the goal
+Hypothesis After Shift: soccer players are kicking a soccer ball the goal
+Alignment: (       D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.350 (2.854 / 8.150)
+
+Sentence ID: [doc1][0010]
+Original Reference: A man is running down a road.
+Original Hypothesis: A man is dancing the road
+Reference: a man is running down a road .
+Hypothesis: a man is dancing the road
+Hypothesis After Shift: a man is dancing the road
+Alignment: (   DSS D)
+HypErrs: 0.000 0.000 0.000 1.557 1.557 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.667 (5.967 / 8.950)
+
+Sentence ID: [doc1][0011]
+Original Reference: A man cutting butter into a mixing bowl.
+Original Hypothesis: A man is cutting pieces butter into a mixing bowl
+Reference: a man cutting butter into a mixing bowl .
+Hypothesis: a man is cutting pieces butter into a mixing bowl
+Hypothesis After Shift: a man is cutting pieces butter into a mixing bowl
+Alignment: (  I I     D)
+HypErrs: 0.000 0.000 0.259 0.000 0.259 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.205 (1.945 / 9.500)
+
+Sentence ID: [doc1][0012]
+Original Reference: A man using a microwave
+Original Hypothesis: A man is pushing the buttons a microwave
+Reference: a man using a microwave
+Hypothesis: a man is pushing the buttons a microwave
+Hypothesis After Shift: a man is pushing the buttons a microwave
+Alignment: (  IIIS  )
+HypErrs: 0.000 0.000 0.259 0.259 0.259 1.557 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.254 (2.333 / 9.200)
+
+Sentence ID: [doc1][0013]
+Original Reference: A man is singing.
+Original Hypothesis: A man a suit is standing a microphone and singing
+Reference: a man is singing .
+Hypothesis: a man a suit is standing a microphone and singing
+Hypothesis After Shift: a man a suit is standing a microphone and singing
+Alignment: (  II IIII D)
+HypErrs: 0.000 0.000 0.259 0.259 0.000 0.259 0.259 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.429 (2.980 / 6.950)
+
+Sentence ID: [doc1][0014]
+Original Reference: A man is playing a guitar.
+Original Hypothesis: A man is sitting the floor and is playing a guitar
+Reference: a man is playing a guitar .
+Hypothesis: a man is sitting the floor and is playing a guitar
+Hypothesis After Shift: a man is sitting the floor and is playing a guitar
+Alignment: (  IIIII    D)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.259 0.259 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.299 (2.721 / 9.100)
+
+Sentence ID: [doc1][0015]
+Original Reference: The man sprinkled cheese on the pizza.
+Original Hypothesis: The man is sprinkling cheese the pizza
+Reference: the man sprinkled cheese on the pizza .
+Hypothesis: the man is sprinkling cheese the pizza
+Hypothesis After Shift: the man is sprinkling cheese the pizza
+Alignment: (  IT D  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.360 (3.113 / 8.650)
+
+Sentence ID: [doc1][0016]
+Original Reference: a baby guinea pig is eating a carrot
+Original Hypothesis: A small guinea pig is gnawing and eating a piece carrot the floor
+Reference: a baby guinea pig is eating a carrot
+Hypothesis: a small guinea pig is gnawing and eating a piece carrot the floor
+Hypothesis After Shift: a small guinea pig is gnawing and eating a piece carrot the floor
+Alignment: ( S   II  I II)
+HypErrs: 0.000 1.557 0.000 0.000 0.000 0.259 0.259 0.000 0.000 0.259 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.356 (2.851 / 8.000)
+
+Sentence ID: [doc1][0017]
+Original Reference: A man is pouring oil into a pan.
+Original Hypothesis: A man is pouring oil a pan
+Reference: a man is pouring oil into a pan .
+Hypothesis: a man is pouring oil a pan
+Hypothesis After Shift: a man is pouring oil a pan
+Alignment: (     D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.307 (2.854 / 9.300)
+
+Sentence ID: [doc1][0018]
+Original Reference: Some children are jumping on Trampoline.
+Original Hypothesis: Several kids are jumping a trampoline
+Reference: some children are jumping on trampoline .
+Hypothesis: several kids are jumping a trampoline
+Hypothesis After Shift: several kids are jumping a trampoline
+Alignment: (SY  S D)
+HypErrs: 1.557 0.000 0.000 0.000 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.575 (4.540 / 7.900)
+
+Sentence ID: [doc1][0019]
+Original Reference: A loris is hanging on a rope.
+Original Hypothesis: A lemur is hanging a cord
+Reference: a loris is hanging on a rope .
+Hypothesis: a lemur is hanging a cord
+Hypothesis After Shift: a lemur is hanging a cord
+Alignment: ( S  D PD)
+HypErrs: 0.000 1.557 0.000 0.000 0.000 0.234
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.23399230710610813 OrigCost: 0.127524 <p>rope</p> <p>cord</p>
+
+Score: 0.550 (4.644 / 8.450)
+
+Sentence ID: [doc1][0020]
+Original Reference: Someone is banging a camera lense against a nail.
+Original Hypothesis: Someone is banging a camera lens a nail
+Reference: someone is banging a camera lense against a nail .
+Hypothesis: someone is banging a camera lens a nail
+Hypothesis After Shift: someone is banging a camera lens a nail
+Alignment: (     YD  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.265 (2.854 / 10.750)
+
+Sentence ID: [doc1][0021]
+Original Reference: A man is chopping a log.
+Original Hypothesis: A man is chopping a log an axe
+Reference: a man is chopping a log .
+Hypothesis: a man is chopping a log an axe
+Hypothesis After Shift: a man is chopping a log an axe
+Alignment: (      IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.233 (1.815 / 7.800)
+
+Sentence ID: [doc1][0022]
+Original Reference: A cat is seeing through the window
+Original Hypothesis: A white cat perched a small wooden cabinet is looking the window
+Reference: a cat is seeing through the window
+Hypothesis: a white cat perched a small wooden cabinet is looking the window
+Hypothesis After Shift: a white cat perched a small wooden cabinet is looking the window
+Alignment: ( I IIIII YD  )
+HypErrs: 0.000 0.259 0.000 0.259 0.259 0.259 0.259 0.259 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.324 (2.980 / 9.200)
+
+Sentence ID: [doc1][0023]
+Original Reference: a rhino is eating grass
+Original Hypothesis: A rhino is grazing a field
+Reference: a rhino is eating grass
+Hypothesis: a rhino is grazing a field
+Hypothesis After Shift: a rhino is grazing a field
+Alignment: (   PII)
+HypErrs: 0.000 0.000 0.000 0.429 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.42884568048266447 OrigCost: 0.333333 <p>eating grass</p> <p>grazing</p>
+
+Score: 0.153 (0.947 / 6.200)
+
+Sentence ID: [doc1][0024]
+Original Reference: A man is cutting a boot with a sword.
+Original Hypothesis: A man is cutting a boot a sword
+Reference: a man is cutting a boot with a sword .
+Hypothesis: a man is cutting a boot a sword
+Hypothesis After Shift: a man is cutting a boot a sword
+Alignment: (      D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.278 (2.854 / 10.250)
+
+Sentence ID: [doc1][0025]
+Original Reference: A woman is cracking eggs.
+Original Hypothesis: A woman is breaking two eggs a bowl
+Reference: a woman is cracking eggs .
+Hypothesis: a woman is breaking two eggs a bowl
+Hypothesis After Shift: a woman is breaking two eggs a bowl
+Alignment: (   YI IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.275 (2.074 / 7.550)
+
+Sentence ID: [doc1][0026]
+Original Reference: A man is cleaning the windows.
+Original Hypothesis: The windows are being cleaned a man
+Reference: a man is cleaning the windows .
+Hypothesis: the windows are being cleaned a man
+Hypothesis After Shift: a man are being cleaned the windows
+Alignment: (  IYT  D)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 2 3 4 0 1
+
+NumShifts: 2
+  [0, 1, 4/4] (the windows) -> (the windows)
+  [5, 6, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.312 (2.810 / 9.000)
+
+Sentence ID: [doc1][0027]
+Original Reference: A man is sprinkling seasonings on bread.
+Original Hypothesis: A man is sprinkling seasoning on several sliced and buttered loaves bread
+Reference: a man is sprinkling seasonings on bread .
+Hypothesis: a man is sprinkling seasoning on several sliced and buttered loaves bread
+Hypothesis After Shift: a man is sprinkling seasoning on several sliced and buttered loaves bread
+Alignment: (    T IIIII D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.259 0.259 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.294 (2.721 / 9.250)
+
+Sentence ID: [doc1][0028]
+Original Reference: A man is running.
+Original Hypothesis: A man is running the road
+Reference: a man is running .
+Hypothesis: a man is running the road
+Hypothesis After Shift: a man is running the road
+Alignment: (    IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.221 (1.815 / 8.200)
+
+Sentence ID: [doc1][0029]
+Original Reference: A baby is running.
+Original Hypothesis: A boy is hanging a fishing rod and running front a fish
+Reference: a baby is running .
+Hypothesis: a boy is hanging a fishing rod and running front a fish
+Hypothesis After Shift: a boy is hanging a fishing rod and running front a fish
+Alignment: ( P IIIII IIS)
+HypErrs: 0.000 0.674 0.000 0.259 0.259 0.259 0.259 0.259 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6741250624948901 OrigCost: 0.001772 <p>baby</p> <p>boy</p>
+
+Score: 0.313 (4.043 / 12.900)
+
+Sentence ID: [doc1][0030]
+Original Reference: A man is standing on a roof top playing a violin.
+Original Hypothesis: A man is standing a roof top and playing a violin
+Reference: a man is standing on a roof top playing a violin .
+Hypothesis: a man is standing a roof top and playing a violin
+Hypothesis After Shift: a man is standing a roof top and playing a violin
+Alignment: (    D   I   D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.308 (3.113 / 10.100)
+
+Sentence ID: [doc1][0031]
+Original Reference: A woman is putting meat in a pan.
+Original Hypothesis: A woman is putting meat a pan
+Reference: a woman is putting meat in a pan .
+Hypothesis: a woman is putting meat a pan
+Hypothesis After Shift: a woman is putting meat a pan
+Alignment: (     D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.284 (2.854 / 10.050)
+
+Sentence ID: [doc1][0032]
+Original Reference: Dogs are running
+Original Hypothesis: A dog is running the road
+Reference: dogs are running
+Hypothesis: a dog is running the road
+Hypothesis After Shift: a dog is running the road
+Alignment: (ITY II)
+HypErrs: 0.259 0.000 0.000 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.089 (0.777 / 8.700)
+
+Sentence ID: [doc1][0033]
+Original Reference: A dog is bouncing on a trampoline.
+Original Hypothesis: A dog is bouncing a trampoline
+Reference: a dog is bouncing on a trampoline .
+Hypothesis: a dog is bouncing a trampoline
+Hypothesis After Shift: a dog is bouncing a trampoline
+Alignment: (    D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.383 (2.854 / 7.450)
+
+Sentence ID: [doc1][0034]
+Original Reference: A man is shaking a container.
+Original Hypothesis: A man is shaking a container a sink the kitchen
+Reference: a man is shaking a container .
+Hypothesis: a man is shaking a container a sink the kitchen
+Hypothesis After Shift: a man is shaking a container a sink the kitchen
+Alignment: (      IIIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.255 (2.333 / 9.150)
+
+Sentence ID: [doc1][0035]
+Original Reference: A woman is riding an elephant.
+Original Hypothesis: A woman is riding an elephant
+Reference: a woman is riding an elephant .
+Hypothesis: a woman is riding an elephant
+Hypothesis After Shift: a woman is riding an elephant
+Alignment: (      D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.168 (1.427 / 8.500)
+
+Sentence ID: [doc1][0036]
+Original Reference: A rabbit plays with a toy.
+Original Hypothesis: A rabbit is playing a toy rabbit
+Reference: a rabbit plays with a toy .
+Hypothesis: a rabbit is playing a toy rabbit
+Hypothesis After Shift: a rabbit is playing a toy rabbit
+Alignment: (  IP  S)
+HypErrs: 0.000 0.000 0.259 0.346 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.3463440858165593 OrigCost: 0.027458 <p>plays with</p> <p>playing</p>
+
+Score: 0.244 (2.162 / 8.850)
+
+Sentence ID: [doc1][0037]
+Original Reference: A man is wiping a bowl.
+Original Hypothesis: A man is wiping the edge a bowl
+Reference: a man is wiping a bowl .
+Hypothesis: a man is wiping the edge a bowl
+Hypothesis After Shift: a man is wiping the edge a bowl
+Alignment: (    II  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.193 (1.945 / 10.050)
+
+Sentence ID: [doc1][0038]
+Original Reference: The man poured oil on the tomato slices.
+Original Hypothesis: The man is pouring some oil the tomatoes
+Reference: the man poured oil on the tomato slices .
+Hypothesis: the man is pouring some oil the tomatoes
+Hypothesis After Shift: the man is pouring some oil the tomatoes
+Alignment: (  ITI D TDD)
+HypErrs: 0.000 0.000 0.259 0.000 0.259 0.000 0.000 0.000
+OtherErr: 4.281
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.508 (4.799 / 9.450)
+
+Sentence ID: [doc1][0039]
+Original Reference: A cat is playing.
+Original Hypothesis: A cat is playing a device
+Reference: a cat is playing .
+Hypothesis: a cat is playing a device
+Hypothesis After Shift: a cat is playing a device
+Alignment: (    IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.209 (1.815 / 8.700)
+
+Sentence ID: [doc1][0040]
+Original Reference: A car is driven.
+Original Hypothesis: A white car is being driven the man
+Reference: a car is driven .
+Hypothesis: a white car is being driven the man
+Hypothesis After Shift: a white car is being driven the man
+Alignment: ( I IY IS)
+HypErrs: 0.000 0.259 0.000 0.259 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.317 (2.333 / 7.350)
+
+Sentence ID: [doc1][0041]
+Original Reference: A chef is slicing carrot.
+Original Hypothesis: A person is slicing a carrot pieces
+Reference: a chef is slicing carrot .
+Hypothesis: a person is slicing a carrot pieces
+Hypothesis After Shift: a person is slicing a carrot pieces
+Alignment: ( S  I S)
+HypErrs: 0.000 1.557 0.000 0.000 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.444 (3.372 / 7.600)
+
+Sentence ID: [doc1][0042]
+Original Reference: A boy is filling a pitcher with water.
+Original Hypothesis: A boy is filling a pitcher water
+Reference: a boy is filling a pitcher with water .
+Hypothesis: a boy is filling a pitcher water
+Hypothesis After Shift: a boy is filling a pitcher water
+Alignment: (      D D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.290 (2.854 / 9.850)
+
+Sentence ID: [doc1][0043]
+Original Reference: A man in the forest
+Original Hypothesis: A man is walking the rain
+Reference: a man in the forest
+Hypothesis: a man is walking the rain
+Hypothesis After Shift: a man is walking the rain
+Alignment: (  IS S)
+HypErrs: 0.000 0.000 0.259 1.557 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.369 (3.372 / 9.150)
+
+Sentence ID: [doc1][0044]
+Original Reference: A man is doing back flips on a trampoline.
+Original Hypothesis: A man is doing back flips a trampoline
+Reference: a man is doing back flips on a trampoline .
+Hypothesis: a man is doing back flips a trampoline
+Hypothesis After Shift: a man is doing back flips a trampoline
+Alignment: (      D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.361 (2.854 / 7.900)
+
+Sentence ID: [doc1][0045]
+Original Reference: A couple are running towards the ocean.
+Original Hypothesis: A couple is running the ocean
+Reference: a couple are running towards the ocean .
+Hypothesis: a couple is running the ocean
+Hypothesis After Shift: a couple is running the ocean
+Alignment: (  Y D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.300 (2.854 / 9.500)
+
+Sentence ID: [doc1][0046]
+Original Reference: A man is screwing wood to a wall.
+Original Hypothesis: A man is screwing a piece wood to a wall
+Reference: a man is screwing wood to a wall .
+Hypothesis: a man is screwing a piece wood to a wall
+Hypothesis After Shift: a man is screwing a piece wood to a wall
+Alignment: (    II    D)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.226 (1.945 / 8.600)
+
+Sentence ID: [doc1][0047]
+Original Reference: A boy is cutting grass.
+Original Hypothesis: A boy is cutting grass scissors
+Reference: a boy is cutting grass .
+Hypothesis: a boy is cutting grass scissors
+Hypothesis After Shift: a boy is cutting grass scissors
+Alignment: (     S)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.176 (1.557 / 8.850)
+
+Sentence ID: [doc1][0048]
+Original Reference: A man is slicing potatoes.
+Original Hypothesis: A man is slicing a potato pieces
+Reference: a man is slicing potatoes .
+Hypothesis: a man is slicing a potato pieces
+Hypothesis After Shift: a man is slicing a potato pieces
+Alignment: (    ITS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.234 (1.815 / 7.750)
+
+Sentence ID: [doc1][0049]
+Original Reference: A man is fishing.
+Original Hypothesis: A man is fishing the river
+Reference: a man is fishing .
+Hypothesis: a man is fishing the river
+Hypothesis After Shift: a man is fishing the river
+Alignment: (    IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.236 (1.815 / 7.700)
+
+Sentence ID: [doc1][0050]
+Original Reference: A girl is signing.
+Original Hypothesis: A girl is communicating sign language
+Reference: a girl is signing .
+Hypothesis: a girl is communicating sign language
+Hypothesis After Shift: a girl is communicating sign language
+Alignment: (   ITS)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.242 (1.815 / 7.500)
+
+Sentence ID: [doc1][0051]
+Original Reference: a baby tiger playing
+Original Hypothesis: A baby tiger is playing a ball
+Reference: a baby tiger playing
+Hypothesis: a baby tiger is playing a ball
+Hypothesis After Shift: a baby tiger is playing a ball
+Alignment: (   I II)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.088 (0.777 / 8.800)
+
+Sentence ID: [doc1][0052]
+Original Reference: the boys is dancing
+Original Hypothesis: Mimes are performing a stage
+Reference: the boys is dancing
+Hypothesis: mimes are performing a stage
+Hypothesis After Shift: mimes are performing a stage
+Alignment: (DSYIIS)
+HypErrs: 1.557 0.000 0.259 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.661 (5.058 / 7.650)
+
+Sentence ID: [doc1][0053]
+Original Reference: A lion is pacing in a pen.
+Original Hypothesis: A lion is pacing tiredly a pen
+Reference: a lion is pacing in a pen .
+Hypothesis: a lion is pacing tiredly a pen
+Hypothesis After Shift: a lion is pacing tiredly a pen
+Alignment: (    S  D)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.466 (2.983 / 6.400)
+
+Sentence ID: [doc1][0054]
+Original Reference: A person pours oil in a pot.
+Original Hypothesis: A person is pouring olive oil a pot the stove
+Reference: a person pours oil in a pot .
+Hypothesis: a person is pouring olive oil a pot the stove
+Hypothesis After Shift: a person is pouring olive oil a pot the stove
+Alignment: (  ITI D  SI)
+HypErrs: 0.000 0.000 0.259 0.000 0.259 0.000 0.000 0.000 1.557 0.259
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.404 (3.760 / 9.300)
+
+Sentence ID: [doc1][0055]
+Original Reference: A woman is cooking eggs.
+Original Hypothesis: A woman is preparing an egg a skillet
+Reference: a woman is cooking eggs .
+Hypothesis: a woman is preparing an egg a skillet
+Hypothesis After Shift: a woman is preparing an egg a skillet
+Alignment: (   YITIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.256 (2.074 / 8.100)
+
+Sentence ID: [doc1][0056]
+Original Reference: a women is makeuping
+Original Hypothesis: The woman is penciling eyeshadow
+Reference: a women is makeuping
+Hypothesis: the woman is penciling eyeshadow
+Hypothesis After Shift: the woman is penciling eyeshadow
+Alignment: (DP IS)
+HypErrs: 0.000 0.000 0.000 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.001061 <p>women</p> <p>the woman</p>
+
+Score: 0.356 (3.242 / 9.100)
+
+Sentence ID: [doc1][0057]
+Original Reference: A woman is squeezing a lemon.
+Original Hypothesis: A woman is squeezing juice of a lemon
+Reference: a woman is squeezing a lemon .
+Hypothesis: a woman is squeezing juice of a lemon
+Hypothesis After Shift: a woman is squeezing juice of a lemon
+Alignment: (    II  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.253 (1.945 / 7.700)
+
+Sentence ID: [doc1][0058]
+Original Reference: A boy studies a calendar.
+Original Hypothesis: A boy is looking a calendar
+Reference: a boy studies a calendar .
+Hypothesis: a boy is looking a calendar
+Hypothesis After Shift: a boy is looking a calendar
+Alignment: (  IP  D)
+HypErrs: 0.000 0.000 0.259 0.637 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6372889150353336 OrigCost: 0.002565 <p>studies</p> <p>looking</p>
+
+Score: 0.254 (2.323 / 9.150)
+
+Sentence ID: [doc1][0059]
+Original Reference: a group of people dancing
+Original Hypothesis: A group people are dancing
+Reference: a group of people dancing
+Hypothesis: a group people are dancing
+Hypothesis After Shift: a group people are dancing
+Alignment: (  D I )
+HypErrs: 0.000 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.181 (1.686 / 9.300)
+
+Sentence ID: [doc1][0060]
+Original Reference: A man is running down a road.
+Original Hypothesis: A man is running the road
+Reference: a man is running down a road .
+Hypothesis: a man is running the road
+Hypothesis After Shift: a man is running the road
+Alignment: (    DS D)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.493 (4.410 / 8.950)
+
+Sentence ID: [doc1][0061]
+Original Reference: A man is patting an alligator on the mouth.
+Original Hypothesis: A man is patting an alligator the mouth
+Reference: a man is patting an alligator on the mouth .
+Hypothesis: a man is patting an alligator the mouth
+Hypothesis After Shift: a man is patting an alligator the mouth
+Alignment: (      D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.309 (2.854 / 9.250)
+
+Sentence ID: [doc1][0062]
+Original Reference: A couple of policewomen are singing karaoke.
+Original Hypothesis: A couple policewomen are singing karaoke
+Reference: a couple of policewomen are singing karaoke .
+Hypothesis: a couple policewomen are singing karaoke
+Hypothesis After Shift: a couple policewomen are singing karaoke
+Alignment: (  D    D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.376 (2.854 / 7.600)
+
+Sentence ID: [doc1][0063]
+Original Reference: Men are running.
+Original Hypothesis: The man is playing a game the grass
+Reference: men are running .
+Hypothesis: the man is playing a game the grass
+Hypothesis After Shift: the man is playing a game the grass
+Alignment: (IYYYIISI)
+HypErrs: 0.259 0.000 0.000 0.000 0.259 0.259 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.334 (2.592 / 7.750)
+
+Sentence ID: [doc1][0064]
+Original Reference: A man pours liquid into a pan.
+Original Hypothesis: A man is pouring liquid a pot
+Reference: a man pours liquid into a pan .
+Hypothesis: a man is pouring liquid a pot
+Hypothesis After Shift: a man is pouring liquid a pot
+Alignment: (  IT D DS)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 1.557
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.525 (4.669 / 8.900)
+
+Sentence ID: [doc1][0065]
+Original Reference: Cat drinking milk
+Original Hypothesis: The milk is being drunk a cat
+Reference: cat drinking milk
+Hypothesis: the milk is being drunk a cat
+Hypothesis After Shift: cat the is being drunk milk a
+Alignment: ( IIIY I)
+HypErrs: 0.259 0.562 0.259 0.259 0.000 0.259 0.562
+OtherErr: 0.000
+HypLocMap: 6 0 2 3 4 1 5
+
+NumShifts: 2
+  [1, 1, 1/4] (milk) -> (milk)
+  [6, 6, -1/-1] (cat) -> (cat)
+Num Phrase Substitutions: 0
+
+Score: 0.290 (2.160 / 7.450)
+
+Sentence ID: [doc1][0066]
+Original Reference: A woman is dancing.
+Original Hypothesis: A woman is dancing a cage
+Reference: a woman is dancing .
+Hypothesis: a woman is dancing a cage
+Hypothesis After Shift: a woman is dancing a cage
+Alignment: (    IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.234 (1.815 / 7.750)
+
+Sentence ID: [doc1][0067]
+Original Reference: a boy walking over a bridge
+Original Hypothesis: A boy is walking a bridge
+Reference: a boy walking over a bridge
+Hypothesis: a boy is walking a bridge
+Hypothesis After Shift: a boy is walking a bridge
+Alignment: (  I D  )
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.193 (1.686 / 8.750)
+
+Sentence ID: [doc1][0068]
+Original Reference: Paper is being cut.
+Original Hypothesis: Paper is being cut scissors
+Reference: paper is being cut .
+Hypothesis: paper is being cut scissors
+Hypothesis After Shift: paper is being cut scissors
+Alignment: (    S)
+HypErrs: 0.000 0.000 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.177 (1.557 / 8.800)
+
+Sentence ID: [doc1][0069]
+Original Reference: Racers are running down a track.
+Original Hypothesis: Racers are running a track
+Reference: racers are running down a track .
+Hypothesis: racers are running a track
+Hypothesis After Shift: racers are running a track
+Alignment: (   D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.371 (2.854 / 7.700)
+
+Sentence ID: [doc1][0070]
+Original Reference: A man is playing a harp.
+Original Hypothesis: A man a hat is playing a harp
+Reference: a man is playing a harp .
+Hypothesis: a man a hat is playing a harp
+Hypothesis After Shift: a man a hat is playing a harp
+Alignment: (  II    D)
+HypErrs: 0.000 0.000 0.259 0.259 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.265 (1.945 / 7.350)
+
+Sentence ID: [doc1][0071]
+Original Reference: A woman is dancing.
+Original Hypothesis: A woman is dancing a fire
+Reference: a woman is dancing .
+Hypothesis: a woman is dancing a fire
+Hypothesis After Shift: a woman is dancing a fire
+Alignment: (    IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.233 (1.815 / 7.800)
+
+Sentence ID: [doc1][0072]
+Original Reference: A man is speaking.
+Original Hypothesis: A man is speaking a stage
+Reference: a man is speaking .
+Hypothesis: a man is speaking a stage
+Hypothesis After Shift: a man is speaking a stage
+Alignment: (    IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.227 (1.815 / 8.000)
+
+Sentence ID: [doc1][0073]
+Original Reference: A woman is dancing.
+Original Hypothesis: A woman is dancing and singing the rain
+Reference: a woman is dancing .
+Hypothesis: a woman is dancing and singing the rain
+Hypothesis After Shift: a woman is dancing and singing the rain
+Alignment: (    IIIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.285 (2.333 / 8.200)
+
+Sentence ID: [doc1][0074]
+Original Reference: A cat is swinging on a fan.
+Original Hypothesis: A cat is swinging a fan
+Reference: a cat is swinging on a fan .
+Hypothesis: a cat is swinging a fan
+Hypothesis After Shift: a cat is swinging a fan
+Alignment: (    D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.285 (2.854 / 10.000)
+
+Sentence ID: [doc1][0075]
+Original Reference: A dog is rolling from side to side.
+Original Hypothesis: A dog is rolling side to side
+Reference: a dog is rolling from side to side .
+Hypothesis: a dog is rolling side to side
+Hypothesis After Shift: a dog is rolling side to side
+Alignment: (    D   D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.261 (2.854 / 10.950)
+
+Sentence ID: [doc1][0076]
+Original Reference: A puppy is rolling on its back.
+Original Hypothesis: A puppy is repeatedly rolling side to side its back
+Reference: a puppy is rolling on its back .
+Hypothesis: a puppy is repeatedly rolling side to side its back
+Hypothesis After Shift: a puppy is repeatedly rolling side to side its back
+Alignment: (   I IIS  D)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.259 0.259 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.343 (3.760 / 10.950)
+
+Sentence ID: [doc1][0077]
+Original Reference: Men are jumping.
+Original Hypothesis: Three young men are running , jumping and kicking a vending machine
+Reference: men are jumping .
+Hypothesis: three young men are running , jumping and kicking a vending machine
+Hypothesis After Shift: three young men are running , jumping and kicking a vending machine
+Alignment: (II  II SIIII)
+HypErrs: 0.259 0.259 0.000 0.000 0.259 0.259 0.000 1.557 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.480 (3.627 / 7.550)
+
+Sentence ID: [doc1][0078]
+Original Reference: A cheetah is running behind its prey.
+Original Hypothesis: A cheetah is quickly running its prey .
+Reference: a cheetah is running behind its prey .
+Hypothesis: a cheetah is quickly running its prey .
+Hypothesis After Shift: a cheetah is quickly running its prey .
+Alignment: (   I D   )
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.231 (1.686 / 7.300)
+
+Sentence ID: [doc1][0079]
+Original Reference: The baby was put into the trash can.
+Original Hypothesis: The baby is being put a trash can a woman
+Reference: the baby was put into the trash can .
+Hypothesis: the baby is being put a trash can a woman
+Hypothesis After Shift: the baby is being put a trash can a woman
+Alignment: (  IY DS  IS)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 1.557 0.000 0.000 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.479 (5.058 / 10.550)
+
+Sentence ID: [doc1][0080]
+Original Reference: A cat is drinking.
+Original Hypothesis: Some water is being drunk a cat
+Reference: a cat is drinking .
+Hypothesis: some water is being drunk a cat
+Hypothesis After Shift: a cat some water is being drunk
+Alignment: (  IIIYYD)
+HypErrs: 0.259 0.259 0.259 0.000 0.000 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a cat) -> (a cat)
+Num Phrase Substitutions: 0
+
+Score: 0.335 (2.766 / 8.250)
+
+Sentence ID: [doc1][0081]
+Original Reference: a man climbing a rope
+Original Hypothesis: A rope is being climbed a man
+Reference: a man climbing a rope
+Hypothesis: a rope is being climbed a man
+Hypothesis After Shift: a man is being climbed a rope
+Alignment: (  IIT  )
+HypErrs: 0.000 0.562 0.259 0.259 0.000 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 6 2 3 4 5 1
+
+NumShifts: 2
+  [1, 1, 3/5] (rope) -> (rope)
+  [6, 6, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.191 (1.642 / 8.600)
+
+Sentence ID: [doc1][0082]
+Original Reference: A baby is playing with a dog
+Original Hypothesis: A baby is playing a dog
+Reference: a baby is playing with a dog
+Hypothesis: a baby is playing a dog
+Hypothesis After Shift: a baby is playing a dog
+Alignment: (    D  )
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.162 (1.427 / 8.800)
+
+Sentence ID: [doc1][0083]
+Original Reference: A woman is cracking an egg.
+Original Hypothesis: A woman is cracking an egg a bowl
+Reference: a woman is cracking an egg .
+Hypothesis: a woman is cracking an egg a bowl
+Hypothesis After Shift: a woman is cracking an egg a bowl
+Alignment: (      IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.207 (1.815 / 8.750)
+
+Sentence ID: [doc1][0084]
+Original Reference: A man is riding a motorcycle.
+Original Hypothesis: A man is riding a motorcycle the town
+Reference: a man is riding a motorcycle .
+Hypothesis: a man is riding a motorcycle the town
+Hypothesis After Shift: a man is riding a motorcycle the town
+Alignment: (      IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.212 (1.815 / 8.550)
+
+Sentence ID: [doc1][0085]
+Original Reference: A cat taking corn
+Original Hypothesis: A cat is eating corn the cob
+Reference: a cat taking corn
+Hypothesis: a cat is eating corn the cob
+Hypothesis After Shift: a cat is eating corn the cob
+Alignment: (  IP II)
+HypErrs: 0.000 0.000 0.259 0.596 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.5956304501766747 OrigCost: 0.003895 <p>taking</p> <p>eating</p>
+
+Score: 0.173 (1.372 / 7.950)
+
+Sentence ID: [doc1][0086]
+Original Reference: a woman is slicing a vegetable
+Original Hypothesis: A woman is slicing a clove garlic
+Reference: a woman is slicing a vegetable
+Hypothesis: a woman is slicing a clove garlic
+Hypothesis After Shift: a woman is slicing a clove garlic
+Alignment: (     IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.219 (1.815 / 8.300)
+
+Sentence ID: [doc1][0087]
+Original Reference: a man cutting open a package
+Original Hypothesis: A man is opening a box a knife
+Reference: a man cutting open a package
+Hypothesis: a man is opening a box a knife
+Hypothesis After Shift: a man is opening a box a knife
+Alignment: (  ST YII)
+HypErrs: 0.000 0.000 1.557 0.000 0.000 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.227 (2.074 / 9.150)
+
+Sentence ID: [doc1][0088]
+Original Reference: A man mixes vegetables in a pot.
+Original Hypothesis: A man is mixing vegetables a pot
+Reference: a man mixes vegetables in a pot .
+Hypothesis: a man is mixing vegetables a pot
+Hypothesis After Shift: a man is mixing vegetables a pot
+Alignment: (  IT D  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.387 (3.113 / 8.050)
+
+Sentence ID: [doc1][0089]
+Original Reference: A cat is walking
+Original Hypothesis: A cat is walking a hardwood floor
+Reference: a cat is walking
+Hypothesis: a cat is walking a hardwood floor
+Hypothesis After Shift: a cat is walking a hardwood floor
+Alignment: (    III)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.114 (0.777 / 6.800)
+
+Sentence ID: [doc1][0090]
+Original Reference: A man rides a water toy in the water.
+Original Hypothesis: A man is riding a water toy the water
+Reference: a man rides a water toy in the water .
+Hypothesis: a man is riding a water toy the water
+Hypothesis After Shift: a man is riding a water toy the water
+Alignment: (  IT   D  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.366 (3.113 / 8.500)
+
+Sentence ID: [doc1][0091]
+Original Reference: A dog is barking at a ball.
+Original Hypothesis: A dog is barking a ball
+Reference: a dog is barking at a ball .
+Hypothesis: a dog is barking a ball
+Hypothesis After Shift: a dog is barking a ball
+Alignment: (    D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.273 (2.854 / 10.450)
+
+Sentence ID: [doc1][0092]
+Original Reference: A singer dances on the ceiling.
+Original Hypothesis: A famous singer is dancing the ceiling
+Reference: a singer dances on the ceiling .
+Hypothesis: a famous singer is dancing the ceiling
+Hypothesis After Shift: a famous singer is dancing the ceiling
+Alignment: ( I ITD  D)
+HypErrs: 0.000 0.259 0.000 0.259 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.355 (3.372 / 9.500)
+
+Sentence ID: [doc1][0093]
+Original Reference: the person is in dreams
+Original Hypothesis: One man is sitting the chair
+Reference: the person is in dreams
+Hypothesis: one man is sitting the chair
+Hypothesis After Shift: one man is sitting the chair
+Alignment: (IP ISS)
+HypErrs: 0.259 0.837 0.000 0.259 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.8368230423312493 OrigCost: 0.05506 <p>the person</p> <p>man</p>
+
+Score: 0.526 (4.468 / 8.500)
+
+Sentence ID: [doc1][0094]
+Original Reference: A badger is digging the earth.
+Original Hypothesis: A badger is shrewdly the earth
+Reference: a badger is digging the earth .
+Hypothesis: a badger is shrewdly the earth
+Hypothesis After Shift: a badger is shrewdly the earth
+Alignment: (   S  D)
+HypErrs: 0.000 0.000 0.000 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.398 (2.983 / 7.500)
+
+Sentence ID: [doc1][0095]
+Original Reference: the girl is jumping
+Original Hypothesis: One girl is jumping the car
+Reference: the girl is jumping
+Hypothesis: one girl is jumping the car
+Hypothesis After Shift: one girl is jumping the car
+Alignment: (S   II)
+HypErrs: 1.557 0.000 0.000 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.223 (2.074 / 9.300)
+
+Sentence ID: [doc1][0096]
+Original Reference: A man is dancing.
+Original Hypothesis: A man a hard hat is dancing
+Reference: a man is dancing .
+Hypothesis: a man a hard hat is dancing
+Hypothesis After Shift: a man a hard hat is dancing
+Alignment: (  III  D)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.250 (2.203 / 8.800)
+
+Sentence ID: [doc1][0097]
+Original Reference: A man is dancing upside-down on the ceiling.
+Original Hypothesis: A man is dancing upside-down the ceiling
+Reference: a man is dancing upside-down on the ceiling .
+Hypothesis: a man is dancing upside-down the ceiling
+Hypothesis After Shift: a man is dancing upside-down the ceiling
+Alignment: (     D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.300 (2.854 / 9.500)
+
+Sentence ID: [doc1][0098]
+Original Reference: A person is quickly chopping mushrooms.
+Original Hypothesis: A man is rapidly chopping some mushrooms a knife
+Reference: a person is quickly chopping mushrooms .
+Hypothesis: a man is rapidly chopping some mushrooms a knife
+Hypothesis After Shift: a man is rapidly chopping some mushrooms a knife
+Alignment: ( P Y I IS)
+HypErrs: 0.000 0.374 0.000 0.000 0.000 0.259 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.37434309568497853 OrigCost: 0.034792 <p>person</p> <p>man</p>
+
+Score: 0.318 (2.449 / 7.700)
+
+Sentence ID: [doc1][0099]
+Original Reference: men are flipping tires.
+Original Hypothesis: Two people a race are flipping the tires a tractor
+Reference: men are flipping tires .
+Hypothesis: two people a race are flipping the tires a tractor
+Hypothesis After Shift: two people a race are flipping the tires a tractor
+Alignment: (IPII  I SI)
+HypErrs: 0.259 0.562 0.259 0.259 0.000 0.000 0.259 0.000 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.5615042926197465 OrigCost: 0.005481 <p>men</p> <p>people</p>
+
+Score: 0.386 (3.412 / 8.850)
+
+Sentence ID: [doc1][0100]
+Original Reference: A girl is playing the violin.
+Original Hypothesis: A little girl is playing the violin a beach
+Reference: a girl is playing the violin .
+Hypothesis: a little girl is playing the violin a beach
+Hypothesis After Shift: a little girl is playing the violin a beach
+Alignment: ( I     IS)
+HypErrs: 0.000 0.259 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.256 (2.074 / 8.100)
+
+Sentence ID: [doc1][0101]
+Original Reference: A man is loading a rifle.
+Original Hypothesis: A man is loading a rifle bullets
+Reference: a man is loading a rifle .
+Hypothesis: a man is loading a rifle bullets
+Hypothesis After Shift: a man is loading a rifle bullets
+Alignment: (      S)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.210 (1.557 / 7.400)
+
+Sentence ID: [doc1][0102]
+Original Reference: A woman is beating two eggs in a bowl using a wire whisk.
+Original Hypothesis: A woman is beating two eggs a bowl and using a whisk made wire
+Reference: a woman is beating two eggs in a bowl using a wire whisk .
+Hypothesis: a woman is beating two eggs a bowl and using a whisk made wire
+Hypothesis After Shift: a woman is beating two eggs a bowl and using a wire whisk made
+Alignment: (      D  I    S)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.000 0.000 0.000 1.557 0.562
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 13 11 12
+
+NumShifts: 1
+  [13, 13, 11/10] (wire) -> (wire)
+Num Phrase Substitutions: 0
+
+Score: 0.453 (3.804 / 8.400)
+
+Sentence ID: [doc1][0103]
+Original Reference: A man is eating cereal.
+Original Hypothesis: A man is eating a bowl cereal
+Reference: a man is eating cereal .
+Hypothesis: a man is eating a bowl cereal
+Hypothesis After Shift: a man is eating a bowl cereal
+Alignment: (    II D)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.196 (1.945 / 9.900)
+
+Sentence ID: [doc1][0104]
+Original Reference: A lady is makeup
+Original Hypothesis: A woman is putting makeup
+Reference: a lady is makeup
+Hypothesis: a woman is putting makeup
+Hypothesis After Shift: a woman is putting makeup
+Alignment: ( P I )
+HypErrs: 0.000 0.144 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.14432847853131303 OrigCost: 0.265448 <p>lady</p> <p>woman</p>
+
+Score: 0.046 (0.403 / 8.700)
+
+Sentence ID: [doc1][0105]
+Original Reference: A woman is mixing meat.
+Original Hypothesis: A lady is mixing a meat mixture a bowl
+Reference: a woman is mixing meat .
+Hypothesis: a lady is mixing a meat mixture a bowl
+Hypothesis After Shift: a lady is mixing a meat mixture a bowl
+Alignment: ( P  I IIS)
+HypErrs: 0.000 0.370 0.000 0.000 0.259 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.3700728497221898 OrigCost: 0.036255 <p>woman</p> <p>lady</p>
+
+Score: 0.280 (2.703 / 9.650)
+
+Sentence ID: [doc1][0106]
+Original Reference: A person is riding a jetski in the waves.
+Original Hypothesis: A person is riding a jetski the waves
+Reference: a person is riding a jetski in the waves .
+Hypothesis: a person is riding a jetski the waves
+Hypothesis After Shift: a person is riding a jetski the waves
+Alignment: (      D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.328 (2.854 / 8.700)
+
+Sentence ID: [doc1][0107]
+Original Reference: Pieces of butter is added in the stand mixer.
+Original Hypothesis: Pieces butter are being added to the stand mixer
+Reference: pieces of butter is added in the stand mixer .
+Hypothesis: pieces butter are being added to the stand mixer
+Hypothesis After Shift: pieces butter are being added to the stand mixer
+Alignment: ( D IY S   D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 1.557 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.492 (4.669 / 9.500)
+
+Sentence ID: [doc1][0108]
+Original Reference: A man is sprinkling shredded cheese on a pizza.
+Original Hypothesis: A man is sprinkling shredded cheese a pizza
+Reference: a man is sprinkling shredded cheese on a pizza .
+Hypothesis: a man is sprinkling shredded cheese a pizza
+Hypothesis After Shift: a man is sprinkling shredded cheese a pizza
+Alignment: (      D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.330 (2.854 / 8.650)
+
+Sentence ID: [doc1][0109]
+Original Reference: A bunny is playing with a stuffed bunny.
+Original Hypothesis: A bunny is playing a stuffed bunny
+Reference: a bunny is playing with a stuffed bunny .
+Hypothesis: a bunny is playing a stuffed bunny
+Hypothesis After Shift: a bunny is playing a stuffed bunny
+Alignment: (    D   D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.322 (2.854 / 8.850)
+
+Sentence ID: [doc1][0110]
+Original Reference: A woman is placing skewers onto a rack.
+Original Hypothesis: A woman is placing skewers a rack
+Reference: a woman is placing skewers onto a rack .
+Hypothesis: a woman is placing skewers a rack
+Hypothesis After Shift: a woman is placing skewers a rack
+Alignment: (     D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.309 (2.854 / 9.250)
+
+Sentence ID: [doc1][0111]
+Original Reference: A person is cooking
+Original Hypothesis: A man is putting some cheese a pizza
+Reference: a person is cooking
+Hypothesis: a man is putting some cheese a pizza
+Hypothesis After Shift: a man is putting some cheese a pizza
+Alignment: ( P SIIII)
+HypErrs: 0.000 0.374 0.000 1.557 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.37434309568497853 OrigCost: 0.034792 <p>person</p> <p>man</p>
+
+Score: 0.343 (2.966 / 8.650)
+
+Sentence ID: [doc1][0112]
+Original Reference: A woman is pouring ingredients into a bowl.
+Original Hypothesis: A woman is pouring ingredients a bowl
+Reference: a woman is pouring ingredients into a bowl .
+Hypothesis: a woman is pouring ingredients a bowl
+Hypothesis After Shift: a woman is pouring ingredients a bowl
+Alignment: (     D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.291 (2.854 / 9.800)
+
+Sentence ID: [doc1][0113]
+Original Reference: A woman dips a shrimp in batter.
+Original Hypothesis: A woman is dipping a shrimp batter
+Reference: a woman dips a shrimp in batter .
+Hypothesis: a woman is dipping a shrimp batter
+Hypothesis After Shift: a woman is dipping a shrimp batter
+Alignment: (  IT  D D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.352 (3.113 / 8.850)
+
+Sentence ID: [doc1][0114]
+Original Reference: A man is walking down a path.
+Original Hypothesis: A man is walking a path a wilderness
+Reference: a man is walking down a path .
+Hypothesis: a man is walking a path a wilderness
+Hypothesis After Shift: a man is walking a path a wilderness
+Alignment: (    D  IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.421 (3.242 / 7.700)
+
+Sentence ID: [doc1][0115]
+Original Reference: A woman is putting her baby in a waste bin.
+Original Hypothesis: A woman is putting a baby a waste bin
+Reference: a woman is putting her baby in a waste bin .
+Hypothesis: a woman is putting a baby a waste bin
+Hypothesis After Shift: a woman is putting a baby a waste bin
+Alignment: (    S D   D)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.418 (4.410 / 10.550)
+
+Sentence ID: [doc1][0116]
+Original Reference: A man pours cleaner in his sink.
+Original Hypothesis: A man is pouring cleaner the sink
+Reference: a man pours cleaner in his sink .
+Hypothesis: a man is pouring cleaner the sink
+Hypothesis After Shift: a man is pouring cleaner the sink
+Alignment: (  IT DS D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 1.557 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.403 (4.669 / 11.600)
+
+Sentence ID: [doc1][0117]
+Original Reference: A cat plays with a baby.
+Original Hypothesis: A cat is playing a watermelon
+Reference: a cat plays with a baby .
+Hypothesis: a cat is playing a watermelon
+Hypothesis After Shift: a cat is playing a watermelon
+Alignment: (  IP DS)
+HypErrs: 0.000 0.000 0.259 0.346 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.3463440858165593 OrigCost: 0.027458 <p>plays with</p> <p>playing</p>
+
+Score: 0.420 (3.589 / 8.550)
+
+Sentence ID: [doc1][0118]
+Original Reference: A squirrel is spinning around in circles.
+Original Hypothesis: A squirrel is spinning in circles
+Reference: a squirrel is spinning around in circles .
+Hypothesis: a squirrel is spinning in circles
+Hypothesis After Shift: a squirrel is spinning in circles
+Alignment: (    D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.383 (2.854 / 7.450)
+
+Sentence ID: [doc1][0119]
+Original Reference: A woman is scrubbing a zucchini with a vegetable brush.
+Original Hypothesis: A woman is scrubbing a zucchini a vegetable brush
+Reference: a woman is scrubbing a zucchini with a vegetable brush .
+Hypothesis: a woman is scrubbing a zucchini a vegetable brush
+Hypothesis After Shift: a woman is scrubbing a zucchini a vegetable brush
+Alignment: (      D   D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.366 (2.854 / 7.800)
+
+Sentence ID: [doc1][0120]
+Original Reference: A monkey is karate kicking a person.
+Original Hypothesis: A monkey is kicking at the gloved hand a person
+Reference: a monkey is karate kicking a person .
+Hypothesis: a monkey is kicking at the gloved hand a person
+Hypothesis After Shift: a monkey is kicking at the gloved hand a person
+Alignment: (   D IIII  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.259 0.259 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.515 (3.889 / 7.550)
+
+Sentence ID: [doc1][0121]
+Original Reference: Two men are boxing.
+Original Hypothesis: A karate practitioner is kicking another man who is wearing protective boxing gloves
+Reference: two men are boxing .
+Hypothesis: a karate practitioner is kicking another man who is wearing protective boxing gloves
+Hypothesis After Shift: a karate practitioner is kicking another man who is wearing protective boxing gloves
+Alignment: (IIIIIIPIYII S)
+HypErrs: 0.259 0.259 0.259 0.259 0.259 0.259 0.603 0.259 0.000 0.259 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6026780462338405 OrigCost: 0.001698 <p>two men</p> <p>man</p>
+
+Score: 0.587 (4.489 / 7.650)
+
+Sentence ID: [doc1][0122]
+Original Reference: A woman is applying lipstick.
+Original Hypothesis: A woman is putting lipstick
+Reference: a woman is applying lipstick .
+Hypothesis: a woman is putting lipstick
+Hypothesis After Shift: a woman is putting lipstick
+Alignment: (   S D)
+HypErrs: 0.000 0.000 0.000 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.406 (2.983 / 7.350)
+
+Sentence ID: [doc1][0123]
+Original Reference: A woman is frying meet.
+Original Hypothesis: A woman is frying something a pan
+Reference: a woman is frying meet .
+Hypothesis: a woman is frying something a pan
+Hypothesis After Shift: a woman is frying something a pan
+Alignment: (    ISS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.459 (3.372 / 7.350)
+
+Sentence ID: [doc1][0124]
+Original Reference: A man is breaking wooden boards with his hand.
+Original Hypothesis: A man is breaking wooden boards his hand
+Reference: a man is breaking wooden boards with his hand .
+Hypothesis: a man is breaking wooden boards his hand
+Hypothesis After Shift: a man is breaking wooden boards his hand
+Alignment: (      D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.332 (2.854 / 8.600)
+
+Sentence ID: [doc1][0125]
+Original Reference: A dog is barking.
+Original Hypothesis: A dog is playing a toy
+Reference: a dog is barking .
+Hypothesis: a dog is playing a toy
+Hypothesis After Shift: a dog is playing a toy
+Alignment: (   ISS)
+HypErrs: 0.000 0.000 0.000 0.259 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.388 (3.372 / 8.700)
+
+Sentence ID: [doc1][0126]
+Original Reference: A man
+Original Hypothesis: A man is breaking a slab of concrete a sledge hammer
+Reference: a man
+Hypothesis: a man is breaking a slab of concrete a sledge hammer
+Hypothesis After Shift: a man is breaking a slab of concrete a sledge hammer
+Alignment: (  IIIIIIIII)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.231 (2.330 / 10.100)
+
+Sentence ID: [doc1][0127]
+Original Reference: A woman is slicing meat.
+Original Hypothesis: A woman is slicing meat a knife
+Reference: a woman is slicing meat .
+Hypothesis: a woman is slicing meat a knife
+Hypothesis After Shift: a woman is slicing meat a knife
+Alignment: (     IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.230 (1.815 / 7.900)
+
+Sentence ID: [doc1][0128]
+Original Reference: A cat is sliding under a couch.
+Original Hypothesis: A cat is sliding upside under a couch
+Reference: a cat is sliding under a couch .
+Hypothesis: a cat is sliding upside under a couch
+Hypothesis After Shift: a cat is sliding upside under a couch
+Alignment: (    I   D)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.168 (1.686 / 10.050)
+
+Sentence ID: [doc1][0129]
+Original Reference: A woman is driving a car.
+Original Hypothesis: A woman is driving a car and is talking to the man who is seated her
+Reference: a woman is driving a car .
+Hypothesis: a woman is driving a car and is talking to the man who is seated her
+Hypothesis After Shift: a woman is driving a car and is talking to the man who is seated her
+Alignment: (      IIISIIIIII)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.259 0.259 1.557 0.259 0.259 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.413 (3.886 / 9.400)
+
+Sentence ID: [doc1][0130]
+Original Reference: Men are playing soccer.
+Original Hypothesis: Different teams are playing football a field
+Reference: men are playing soccer .
+Hypothesis: different teams are playing football a field
+Hypothesis After Shift: different teams are playing football a field
+Alignment: (IP  PSI)
+HypErrs: 0.259 0.622 0.000 0.000 0.014 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 2
+  NewCost: 0.6219406912716559 OrigCost: 0.002992 <p>men</p> <p>teams</p>
+  NewCost: 0.013796906237236284 OrigCost: 0.630597 <p>soccer</p> <p>football</p>
+
+Score: 0.408 (2.710 / 6.650)
+
+Sentence ID: [doc1][0131]
+Original Reference: Squirrel running around
+Original Hypothesis: A squirrel is running circles
+Reference: squirrel running around
+Hypothesis: a squirrel is running circles
+Hypothesis After Shift: a squirrel is running circles
+Alignment: (I I S)
+HypErrs: 0.259 0.000 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.278 (2.074 / 7.450)
+
+Sentence ID: [doc1][0132]
+Original Reference: a woman is slicing a vegetable
+Original Hypothesis: A woman is slicing a clove garlic
+Reference: a woman is slicing a vegetable
+Hypothesis: a woman is slicing a clove garlic
+Hypothesis After Shift: a woman is slicing a clove garlic
+Alignment: (     IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.219 (1.815 / 8.300)
+
+Sentence ID: [doc1][0133]
+Original Reference: A man is running down a road.
+Original Hypothesis: A man is running the road
+Reference: a man is running down a road .
+Hypothesis: a man is running the road
+Hypothesis After Shift: a man is running the road
+Alignment: (    DS D)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.493 (4.410 / 8.950)
+
+Sentence ID: [doc1][0134]
+Original Reference: A guy is playing hackysack
+Original Hypothesis: A guy is cheerfully playing a footbag
+Reference: a guy is playing hackysack
+Hypothesis: a guy is cheerfully playing a footbag
+Hypothesis After Shift: a guy is cheerfully playing a footbag
+Alignment: (   I IS)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.191 (2.074 / 10.850)
+
+Sentence ID: [doc1][0135]
+Original Reference: Man playing guitar
+Original Hypothesis: The guitar is being played the man
+Reference: man playing guitar
+Hypothesis: the guitar is being played the man
+Hypothesis After Shift: man the is being played guitar the
+Alignment: ( IIIT I)
+HypErrs: 0.259 0.562 0.259 0.259 0.000 0.259 0.562
+OtherErr: 0.000
+HypLocMap: 6 0 2 3 4 1 5
+
+NumShifts: 2
+  [1, 1, 1/4] (guitar) -> (guitar)
+  [6, 6, -1/-1] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.306 (2.160 / 7.050)
+
+Sentence ID: [doc1][0136]
+Original Reference: A lion is pacing in a pen.
+Original Hypothesis: A lion is pacing tiredly a pen
+Reference: a lion is pacing in a pen .
+Hypothesis: a lion is pacing tiredly a pen
+Hypothesis After Shift: a lion is pacing tiredly a pen
+Alignment: (    S  D)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.466 (2.983 / 6.400)
+
+Sentence ID: [doc1][0137]
+Original Reference: a lady is cutting the butter.
+Original Hypothesis: A girl is cutting butter two pieces
+Reference: a lady is cutting the butter .
+Hypothesis: a girl is cutting butter two pieces
+Hypothesis After Shift: a girl is cutting butter two pieces
+Alignment: ( P  D SI)
+HypErrs: 0.000 0.655 0.000 0.000 0.000 1.557 0.259
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6545476829351763 OrigCost: 0.002157 <p>lady</p> <p>girl</p>
+
+Score: 0.513 (3.897 / 7.600)
+
+Sentence ID: [doc1][0138]
+Original Reference: A man is dancing.
+Original Hypothesis: A man a hard hat is dancing
+Reference: a man is dancing .
+Hypothesis: a man a hard hat is dancing
+Hypothesis After Shift: a man a hard hat is dancing
+Alignment: (  III  D)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.250 (2.203 / 8.800)
+
+Sentence ID: [doc1][0139]
+Original Reference: A woman is walking a dog.
+Original Hypothesis: A woman is walking the dog the street
+Reference: a woman is walking a dog .
+Hypothesis: a woman is walking the dog the street
+Hypothesis After Shift: a woman is walking the dog the street
+Alignment: (    S IS)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.397 (3.372 / 8.500)
+
+Sentence ID: [doc1][0140]
+Original Reference: A woman is squeezing a lemon.
+Original Hypothesis: A woman is squeezing juice of a lemon
+Reference: a woman is squeezing a lemon .
+Hypothesis: a woman is squeezing juice of a lemon
+Hypothesis After Shift: a woman is squeezing juice of a lemon
+Alignment: (    II  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.253 (1.945 / 7.700)
+
+Sentence ID: [doc1][0141]
+Original Reference: A biker is performing stunts.
+Original Hypothesis: A biker is riding the top a fence
+Reference: a biker is performing stunts .
+Hypothesis: a biker is riding the top a fence
+Hypothesis After Shift: a biker is riding the top a fence
+Alignment: (   ISSIS)
+HypErrs: 0.000 0.000 0.000 0.259 1.557 1.557 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.447 (5.187 / 11.600)
+
+Sentence ID: [doc1][0142]
+Original Reference: A man is typing.
+Original Hypothesis: A man is typing a machine used stenography
+Reference: a man is typing .
+Hypothesis: a man is typing a machine used stenography
+Hypothesis After Shift: a man is typing a machine used stenography
+Alignment: (    IIIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.354 (2.333 / 6.600)
+
+Sentence ID: [doc1][0143]
+Original Reference: A man is throwing knives.
+Original Hypothesis: A man is dangerously throwing knives a tree
+Reference: a man is throwing knives .
+Hypothesis: a man is dangerously throwing knives a tree
+Hypothesis After Shift: a man is dangerously throwing knives a tree
+Alignment: (   I  IS)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.205 (2.074 / 10.100)
+
+Sentence ID: [doc1][0144]
+Original Reference: A cat is playing.
+Original Hypothesis: A cat is playing a device
+Reference: a cat is playing .
+Hypothesis: a cat is playing a device
+Hypothesis After Shift: a cat is playing a device
+Alignment: (    IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.209 (1.815 / 8.700)
+
+Sentence ID: [doc1][0145]
+Original Reference: A baby is playing with a dog
+Original Hypothesis: A small boy is playing a dog
+Reference: a baby is playing with a dog
+Hypothesis: a small boy is playing a dog
+Hypothesis After Shift: a small boy is playing a dog
+Alignment: ( IP  D  )
+HypErrs: 0.000 0.259 0.674 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6741250624948901 OrigCost: 0.001772 <p>baby</p> <p>boy</p>
+
+Score: 0.268 (2.360 / 8.800)
+
+Sentence ID: [doc1][0146]
+Original Reference: a women is makeuping
+Original Hypothesis: The woman is penciling eyeshadow
+Reference: a women is makeuping
+Hypothesis: the woman is penciling eyeshadow
+Hypothesis After Shift: the woman is penciling eyeshadow
+Alignment: (DP IS)
+HypErrs: 0.000 0.000 0.000 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.001061 <p>women</p> <p>the woman</p>
+
+Score: 0.356 (3.242 / 9.100)
+
+Sentence ID: [doc1][0147]
+Original Reference: A man is singing.
+Original Hypothesis: A man a suit is standing a microphone and singing
+Reference: a man is singing .
+Hypothesis: a man a suit is standing a microphone and singing
+Hypothesis After Shift: a man a suit is standing a microphone and singing
+Alignment: (  II IIII D)
+HypErrs: 0.000 0.000 0.259 0.259 0.000 0.259 0.259 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.429 (2.980 / 6.950)
+
+Sentence ID: [doc1][0148]
+Original Reference: A man is pouring oil into a pan.
+Original Hypothesis: A man is pouring oil a pan
+Reference: a man is pouring oil into a pan .
+Hypothesis: a man is pouring oil a pan
+Hypothesis After Shift: a man is pouring oil a pan
+Alignment: (     D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.307 (2.854 / 9.300)
+
+Sentence ID: [doc1][0149]
+Original Reference: A man strums a guitar.
+Original Hypothesis: A man is sitting the floor a room and strumming a guitar
+Reference: a man strums a guitar .
+Hypothesis: a man is sitting the floor a room and strumming a guitar
+Hypothesis After Shift: a man is sitting the floor a room and strumming a guitar
+Alignment: (  IIIIIIIT  D)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.356 (3.239 / 9.100)
+
+Sentence ID: [doc1][0150]
+Original Reference: The man is slicing the tape from the box.
+Original Hypothesis: The man is cutting the tape the box
+Reference: the man is slicing the tape from the box .
+Hypothesis: the man is cutting the tape the box
+Hypothesis After Shift: the man is cutting the tape the box
+Alignment: (   S  D  D)
+HypErrs: 0.000 0.000 0.000 1.557 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.482 (4.410 / 9.150)
+
+Sentence ID: [doc1][0151]
+Original Reference: A man and a woman are walking.
+Original Hypothesis: A man and a woman are walking the woods
+Reference: a man and a woman are walking .
+Hypothesis: a man and a woman are walking the woods
+Hypothesis After Shift: a man and a woman are walking the woods
+Alignment: (       IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.189 (1.815 / 9.600)
+
+Sentence ID: [doc1][0152]
+Original Reference: A man rises from a swamp.
+Original Hypothesis: A man is rising a swamp
+Reference: a man rises from a swamp .
+Hypothesis: a man is rising a swamp
+Hypothesis After Shift: a man is rising a swamp
+Alignment: (  IP  D)
+HypErrs: 0.000 0.000 0.259 0.337 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.33716622631087223 OrigCost: 0.030265 <p>rises from</p> <p>rising</p>
+
+Score: 0.242 (2.023 / 8.350)
+
+Sentence ID: [doc1][0153]
+Original Reference: A man is dancing upside-down on the ceiling.
+Original Hypothesis: A man is dancing upside-down the ceiling
+Reference: a man is dancing upside-down on the ceiling .
+Hypothesis: a man is dancing upside-down the ceiling
+Hypothesis After Shift: a man is dancing upside-down the ceiling
+Alignment: (     D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.300 (2.854 / 9.500)
+
+Sentence ID: [doc1][0154]
+Original Reference: A person is riding a jetski in the waves.
+Original Hypothesis: A person is riding a jetski the waves
+Reference: a person is riding a jetski in the waves .
+Hypothesis: a person is riding a jetski the waves
+Hypothesis After Shift: a person is riding a jetski the waves
+Alignment: (      D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.328 (2.854 / 8.700)
+
+Sentence ID: [doc1][0155]
+Original Reference: A small dog lies on a bed.
+Original Hypothesis: A small dog is lying a bed
+Reference: a small dog lies on a bed .
+Hypothesis: a small dog is lying a bed
+Hypothesis After Shift: a small dog is lying a bed
+Alignment: (   IYD  D)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.316 (3.113 / 9.850)
+
+Sentence ID: [doc1][0156]
+Original Reference: Three people are marching.
+Original Hypothesis: A group people are marching
+Reference: three people are marching .
+Hypothesis: a group people are marching
+Hypothesis After Shift: a group people are marching
+Alignment: (IS   D)
+HypErrs: 0.259 1.557 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.484 (3.242 / 6.700)
+
+Sentence ID: [doc1][0157]
+Original Reference: A boy is playing a piano.
+Original Hypothesis: A boy is sitting a room and playing a piano lamp light
+Reference: a boy is playing a piano .
+Hypothesis: a boy is sitting a room and playing a piano lamp light
+Hypothesis After Shift: a boy is sitting a room and playing a piano lamp light
+Alignment: (   IIII   SI)
+HypErrs: 0.000 0.000 0.000 0.259 0.259 0.259 0.259 0.000 0.000 0.000 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.393 (2.851 / 7.250)
+
+Sentence ID: [doc1][0158]
+Original Reference: A person is buttering a tray.
+Original Hypothesis: A person is wiping butter a tray
+Reference: a person is buttering a tray .
+Hypothesis: a person is wiping butter a tray
+Hypothesis After Shift: a person is wiping butter a tray
+Alignment: (   IT  D)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.218 (1.686 / 7.750)
+
+Sentence ID: [doc1][0159]
+Original Reference: A woman serving volleyballs over a net.
+Original Hypothesis: A woman is serving volleyballs a net
+Reference: a woman serving volleyballs over a net .
+Hypothesis: a woman is serving volleyballs a net
+Hypothesis After Shift: a woman is serving volleyballs a net
+Alignment: (  I  D  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.346 (3.113 / 9.000)
+
+Sentence ID: [doc1][0160]
+Original Reference: The girl trotted the horse.
+Original Hypothesis: The girl is trotting the horse
+Reference: the girl trotted the horse .
+Hypothesis: the girl is trotting the horse
+Hypothesis After Shift: the girl is trotting the horse
+Alignment: (  IT  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.208 (1.686 / 8.100)
+
+Sentence ID: [doc1][0161]
+Original Reference: a man climbing a rope
+Original Hypothesis: A cord is being climbed a man
+Reference: a man climbing a rope
+Hypothesis: a cord is being climbed a man
+Hypothesis After Shift: a man cord is being climbed a
+Alignment: (  IIIT D)
+HypErrs: 0.000 0.259 0.259 0.259 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 6 1 2 3 4 5
+
+NumShifts: 1
+  [6, 6, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.322 (2.766 / 8.600)
+
+Sentence ID: [doc1][0162]
+Original Reference: A woman is tapping her fingers.
+Original Hypothesis: A woman is tapping her fingers a table
+Reference: a woman is tapping her fingers .
+Hypothesis: a woman is tapping her fingers a table
+Hypothesis After Shift: a woman is tapping her fingers a table
+Alignment: (      IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.193 (1.815 / 9.400)
+
+Sentence ID: [doc1][0163]
+Original Reference: A boy studies a calendar.
+Original Hypothesis: A boy is looking a calendar
+Reference: a boy studies a calendar .
+Hypothesis: a boy is looking a calendar
+Hypothesis After Shift: a boy is looking a calendar
+Alignment: (  IP  D)
+HypErrs: 0.000 0.000 0.259 0.637 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6372889150353336 OrigCost: 0.002565 <p>studies</p> <p>looking</p>
+
+Score: 0.254 (2.323 / 9.150)
+
+Sentence ID: [doc1][0164]
+Original Reference: A woman is applying lipstick.
+Original Hypothesis: A woman is putting lipstick
+Reference: a woman is applying lipstick .
+Hypothesis: a woman is putting lipstick
+Hypothesis After Shift: a woman is putting lipstick
+Alignment: (   S D)
+HypErrs: 0.000 0.000 0.000 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.406 (2.983 / 7.350)
+
+Sentence ID: [doc1][0165]
+Original Reference: Someone is stirring chili in a kettle.
+Original Hypothesis: Someone is stirring chili a kettle
+Reference: someone is stirring chili in a kettle .
+Hypothesis: someone is stirring chili a kettle
+Hypothesis After Shift: someone is stirring chili a kettle
+Alignment: (    D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.334 (2.854 / 8.550)
+
+Sentence ID: [doc1][0166]
+Original Reference: jockey falling from horse
+Original Hypothesis: The man is being knocked of a horse
+Reference: jockey falling from horse
+Hypothesis: the man is being knocked of a horse
+Hypothesis After Shift: the man is being knocked of a horse
+Alignment: (IIISISS )
+HypErrs: 0.259 0.259 0.259 1.557 0.259 1.557 1.557 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.637 (5.705 / 8.950)
+
+Sentence ID: [doc1][0167]
+Original Reference: A man is riding a motorcycle.
+Original Hypothesis: A man is riding a motorcycle the town
+Reference: a man is riding a motorcycle .
+Hypothesis: a man is riding a motorcycle the town
+Hypothesis After Shift: a man is riding a motorcycle the town
+Alignment: (      IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.212 (1.815 / 8.550)
+
+Sentence ID: [doc1][0168]
+Original Reference: A woman is driving a car.
+Original Hypothesis: A woman is driving a car and is talking to the man who is seated her
+Reference: a woman is driving a car .
+Hypothesis: a woman is driving a car and is talking to the man who is seated her
+Hypothesis After Shift: a woman is driving a car and is talking to the man who is seated her
+Alignment: (      IIISIIIIII)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.259 0.259 1.557 0.259 0.259 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.413 (3.886 / 9.400)
+
+Sentence ID: [doc1][0169]
+Original Reference: A car exploded.
+Original Hypothesis: Four young men are standing still and a car is exploding them
+Reference: a car exploded .
+Hypothesis: four young men are standing still and a car is exploding them
+Hypothesis After Shift: four young men are standing still and a car is exploding them
+Alignment: (IIIIIII  ITS)
+HypErrs: 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.000 0.000 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.415 (3.627 / 8.750)
+
+Sentence ID: [doc1][0170]
+Original Reference: Someone is scratching an animals belly.
+Original Hypothesis: Someone is scratching the belly an animal
+Reference: someone is scratching an animals belly .
+Hypothesis: someone is scratching the belly an animal
+Hypothesis After Shift: someone is scratching the an animal belly
+Alignment: (   I T D)
+HypErrs: 0.000 0.000 0.000 0.259 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 5 6 4
+
+NumShifts: 1
+  [4, 4, 5/6] (belly) -> (belly)
+Num Phrase Substitutions: 0
+
+Score: 0.283 (2.248 / 7.950)
+
+Sentence ID: [doc1][0171]
+Original Reference: A person is doing a motorcycle trick.
+Original Hypothesis: A person is performing tricks a motorcycle
+Reference: a person is doing a motorcycle trick .
+Hypothesis: a person is performing tricks a motorcycle
+Hypothesis After Shift: a person is performing a motorcycle tricks
+Alignment: (   Y  TD)
+HypErrs: 0.000 0.000 0.000 0.000 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 5 6 4
+
+NumShifts: 1
+  [4, 4, 6/6] (tricks) -> (trick)
+Num Phrase Substitutions: 0
+
+Score: 0.199 (1.989 / 10.000)
+
+Sentence ID: [doc1][0172]
+Original Reference: Someone is stirring a pot.
+Original Hypothesis: A person is stirring vegetables a pot
+Reference: someone is stirring a pot .
+Hypothesis: a person is stirring vegetables a pot
+Hypothesis After Shift: a person is stirring vegetables a pot
+Alignment: (IY  I  D)
+HypErrs: 0.259 0.000 0.000 0.000 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.242 (1.945 / 8.050)
+
+Sentence ID: [doc1][0173]
+Original Reference: A singer dances on the ceiling.
+Original Hypothesis: A great singer is dancing the ceiling
+Reference: a singer dances on the ceiling .
+Hypothesis: a great singer is dancing the ceiling
+Hypothesis After Shift: a great singer is dancing the ceiling
+Alignment: ( I ITD  D)
+HypErrs: 0.000 0.259 0.000 0.259 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.355 (3.372 / 9.500)
+
+Sentence ID: [doc1][0174]
+Original Reference: A woman dips a shrimp in batter.
+Original Hypothesis: A woman is dipping a shrimp batter
+Reference: a woman dips a shrimp in batter .
+Hypothesis: a woman is dipping a shrimp batter
+Hypothesis After Shift: a woman is dipping a shrimp batter
+Alignment: (  IT  D D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.352 (3.113 / 8.850)
+
+Sentence ID: [doc1][0175]
+Original Reference: A man is playing a piano.
+Original Hypothesis: A piano is being played a man
+Reference: a man is playing a piano .
+Hypothesis: a piano is being played a man
+Hypothesis After Shift: a man is being played a piano
+Alignment: (  IYT  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 6 2 3 4 5 1
+
+NumShifts: 2
+  [1, 1, 5/5] (piano) -> (piano)
+  [6, 6, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.390 (2.810 / 7.200)
+
+Sentence ID: [doc1][0176]
+Original Reference: a man is cleaning a window
+Original Hypothesis: The windows are being polished a man
+Reference: a man is cleaning a window
+Hypothesis: the windows are being polished a man
+Hypothesis After Shift: the man are being polished a windows
+Alignment: (S IYS T)
+HypErrs: 1.557 0.562 0.259 0.000 1.557 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 6 2 3 4 5 1
+
+NumShifts: 2
+  [1, 1, 4/5] (windows) -> (window)
+  [6, 6, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.500 (4.496 / 9.000)
+
+Sentence ID: [doc1][0177]
+Original Reference: A man is sprinkling seasonings on bread.
+Original Hypothesis: A man is sprinkling seasoning on several sliced and buttered loaves bread
+Reference: a man is sprinkling seasonings on bread .
+Hypothesis: a man is sprinkling seasoning on several sliced and buttered loaves bread
+Hypothesis After Shift: a man is sprinkling seasoning on several sliced and buttered loaves bread
+Alignment: (    T IIIII D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.259 0.259 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.294 (2.721 / 9.250)
+
+Sentence ID: [doc1][0178]
+Original Reference: a tiger is walking
+Original Hypothesis: A tiger is walking a cage
+Reference: a tiger is walking
+Hypothesis: a tiger is walking a cage
+Hypothesis After Shift: a tiger is walking a cage
+Alignment: (    II)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.071 (0.518 / 7.300)
+
+Sentence ID: [doc1][0179]
+Original Reference: The man is riding a horse.
+Original Hypothesis: The man is riding a horse a creek
+Reference: the man is riding a horse .
+Hypothesis: the man is riding a horse a creek
+Hypothesis After Shift: the man is riding a horse a creek
+Alignment: (      IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.184 (1.815 / 9.850)
+
+Sentence ID: [doc1][0180]
+Original Reference: The man erased the work on the board.
+Original Hypothesis: The man is erasing the other man 's work the board
+Reference: the man erased the work on the board .
+Hypothesis: the man is erasing the other man 's work the board
+Hypothesis After Shift: the man is erasing the other man 's work the board
+Alignment: (  IT III D  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.259 0.259 0.259 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.430 (3.889 / 9.050)
+
+Sentence ID: [doc1][0181]
+Original Reference: men are flipping tires.
+Original Hypothesis: Two people a race are flipping the tires a tractor
+Reference: men are flipping tires .
+Hypothesis: two people a race are flipping the tires a tractor
+Hypothesis After Shift: two people a race are flipping the tires a tractor
+Alignment: (IPII  I SI)
+HypErrs: 0.259 0.562 0.259 0.259 0.000 0.000 0.259 0.000 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.5615042926197465 OrigCost: 0.005481 <p>men</p> <p>people</p>
+
+Score: 0.386 (3.412 / 8.850)
+
+Sentence ID: [doc1][0182]
+Original Reference: A woman is frying meet.
+Original Hypothesis: A woman is frying something a pan
+Reference: a woman is frying meet .
+Hypothesis: a woman is frying something a pan
+Hypothesis After Shift: a woman is frying something a pan
+Alignment: (    ISS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.459 (3.372 / 7.350)
+
+Sentence ID: [doc1][0183]
+Original Reference: A loris is hanging on a rope.
+Original Hypothesis: A lemur is hanging a cord
+Reference: a loris is hanging on a rope .
+Hypothesis: a lemur is hanging a cord
+Hypothesis After Shift: a lemur is hanging a cord
+Alignment: ( S  D PD)
+HypErrs: 0.000 1.557 0.000 0.000 0.000 0.234
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.23399230710610813 OrigCost: 0.127524 <p>rope</p> <p>cord</p>
+
+Score: 0.550 (4.644 / 8.450)
+
+Sentence ID: [doc1][0184]
+Original Reference: A woman is putting her baby in a waste bin.
+Original Hypothesis: A woman is putting a baby a waste bin
+Reference: a woman is putting her baby in a waste bin .
+Hypothesis: a woman is putting a baby a waste bin
+Hypothesis After Shift: a woman is putting a baby a waste bin
+Alignment: (    S D   D)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.418 (4.410 / 10.550)
+
+Sentence ID: [doc1][0185]
+Original Reference: A man is cooking.
+Original Hypothesis: A man is putting some food a box
+Reference: a man is cooking .
+Hypothesis: a man is putting some food a box
+Hypothesis After Shift: a man is putting some food a box
+Alignment: (   IIPSI)
+HypErrs: 0.000 0.000 0.000 0.259 0.259 0.545 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.5453701971227092 OrigCost: 0.00644 <p>cooking</p> <p>food</p>
+
+Score: 0.327 (2.878 / 8.800)
+
+Sentence ID: [doc1][0186]
+Original Reference: A person is making meat
+Original Hypothesis: A person is frying meat a pan
+Reference: a person is making meat
+Hypothesis: a person is frying meat a pan
+Hypothesis After Shift: a person is frying meat a pan
+Alignment: (   S II)
+HypErrs: 0.000 0.000 0.000 1.557 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.243 (2.074 / 8.550)
+
+Sentence ID: [doc1][0187]
+Original Reference: Rhinos are grassing.
+Original Hypothesis: The rhino is grazing the grass
+Reference: rhinos are grassing .
+Hypothesis: the rhino is grazing the grass
+Hypothesis After Shift: the rhino is grazing the grass
+Alignment: (ITYIITD)
+HypErrs: 0.259 0.000 0.000 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.355 (2.203 / 6.200)
+
+Sentence ID: [doc1][0188]
+Original Reference: A cat is jumped into a box.
+Original Hypothesis: A cat is jumping a box
+Reference: a cat is jumped into a box .
+Hypothesis: a cat is jumping a box
+Hypothesis After Shift: a cat is jumping a box
+Alignment: (   TD  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.307 (2.854 / 9.300)
+
+Sentence ID: [doc1][0189]
+Original Reference: A man is firing a gun.
+Original Hypothesis: A man is shooting a gun
+Reference: a man is firing a gun .
+Hypothesis: a man is shooting a gun
+Hypothesis After Shift: a man is shooting a gun
+Alignment: (   P  D)
+HypErrs: 0.000 0.000 0.000 0.308 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.30796762633453484 OrigCost: 0.065366 <p>firing</p> <p>shooting</p>
+
+Score: 0.233 (1.735 / 7.450)
+
+Sentence ID: [doc1][0190]
+Original Reference: A sea turtle is hunting for fish.
+Original Hypothesis: A sea turtle is hunting fish
+Reference: a sea turtle is hunting for fish .
+Hypothesis: a sea turtle is hunting fish
+Hypothesis After Shift: a sea turtle is hunting fish
+Alignment: (     D D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.371 (2.854 / 7.700)
+
+Sentence ID: [doc1][0191]
+Original Reference: A man and a woman are walking.
+Original Hypothesis: A man and a woman are walking a wooded area
+Reference: a man and a woman are walking .
+Hypothesis: a man and a woman are walking a wooded area
+Hypothesis After Shift: a man and a woman are walking a wooded area
+Alignment: (       IIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.216 (2.074 / 9.600)
+
+Sentence ID: [doc1][0192]
+Original Reference: A man is on a roof dancing.
+Original Hypothesis: A man is dancing a roof
+Reference: a man is on a roof dancing .
+Hypothesis: a man is dancing a roof
+Hypothesis After Shift: a man is a roof dancing
+Alignment: (   D   D)
+HypErrs: 0.000 0.000 0.000 0.562 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 4 5 3
+
+NumShifts: 1
+  [3, 3, 6/5] (dancing) -> (dancing)
+Num Phrase Substitutions: 0
+
+Score: 0.338 (3.416 / 10.100)
+
+Sentence ID: [doc1][0193]
+Original Reference: A boy is cutting grass.
+Original Hypothesis: A boy is cutting grass scissors
+Reference: a boy is cutting grass .
+Hypothesis: a boy is cutting grass scissors
+Hypothesis After Shift: a boy is cutting grass scissors
+Alignment: (     S)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.176 (1.557 / 8.850)
+
+Sentence ID: [doc1][0194]
+Original Reference: A man is cutting the rope
+Original Hypothesis: A man is cutting a rope a sword
+Reference: a man is cutting the rope
+Hypothesis: a man is cutting a rope a sword
+Hypothesis After Shift: a man is cutting a rope a sword
+Alignment: (    S II)
+HypErrs: 0.000 0.000 0.000 0.000 1.557 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.212 (2.074 / 9.800)
+
+Sentence ID: [doc1][0195]
+Original Reference: Someone is putting ingredients into a wok.
+Original Hypothesis: Someone is putting ingredients a wok
+Reference: someone is putting ingredients into a wok .
+Hypothesis: someone is putting ingredients a wok
+Hypothesis After Shift: someone is putting ingredients a wok
+Alignment: (    D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.265 (2.854 / 10.750)
+
+Sentence ID: [doc1][0196]
+Original Reference: The woman is cracking an egg.
+Original Hypothesis: The lady is cracking an egg a bowl
+Reference: the woman is cracking an egg .
+Hypothesis: the lady is cracking an egg a bowl
+Hypothesis After Shift: the lady is cracking an egg a bowl
+Alignment: ( P    SI)
+HypErrs: 0.000 0.370 0.000 0.000 0.000 0.000 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.3700728497221898 OrigCost: 0.036255 <p>woman</p> <p>lady</p>
+
+Score: 0.250 (2.185 / 8.750)
+
+Sentence ID: [doc1][0197]
+Original Reference: The man is cracking eggs into a bowl.
+Original Hypothesis: The man is cracking eggs a bowl
+Reference: the man is cracking eggs into a bowl .
+Hypothesis: the man is cracking eggs a bowl
+Hypothesis After Shift: the man is cracking eggs a bowl
+Alignment: (     D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.359 (2.854 / 7.950)
+
+Sentence ID: [doc1][0198]
+Original Reference: A small dog laying on the bed.
+Original Hypothesis: A small dog is lying the bed
+Reference: a small dog laying on the bed .
+Hypothesis: a small dog is lying the bed
+Hypothesis After Shift: a small dog is lying the bed
+Alignment: (   IPD  D)
+HypErrs: 0.000 0.000 0.000 0.259 0.494 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.49374078527231413 OrigCost: 0.010772 <p>laying</p> <p>lying</p>
+
+Score: 0.366 (3.606 / 9.850)
+
+Sentence ID: [doc1][0199]
+Original Reference: A man is dancing on the ceiling.
+Original Hypothesis: A man is dancing the ceiling
+Reference: a man is dancing on the ceiling .
+Hypothesis: a man is dancing the ceiling
+Hypothesis After Shift: a man is dancing the ceiling
+Alignment: (    D  D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.300 (2.854 / 9.500)
+
+Sentence ID: [doc1][0200]
+Original Reference: Someone is cooking noodles.
+Original Hypothesis: Someone is stirring noodles the water
+Reference: someone is cooking noodles .
+Hypothesis: someone is stirring noodles the water
+Hypothesis After Shift: someone is stirring noodles the water
+Alignment: (  S IS)
+HypErrs: 0.000 0.000 1.557 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.485 (3.372 / 6.950)
+
+Sentence ID: [doc1][0201]
+Original Reference: A woman is cracking eggs.
+Original Hypothesis: A woman is cracking some eggs a bowl
+Reference: a woman is cracking eggs .
+Hypothesis: a woman is cracking some eggs a bowl
+Hypothesis After Shift: a woman is cracking some eggs a bowl
+Alignment: (    I IS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.258 (2.074 / 8.050)
+
+Sentence ID: [doc1][0202]
+Original Reference: the girl is jumping
+Original Hypothesis: The girl is recklessly jumping a car
+Reference: the girl is jumping
+Hypothesis: the girl is recklessly jumping a car
+Hypothesis After Shift: the girl is recklessly jumping a car
+Alignment: (   I II)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.084 (0.777 / 9.300)
+

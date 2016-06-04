@@ -1,0 +1,248 @@
+Sentence ID: [doc1][0001]
+Original Reference: A car exploded.
+Original Hypothesis: Four young men are exploding and a car is standing still behind them
+Reference: a car exploded .
+Hypothesis: four young men are exploding and a car is standing still behind them
+Hypothesis After Shift: four young men are and a car exploding is standing still behind them
+Alignment: (IIIII  TIIIIS)
+HypErrs: 0.259 0.259 0.259 0.259 0.562 0.259 0.000 0.000 0.259 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 5 6 7 4 8 9 10 11 12
+
+NumShifts: 1
+  [4, 4, 1/7] (exploding) -> (exploded)
+Num Phrase Substitutions: 0
+
+Score: 0.508 (4.448 / 8.750)
+
+Sentence ID: [doc1][0002]
+Original Reference: A monkey is karate kicking a person.
+Original Hypothesis: A person is kicking a monkey
+Reference: a monkey is karate kicking a person .
+Hypothesis: a person is kicking a monkey
+Hypothesis After Shift: a monkey is kicking a person
+Alignment: (   D   D)
+HypErrs: 0.000 0.562 0.000 0.000 0.000 0.562
+OtherErr: 2.854
+HypLocMap: 0 5 2 3 4 1
+
+NumShifts: 2
+  [1, 1, 6/4] (person) -> (person)
+  [5, 5, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.527 (3.978 / 7.550)
+
+Sentence ID: [doc1][0003]
+Original Reference: A monkey is karate kicking a person.
+Original Hypothesis: A gloved person is kicking at the hand of a monkey
+Reference: a monkey is karate kicking a person .
+Hypothesis: a gloved person is kicking at the hand of a monkey
+Hypothesis After Shift: a monkey gloved is kicking at the hand of a person
+Alignment: (  I D IIII  D)
+HypErrs: 0.000 0.259 0.562 0.000 0.000 0.259 0.259 0.259 0.259 0.000 0.562
+OtherErr: 2.854
+HypLocMap: 0 10 1 3 4 5 6 7 8 9 2
+
+NumShifts: 2
+  [2, 2, 6/9] (person) -> (person)
+  [10, 10, 0/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.698 (5.272 / 7.550)
+
+Sentence ID: [doc1][0004]
+Original Reference: The doctor was helping the patient.
+Original Hypothesis: The patient is helping the doctor
+Reference: the doctor was helping the patient .
+Hypothesis: the patient is helping the doctor
+Hypothesis After Shift: the doctor is helping the patient
+Alignment: (  Y   D)
+HypErrs: 0.000 0.562 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 5 2 3 4 1
+
+NumShifts: 2
+  [1, 1, 5/4] (patient) -> (patient)
+  [5, 5, 1/0] (doctor) -> (doctor)
+Num Phrase Substitutions: 0
+
+Score: 0.277 (2.551 / 9.200)
+
+Sentence ID: [doc1][0005]
+Original Reference: a big green ball hit something
+Original Hypothesis: A big potato is knocking a green ball
+Reference: a big green ball hit something
+Hypothesis: a big potato is knocking a green ball
+Hypothesis After Shift: a big potato is knocking a green ball
+Alignment: (  IIII  DD)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.259 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.409 (3.889 / 9.500)
+
+Sentence ID: [doc1][0006]
+Original Reference: A monkey is teasing a dog at the zoo.
+Original Hypothesis: A dog is teasing a monkey at the zoo
+Reference: a monkey is teasing a dog at the zoo .
+Hypothesis: a dog is teasing a monkey at the zoo
+Hypothesis After Shift: a monkey is teasing a dog at the zoo
+Alignment: (         D)
+HypErrs: 0.000 0.562 0.000 0.000 0.000 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 5 2 3 4 1 6 7 8
+
+NumShifts: 2
+  [1, 1, 4/4] (dog) -> (dog)
+  [5, 5, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.269 (2.551 / 9.500)
+
+Sentence ID: [doc1][0007]
+Original Reference: A boy spanks a man with a plastic sword.
+Original Hypothesis: A man is spanking a boy with a plastic sword
+Reference: a boy spanks a man with a plastic sword .
+Hypothesis: a man is spanking a boy with a plastic sword
+Hypothesis After Shift: a boy is spanking a man with a plastic sword
+Alignment: (  IT      D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 5 2 3 4 1 6 7 8 9
+
+NumShifts: 2
+  [1, 1, 3/4] (man) -> (man)
+  [5, 5, 0/0] (boy) -> (boy)
+Num Phrase Substitutions: 0
+
+Score: 0.278 (2.810 / 10.100)
+
+Sentence ID: [doc1][0008]
+Original Reference: A boy whacks a man with a sword.
+Original Hypothesis: A man is whacking a boy with a sword
+Reference: a boy whacks a man with a sword .
+Hypothesis: a man is whacking a boy with a sword
+Hypothesis After Shift: a boy is whacking a man with a sword
+Alignment: (  IT     D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 5 2 3 4 1 6 7 8
+
+NumShifts: 2
+  [1, 1, 3/4] (man) -> (man)
+  [5, 5, 0/0] (boy) -> (boy)
+Num Phrase Substitutions: 0
+
+Score: 0.278 (2.810 / 10.100)
+
+Sentence ID: [doc1][0009]
+Original Reference: A woman is dancing.
+Original Hypothesis: A woman is playing the keyboard and a man is dancing
+Reference: a woman is dancing .
+Hypothesis: a woman is playing the keyboard and a man is dancing
+Hypothesis After Shift: a woman is playing the keyboard and a man is dancing
+Alignment: (  IIIIIII  D)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.337 (3.239 / 9.600)
+
+Sentence ID: [doc1][0010]
+Original Reference: The turtle followed the fish.
+Original Hypothesis: The fish is following the turtle
+Reference: the turtle followed the fish .
+Hypothesis: the fish is following the turtle
+Hypothesis After Shift: the turtle is following the fish
+Alignment: (  IP D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 5 2 3 4 1
+
+NumShifts: 2
+  [1, 1, 4/4] (fish) -> (fish)
+  [5, 5, 0/0] (turtle) -> (turtle)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.010234 <p>followed the</p> <p>following the</p>
+
+Score: 0.365 (2.810 / 7.700)
+
+Sentence ID: [doc1][0011]
+Original Reference: The woman picked up the kangaroo.
+Original Hypothesis: The kangaroo is picking up the woman
+Reference: the woman picked up the kangaroo .
+Hypothesis: the kangaroo is picking up the woman
+Hypothesis After Shift: the woman is picking up the kangaroo
+Alignment: (  IP  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 6 2 3 4 5 1
+
+NumShifts: 2
+  [1, 1, 5/5] (kangaroo) -> (kangaroo)
+  [6, 6, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.039018 <p>picked up</p> <p>picking up</p>
+
+Score: 0.353 (2.810 / 7.950)
+
+Sentence ID: [doc1][0012]
+Original Reference: A dog is licking a baby.
+Original Hypothesis: A baby is licking a dog
+Reference: a dog is licking a baby .
+Hypothesis: a baby is licking a dog
+Hypothesis After Shift: a dog is licking a baby
+Alignment: (      D)
+HypErrs: 0.000 0.562 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 5 2 3 4 1
+
+NumShifts: 2
+  [1, 1, 5/4] (baby) -> (baby)
+  [5, 5, 1/0] (dog) -> (dog)
+Num Phrase Substitutions: 0
+
+Score: 0.317 (2.551 / 8.050)
+
+Sentence ID: [doc1][0013]
+Original Reference: A man is speaking to a woman
+Original Hypothesis: A woman is talking to a man
+Reference: a man is speaking to a woman
+Hypothesis: a woman is talking to a man
+Hypothesis After Shift: a man is talking to a woman
+Alignment: (   P  )
+HypErrs: 0.000 0.562 0.000 0.000 0.000 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 6 2 3 4 5 1
+
+NumShifts: 2
+  [1, 1, 5/5] (woman) -> (woman)
+  [6, 6, 1/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.178297 <p>speaking to</p> <p>talking to</p>
+
+Score: 0.132 (1.124 / 8.500)
+
+Sentence ID: [doc1][0014]
+Original Reference: a tiger is walking
+Original Hypothesis: A tiger is aimlessly walking around
+Reference: a tiger is walking
+Hypothesis: a tiger is aimlessly walking around
+Hypothesis After Shift: a tiger is aimlessly walking around
+Alignment: (   I I)
+HypErrs: 0.000 0.000 0.000 0.259 0.000 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.071 (0.518 / 7.300)
+

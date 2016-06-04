@@ -1,0 +1,103 @@
+shuffled
+re-order words
+
+num:     19
+mean:    3.56842105261
+stddev:  0.531187975032
+
+
+	dataset:     FLICKR
+	orig:        small girl riding in play car
+	sent:        A small girl is riding in a toy car
+	corr:        A small toy girl is in a riding car
+	score:       2.7
+	dataset:     SEMEVAL
+	orig:        four young men stand still as a car explodes behind them
+	sent:        Four young men are standing still and a car is exploding behind them
+	corr:        Four young men are exploding and a car is standing still behind them
+	score:       2.9
+	dataset:     SEMEVAL
+	orig:        a monkey is karate kicking a person
+	sent:        A monkey is kicking a person
+	corr:        A person is kicking a monkey
+	score:       3.0
+	dataset:     FLICKR
+	orig:        A nude lady walks in front of a crowd in body paint.
+	sent:        A nude lady is walking in front of a crowd in body paint
+	corr:        A nude crowd in body paint is walking in front of a lady 
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        a monkey is karate kicking at someone's gloved hand
+	sent:        A monkey is kicking at the gloved hand of a person
+	corr:        A gloved person is kicking at the hand of a monkey
+	score:       3.1
+	dataset:     SEMEVAL
+	orig:        the doctor was helping the patient
+	sent:        The doctor is helping the patient
+	corr:        The patient is helping the doctor
+	score:       3.2
+	dataset:     SEMEVAL
+	orig:        a big green ball knocks a potato over
+	sent:        A big green ball is knocking a potato
+	corr:        A big potato is knocking a green ball
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        a monkey is teasing a dog at the zoo
+	sent:        A monkey is teasing a dog at the zoo
+	corr:        A dog is teasing a monkey at the zoo
+	score:       3.5
+	dataset:     FLICKR
+	orig:        a group of people in a dim room
+	sent:        The group of people is sitting in a dim room
+	corr:        The group of dim people is sitting in a room
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        A boy spanks a man with a plastic sword.
+	sent:        A boy is spanking a man with a plastic sword
+	corr:        A man is spanking a boy with a plastic sword
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        A boy whacks a man with a sword.
+	sent:        A boy is whacking a man with a sword
+	corr:        A man is whacking a boy with a sword
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        a woman dances while a man plays the keyboard
+	sent:        A woman is dancing and a man is playing the keyboard
+	corr:        A woman is playing the keyboard and a man is dancing
+	score:       3.6
+	dataset:     FLICKR
+	orig:        the man in the straw hat smokes a cigarette
+	sent:        The man in the straw hat is smoking a cigarette
+	corr:        The man in the hat is smoking a straw cigarette
+	score:       3.6
+	dataset:     SEMEVAL
+	orig:        The turtle followed the fish.
+	sent:        The turtle is following the fish
+	corr:        The fish is following the turtle
+	score:       3.8
+	dataset:     SEMEVAL
+	orig:        the woman picked up the kangaroo
+	sent:        The woman is picking up the kangaroo
+	corr:        The kangaroo is picking up the woman
+	score:       3.8
+	dataset:     FLICKR
+	orig:        The blonde girl is dancing on stage in front of the sound equipment.
+	sent:        The blond girl is dancing in front of the sound equipment
+	corr:        The equipment in front of the blond dancing girl is sound
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a dog licks a baby
+	sent:        A dog is licking a baby
+	corr:        A baby is licking a dog
+	score:       3.9
+	dataset:     SEMEVAL
+	orig:        a man is talking to a woman
+	sent:        A man is talking to a woman
+	corr:        A woman is talking to a man
+	score:       4.5
+	dataset:     SEMEVAL
+	orig:        a tiger walks around aimlessly
+	sent:        A tiger is walking around aimlessly
+	corr:        A tiger is aimlessly walking around
+	score:       5.0

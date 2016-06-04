@@ -1,0 +1,3767 @@
+Sentence ID: [doc1][0001]
+Original Reference: A boat sails along the water.
+Original Hypothesis: A boat's sail is being reflected by the peaceful water
+Reference: a boat sails along the water .
+Hypothesis: a boat 's sail is being reflected by the peaceful water
+Hypothesis After Shift: a boat 's sail is being reflected by the peaceful water
+Alignment: (  ITIISI I D)
+HypErrs: 0.000 0.000 0.259 0.000 0.259 0.259 1.557 0.259 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.578 (4.278 / 7.400)
+
+Sentence ID: [doc1][0002]
+Original Reference: A man is taking a photo of sunset.
+Original Hypothesis: The picture of a camera set up is being taken by a man on the beach at the sunset
+Reference: a man is taking a photo of sunset .
+Hypothesis: the picture of a camera set up is being taken by a man on the beach at the sunset
+Hypothesis After Shift: the a man camera set up is being taken by a picture of on the beach at the sunset
+Alignment: (I  IIIIYYI PIIIII D)
+HypErrs: 0.259 0.281 0.281 0.000 0.259 0.259 0.259 0.259 0.000 0.000 0.259 0.000 0.562 0.259 0.259 0.259 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 12 4 5 6 7 8 9 10 11 1 2 13 14 15 16 17 18
+
+NumShifts: 2
+  [1, 2, 4/11] (picture of) -> (a photo of)
+  [12, 12, 0/1] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.116285 <p>photo of</p> <p>picture of</p>
+
+Score: 0.537 (5.398 / 10.050)
+
+Sentence ID: [doc1][0003]
+Original Reference: A man is doing magic tricks
+Original Hypothesis: A magic trick is being performed by the magician
+Reference: a man is doing magic tricks
+Hypothesis: a magic trick is being performed by the magician
+Hypothesis After Shift: a is being performed magic trick by the magician
+Alignment: ( SYY TIII)
+HypErrs: 0.000 0.281 0.281 1.557 0.000 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 3 4 5 1 2 6 7 8
+
+NumShifts: 1
+  [1, 2, 3/5] (magic trick) -> (magic tricks)
+Num Phrase Substitutions: 0
+
+Score: 0.284 (2.895 / 10.200)
+
+Sentence ID: [doc1][0004]
+Original Reference: A man gets knocked off of a horse.
+Original Hypothesis: The man is being knocked off of a horse
+Reference: a man gets knocked off of a horse .
+Hypothesis: the man is being knocked off of a horse
+Hypothesis After Shift: the man is being knocked off of a horse
+Alignment: (S IS     D)
+HypErrs: 1.557 0.000 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.536 (4.799 / 8.950)
+
+Sentence ID: [doc1][0005]
+Original Reference: a men is watching a camera
+Original Hypothesis: A camera is being hammered onto the nail by the man
+Reference: a men is watching a camera
+Hypothesis: a camera is being hammered onto the nail by the man
+Hypothesis After Shift: a man is being hammered onto the nail by the camera
+Alignment: (PIYIISIIS )
+HypErrs: 0.000 0.562 0.259 0.000 0.259 0.259 1.557 0.259 0.259 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 0 10 2 3 4 5 6 7 8 9 1
+
+NumShifts: 2
+  [1, 1, 5/10] (camera) -> (camera)
+  [9, 9, 0/0] (man) -> (men)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.24 <p>a men</p> <p>a man</p>
+
+Score: 0.515 (5.531 / 10.750)
+
+Sentence ID: [doc1][0006]
+Original Reference: The monkey is doing martial arts.
+Original Hypothesis: The monkey is being trained in martial arts
+Reference: the monkey is doing martial arts .
+Hypothesis: the monkey is being trained in martial arts
+Hypothesis After Shift: the monkey is being trained in martial arts
+Alignment: (  IYIS  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.259 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.464 (3.501 / 7.550)
+
+Sentence ID: [doc1][0007]
+Original Reference: a rhino is eating grass
+Original Hypothesis: The rhino is being fed on the grass
+Reference: a rhino is eating grass
+Hypothesis: the rhino is being fed on the grass
+Hypothesis After Shift: the rhino is being fed on the grass
+Alignment: (S IYYII )
+HypErrs: 1.557 0.000 0.259 0.000 0.000 0.259 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.376 (2.333 / 6.200)
+
+Sentence ID: [doc1][0008]
+Original Reference: A guy hits a man.
+Original Hypothesis: A man is being hit by a kid with a weapon
+Reference: a guy hits a man .
+Hypothesis: a man is being hit by a kid with a weapon
+Hypothesis After Shift: a is being hit by a man kid with a weapon
+Alignment: ( ISTI  IIIS)
+HypErrs: 0.000 0.562 0.259 1.557 0.000 0.259 0.000 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 5 6 1 7 8 9 10
+
+NumShifts: 1
+  [1, 1, 3/6] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.492 (4.969 / 10.100)
+
+Sentence ID: [doc1][0009]
+Original Reference: the girl is horse riding
+Original Hypothesis: The horse is being ridden by a man
+Reference: the girl is horse riding
+Hypothesis: the horse is being ridden by a man
+Hypothesis After Shift: the is being horse ridden by a man
+Alignment: ( SY PII)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 1 4 5 6 7
+
+NumShifts: 1
+  [1, 1, 3/3] (horse) -> (horse)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.307 (2.636 / 8.600)
+
+Sentence ID: [doc1][0010]
+Original Reference: A pencil is being sharpened.
+Original Hypothesis: A pencil is being sharpened
+Reference: a pencil is being sharpened .
+Hypothesis: a pencil is being sharpened
+Hypothesis After Shift: a pencil is being sharpened
+Alignment: (     D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.181 (1.427 / 7.900)
+
+Sentence ID: [doc1][0011]
+Original Reference: A person is mixing ingredients in a bowl.
+Original Hypothesis: Some ingredients are being mixed in a bowl by a person
+Reference: a person is mixing ingredients in a bowl .
+Hypothesis: some ingredients are being mixed in a bowl by a person
+Hypothesis After Shift: a person some are being mixed ingredients in a bowl by
+Alignment: (  IIYT    S)
+HypErrs: 0.259 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 0 2 3 4 1 5 6 7 8
+
+NumShifts: 2
+  [9, 10, -1/-1] (a person) -> (a person)
+  [3, 3, 4/6] (ingredients) -> (ingredients)
+Num Phrase Substitutions: 0
+
+Score: 0.361 (3.198 / 8.850)
+
+Sentence ID: [doc1][0012]
+Original Reference: The dog is bumping to the boy.
+Original Hypothesis: A boy is being knocked into the water by the dog
+Reference: the dog is bumping to the boy .
+Hypothesis: a boy is being knocked into the water by the dog
+Hypothesis After Shift: the dog a is being knocked into the boy water by
+Alignment: (  IIYYS  IS)
+HypErrs: 0.259 0.562 0.259 0.000 0.000 1.557 0.000 0.259 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 0 2 3 4 5 6 1 7 8
+
+NumShifts: 2
+  [9, 10, -1/-1] (the dog) -> (the dog)
+  [3, 3, 5/8] (boy) -> (boy)
+Num Phrase Substitutions: 0
+
+Score: 0.450 (5.014 / 11.150)
+
+Sentence ID: [doc1][0013]
+Original Reference: a woman riding a horse
+Original Hypothesis: An animal is being ridden by a woman
+Reference: a woman riding a horse
+Hypothesis: an animal is being ridden by a woman
+Hypothesis After Shift: an animal woman is being ridden by a
+Alignment: (IS IIP D)
+HypErrs: 0.259 1.557 0.259 0.259 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 1 7 2 3 4 5 6
+
+NumShifts: 1
+  [7, 7, 0/1] (woman) -> (woman)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.527 (4.322 / 8.200)
+
+Sentence ID: [doc1][0014]
+Original Reference: A man pours liquid into a pan.
+Original Hypothesis: Some liquid is being poured into a pan by a man
+Reference: a man pours liquid into a pan .
+Hypothesis: some liquid is being poured into a pan by a man
+Hypothesis After Shift: a man poured some liquid is being into a pan by
+Alignment: (  TI II   S)
+HypErrs: 0.259 0.000 0.259 0.259 0.562 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 4 0 1 2 3 5 6 7 8
+
+NumShifts: 2
+  [9, 10, -1/-1] (a man) -> (a man)
+  [6, 6, 1/1] (poured) -> (pours)
+Num Phrase Substitutions: 0
+
+Score: 0.388 (3.457 / 8.900)
+
+Sentence ID: [doc1][0015]
+Original Reference: The lovers are riding by bicycle
+Original Hypothesis: Two bikes are being ridden by two people
+Reference: the lovers are riding by bicycle
+Hypothesis: two bikes are being ridden by two people
+Hypothesis After Shift: two are being ridden by bikes two people
+Alignment: (SSYY YII)
+HypErrs: 1.557 0.562 1.557 0.000 0.000 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 5 1 6 7
+
+NumShifts: 1
+  [1, 1, 4/5] (bikes) -> (bicycle)
+Num Phrase Substitutions: 0
+
+Score: 0.444 (4.193 / 9.450)
+
+Sentence ID: [doc1][0016]
+Original Reference: A man is riding a horse by a creek.
+Original Hypothesis: A horse is being ridden in a creek by a man
+Reference: a man is riding a horse by a creek .
+Hypothesis: a horse is being ridden in a creek by a man
+Hypothesis After Shift: a man is being ridden in a horse by a creek
+Alignment: (  IYYI     D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 10 2 3 4 5 6 1 8 9 7
+
+NumShifts: 3
+  [1, 1, 4/6] (horse) -> (horse)
+  [7, 7, 8/9] (creek) -> (creek)
+  [10, 10, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.369 (3.631 / 9.850)
+
+Sentence ID: [doc1][0017]
+Original Reference: A pencil is being sharpened.
+Original Hypothesis: A pencil is being shaved by the machine
+Reference: a pencil is being sharpened .
+Hypothesis: a pencil is being shaved by the machine
+Hypothesis After Shift: a pencil is being shaved by the machine
+Alignment: (    ISSI)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 1.557 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.460 (3.631 / 7.900)
+
+Sentence ID: [doc1][0018]
+Original Reference: A man is feeding a mice to a snake.
+Original Hypothesis: A snake is being fed a mouse by a man
+Reference: a man is feeding a mice to a snake .
+Hypothesis: a snake is being fed a mouse by a man
+Hypothesis After Shift: a man is being fed a mouse by a snake
+Alignment: (  IYY YS  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.000 1.557 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 9 2 3 4 5 6 7 8 1
+
+NumShifts: 2
+  [1, 1, 8/8] (snake) -> (snake)
+  [9, 9, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.376 (4.366 / 11.600)
+
+Sentence ID: [doc1][0019]
+Original Reference: A person is buttering a piece of bread.
+Original Hypothesis: A piece of bread, which is big, is having butter spread upon it by a man OR A piece of bread, which is big, is being spread with butter by a man
+Reference: a person is buttering a piece of bread .
+Hypothesis: a piece of bread , which is big , is having butter spread upon it by a man or a piece of bread , which is big , is being spread with butter by a man
+Hypothesis After Shift: a piece of bread , which is big , is having butter spread upon it by a man or a piece of bread , which is big , is being spread with butter by a man
+Alignment: ( IIISIIII ITIIIIIII    IIISIIIIIIIII)
+HypErrs: 0.000 0.259 0.259 0.259 1.557 0.259 0.259 0.259 0.259 0.000 0.259 0.000 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.000 0.000 0.000 0.000 0.259 0.259 0.259 1.557 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 1.000 (10.102 / 9.300)
+
+Sentence ID: [doc1][0020]
+Original Reference: A car is driving.
+Original Hypothesis: A white car is being driven by the man
+Reference: a car is driving .
+Hypothesis: a white car is being driven by the man
+Hypothesis After Shift: a white car is being driven by the man
+Alignment: ( I IYPIS)
+HypErrs: 0.000 0.259 0.000 0.259 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.004715 <p>driving</p> <p>driven by</p>
+
+Score: 0.317 (2.333 / 7.350)
+
+Sentence ID: [doc1][0021]
+Original Reference: A man plays the keyboard with his nose.
+Original Hypothesis: The keyboard is being played with his nose by a man
+Reference: a man plays the keyboard with his nose .
+Hypothesis: the keyboard is being played with his nose by a man
+Hypothesis After Shift: a man played the keyboard is being with his nose by
+Alignment: (  T  II   S)
+HypErrs: 0.000 0.000 0.259 0.259 0.562 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 4 0 1 2 3 5 6 7 8
+
+NumShifts: 2
+  [9, 10, -1/-1] (a man) -> (a man)
+  [6, 6, 2/1] (played) -> (plays)
+Num Phrase Substitutions: 0
+
+Score: 0.320 (3.198 / 10.000)
+
+Sentence ID: [doc1][0022]
+Original Reference: Paper is being cut with scissors.
+Original Hypothesis: Paper is being cut with scissors
+Reference: paper is being cut with scissors .
+Hypothesis: paper is being cut with scissors
+Hypothesis After Shift: paper is being cut with scissors
+Alignment: (      D)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.162 (1.427 / 8.800)
+
+Sentence ID: [doc1][0023]
+Original Reference: Meat is dropped into a pan.
+Original Hypothesis: The meat is being dropped into a pan
+Reference: meat is dropped into a pan .
+Hypothesis: the meat is being dropped into a pan
+Hypothesis After Shift: the meat is being dropped into a pan
+Alignment: (I IY    D)
+HypErrs: 0.259 0.000 0.259 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.193 (1.945 / 10.050)
+
+Sentence ID: [doc1][0024]
+Original Reference: A woman is playing a guitar.
+Original Hypothesis: A guitar is being played by a woman
+Reference: a woman is playing a guitar .
+Hypothesis: a guitar is being played by a woman
+Hypothesis After Shift: a woman is being played by a guitar
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (guitar) -> (guitar)
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.412 (3.069 / 7.450)
+
+Sentence ID: [doc1][0025]
+Original Reference: The woman is riding a horse.
+Original Hypothesis: The horse is being ridden by the girl
+Reference: the woman is riding a horse .
+Hypothesis: the horse is being ridden by the girl
+Hypothesis After Shift: the is being ridden by the horse girl
+Alignment: ( SYPS S)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.000 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 5 6 1 7
+
+NumShifts: 1
+  [1, 1, 5/6] (horse) -> (horse)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.638 (5.232 / 8.200)
+
+Sentence ID: [doc1][0026]
+Original Reference: a baby elephant is eating
+Original Hypothesis: A small tree is being eaten by a baby elephant
+Reference: a baby elephant is eating
+Hypothesis: a small tree is being eaten by a baby elephant
+Hypothesis After Shift: a baby elephant a small tree is being eaten by
+Alignment: (   IIIIYYI)
+HypErrs: 0.259 0.259 0.259 0.259 0.000 0.000 0.259 0.187 0.187 0.187
+OtherErr: 0.000
+HypLocMap: 7 8 9 0 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 9, -1/-1] (a baby elephant) -> (a baby elephant)
+Num Phrase Substitutions: 0
+
+Score: 0.233 (1.856 / 7.950)
+
+Sentence ID: [doc1][0027]
+Original Reference: A woman is chopping garlic.
+Original Hypothesis: Garlic is being chopped by a woman
+Reference: a woman is chopping garlic .
+Hypothesis: garlic is being chopped by a woman
+Hypothesis After Shift: a woman is being chopped garlic by
+Alignment: (  IYT S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (a woman) -> (a woman)
+  [2, 2, 4/5] (garlic) -> (garlic)
+Num Phrase Substitutions: 0
+
+Score: 0.426 (2.940 / 6.900)
+
+Sentence ID: [doc1][0028]
+Original Reference: A man is cutting a potato.
+Original Hypothesis: A potato is being cut by a man
+Reference: a man is cutting a potato .
+Hypothesis: a potato is being cut by a man
+Hypothesis After Shift: a man is being cut by a potato
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (potato) -> (potato)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.381 (3.069 / 8.050)
+
+Sentence ID: [doc1][0029]
+Original Reference: the person is playing music
+Original Hypothesis: The trumpet is being played by a man
+Reference: the person is playing music
+Hypothesis: the trumpet is being played by a man
+Hypothesis After Shift: the trumpet is being played by a man
+Alignment: ( ISYTIIS)
+HypErrs: 0.000 0.259 1.557 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.556 (3.890 / 7.000)
+
+Sentence ID: [doc1][0030]
+Original Reference: The man seasoned the water.
+Original Hypothesis: Seasoning is being added to the water by the man
+Reference: the man seasoned the water .
+Hypothesis: seasoning is being added to the water by the man
+Hypothesis After Shift: the man seasoning is being added to the water by
+Alignment: (  TIIII  S)
+HypErrs: 0.000 0.259 0.259 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 0 1 2 3 4 5 6 7
+
+NumShifts: 1
+  [8, 9, -1/-1] (the man) -> (the man)
+Num Phrase Substitutions: 0
+
+Score: 0.337 (3.154 / 9.350)
+
+Sentence ID: [doc1][0031]
+Original Reference: A man puts vegetables into a pot.
+Original Hypothesis: Vegetables are being put into a pot by a man
+Reference: a man puts vegetables into a pot .
+Hypothesis: vegetables are being put into a pot by a man
+Hypothesis After Shift: a man put vegetables are being into a pot by
+Alignment: (  T II   S)
+HypErrs: 0.000 0.259 0.259 0.562 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 3 0 1 2 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a man) -> (a man)
+  [5, 5, 2/1] (put) -> (puts)
+Num Phrase Substitutions: 0
+
+Score: 0.338 (3.198 / 9.450)
+
+Sentence ID: [doc1][0032]
+Original Reference: A man is spreading out dough.
+Original Hypothesis: Dough is being spread by a man
+Reference: a man is spreading out dough .
+Hypothesis: dough is being spread by a man
+Hypothesis After Shift: a man is being spread dough by
+Alignment: (  IYTD S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (a man) -> (a man)
+  [2, 2, 4/5] (dough) -> (dough)
+Num Phrase Substitutions: 0
+
+Score: 0.511 (4.366 / 8.550)
+
+Sentence ID: [doc1][0033]
+Original Reference: Man playing guitar
+Original Hypothesis: The guitar is being played by the man
+Reference: man playing guitar
+Hypothesis: the guitar is being played by the man
+Hypothesis After Shift: man the is being played guitar by the
+Alignment: ( IIIT II)
+HypErrs: 0.259 0.562 0.259 0.259 0.000 0.259 0.259 0.562
+OtherErr: 0.000
+HypLocMap: 7 0 2 3 4 1 5 6
+
+NumShifts: 2
+  [1, 1, 1/4] (guitar) -> (guitar)
+  [7, 7, -1/-1] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.343 (2.418 / 7.050)
+
+Sentence ID: [doc1][0034]
+Original Reference: The man poured oil on the tomato slices.
+Original Hypothesis: Some oil is being poured on the tomatoes by the man
+Reference: the man poured oil on the tomato slices .
+Hypothesis: some oil is being poured on the tomatoes by the man
+Hypothesis After Shift: the man poured some oil is being on the tomatoes by
+Alignment: (   I II  TSD)
+HypErrs: 0.259 0.000 0.259 0.259 0.562 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 9 10 4 0 1 2 3 5 6 7 8
+
+NumShifts: 2
+  [9, 10, -1/-1] (the man) -> (the man)
+  [6, 6, 1/1] (poured) -> (poured)
+Num Phrase Substitutions: 0
+
+Score: 0.517 (4.884 / 9.450)
+
+Sentence ID: [doc1][0035]
+Original Reference: A man is holding a frog.
+Original Hypothesis: A frog is being held carelessly by a man
+Reference: a man is holding a frog .
+Hypothesis: a frog is being held carelessly by a man
+Hypothesis After Shift: a man is being held carelessly by a frog
+Alignment: (  IYYII  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 8 2 3 4 5 6 7 1
+
+NumShifts: 2
+  [1, 1, 4/7] (frog) -> (frog)
+  [8, 8, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.362 (3.328 / 9.200)
+
+Sentence ID: [doc1][0036]
+Original Reference: The woman is riding an elephant.
+Original Hypothesis: The elephant is being ridden by the woman
+Reference: the woman is riding an elephant .
+Hypothesis: the elephant is being ridden by the woman
+Hypothesis After Shift: the woman is being ridden by the elephant
+Alignment: (  IYPS D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 1.557 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (elephant) -> (elephant)
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.514 (4.366 / 8.500)
+
+Sentence ID: [doc1][0037]
+Original Reference: A man using a microwave
+Original Hypothesis: The buttons of a microwave are being pushed by a man
+Reference: a man using a microwave
+Hypothesis: the buttons of a microwave are being pushed by a man
+Hypothesis After Shift: a man the buttons of a microwave are being pushed by
+Alignment: (  IIS  IIII)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.259 0.259 0.259 0.259 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 0 1 2 3 4 5 6 7 8
+
+NumShifts: 1
+  [9, 10, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.399 (3.672 / 9.200)
+
+Sentence ID: [doc1][0038]
+Original Reference: The kittens are eating.
+Original Hypothesis: The food on the trays is being eaten by the kittens
+Reference: the kittens are eating .
+Hypothesis: the food on the trays is being eaten by the kittens
+Hypothesis After Shift: the kittens the food on the trays is being eaten by
+Alignment: (  IIIIIIYYS)
+HypErrs: 0.259 0.259 0.259 0.259 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 0 1 2 3 4 5 6 7 8
+
+NumShifts: 1
+  [9, 10, -1/-1] (the kittens) -> (the kittens)
+Num Phrase Substitutions: 0
+
+Score: 0.521 (3.672 / 7.050)
+
+Sentence ID: [doc1][0039]
+Original Reference: A woman is cutting meat into pieces.
+Original Hypothesis: Some meat is being cut into pieces by a woman
+Reference: a woman is cutting meat into pieces .
+Hypothesis: some meat is being cut into pieces by a woman
+Hypothesis After Shift: a woman some is being cut meat into pieces by
+Alignment: (  IIYT   S)
+HypErrs: 0.259 0.562 0.259 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 0 2 3 4 1 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a woman) -> (a woman)
+  [3, 3, 4/6] (meat) -> (meat)
+Num Phrase Substitutions: 0
+
+Score: 0.435 (3.198 / 7.350)
+
+Sentence ID: [doc1][0040]
+Original Reference: A person is whisking eggs in a bowl.
+Original Hypothesis: Eggs are being strongly whisked in a bowl by a person
+Reference: a person is whisking eggs in a bowl .
+Hypothesis: eggs are being strongly whisked in a bowl by a person
+Hypothesis After Shift: a person are being strongly whisked eggs in a bowl by
+Alignment: (  IYIT    S)
+HypErrs: 0.562 0.259 0.000 0.259 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 1 2 3 4 0 5 6 7 8
+
+NumShifts: 2
+  [9, 10, -1/-1] (a person) -> (a person)
+  [2, 2, 4/6] (eggs) -> (eggs)
+Num Phrase Substitutions: 0
+
+Score: 0.381 (3.198 / 8.400)
+
+Sentence ID: [doc1][0041]
+Original Reference: A man is giving an interview.
+Original Hypothesis: An interview is being granted by the man
+Reference: a man is giving an interview .
+Hypothesis: an interview is being granted by the man
+Hypothesis After Shift: is man being granted an interview by the
+Alignment: (S YY  IS)
+HypErrs: 0.281 0.281 1.557 0.000 0.000 0.259 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 2 7 3 4 0 1 5 6
+
+NumShifts: 2
+  [0, 1, 3/4] (an interview) -> (an interview)
+  [7, 7, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.559 (4.496 / 8.050)
+
+Sentence ID: [doc1][0042]
+Original Reference: Cat drinking milk
+Original Hypothesis: Some milk is being hungrily drunk by a cat
+Reference: cat drinking milk
+Hypothesis: some milk is being hungrily drunk by a cat
+Hypothesis After Shift: cat some is being hungrily drunk milk by a
+Alignment: ( IIIIY II)
+HypErrs: 0.259 0.562 0.259 0.259 0.259 0.000 0.259 0.259 0.562
+OtherErr: 0.000
+HypLocMap: 8 0 2 3 4 5 1 6 7
+
+NumShifts: 2
+  [1, 1, 1/5] (milk) -> (milk)
+  [8, 8, -1/-1] (cat) -> (cat)
+Num Phrase Substitutions: 0
+
+Score: 0.359 (2.677 / 7.450)
+
+Sentence ID: [doc1][0043]
+Original Reference: a woman is slicing a vegetable
+Original Hypothesis: A carrot is being sliced by a woman
+Reference: a woman is slicing a vegetable
+Hypothesis: a carrot is being sliced by a woman
+Hypothesis After Shift: a woman carrot is being sliced by a
+Alignment: (  IIYTI D)
+HypErrs: 0.000 0.259 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.333 (2.766 / 8.300)
+
+Sentence ID: [doc1][0044]
+Original Reference: a person burning a camera
+Original Hypothesis: Some cameras are being burned by a person with a blow torch
+Reference: a person burning a camera
+Hypothesis: some cameras are being burned by a person with a blow torch
+Hypothesis After Shift: some are being by a person burned with a cameras blow torch
+Alignment: (IIII  TI TII)
+HypErrs: 0.259 0.562 0.259 0.259 0.562 0.259 0.000 0.000 0.259 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 5 6 7 4 8 9 1 10 11
+
+NumShifts: 2
+  [1, 1, 3/9] (cameras) -> (camera)
+  [3, 3, 1/6] (burned) -> (burning)
+Num Phrase Substitutions: 0
+
+Score: 0.379 (2.936 / 7.750)
+
+Sentence ID: [doc1][0045]
+Original Reference: A onion is being chopped.
+Original Hypothesis: An onion is being sliced with a knife by the woman
+Reference: a onion is being chopped .
+Hypothesis: an onion is being sliced with a knife by the woman
+Hypothesis After Shift: an onion is being sliced with a knife by the woman
+Alignment: (S   YIIIIIS)
+HypErrs: 1.557 0.000 0.000 0.000 0.000 0.259 0.259 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.531 (4.407 / 8.300)
+
+Sentence ID: [doc1][0046]
+Original Reference: A monkey is brushing a bull dog.
+Original Hypothesis: A bull dog is being brushed by the monkey
+Reference: a monkey is brushing a bull dog .
+Hypothesis: a bull dog is being brushed by the monkey
+Hypothesis After Shift: a monkey is being brushed by bull dog the
+Alignment: (  IYTS  S)
+HypErrs: 0.000 0.281 0.281 0.259 0.000 0.000 1.557 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 0 8 3 4 5 6 1 2 7
+
+NumShifts: 2
+  [1, 2, 5/6] (bull dog) -> (bull dog)
+  [8, 8, 0/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.573 (4.496 / 7.850)
+
+Sentence ID: [doc1][0047]
+Original Reference: The woman is walking her dog.
+Original Hypothesis: The dog is being walked by the woman
+Reference: the woman is walking her dog .
+Hypothesis: the dog is being walked by the woman
+Hypothesis After Shift: the woman is being walked by dog the
+Alignment: (  IYTS S)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 1.557 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 5 1 6
+
+NumShifts: 2
+  [1, 1, 4/5] (dog) -> (dog)
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.529 (4.496 / 8.500)
+
+Sentence ID: [doc1][0048]
+Original Reference: A man is eating a banana.
+Original Hypothesis: A banana is being eaten by a man
+Reference: a man is eating a banana .
+Hypothesis: a banana is being eaten by a man
+Hypothesis After Shift: a man is being eaten by a banana
+Alignment: (  IYYI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (banana) -> (banana)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.420 (3.069 / 7.300)
+
+Sentence ID: [doc1][0049]
+Original Reference: A panda bear is eating.
+Original Hypothesis: Some bamboo is being eaten by a panda bear
+Reference: a panda bear is eating .
+Hypothesis: some bamboo is being eaten by a panda bear
+Hypothesis After Shift: some bamboo is by a panda bear being eaten
+Alignment: (IIII   YYD)
+HypErrs: 0.259 0.259 0.259 0.281 0.281 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 5 6 7 8 3 4
+
+NumShifts: 1
+  [3, 4, 3/8] (being eaten) -> (is eating)
+Num Phrase Substitutions: 0
+
+Score: 0.458 (3.024 / 6.600)
+
+Sentence ID: [doc1][0050]
+Original Reference: a man is riding a horse
+Original Hypothesis: A horse is being ridden by a man
+Reference: a man is riding a horse
+Hypothesis: a horse is being ridden by a man
+Hypothesis After Shift: a man is being ridden by a horse
+Alignment: (  IYP  )
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (horse) -> (horse)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.176 (1.383 / 7.850)
+
+Sentence ID: [doc1][0051]
+Original Reference: A woman is slicing an eggplant.
+Original Hypothesis: An eggplant is being sliced by a woman
+Reference: a woman is slicing an eggplant .
+Hypothesis: an eggplant is being sliced by a woman
+Hypothesis After Shift: a woman is being sliced an eggplant by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (an eggplant) -> (an eggplant)
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.435 (2.940 / 6.750)
+
+Sentence ID: [doc1][0052]
+Original Reference: They are playing
+Original Hypothesis: Guitar is being played by two men
+Reference: they are playing
+Hypothesis: guitar is being played by two men
+Hypothesis After Shift: guitar is being played by two men
+Alignment: (ISYTIII)
+HypErrs: 0.259 1.557 0.000 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.318 (2.592 / 8.150)
+
+Sentence ID: [doc1][0053]
+Original Reference: A boy is singing
+Original Hypothesis: A song is being sung by a clown
+Reference: a boy is singing
+Hypothesis: a song is being sung by a clown
+Hypothesis After Shift: a song is being sung by a clown
+Alignment: ( ISYYIII)
+HypErrs: 0.000 0.259 1.557 0.000 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.346 (2.592 / 7.500)
+
+Sentence ID: [doc1][0054]
+Original Reference: A man is patting an alligator on the mouth.
+Original Hypothesis: An alligator is being patted on the mouth by a man
+Reference: a man is patting an alligator on the mouth .
+Hypothesis: an alligator is being patted on the mouth by a man
+Hypothesis After Shift: a man is being patted an alligator on the mouth by
+Alignment: (  IYT     S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 2 3 4 0 1 5 6 7 8
+
+NumShifts: 2
+  [0, 1, 4/4] (an alligator) -> (an alligator)
+  [9, 10, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.318 (2.940 / 9.250)
+
+Sentence ID: [doc1][0055]
+Original Reference: A man plays a guitar.
+Original Hypothesis: A guitar is being played by a man
+Reference: a man plays a guitar .
+Hypothesis: a guitar is being played by a man
+Hypothesis After Shift: a man is being played by a guitar
+Alignment: (  IIP  D)
+HypErrs: 0.000 0.562 0.259 0.259 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (guitar) -> (guitar)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.0037 <p>plays</p> <p>played by</p>
+
+Score: 0.451 (3.069 / 6.800)
+
+Sentence ID: [doc1][0056]
+Original Reference: A car is driving.
+Original Hypothesis: A car is being driven by a man
+Reference: a car is driving .
+Hypothesis: a car is being driven by a man
+Hypothesis After Shift: a car is being driven by a man
+Alignment: (  IYPIS)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.004715 <p>driving</p> <p>driven by</p>
+
+Score: 0.282 (2.074 / 7.350)
+
+Sentence ID: [doc1][0057]
+Original Reference: A little girl plays the violin on a beach.
+Original Hypothesis: The violin is being played by a little girl on a beach
+Reference: a little girl plays the violin on a beach .
+Hypothesis: the violin is being played by a little girl on a beach
+Hypothesis After Shift: is being by a little girl played the violin on a beach
+Alignment: (III   T     D)
+HypErrs: 0.281 0.281 0.259 0.259 0.562 0.259 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 2 3 5 6 7 8 4 0 1 9 10 11
+
+NumShifts: 2
+  [0, 1, 4/8] (the violin) -> (the violin)
+  [2, 2, 3/6] (played) -> (plays)
+Num Phrase Substitutions: 0
+
+Score: 0.411 (3.328 / 8.100)
+
+Sentence ID: [doc1][0058]
+Original Reference: A woman is drinking a soda.
+Original Hypothesis: A soda is being opened and drunk by a woman
+Reference: a woman is drinking a soda .
+Hypothesis: a soda is being opened and drunk by a woman
+Hypothesis After Shift: a woman is being opened and drunk by a soda
+Alignment: (  IYIIYI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.259 0.259 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 9 2 3 4 5 6 7 8 1
+
+NumShifts: 2
+  [1, 1, 5/8] (soda) -> (soda)
+  [9, 9, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.398 (3.586 / 9.000)
+
+Sentence ID: [doc1][0059]
+Original Reference: A man plays a guitar.
+Original Hypothesis: A guitar is being played by a man
+Reference: a man plays a guitar .
+Hypothesis: a guitar is being played by a man
+Hypothesis After Shift: a man is being played by a guitar
+Alignment: (  IIP  D)
+HypErrs: 0.000 0.562 0.259 0.259 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (guitar) -> (guitar)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.0037 <p>plays</p> <p>played by</p>
+
+Score: 0.451 (3.069 / 6.800)
+
+Sentence ID: [doc1][0060]
+Original Reference: octopus dumpling.
+Original Hypothesis: Something is being fried by a woman
+Reference: octopus dumpling .
+Hypothesis: something is being fried by a woman
+Hypothesis After Shift: something is being fried by a woman
+Alignment: (IIISISS)
+HypErrs: 0.259 0.259 0.259 1.557 0.259 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.722 (5.705 / 7.900)
+
+Sentence ID: [doc1][0061]
+Original Reference: A man is reading an email.
+Original Hypothesis: An email is being read by a man
+Reference: a man is reading an email .
+Hypothesis: an email is being read by a man
+Hypothesis After Shift: a man is being read an email by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (an email) -> (an email)
+  [6, 7, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.338 (2.940 / 8.700)
+
+Sentence ID: [doc1][0062]
+Original Reference: A woman is cutting an onion.
+Original Hypothesis: An onion is being cut by a woman
+Reference: a woman is cutting an onion .
+Hypothesis: an onion is being cut by a woman
+Hypothesis After Shift: a woman is being cut an onion by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (an onion) -> (an onion)
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.354 (2.940 / 8.300)
+
+Sentence ID: [doc1][0063]
+Original Reference: A woman is deep frying food.
+Original Hypothesis: Food is being deep fried by a woman
+Reference: a woman is deep frying food .
+Hypothesis: food is being deep fried by a woman
+Hypothesis After Shift: a woman is being deep fried food by
+Alignment: (  IY Y S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 1 2 3 4 0 5
+
+NumShifts: 2
+  [6, 7, -1/-1] (a woman) -> (a woman)
+  [2, 2, 5/6] (food) -> (food)
+Num Phrase Substitutions: 0
+
+Score: 0.320 (2.940 / 9.200)
+
+Sentence ID: [doc1][0064]
+Original Reference: A man is slicing potato.
+Original Hypothesis: Potatoes are being sliced by a man
+Reference: a man is slicing potato .
+Hypothesis: potatoes are being sliced by a man
+Hypothesis After Shift: a man are being sliced potatoes by
+Alignment: (  IYTTS)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (a man) -> (a man)
+  [2, 2, 4/5] (potatoes) -> (potato)
+Num Phrase Substitutions: 0
+
+Score: 0.403 (2.940 / 7.300)
+
+Sentence ID: [doc1][0065]
+Original Reference: A person plays a keyboard.
+Original Hypothesis: A keyboard is being played by a person
+Reference: a person plays a keyboard .
+Hypothesis: a keyboard is being played by a person
+Hypothesis After Shift: a person is being played by a keyboard
+Alignment: (  IIP  D)
+HypErrs: 0.000 0.562 0.259 0.259 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (keyboard) -> (keyboard)
+  [7, 7, 0/0] (person) -> (person)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.0037 <p>plays</p> <p>played by</p>
+
+Score: 0.465 (3.069 / 6.600)
+
+Sentence ID: [doc1][0066]
+Original Reference: The keyboards are being played.
+Original Hypothesis: The piano is being played by someone
+Reference: the keyboards are being played .
+Hypothesis: the piano is being played by someone
+Hypothesis After Shift: the piano is being played by someone
+Alignment: ( SY  IS)
+HypErrs: 0.000 1.557 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.478 (3.372 / 7.050)
+
+Sentence ID: [doc1][0067]
+Original Reference: A woman is playing the flute.
+Original Hypothesis: The flute is being played by a woman
+Reference: a woman is playing the flute .
+Hypothesis: the flute is being played by a woman
+Hypothesis After Shift: a woman is being played the flute by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (the flute) -> (the flute)
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.429 (2.940 / 6.850)
+
+Sentence ID: [doc1][0068]
+Original Reference: a woman is cutting potato
+Original Hypothesis: Broccoli are being cut by a woman
+Reference: a woman is cutting potato
+Hypothesis: broccoli are being cut by a woman
+Hypothesis After Shift: a woman broccoli are being cut by
+Alignment: (  IIYTS)
+HypErrs: 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.393 (2.636 / 6.700)
+
+Sentence ID: [doc1][0069]
+Original Reference: a girl is riding a horse
+Original Hypothesis: A horse is being ridden by a girl
+Reference: a girl is riding a horse
+Hypothesis: a horse is being ridden by a girl
+Hypothesis After Shift: a girl is being ridden by a horse
+Alignment: (  IYP  )
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (horse) -> (horse)
+  [7, 7, 0/0] (girl) -> (girl)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.169 (1.383 / 8.200)
+
+Sentence ID: [doc1][0070]
+Original Reference: A chef is cleaning up a bowl of soup.
+Original Hypothesis: A bowl of soup is being cleaned by a chef
+Reference: a chef is cleaning up a bowl of soup .
+Hypothesis: a bowl of soup is being cleaned by a chef
+Hypothesis After Shift: a chef is being cleaned by a bowl of soup
+Alignment: (  IYTS    D)
+HypErrs: 0.000 0.187 0.187 0.187 0.259 0.000 0.000 1.557 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 9 4 5 6 7 8 1 2 3
+
+NumShifts: 2
+  [1, 3, 6/8] (bowl of soup) -> (bowl of soup)
+  [9, 9, 0/0] (chef) -> (chef)
+Num Phrase Substitutions: 0
+
+Score: 0.434 (4.366 / 10.050)
+
+Sentence ID: [doc1][0071]
+Original Reference: A child plays the guitar.
+Original Hypothesis: The guitar is being played by a kid
+Reference: a child plays the guitar .
+Hypothesis: the guitar is being played by a kid
+Hypothesis After Shift: a kid played the guitar is being by
+Alignment: ( YT  IIS)
+HypErrs: 0.000 0.000 0.259 0.259 0.562 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 4 0 1 2 3 5
+
+NumShifts: 2
+  [6, 7, -1/-1] (a kid) -> (a child)
+  [6, 6, 2/1] (played) -> (plays)
+Num Phrase Substitutions: 0
+
+Score: 0.363 (3.198 / 8.800)
+
+Sentence ID: [doc1][0072]
+Original Reference: A man is riding a bicycle.
+Original Hypothesis: A bicycle is being ridden by a man
+Reference: a man is riding a bicycle .
+Hypothesis: a bicycle is being ridden by a man
+Hypothesis After Shift: a man is being ridden by a bicycle
+Alignment: (  IYP  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (bicycle) -> (bicycle)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.343 (2.810 / 8.200)
+
+Sentence ID: [doc1][0073]
+Original Reference: a girl is playing a guitar
+Original Hypothesis: A guitar is being played by a girl
+Reference: a girl is playing a guitar
+Hypothesis: a guitar is being played by a girl
+Hypothesis After Shift: a girl is being played by a guitar
+Alignment: (  IYTI  )
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (guitar) -> (guitar)
+  [7, 7, 0/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.238 (1.642 / 6.900)
+
+Sentence ID: [doc1][0074]
+Original Reference: Noodles are being boiled.
+Original Hypothesis: Noodles are being boiled in water by a woman
+Reference: noodles are being boiled .
+Hypothesis: noodles are being boiled in water by a woman
+Hypothesis After Shift: noodles are being boiled in water by a woman
+Alignment: (    IIISI)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.259 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.373 (2.592 / 6.950)
+
+Sentence ID: [doc1][0075]
+Original Reference: A chef is preparing some food.
+Original Hypothesis: Some food is being prepared by a chef
+Reference: a chef is preparing some food .
+Hypothesis: some food is being prepared by a chef
+Hypothesis After Shift: a chef is being prepared some food by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (some food) -> (some food)
+  [6, 7, -1/-1] (a chef) -> (a chef)
+Num Phrase Substitutions: 0
+
+Score: 0.292 (2.940 / 10.050)
+
+Sentence ID: [doc1][0076]
+Original Reference: A woman is pouring ingredients into a bowl.
+Original Hypothesis: Ingredients are being poured into a bowl by a woman
+Reference: a woman is pouring ingredients into a bowl .
+Hypothesis: ingredients are being poured into a bowl by a woman
+Hypothesis After Shift: a woman are being poured ingredients into a bowl by
+Alignment: (  IYT    S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a woman) -> (a woman)
+  [2, 2, 4/5] (ingredients) -> (ingredients)
+Num Phrase Substitutions: 0
+
+Score: 0.300 (2.940 / 9.800)
+
+Sentence ID: [doc1][0077]
+Original Reference: A woman is measuring another woman.
+Original Hypothesis: A woman is being measured by another woman
+Reference: a woman is measuring another woman .
+Hypothesis: a woman is being measured by another woman
+Hypothesis After Shift: a woman is being measured by another woman
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.225 (1.945 / 8.650)
+
+Sentence ID: [doc1][0078]
+Original Reference: The man is stirring oil.
+Original Hypothesis: The oil is being stirred by a man
+Reference: the man is stirring oil .
+Hypothesis: the oil is being stirred by a man
+Hypothesis After Shift: the man is being stirred oil by a
+Alignment: (  IYT IS)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 1 5 6
+
+NumShifts: 2
+  [1, 1, 3/4] (oil) -> (oil)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.392 (3.198 / 8.150)
+
+Sentence ID: [doc1][0079]
+Original Reference: A man is picking up a tree.
+Original Hypothesis: A tree is being picked up by a man
+Reference: a man is picking up a tree .
+Hypothesis: a tree is being picked up by a man
+Hypothesis After Shift: a man is being picked up by a tree
+Alignment: (   P I  D)
+HypErrs: 0.000 0.562 0.000 0.000 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 8 2 3 4 5 6 7 1
+
+NumShifts: 2
+  [1, 1, 6/7] (tree) -> (tree)
+  [8, 8, 1/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.001016 <p>picking</p> <p>being picked</p>
+
+Score: 0.316 (2.810 / 8.900)
+
+Sentence ID: [doc1][0080]
+Original Reference: A badger is digging.
+Original Hypothesis: A hole is being burrowed by the badger
+Reference: a badger is digging .
+Hypothesis: a hole is being burrowed by the badger
+Hypothesis After Shift: a badger hole is being burrowed by the
+Alignment: (  IIYISS)
+HypErrs: 0.000 0.259 0.259 0.000 0.259 1.557 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 7, 0/0] (badger) -> (badger)
+Num Phrase Substitutions: 0
+
+Score: 0.594 (4.452 / 7.500)
+
+Sentence ID: [doc1][0081]
+Original Reference: The woman is peeling a potato.
+Original Hypothesis: The potato is being peeled by a woman
+Reference: the woman is peeling a potato .
+Hypothesis: the potato is being peeled by a woman
+Hypothesis After Shift: the woman is being peeled by a potato
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (potato) -> (potato)
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.418 (3.069 / 7.350)
+
+Sentence ID: [doc1][0082]
+Original Reference: Someone is slicing an onion.
+Original Hypothesis: An onion is being sliced by a man
+Reference: someone is slicing an onion .
+Hypothesis: an onion is being sliced by a man
+Hypothesis After Shift: is being sliced an onion by a man
+Alignment: (SYT  ISI)
+HypErrs: 0.281 0.281 1.557 0.000 0.000 0.259 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 2 3 4 0 1 5 6 7
+
+NumShifts: 1
+  [0, 1, 2/4] (an onion) -> (an onion)
+Num Phrase Substitutions: 0
+
+Score: 0.538 (4.193 / 7.800)
+
+Sentence ID: [doc1][0083]
+Original Reference: A person dices up an orange pepper.
+Original Hypothesis: An orange pepper is being diced up by a person
+Reference: a person dices up an orange pepper .
+Hypothesis: an orange pepper is being diced up by a person
+Hypothesis After Shift: a person diced up an orange pepper is being by
+Alignment: (  T    IIS)
+HypErrs: 0.000 0.000 0.000 0.259 0.259 0.281 0.281 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 5 6 0 1 2 3 4 7
+
+NumShifts: 2
+  [5, 6, 2/-1] (diced up) -> (dices up)
+  [8, 9, -1/-1] (a person) -> (a person)
+Num Phrase Substitutions: 0
+
+Score: 0.410 (3.198 / 7.800)
+
+Sentence ID: [doc1][0084]
+Original Reference: The baby was put into the trash can.
+Original Hypothesis: The baby is being put into a trash can by a woman
+Reference: the baby was put into the trash can .
+Hypothesis: the baby is being put into a trash can by a woman
+Hypothesis After Shift: the baby is being put into a trash can by a woman
+Alignment: (  IY  S  IIS)
+HypErrs: 0.000 0.000 0.259 0.000 0.000 0.000 1.557 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.369 (3.890 / 10.550)
+
+Sentence ID: [doc1][0085]
+Original Reference: A man is playing the guitar.
+Original Hypothesis: A guitar is being played by the man
+Reference: a man is playing the guitar .
+Hypothesis: a guitar is being played by the man
+Hypothesis After Shift: a man is being played by the guitar
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (guitar) -> (guitar)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.451 (3.069 / 6.800)
+
+Sentence ID: [doc1][0086]
+Original Reference: A man is slicing potato.
+Original Hypothesis: Vegetables are being sliced by a man
+Reference: a man is slicing potato .
+Hypothesis: vegetables are being sliced by a man
+Hypothesis After Shift: a man vegetables are being sliced by
+Alignment: (  IIYTDS)
+HypErrs: 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.557 (4.063 / 7.300)
+
+Sentence ID: [doc1][0087]
+Original Reference: A person is cutting a capsicum into pieces.
+Original Hypothesis: A capsicum is being cut into pieces by a person
+Reference: a person is cutting a capsicum into pieces .
+Hypothesis: a capsicum is being cut into pieces by a person
+Hypothesis After Shift: a person is being cut a capsicum into pieces by
+Alignment: (  IYT    S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 2 3 4 0 1 5 6 7
+
+NumShifts: 2
+  [0, 1, 4/4] (a capsicum) -> (a capsicum)
+  [8, 9, -1/-1] (a person) -> (a person)
+Num Phrase Substitutions: 0
+
+Score: 0.344 (2.940 / 8.550)
+
+Sentence ID: [doc1][0088]
+Original Reference: the boy is playing the flute
+Original Hypothesis: The flute is being played by the woman
+Reference: the boy is playing the flute
+Hypothesis: the flute is being played by the woman
+Hypothesis After Shift: the is being played by the flute woman
+Alignment: ( SYTI  I)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.259 0.000 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 5 6 1 7
+
+NumShifts: 1
+  [1, 1, 4/6] (flute) -> (flute)
+Num Phrase Substitutions: 0
+
+Score: 0.349 (2.636 / 7.550)
+
+Sentence ID: [doc1][0089]
+Original Reference: The man is lifting weights.
+Original Hypothesis: Weights are being lifted by the man
+Reference: the man is lifting weights .
+Hypothesis: weights are being lifted by the man
+Hypothesis After Shift: the man are being lifted weights by
+Alignment: (  IYT S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (the man) -> (the man)
+  [2, 2, 4/5] (weights) -> (weights)
+Num Phrase Substitutions: 0
+
+Score: 0.459 (2.940 / 6.400)
+
+Sentence ID: [doc1][0090]
+Original Reference: A man cut a tree with an axe.
+Original Hypothesis: A tree is being cut by a man with an axe
+Reference: a man cut a tree with an axe .
+Hypothesis: a tree is being cut by a man with an axe
+Hypothesis After Shift: a man is being cut by a tree with an axe
+Alignment: (  II I     D)
+HypErrs: 0.000 0.562 0.259 0.259 0.000 0.259 0.000 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1 8 9 10
+
+NumShifts: 2
+  [1, 1, 3/6] (tree) -> (tree)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.317 (3.328 / 10.500)
+
+Sentence ID: [doc1][0091]
+Original Reference: A woman is slicing an onion.
+Original Hypothesis: An onion is being sliced by a woman
+Reference: a woman is slicing an onion .
+Hypothesis: an onion is being sliced by a woman
+Hypothesis After Shift: a woman is being sliced an onion by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (an onion) -> (an onion)
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.354 (2.940 / 8.300)
+
+Sentence ID: [doc1][0092]
+Original Reference: a cat is playing
+Original Hypothesis: The fur of a cat is being combed by a person
+Reference: a cat is playing
+Hypothesis: the fur of a cat is being combed by a person
+Hypothesis After Shift: the fur of a cat is being combed by a person
+Alignment: (III   SIIII)
+HypErrs: 0.259 0.259 0.259 0.000 0.000 0.000 1.557 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.452 (3.369 / 7.450)
+
+Sentence ID: [doc1][0093]
+Original Reference: Broccoli is being chopped.
+Original Hypothesis: Broccoli is being chopped by a woman
+Reference: broccoli is being chopped .
+Hypothesis: broccoli is being chopped by a woman
+Hypothesis After Shift: broccoli is being chopped by a woman
+Alignment: (    IIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.277 (2.074 / 7.500)
+
+Sentence ID: [doc1][0094]
+Original Reference: a man cutting open a package
+Original Hypothesis: A box is being cut by a man
+Reference: a man cutting open a package
+Hypothesis: a box is being cut by a man
+Hypothesis After Shift: a man is being cut by a box
+Alignment: (  IITS Y)
+HypErrs: 0.000 0.562 0.259 0.259 0.000 1.557 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (box) -> (package)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.350 (3.198 / 9.150)
+
+Sentence ID: [doc1][0095]
+Original Reference: A woman is squeezing a lemon.
+Original Hypothesis: A lemon is being squeezed by a woman
+Reference: a woman is squeezing a lemon .
+Hypothesis: a lemon is being squeezed by a woman
+Hypothesis After Shift: a woman is being squeezed by a lemon
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (lemon) -> (lemon)
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.399 (3.069 / 7.700)
+
+Sentence ID: [doc1][0096]
+Original Reference: A woman is boiling egg.
+Original Hypothesis: Eggs are being boiled by a woman
+Reference: a woman is boiling egg .
+Hypothesis: eggs are being boiled by a woman
+Hypothesis After Shift: a woman are being boiled eggs by
+Alignment: (  IYTTS)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (a woman) -> (a woman)
+  [2, 2, 4/5] (eggs) -> (egg)
+Num Phrase Substitutions: 0
+
+Score: 0.365 (2.940 / 8.050)
+
+Sentence ID: [doc1][0097]
+Original Reference: Someone is slicing bread.
+Original Hypothesis: Bread is being sliced by the man
+Reference: someone is slicing bread .
+Hypothesis: bread is being sliced by the man
+Hypothesis After Shift: is being sliced bread by the man
+Alignment: (SYT ISI)
+HypErrs: 0.562 1.557 0.000 0.000 0.259 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 1 2 3 0 4 5 6
+
+NumShifts: 1
+  [0, 0, 2/3] (bread) -> (bread)
+Num Phrase Substitutions: 0
+
+Score: 0.574 (4.193 / 7.300)
+
+Sentence ID: [doc1][0098]
+Original Reference: The woman is dicing garlic.
+Original Hypothesis: Garlic is being diced by the woman
+Reference: the woman is dicing garlic .
+Hypothesis: garlic is being diced by the woman
+Hypothesis After Shift: the woman is being diced garlic by
+Alignment: (  IYT S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (the woman) -> (the woman)
+  [2, 2, 4/5] (garlic) -> (garlic)
+Num Phrase Substitutions: 0
+
+Score: 0.426 (2.940 / 6.900)
+
+Sentence ID: [doc1][0099]
+Original Reference: Someone is cooking okra in a pan.
+Original Hypothesis: Okra is being cooked in a pan
+Reference: someone is cooking okra in a pan .
+Hypothesis: okra is being cooked in a pan
+Hypothesis After Shift: is being cooked okra in a pan
+Alignment: (D P    D)
+HypErrs: 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 1 2 3 0 4 5 6
+
+NumShifts: 1
+  [0, 0, 3/3] (okra) -> (okra)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.004348 <p>cooking</p> <p>being cooked</p>
+
+Score: 0.414 (3.416 / 8.250)
+
+Sentence ID: [doc1][0100]
+Original Reference: the person is playing drums
+Original Hypothesis: The drums are being played by a man
+Reference: the person is playing drums
+Hypothesis: the drums are being played by a man
+Hypothesis After Shift: the are being played drums by a man
+Alignment: ( SYT III)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 1 5 6 7
+
+NumShifts: 1
+  [1, 1, 3/4] (drums) -> (drums)
+Num Phrase Substitutions: 0
+
+Score: 0.442 (2.895 / 6.550)
+
+Sentence ID: [doc1][0101]
+Original Reference: A girl is slicing onion
+Original Hypothesis: Onions are being sliced by the person
+Reference: a girl is slicing onion
+Hypothesis: onions are being sliced by the person
+Hypothesis After Shift: are being sliced onions by the person
+Alignment: (DSYTTIII)
+HypErrs: 0.562 1.557 0.000 0.000 0.259 0.259 0.259
+OtherErr: 1.427
+HypLocMap: 1 2 3 0 4 5 6
+
+NumShifts: 1
+  [0, 0, 3/3] (onions) -> (onion)
+Num Phrase Substitutions: 0
+
+Score: 0.547 (4.322 / 7.900)
+
+Sentence ID: [doc1][0102]
+Original Reference: A man is breaking the tiles
+Original Hypothesis: Tiles are being broken with his hands by a man
+Reference: a man is breaking the tiles
+Hypothesis: tiles are being broken with his hands by a man
+Hypothesis After Shift: a man are being broken tiles with his hands by
+Alignment: (  IYP IIII)
+HypErrs: 0.562 0.259 0.000 0.488 0.259 0.259 0.259 0.259 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a man) -> (a man)
+  [2, 2, 4/5] (tiles) -> (tiles)
+Num Phrase Substitutions: 1
+  NewCost: 0.4883218009162823 OrigCost: 0.00593 <p>breaking the</p> <p>broken</p>
+
+Score: 0.338 (2.907 / 8.600)
+
+Sentence ID: [doc1][0103]
+Original Reference: A man is drawing a picture.
+Original Hypothesis: A picture is being drawn by a man
+Reference: a man is drawing a picture .
+Hypothesis: a picture is being drawn by a man
+Hypothesis After Shift: a man is being drawn by a picture
+Alignment: (  IYYI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (picture) -> (picture)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.377 (3.069 / 8.150)
+
+Sentence ID: [doc1][0104]
+Original Reference: A man is eating a pizza.
+Original Hypothesis: A pizza is being eaten by a man
+Reference: a man is eating a pizza .
+Hypothesis: a pizza is being eaten by a man
+Hypothesis After Shift: a man is being eaten by a pizza
+Alignment: (  IYYI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (pizza) -> (pizza)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.365 (3.069 / 8.400)
+
+Sentence ID: [doc1][0105]
+Original Reference: A man is playing a flute.
+Original Hypothesis: A flute is being played by a man
+Reference: a man is playing a flute .
+Hypothesis: a flute is being played by a man
+Hypothesis After Shift: a man is being played by a flute
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (flute) -> (flute)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.448 (3.069 / 6.850)
+
+Sentence ID: [doc1][0106]
+Original Reference: A man is tieing his shoe
+Original Hypothesis: A shoe is being tied by a man
+Reference: a man is tieing his shoe
+Hypothesis: a shoe is being tied by a man
+Hypothesis After Shift: a man a is being tied by shoe
+Alignment: (  IIYYS )
+HypErrs: 0.259 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 0 2 3 4 5 1
+
+NumShifts: 2
+  [1, 1, 4/5] (shoe) -> (shoe)
+  [6, 7, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.418 (3.198 / 7.650)
+
+Sentence ID: [doc1][0107]
+Original Reference: The man cut a paper plate.
+Original Hypothesis: A paper plate is being cut by the man
+Reference: the man cut a paper plate .
+Hypothesis: a paper plate is being cut by the man
+Hypothesis After Shift: the man cut a paper plate is being by
+Alignment: (      IIS)
+HypErrs: 0.000 0.000 0.000 0.259 0.259 0.562 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 7 8 5 0 1 2 3 4 6
+
+NumShifts: 2
+  [7, 8, -1/-1] (the man) -> (the man)
+  [7, 7, 2/1] (cut) -> (cut)
+Num Phrase Substitutions: 0
+
+Score: 0.357 (3.198 / 8.950)
+
+Sentence ID: [doc1][0108]
+Original Reference: A person is dumping chopped vegetables into a pot on the stove.
+Original Hypothesis: Chopped vegetables are being dropped into a pot on the stove by a person
+Reference: a person is dumping chopped vegetables into a pot on the stove .
+Hypothesis: chopped vegetables are being dropped into a pot on the stove by a person
+Hypothesis After Shift: a person chopped vegetables are being dropped into a pot on the stove by
+Alignment: (  DD  III      S)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.000 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 2.854
+HypLocMap: 12 13 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 1
+  [12, 13, -1/-1] (a person) -> (a person)
+Num Phrase Substitutions: 0
+
+Score: 0.608 (5.749 / 9.450)
+
+Sentence ID: [doc1][0109]
+Original Reference: The doctor was helping the patient.
+Original Hypothesis: The patient is being helped by the doctor
+Reference: the doctor was helping the patient .
+Hypothesis: the patient is being helped by the doctor
+Hypothesis After Shift: the doctor is being helped by the patient
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (patient) -> (patient)
+  [7, 7, 0/0] (doctor) -> (doctor)
+Num Phrase Substitutions: 0
+
+Score: 0.334 (3.069 / 9.200)
+
+Sentence ID: [doc1][0110]
+Original Reference: A man is wakening a woman.
+Original Hypothesis: A woman is being massaged by a man
+Reference: a man is wakening a woman .
+Hypothesis: a woman is being massaged by a man
+Hypothesis After Shift: a man is being massaged by a woman
+Alignment: (  IYIS  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.259 1.557 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (woman) -> (woman)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.529 (4.625 / 8.750)
+
+Sentence ID: [doc1][0111]
+Original Reference: A man is shaking a container over a sink.
+Original Hypothesis: A container is being shaken over a sink in the kitchen by a man
+Reference: a man is shaking a container over a sink .
+Hypothesis: a container is being shaken over a sink in the kitchen by a man
+Hypothesis After Shift: a man is being shaken a container over a sink in the kitchen by
+Alignment: (  IYY     IISI)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557 0.259 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 12 13 2 3 4 0 1 5 6 7 8 9 10 11
+
+NumShifts: 2
+  [0, 1, 4/4] (a container) -> (a container)
+  [12, 13, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.406 (3.716 / 9.150)
+
+Sentence ID: [doc1][0112]
+Original Reference: chopping vegitables
+Original Hypothesis: Some onions are being cut by a person
+Reference: chopping vegitables
+Hypothesis: some onions are being cut by a person
+Hypothesis After Shift: some onions are being cut by a person
+Alignment: (IIISIIIS)
+HypErrs: 0.259 0.259 0.259 1.557 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.591 (4.666 / 7.900)
+
+Sentence ID: [doc1][0113]
+Original Reference: A man is playing a guitar.
+Original Hypothesis: A harp is being played by a man
+Reference: a man is playing a guitar .
+Hypothesis: a harp is being played by a man
+Hypothesis After Shift: a man harp is being played by a
+Alignment: (  IIYTI DD)
+HypErrs: 0.000 0.259 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 2.854
+HypLocMap: 0 7 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.514 (4.192 / 8.150)
+
+Sentence ID: [doc1][0114]
+Original Reference: a woman is slicing a vegetable
+Original Hypothesis: An onion is being sliced by a woman
+Reference: a woman is slicing a vegetable
+Hypothesis: an onion is being sliced by a woman
+Hypothesis After Shift: a woman an onion is being sliced by
+Alignment: (  IIIYTSD)
+HypErrs: 0.259 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 6 7 0 1 2 3 4 5
+
+NumShifts: 1
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.521 (4.322 / 8.300)
+
+Sentence ID: [doc1][0115]
+Original Reference: A monkey is karate kicking a person.
+Original Hypothesis: A person is being kicked by a monkey
+Reference: a monkey is karate kicking a person .
+Hypothesis: a person is being kicked by a monkey
+Hypothesis After Shift: a monkey is being kicked by a person
+Alignment: (   STI  D)
+HypErrs: 0.000 0.562 0.000 1.557 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 6/6] (person) -> (person)
+  [7, 7, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.578 (4.366 / 7.550)
+
+Sentence ID: [doc1][0116]
+Original Reference: A woman is riding an elephant.
+Original Hypothesis: An elephant is being ridden by a woman
+Reference: a woman is riding an elephant .
+Hypothesis: an elephant is being ridden by a woman
+Hypothesis After Shift: a woman is being ridden by an elephant
+Alignment: (  IYP  D)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 0.000 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 6 7 2 3 4 5 0 1
+
+NumShifts: 2
+  [0, 1, 4/5] (an elephant) -> (an elephant)
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.331 (2.810 / 8.500)
+
+Sentence ID: [doc1][0117]
+Original Reference: A monkey is teasing a dog at the zoo.
+Original Hypothesis: A dog is being teased by a monkey at the zoo
+Reference: a monkey is teasing a dog at the zoo .
+Hypothesis: a dog is being teased by a monkey at the zoo
+Hypothesis After Shift: a monkey is being teased by a dog at the zoo
+Alignment: (  IYTI     D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1 8 9 10
+
+NumShifts: 2
+  [1, 1, 4/6] (dog) -> (dog)
+  [7, 7, 0/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.323 (3.069 / 9.500)
+
+Sentence ID: [doc1][0118]
+Original Reference: A monkey is pulling a dog's tail.
+Original Hypothesis: A dog's tail is being pulled by a monkey
+Reference: a monkey is pulling a dog 's tail .
+Hypothesis: a dog 's tail is being pulled by a monkey
+Hypothesis After Shift: a monkey is being pulled by a dog 's tail
+Alignment: (  IYTI    D)
+HypErrs: 0.000 0.187 0.187 0.187 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 9 4 5 6 7 8 1 2 3
+
+NumShifts: 2
+  [1, 3, 5/8] (dog 's tail) -> (dog 's tail)
+  [9, 9, 0/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.323 (3.069 / 9.500)
+
+Sentence ID: [doc1][0119]
+Original Reference: A man is playing an electronic keyboard.
+Original Hypothesis: An electronic keyboard is being played by a man
+Reference: a man is playing an electronic keyboard .
+Hypothesis: an electronic keyboard is being played by a man
+Hypothesis After Shift: a man being played an electronic keyboard is by
+Alignment: (  YT   IS)
+HypErrs: 0.000 0.000 0.000 0.259 0.281 0.281 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 7 8 4 5 0 1 2 3 6
+
+NumShifts: 2
+  [4, 5, 2/-1] (being played) -> (is playing)
+  [7, 8, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.408 (2.940 / 7.200)
+
+Sentence ID: [doc1][0120]
+Original Reference: A man mixes vegetables in a pot.
+Original Hypothesis: Vegetables are being mixed in a pot by a man
+Reference: a man mixes vegetables in a pot .
+Hypothesis: vegetables are being mixed in a pot by a man
+Hypothesis After Shift: a man mixed vegetables are being in a pot by
+Alignment: (  T II   S)
+HypErrs: 0.000 0.259 0.259 0.562 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 3 0 1 2 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a man) -> (a man)
+  [5, 5, 2/1] (mixed) -> (mixes)
+Num Phrase Substitutions: 0
+
+Score: 0.397 (3.198 / 8.050)
+
+Sentence ID: [doc1][0121]
+Original Reference: A man carries a women.
+Original Hypothesis: A woman is being carried by a man
+Reference: a man carries a women .
+Hypothesis: a woman is being carried by a man
+Hypothesis After Shift: a man is being carried by a woman
+Alignment: (  IIP YD)
+HypErrs: 0.000 0.562 0.259 0.259 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (woman) -> (women)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.001291 <p>carries</p> <p>carried by</p>
+
+Score: 0.278 (3.069 / 11.050)
+
+Sentence ID: [doc1][0122]
+Original Reference: A banana is being peeled.
+Original Hypothesis: A banana is being peeled by a person
+Reference: a banana is being peeled .
+Hypothesis: a banana is being peeled by a person
+Hypothesis After Shift: a banana is being peeled by a person
+Alignment: (     IIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.277 (2.074 / 7.500)
+
+Sentence ID: [doc1][0123]
+Original Reference: A woman is painting a man's face.
+Original Hypothesis: A man's face is being painted by a woman
+Reference: a woman is painting a man 's face .
+Hypothesis: a man 's face is being painted by a woman
+Hypothesis After Shift: a woman is being painted by a man 's face
+Alignment: (  IYTI    D)
+HypErrs: 0.000 0.187 0.187 0.187 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 9 4 5 6 7 8 1 2 3
+
+NumShifts: 2
+  [1, 3, 5/8] (man 's face) -> (man 's face)
+  [9, 9, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.312 (3.069 / 9.850)
+
+Sentence ID: [doc1][0124]
+Original Reference: A man is cutting onion
+Original Hypothesis: An onion is being cut by a man
+Reference: a man is cutting onion
+Hypothesis: an onion is being cut by a man
+Hypothesis After Shift: a man an is being cut onion by
+Alignment: (  IIYT I)
+HypErrs: 0.259 0.562 0.259 0.000 0.000 0.259 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 0 2 3 4 1 5
+
+NumShifts: 2
+  [6, 7, -1/-1] (a man) -> (a man)
+  [3, 3, 3/6] (onion) -> (onion)
+Num Phrase Substitutions: 0
+
+Score: 0.253 (1.901 / 7.500)
+
+Sentence ID: [doc1][0125]
+Original Reference: A man is playing the guitar.
+Original Hypothesis: The guitar is being played by a man
+Reference: a man is playing the guitar .
+Hypothesis: the guitar is being played by a man
+Hypothesis After Shift: a man is being played the guitar by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (the guitar) -> (the guitar)
+  [6, 7, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.442 (2.940 / 6.650)
+
+Sentence ID: [doc1][0126]
+Original Reference: A man is playing the piano.
+Original Hypothesis: The piano is being played by a man
+Reference: a man is playing the piano .
+Hypothesis: the piano is being played by a man
+Hypothesis After Shift: a man is being played the piano by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (the piano) -> (the piano)
+  [6, 7, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.439 (2.940 / 6.700)
+
+Sentence ID: [doc1][0127]
+Original Reference: A woman is playing the fiddle.
+Original Hypothesis: The violin is being played by a woman
+Reference: a woman is playing the fiddle .
+Hypothesis: the violin is being played by a woman
+Hypothesis After Shift: a woman is being played the violin by
+Alignment: (  IYT YS)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (the violin) -> (the fiddle)
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.426 (2.940 / 6.900)
+
+Sentence ID: [doc1][0128]
+Original Reference: a person playing a piano
+Original Hypothesis: A piano is being played by a person
+Reference: a person playing a piano
+Hypothesis: a piano is being played by a person
+Hypothesis After Shift: a person is being played by a piano
+Alignment: (  IITI  )
+HypErrs: 0.000 0.562 0.259 0.259 0.000 0.259 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 3/6] (piano) -> (piano)
+  [7, 7, 0/0] (person) -> (person)
+Num Phrase Substitutions: 0
+
+Score: 0.284 (1.901 / 6.700)
+
+Sentence ID: [doc1][0129]
+Original Reference: A potato is being sliced.
+Original Hypothesis: A potato is being sliced by a person
+Reference: a potato is being sliced .
+Hypothesis: a potato is being sliced by a person
+Hypothesis After Shift: a potato is being sliced by a person
+Alignment: (     IIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.268 (2.074 / 7.750)
+
+Sentence ID: [doc1][0130]
+Original Reference: The man is playing the piano.
+Original Hypothesis: The drums are being played by the man
+Reference: the man is playing the piano .
+Hypothesis: the drums are being played by the man
+Hypothesis After Shift: the man drums are being played by the
+Alignment: (  IIYTI DD)
+HypErrs: 0.000 0.259 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 2.854
+HypLocMap: 0 7 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.645 (4.192 / 6.500)
+
+Sentence ID: [doc1][0131]
+Original Reference: A man is petting two dogs.
+Original Hypothesis: Two dogs are being petted by a man
+Reference: a man is petting two dogs .
+Hypothesis: two dogs are being petted by a man
+Hypothesis After Shift: a man are being petted two dogs by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (two dogs) -> (two dogs)
+  [6, 7, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.316 (2.940 / 9.300)
+
+Sentence ID: [doc1][0132]
+Original Reference: A young girl is using sign language.
+Original Hypothesis: Sign language is being used by a young girl
+Reference: a young girl is using sign language .
+Hypothesis: sign language is being used by a young girl
+Hypothesis After Shift: is by a young girl being used sign language
+Alignment: (II   P  D)
+HypErrs: 0.281 0.281 0.259 0.281 0.281 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 2 5 6 7 8 3 4 0 1
+
+NumShifts: 2
+  [0, 1, 5/8] (sign language) -> (sign language)
+  [1, 2, 3/6] (being used) -> (is using)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.025 <p>is using</p> <p>being used</p>
+
+Score: 0.409 (3.069 / 7.500)
+
+Sentence ID: [doc1][0133]
+Original Reference: The man is slicing a potato.
+Original Hypothesis: A potato is being sliced by the man
+Reference: the man is slicing a potato .
+Hypothesis: a potato is being sliced by the man
+Hypothesis After Shift: the man is being sliced a potato by
+Alignment: (  IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (a potato) -> (a potato)
+  [6, 7, -1/-1] (the man) -> (the man)
+Num Phrase Substitutions: 0
+
+Score: 0.379 (2.940 / 7.750)
+
+Sentence ID: [doc1][0134]
+Original Reference: A girl is playing a flute.
+Original Hypothesis: A flute is being played by a girl
+Reference: a girl is playing a flute .
+Hypothesis: a flute is being played by a girl
+Hypothesis After Shift: a girl is being played by a flute
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (flute) -> (flute)
+  [7, 7, 0/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.423 (3.069 / 7.250)
+
+Sentence ID: [doc1][0135]
+Original Reference: A girl plays a wind instrument.
+Original Hypothesis: A wind instrument is being played by a girl
+Reference: a girl plays a wind instrument .
+Hypothesis: a wind instrument is being played by a girl
+Hypothesis After Shift: a girl is being played by a wind instrument
+Alignment: (  IIP   D)
+HypErrs: 0.000 0.281 0.281 0.259 0.259 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 8 3 4 5 6 7 1 2
+
+NumShifts: 2
+  [1, 2, 3/7] (wind instrument) -> (wind instrument)
+  [8, 8, 0/0] (girl) -> (girl)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.0037 <p>plays</p> <p>played by</p>
+
+Score: 0.415 (3.069 / 7.400)
+
+Sentence ID: [doc1][0136]
+Original Reference: A man is playing a flute.
+Original Hypothesis: A large flute is being played by a man
+Reference: a man is playing a flute .
+Hypothesis: a large flute is being played by a man
+Hypothesis After Shift: a man large is being played by a flute
+Alignment: (  IIYTI  D)
+HypErrs: 0.000 0.259 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 8 1 3 4 5 6 7 2
+
+NumShifts: 2
+  [2, 2, 4/7] (flute) -> (flute)
+  [8, 8, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.486 (3.328 / 6.850)
+
+Sentence ID: [doc1][0137]
+Original Reference: A potato is being peeled.
+Original Hypothesis: A potato is being peeled by a woman
+Reference: a potato is being peeled .
+Hypothesis: a potato is being peeled by a woman
+Hypothesis After Shift: a potato is being peeled by a woman
+Alignment: (     IIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.282 (2.074 / 7.350)
+
+Sentence ID: [doc1][0138]
+Original Reference: A woman is cracking eggs into a bowl
+Original Hypothesis: Eggs are being cracked into a bowl by a woman
+Reference: a woman is cracking eggs into a bowl
+Hypothesis: eggs are being cracked into a bowl by a woman
+Hypothesis After Shift: a woman are being cracked eggs into a bowl by
+Alignment: (  IYT    I)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 0.000 0.000 0.259 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a woman) -> (a woman)
+  [2, 2, 4/5] (eggs) -> (eggs)
+Num Phrase Substitutions: 0
+
+Score: 0.177 (1.642 / 9.300)
+
+Sentence ID: [doc1][0139]
+Original Reference: A woman is placing skewers onto a rack.
+Original Hypothesis: Skewers are being placed onto a rack by a woman
+Reference: a woman is placing skewers onto a rack .
+Hypothesis: skewers are being placed onto a rack by a woman
+Hypothesis After Shift: a woman are being placed skewers onto a rack by
+Alignment: (  IYT    S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a woman) -> (a woman)
+  [2, 2, 4/5] (skewers) -> (skewers)
+Num Phrase Substitutions: 0
+
+Score: 0.318 (2.940 / 9.250)
+
+Sentence ID: [doc1][0140]
+Original Reference: Guitar is being played by artist.
+Original Hypothesis: A guitar is being played by a baby
+Reference: guitar is being played by artist .
+Hypothesis: a guitar is being played by a baby
+Hypothesis After Shift: a guitar is being played by a baby
+Alignment: (I     SS)
+HypErrs: 0.259 0.000 0.000 0.000 0.000 0.000 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.385 (3.372 / 8.750)
+
+Sentence ID: [doc1][0141]
+Original Reference: a women is cooking fish
+Original Hypothesis: Fish is being cooked by a woman
+Reference: a women is cooking fish
+Hypothesis: fish is being cooked by a woman
+Hypothesis After Shift: a woman is being cooked by fish
+Alignment: ( Y PI )
+HypErrs: 0.562 0.000 0.000 0.000 0.259 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 4 0
+
+NumShifts: 2
+  [5, 6, -1/-1] (a woman) -> (a women)
+  [2, 2, 4/6] (fish) -> (fish)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.004348 <p>cooking</p> <p>being cooked</p>
+
+Score: 0.154 (1.383 / 9.000)
+
+Sentence ID: [doc1][0142]
+Original Reference: A man is playing piano.
+Original Hypothesis: Guitar is being played by a man
+Reference: a man is playing piano .
+Hypothesis: guitar is being played by a man
+Hypothesis After Shift: a man guitar is being played by
+Alignment: (  IIYTDS)
+HypErrs: 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.593 (4.063 / 6.850)
+
+Sentence ID: [doc1][0143]
+Original Reference: A cute cat
+Original Hypothesis: A bottle is being licked by the cat
+Reference: a cute cat
+Hypothesis: a bottle is being licked by the cat
+Hypothesis After Shift: a bottle is being licked by the cat
+Alignment: ( IIISII )
+HypErrs: 0.000 0.259 0.259 0.259 1.557 0.259 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.307 (2.851 / 9.300)
+
+Sentence ID: [doc1][0144]
+Original Reference: A man is cutting a fish.
+Original Hypothesis: A fish is being cut by a man
+Reference: a man is cutting a fish .
+Hypothesis: a fish is being cut by a man
+Hypothesis After Shift: a man is being cut by a fish
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (fish) -> (fish)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.363 (3.069 / 8.450)
+
+Sentence ID: [doc1][0145]
+Original Reference: A man is slicing open a fish.
+Original Hypothesis: A fish is being sliced by a man
+Reference: a man is slicing open a fish .
+Hypothesis: a fish is being sliced by a man
+Hypothesis After Shift: a man is being sliced by a fish
+Alignment: (  IYTS  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 1.557 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 6/6] (fish) -> (fish)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.546 (4.366 / 8.000)
+
+Sentence ID: [doc1][0146]
+Original Reference: A woman is slicing some onion
+Original Hypothesis: Potatoes are being sliced by a woman
+Reference: a woman is slicing some onion
+Hypothesis: potatoes are being sliced by a woman
+Hypothesis After Shift: a woman potatoes are being sliced by
+Alignment: (  IIYTDS)
+HypErrs: 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.514 (4.063 / 7.900)
+
+Sentence ID: [doc1][0147]
+Original Reference: The boys are riding a car.
+Original Hypothesis: The car is being driven by a man
+Reference: the boys are riding a car .
+Hypothesis: the car is being driven by a man
+Hypothesis After Shift: the is being driven by a car man
+Alignment: ( SYP  S)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 5 6 1 7
+
+NumShifts: 1
+  [1, 1, 5/6] (car) -> (car)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.004656 <p>riding</p> <p>driven by</p>
+
+Score: 0.418 (3.675 / 8.800)
+
+Sentence ID: [doc1][0148]
+Original Reference: A woman is slicing carrots.
+Original Hypothesis: A carrot is being sliced by a woman
+Reference: a woman is slicing carrots .
+Hypothesis: a carrot is being sliced by a woman
+Hypothesis After Shift: a woman a is being sliced carrot by
+Alignment: (  IIYTTS)
+HypErrs: 0.259 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 0 2 3 4 1 5
+
+NumShifts: 2
+  [1, 1, 3/4] (carrot) -> (carrots)
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.429 (3.198 / 7.450)
+
+Sentence ID: [doc1][0149]
+Original Reference: A potato is being sliced.
+Original Hypothesis: A potato is being sliced by a woman
+Reference: a potato is being sliced .
+Hypothesis: a potato is being sliced by a woman
+Hypothesis After Shift: a potato is being sliced by a woman
+Alignment: (     IIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.268 (2.074 / 7.750)
+
+Sentence ID: [doc1][0150]
+Original Reference: A person is rinsing a steak off with water.
+Original Hypothesis: A steak is being rinsed with water by a person
+Reference: a person is rinsing a steak off with water .
+Hypothesis: a steak is being rinsed with water by a person
+Hypothesis After Shift: a person being rinsed a steak is with water by
+Alignment: (  YT  S  S)
+HypErrs: 0.000 0.000 1.557 0.281 0.281 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 3 4 0 1 2 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a person) -> (a person)
+  [5, 6, 2/1] (being rinsed) -> (is rinsing)
+Num Phrase Substitutions: 0
+
+Score: 0.461 (4.237 / 9.200)
+
+Sentence ID: [doc1][0151]
+Original Reference: A man is chopping butter into a container.
+Original Hypothesis: Butter is being chopped into a container by a man
+Reference: a man is chopping butter into a container .
+Hypothesis: butter is being chopped into a container by a man
+Hypothesis After Shift: a man is being chopped butter into a container by
+Alignment: (  IYT    S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a man) -> (a man)
+  [2, 2, 4/5] (butter) -> (butter)
+Num Phrase Substitutions: 0
+
+Score: 0.309 (2.940 / 9.500)
+
+Sentence ID: [doc1][0152]
+Original Reference: A man is playing a trumpet
+Original Hypothesis: A trumpet is being played by a person
+Reference: a man is playing a trumpet
+Hypothesis: a trumpet is being played by a person
+Hypothesis After Shift: a is being played by a trumpet person
+Alignment: ( SYTI  I)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.259 0.000 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 5 6 1 7
+
+NumShifts: 1
+  [1, 1, 4/6] (trumpet) -> (trumpet)
+Num Phrase Substitutions: 0
+
+Score: 0.379 (2.636 / 6.950)
+
+Sentence ID: [doc1][0153]
+Original Reference: Cat drinking milk
+Original Hypothesis: The milk is being drunk by a cat
+Reference: cat drinking milk
+Hypothesis: the milk is being drunk by a cat
+Hypothesis After Shift: cat the is being drunk milk by a
+Alignment: ( IIIY II)
+HypErrs: 0.259 0.562 0.259 0.259 0.000 0.259 0.259 0.562
+OtherErr: 0.000
+HypLocMap: 7 0 2 3 4 1 5 6
+
+NumShifts: 2
+  [1, 1, 1/4] (milk) -> (milk)
+  [7, 7, -1/-1] (cat) -> (cat)
+Num Phrase Substitutions: 0
+
+Score: 0.325 (2.418 / 7.450)
+
+Sentence ID: [doc1][0154]
+Original Reference: The keyboards are being played.
+Original Hypothesis: The piano is being played by someone
+Reference: the keyboards are being played .
+Hypothesis: the piano is being played by someone
+Hypothesis After Shift: the piano is being played by someone
+Alignment: ( SY  IS)
+HypErrs: 0.000 1.557 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.478 (3.372 / 7.050)
+
+Sentence ID: [doc1][0155]
+Original Reference: A woman pours oil into a skillet.
+Original Hypothesis: Oil is being poured into a skillet by the woman
+Reference: a woman pours oil into a skillet .
+Hypothesis: oil is being poured into a skillet by the woman
+Hypothesis After Shift: is woman being poured oil into a skillet by the
+Alignment: (S IT    SI)
+HypErrs: 0.562 1.557 0.259 0.000 0.000 0.000 0.000 1.557 0.259 0.562
+OtherErr: 0.000
+HypLocMap: 1 9 2 3 0 4 5 6 7 8
+
+NumShifts: 2
+  [0, 0, 3/3] (oil) -> (oil)
+  [9, 9, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.511 (4.755 / 9.300)
+
+Sentence ID: [doc1][0156]
+Original Reference: the girl is horse riding
+Original Hypothesis: The horse is being ridden by a man
+Reference: the girl is horse riding
+Hypothesis: the horse is being ridden by a man
+Hypothesis After Shift: the is being horse ridden by a man
+Alignment: ( SY PII)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 1 4 5 6 7
+
+NumShifts: 1
+  [1, 1, 3/3] (horse) -> (horse)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.307 (2.636 / 8.600)
+
+Sentence ID: [doc1][0157]
+Original Reference: A woman is cracking an egg into a bowl.
+Original Hypothesis: An egg is being cracked into a bowl by a woman
+Reference: a woman is cracking an egg into a bowl .
+Hypothesis: an egg is being cracked into a bowl by a woman
+Hypothesis After Shift: a woman is being cracked an egg into a bowl by
+Alignment: (  IYT     S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 2 3 4 0 1 5 6 7 8
+
+NumShifts: 2
+  [0, 1, 4/4] (an egg) -> (an egg)
+  [9, 10, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.336 (2.940 / 8.750)
+
+Sentence ID: [doc1][0158]
+Original Reference: Two kids push an inflatable crocodile around in a pool.
+Original Hypothesis: An inflatable crocodile is being pushed by two kids in a pool
+Reference: two kids push an inflatable crocodile around in a pool .
+Hypothesis: an inflatable crocodile is being pushed by two kids in a pool
+Hypothesis After Shift: two kids pushed an inflatable crocodile is being by in a pool
+Alignment: (  T   IIS   D)
+HypErrs: 0.000 0.000 0.000 0.259 0.259 0.562 1.557 0.281 0.281 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 7 8 5 0 1 2 3 4 6 9 10 11
+
+NumShifts: 2
+  [7, 8, -1/-1] (two kids) -> (two kids)
+  [7, 7, 2/1] (pushed) -> (push)
+Num Phrase Substitutions: 0
+
+Score: 0.508 (4.625 / 9.100)
+
+Sentence ID: [doc1][0159]
+Original Reference: The man is eating cereal.
+Original Hypothesis: Cereal is being eaten by the man
+Reference: the man is eating cereal .
+Hypothesis: cereal is being eaten by the man
+Hypothesis After Shift: the man is being eaten cereal by
+Alignment: (  IYY S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (the man) -> (the man)
+  [2, 2, 4/5] (cereal) -> (cereal)
+Num Phrase Substitutions: 0
+
+Score: 0.297 (2.940 / 9.900)
+
+Sentence ID: [doc1][0160]
+Original Reference: A dog biting on a can.
+Original Hypothesis: A can is being bitten by a dog
+Reference: a dog biting on a can .
+Hypothesis: a can is being bitten by a dog
+Hypothesis After Shift: a dog bitten a can is being by
+Alignment: (  YD  IIS)
+HypErrs: 0.000 0.000 0.259 0.259 0.562 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 6 7 4 0 1 2 3 5
+
+NumShifts: 2
+  [6, 7, -1/-1] (a dog) -> (a dog)
+  [6, 6, 2/1] (bitten) -> (biting)
+Num Phrase Substitutions: 0
+
+Score: 0.415 (4.625 / 11.150)
+
+Sentence ID: [doc1][0161]
+Original Reference: Carrots are being chopped.
+Original Hypothesis: A carrot is being sliced into pieces by a person
+Reference: carrots are being chopped .
+Hypothesis: a carrot is being sliced into pieces by a person
+Hypothesis After Shift: a carrot is being sliced into pieces by a person
+Alignment: (ITY YIISII)
+HypErrs: 0.259 0.000 0.000 0.000 0.000 0.259 0.259 1.557 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.375 (2.851 / 7.600)
+
+Sentence ID: [doc1][0162]
+Original Reference: A man is playing the flute.
+Original Hypothesis: A flute is being played by the man
+Reference: a man is playing the flute .
+Hypothesis: a flute is being played by the man
+Hypothesis After Shift: a man is being played by the flute
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (flute) -> (flute)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.448 (3.069 / 6.850)
+
+Sentence ID: [doc1][0163]
+Original Reference: Noodles are being boiled.
+Original Hypothesis: Noodles are being boiled in water by a woman
+Reference: noodles are being boiled .
+Hypothesis: noodles are being boiled in water by a woman
+Hypothesis After Shift: noodles are being boiled in water by a woman
+Alignment: (    IIISI)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.259 0.259 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.373 (2.592 / 6.950)
+
+Sentence ID: [doc1][0164]
+Original Reference: The woman is cracking eggs into a bowl.
+Original Hypothesis: Eggs are being cracked into a bowl by the woman
+Reference: the woman is cracking eggs into a bowl .
+Hypothesis: eggs are being cracked into a bowl by the woman
+Hypothesis After Shift: the woman are being cracked eggs into a bowl by
+Alignment: (  IYT    S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (the woman) -> (the woman)
+  [2, 2, 4/5] (eggs) -> (eggs)
+Num Phrase Substitutions: 0
+
+Score: 0.316 (2.940 / 9.300)
+
+Sentence ID: [doc1][0165]
+Original Reference: A onion is being chopped.
+Original Hypothesis: An onion is being sliced by the woman
+Reference: a onion is being chopped .
+Hypothesis: an onion is being sliced by the woman
+Hypothesis After Shift: an onion is being sliced by the woman
+Alignment: (S   YISI)
+HypErrs: 1.557 0.000 0.000 0.000 0.000 0.259 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.437 (3.631 / 8.300)
+
+Sentence ID: [doc1][0166]
+Original Reference: A man is pouring oil into a skillet.
+Original Hypothesis: Oil is being poured into a skillet by a man
+Reference: a man is pouring oil into a skillet .
+Hypothesis: oil is being poured into a skillet by a man
+Hypothesis After Shift: a man is being poured oil into a skillet by
+Alignment: (  IYT    S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (a man) -> (a man)
+  [2, 2, 4/5] (oil) -> (oil)
+Num Phrase Substitutions: 0
+
+Score: 0.330 (2.940 / 8.900)
+
+Sentence ID: [doc1][0167]
+Original Reference: A woman is grating carrots.
+Original Hypothesis: Carrots are being grated by a woman
+Reference: a woman is grating carrots .
+Hypothesis: carrots are being grated by a woman
+Hypothesis After Shift: a woman are being grated carrots by
+Alignment: (  IYT S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (a woman) -> (a woman)
+  [2, 2, 4/5] (carrots) -> (carrots)
+Num Phrase Substitutions: 0
+
+Score: 0.432 (2.940 / 6.800)
+
+Sentence ID: [doc1][0168]
+Original Reference: A person folds a tortilla.
+Original Hypothesis: A tortilla is being folded by a person
+Reference: a person folds a tortilla .
+Hypothesis: a tortilla is being folded by a person
+Hypothesis After Shift: a person is being folded by a tortilla
+Alignment: (  IPI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (tortilla) -> (tortilla)
+  [7, 7, 0/0] (person) -> (person)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>folds</p> <p>being folded</p>
+
+Score: 0.351 (3.069 / 8.750)
+
+Sentence ID: [doc1][0169]
+Original Reference: A person is buttering a tray.
+Original Hypothesis: A tray is being buttered by a person
+Reference: a person is buttering a tray .
+Hypothesis: a tray is being buttered by a person
+Hypothesis After Shift: a person is being buttered by a tray
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (tray) -> (tray)
+  [7, 7, 0/0] (person) -> (person)
+Num Phrase Substitutions: 0
+
+Score: 0.396 (3.069 / 7.750)
+
+Sentence ID: [doc1][0170]
+Original Reference: A woman is hitting volleyballs.
+Original Hypothesis: A woman is being handed volleyballs by another woman
+Reference: a woman is hitting volleyballs .
+Hypothesis: a woman is being handed volleyballs by another woman
+Hypothesis After Shift: a woman is being handed volleyballs by another woman
+Alignment: (  IYS IIS)
+HypErrs: 0.000 0.000 0.259 0.000 1.557 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.432 (3.890 / 9.000)
+
+Sentence ID: [doc1][0171]
+Original Reference: A woman is handling a frog.
+Original Hypothesis: A frog is being handled by the woman
+Reference: a woman is handling a frog .
+Hypothesis: a frog is being handled by the woman
+Hypothesis After Shift: a woman is being handled by frog the
+Alignment: (  IYTS S)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 1.557 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 5 1 6
+
+NumShifts: 2
+  [1, 1, 4/5] (frog) -> (frog)
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.489 (4.496 / 9.200)
+
+Sentence ID: [doc1][0172]
+Original Reference: A boy is filling a pitcher with water.
+Original Hypothesis: A pitcher is being filled with water by a boy
+Reference: a boy is filling a pitcher with water .
+Hypothesis: a pitcher is being filled with water by a boy
+Hypothesis After Shift: a boy is being filled a pitcher with water by
+Alignment: (  IYT    S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 2 3 4 0 1 5 6 7
+
+NumShifts: 2
+  [0, 1, 4/4] (a pitcher) -> (a pitcher)
+  [8, 9, -1/-1] (a boy) -> (a boy)
+Num Phrase Substitutions: 0
+
+Score: 0.298 (2.940 / 9.850)
+
+Sentence ID: [doc1][0173]
+Original Reference: A woman is putting eyeshadow on.
+Original Hypothesis: Eyeshadow is being put on by a woman
+Reference: a woman is putting eyeshadow on .
+Hypothesis: eyeshadow is being put on by a woman
+Hypothesis After Shift: a woman is being put eyeshadow on by
+Alignment: (  IYT  S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 1 2 3 0 4 5
+
+NumShifts: 2
+  [6, 7, -1/-1] (a woman) -> (a woman)
+  [2, 2, 4/5] (eyeshadow) -> (eyeshadow)
+Num Phrase Substitutions: 0
+
+Score: 0.377 (2.940 / 7.800)
+
+Sentence ID: [doc1][0174]
+Original Reference: A woman is slicing peppers.
+Original Hypothesis: The pepper is being sliced by a woman with a knife
+Reference: a woman is slicing peppers .
+Hypothesis: the pepper is being sliced by a woman with a knife
+Hypothesis After Shift: a woman the is being sliced pepper by with a knife
+Alignment: (  IIYTTISII)
+HypErrs: 0.259 0.562 0.259 0.000 0.000 0.259 0.281 0.281 1.557 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 6 7 0 2 3 4 1 5 8 9 10
+
+NumShifts: 2
+  [6, 7, -1/-1] (a woman) -> (a woman)
+  [3, 3, 3/6] (pepper) -> (peppers)
+Num Phrase Substitutions: 0
+
+Score: 0.482 (3.975 / 8.250)
+
+Sentence ID: [doc1][0175]
+Original Reference: a woman is slicing a vegetable
+Original Hypothesis: A tomato is being sliced by a woman
+Reference: a woman is slicing a vegetable
+Hypothesis: a tomato is being sliced by a woman
+Hypothesis After Shift: a woman tomato is being sliced by a
+Alignment: (  IIYTI D)
+HypErrs: 0.000 0.259 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.333 (2.766 / 8.300)
+
+Sentence ID: [doc1][0176]
+Original Reference: A woman is riding a horse.
+Original Hypothesis: A Seadoo is being ridden by a woman
+Reference: a woman is riding a horse .
+Hypothesis: a seadoo is being ridden by a woman
+Hypothesis After Shift: a woman seadoo is being ridden by a
+Alignment: (  IIYP DD)
+HypErrs: 0.000 0.259 0.259 0.000 0.000 0.000 0.000 0.562
+OtherErr: 2.854
+HypLocMap: 0 7 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.486 (3.934 / 8.100)
+
+Sentence ID: [doc1][0177]
+Original Reference: a man is riding a horse
+Original Hypothesis: A horse is being ridden by a man
+Reference: a man is riding a horse
+Hypothesis: a horse is being ridden by a man
+Hypothesis After Shift: a man is being ridden by a horse
+Alignment: (  IYP  )
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.000 0.562
+OtherErr: 0.000
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 4/6] (horse) -> (horse)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.176 (1.383 / 7.850)
+
+Sentence ID: [doc1][0178]
+Original Reference: A man eats some food.
+Original Hypothesis: Some food is being eaten by a man
+Reference: a man eats some food .
+Hypothesis: some food is being eaten by a man
+Hypothesis After Shift: a man eaten some food is being by
+Alignment: (  Y  IIS)
+HypErrs: 0.000 0.000 0.259 0.259 0.562 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 4 0 1 2 3 5
+
+NumShifts: 2
+  [6, 7, -1/-1] (a man) -> (a man)
+  [6, 6, 2/1] (eaten) -> (eats)
+Num Phrase Substitutions: 0
+
+Score: 0.435 (3.198 / 7.350)
+
+Sentence ID: [doc1][0179]
+Original Reference: A man is playing a flute.
+Original Hypothesis: A wooden flute is being played by a man
+Reference: a man is playing a flute .
+Hypothesis: a wooden flute is being played by a man
+Hypothesis After Shift: a man wooden is being played by a flute
+Alignment: (  IIYTI  D)
+HypErrs: 0.000 0.259 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 8 1 3 4 5 6 7 2
+
+NumShifts: 2
+  [2, 2, 4/7] (flute) -> (flute)
+  [8, 8, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.486 (3.328 / 6.850)
+
+Sentence ID: [doc1][0180]
+Original Reference: A woman is stroking a lemur.
+Original Hypothesis: A lemur is being stroked by a woman
+Reference: a woman is stroking a lemur .
+Hypothesis: a lemur is being stroked by a woman
+Hypothesis After Shift: a woman is being stroked by a lemur
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (lemur) -> (lemur)
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.386 (3.069 / 7.950)
+
+Sentence ID: [doc1][0181]
+Original Reference: Someone is playing a piano.
+Original Hypothesis: A piano is being played by someone
+Reference: someone is playing a piano .
+Hypothesis: a piano is being played by someone
+Hypothesis After Shift: someone is being played a piano by
+Alignment: ( IYT  S)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 6 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (a piano) -> (a piano)
+  [6, 6, -1/-1] (someone) -> (someone)
+Num Phrase Substitutions: 0
+
+Score: 0.417 (2.940 / 7.050)
+
+Sentence ID: [doc1][0182]
+Original Reference: a man is riding a horse
+Original Hypothesis: A horse is being ridden by a guy
+Reference: a man is riding a horse
+Hypothesis: a horse is being ridden by a guy
+Hypothesis After Shift: a is being ridden by a horse guy
+Alignment: ( SYP  I)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.000 0.000 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 5 6 1 7
+
+NumShifts: 1
+  [1, 1, 4/6] (horse) -> (horse)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.299 (2.377 / 7.950)
+
+Sentence ID: [doc1][0183]
+Original Reference: A man is cutting paper.
+Original Hypothesis: A paper plate is being cut by a man
+Reference: a man is cutting paper .
+Hypothesis: a paper plate is being cut by a man
+Hypothesis After Shift: a man a plate is being cut paper by
+Alignment: (  IIIYT S)
+HypErrs: 0.259 0.562 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 7 8 0 2 3 4 5 1 6
+
+NumShifts: 2
+  [1, 1, 3/5] (paper) -> (paper)
+  [7, 8, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.419 (3.457 / 8.250)
+
+Sentence ID: [doc1][0184]
+Original Reference: A man is mixing a bowl.
+Original Hypothesis: The content of a bowl is being mixed by a man
+Reference: a man is mixing a bowl .
+Hypothesis: the content of a bowl is being mixed by a man
+Hypothesis After Shift: the content of a man is being mixed by a bowl
+Alignment: (III  IYTI  D)
+HypErrs: 0.259 0.259 0.259 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 10 5 6 7 8 9 4
+
+NumShifts: 2
+  [4, 4, 5/9] (bowl) -> (bowl)
+  [10, 10, 0/3] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.394 (3.845 / 9.750)
+
+Sentence ID: [doc1][0185]
+Original Reference: The woman is pouring oil into the pan.
+Original Hypothesis: Oil is being poured into the pan by the woman
+Reference: the woman is pouring oil into the pan .
+Hypothesis: oil is being poured into the pan by the woman
+Hypothesis After Shift: the woman is being poured oil into the pan by
+Alignment: (  IYT    S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (the woman) -> (the woman)
+  [2, 2, 4/5] (oil) -> (oil)
+Num Phrase Substitutions: 0
+
+Score: 0.316 (2.940 / 9.300)
+
+Sentence ID: [doc1][0186]
+Original Reference: A man is screwing wood to a wall.
+Original Hypothesis: A piece of wood is being screwed to a wall by a man
+Reference: a man is screwing wood to a wall .
+Hypothesis: a piece of wood is being screwed to a wall by a man
+Hypothesis After Shift: a piece of is being screwed wood to a wall by a man
+Alignment: ( YIIYT    ISI)
+HypErrs: 0.000 0.000 0.259 0.562 0.259 0.000 0.000 0.000 0.000 0.000 0.259 1.557 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 4 5 6 3 7 8 9 10 11 12
+
+NumShifts: 1
+  [3, 3, 4/6] (wood) -> (wood)
+Num Phrase Substitutions: 0
+
+Score: 0.367 (3.154 / 8.600)
+
+Sentence ID: [doc1][0187]
+Original Reference: A woman is riding a horse.
+Original Hypothesis: A horse is being ridden by a woman
+Reference: a woman is riding a horse .
+Hypothesis: a horse is being ridden by a woman
+Hypothesis After Shift: a woman is being ridden by a horse
+Alignment: (  IYP  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (horse) -> (horse)
+  [7, 7, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.347 (2.810 / 8.100)
+
+Sentence ID: [doc1][0188]
+Original Reference: A man is playing a violin.
+Original Hypothesis: A violin is being played by a man
+Reference: a man is playing a violin .
+Hypothesis: a violin is being played by a man
+Hypothesis After Shift: a man is being played by a violin
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (violin) -> (violin)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.429 (3.069 / 7.150)
+
+Sentence ID: [doc1][0189]
+Original Reference: A man is playing a keyboard.
+Original Hypothesis: A keyboard is being played by a man
+Reference: a man is playing a keyboard .
+Hypothesis: a keyboard is being played by a man
+Hypothesis After Shift: a man is being played by a keyboard
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (keyboard) -> (keyboard)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.469 (3.069 / 6.550)
+
+Sentence ID: [doc1][0190]
+Original Reference: A boy is playing a guitar.
+Original Hypothesis: A guitar is being played by a boy
+Reference: a boy is playing a guitar .
+Hypothesis: a guitar is being played by a boy
+Hypothesis After Shift: a boy is being played by a guitar
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (guitar) -> (guitar)
+  [7, 7, 0/0] (boy) -> (boy)
+Num Phrase Substitutions: 0
+
+Score: 0.438 (3.069 / 7.000)
+
+Sentence ID: [doc1][0191]
+Original Reference: A child is playing a guitar.
+Original Hypothesis: A guitar is being played by a kid
+Reference: a child is playing a guitar .
+Hypothesis: a guitar is being played by a kid
+Hypothesis After Shift: a kid is being played by a guitar
+Alignment: ( YIYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (guitar) -> (guitar)
+  [7, 7, 0/0] (kid) -> (child)
+Num Phrase Substitutions: 0
+
+Score: 0.349 (3.069 / 8.800)
+
+Sentence ID: [doc1][0192]
+Original Reference: An onion is being sliced.
+Original Hypothesis: An onion is being sliced by a person
+Reference: an onion is being sliced .
+Hypothesis: an onion is being sliced by a person
+Hypothesis After Shift: an onion is being sliced by a person
+Alignment: (     IIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.243 (2.074 / 8.550)
+
+Sentence ID: [doc1][0193]
+Original Reference: A boy is playing a keyboard.
+Original Hypothesis: Some instruments are being played by a band
+Reference: a boy is playing a keyboard .
+Hypothesis: some instruments are being played by a band
+Hypothesis After Shift: some instruments are being played by a band
+Alignment: (ISSYTI DS)
+HypErrs: 0.259 1.557 1.557 0.000 0.000 0.259 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.853 (6.614 / 7.750)
+
+Sentence ID: [doc1][0194]
+Original Reference: A woman is slicing some onion
+Original Hypothesis: Carrots are being sliced by a woman
+Reference: a woman is slicing some onion
+Hypothesis: carrots are being sliced by a woman
+Hypothesis After Shift: a woman carrots are being sliced by
+Alignment: (  IIYTDS)
+HypErrs: 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.514 (4.063 / 7.900)
+
+Sentence ID: [doc1][0195]
+Original Reference: The woman is putting makeup on the man.
+Original Hypothesis: Makeup is being put on the man by the woman
+Reference: the woman is putting makeup on the man .
+Hypothesis: makeup is being put on the man by the woman
+Hypothesis After Shift: the woman is being put makeup on the man by
+Alignment: (  IYT    S)
+HypErrs: 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 8 9 1 2 3 0 4 5 6 7
+
+NumShifts: 2
+  [8, 9, -1/-1] (the woman) -> (the woman)
+  [2, 2, 4/5] (makeup) -> (makeup)
+Num Phrase Substitutions: 0
+
+Score: 0.298 (2.940 / 9.850)
+
+Sentence ID: [doc1][0196]
+Original Reference: A man is opening a door.
+Original Hypothesis: A door is being opened by a man
+Reference: a man is opening a door .
+Hypothesis: a door is being opened by a man
+Hypothesis After Shift: a man is being opened by a door
+Alignment: (  IYTI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (door) -> (door)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.384 (3.069 / 8.000)
+
+Sentence ID: [doc1][0197]
+Original Reference: A woman is frying food.
+Original Hypothesis: Some food is being fried by a woman
+Reference: a woman is frying food .
+Hypothesis: some food is being fried by a woman
+Hypothesis After Shift: a woman some is being fried food by
+Alignment: (  IIYY S)
+HypErrs: 0.259 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 0 2 3 4 1 5
+
+NumShifts: 2
+  [6, 7, -1/-1] (a woman) -> (a woman)
+  [3, 3, 3/6] (food) -> (food)
+Num Phrase Substitutions: 0
+
+Score: 0.348 (3.198 / 9.200)
+
+Sentence ID: [doc1][0198]
+Original Reference: A woman is pulling some kind of sticky goo out of a bowl.
+Original Hypothesis: Some sticky goo is being pulled out of a bowl by a woman
+Reference: a woman is pulling some kind of sticky goo out of a bowl .
+Hypothesis: some sticky goo is being pulled out of a bowl by a woman
+Hypothesis After Shift: a woman being pulled some sticky goo is out of a bowl by
+Alignment: (  YT DD  I    S)
+HypErrs: 0.000 0.000 0.000 0.259 0.281 0.281 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 2.854
+HypLocMap: 11 12 4 5 0 1 2 3 6 7 8 9 10
+
+NumShifts: 2
+  [4, 5, 2/-1] (being pulled) -> (is pulling)
+  [11, 12, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.552 (5.793 / 10.500)
+
+Sentence ID: [doc1][0199]
+Original Reference: The woman is putting paste into a dish.
+Original Hypothesis: Pasta is being put into a dish by a woman
+Reference: the woman is putting paste into a dish .
+Hypothesis: pasta is being put into a dish by a woman
+Hypothesis After Shift: pasta woman is being put into a dish by a
+Alignment: (S IYTD   IS)
+HypErrs: 1.557 0.259 0.000 0.000 0.000 0.000 0.000 0.259 1.557 0.562
+OtherErr: 1.427
+HypLocMap: 0 9 1 2 3 4 5 6 7 8
+
+NumShifts: 1
+  [9, 9, 0/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.535 (5.620 / 10.500)
+
+Sentence ID: [doc1][0200]
+Original Reference: cutting the item
+Original Hypothesis: The potato is being peeled by the lady
+Reference: cutting the item
+Hypothesis: the potato is being peeled by the lady
+Hypothesis After Shift: the potato is being peeled by the lady
+Alignment: (IIISII S)
+HypErrs: 0.259 0.259 0.259 1.557 0.259 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.634 (4.407 / 6.950)
+
+Sentence ID: [doc1][0201]
+Original Reference: A woman is slicing some onion
+Original Hypothesis: An octopus is being sliced by a woman
+Reference: a woman is slicing some onion
+Hypothesis: an octopus is being sliced by a woman
+Hypothesis After Shift: a woman an octopus is being sliced by
+Alignment: (  IIIYTSD)
+HypErrs: 0.259 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 6 7 0 1 2 3 4 5
+
+NumShifts: 1
+  [6, 7, -1/-1] (a woman) -> (a woman)
+Num Phrase Substitutions: 0
+
+Score: 0.547 (4.322 / 7.900)
+
+Sentence ID: [doc1][0202]
+Original Reference: the person is playing drums
+Original Hypothesis: The drums are being played by a man
+Reference: the person is playing drums
+Hypothesis: the drums are being played by a man
+Hypothesis After Shift: the are being played drums by a man
+Alignment: ( SYT III)
+HypErrs: 0.000 0.562 1.557 0.000 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 2 3 4 1 5 6 7
+
+NumShifts: 1
+  [1, 1, 3/4] (drums) -> (drums)
+Num Phrase Substitutions: 0
+
+Score: 0.442 (2.895 / 6.550)
+
+Sentence ID: [doc1][0203]
+Original Reference: a man is playing the guitar
+Original Hypothesis: The guitar is being played by a man
+Reference: a man is playing the guitar
+Hypothesis: the guitar is being played by a man
+Hypothesis After Shift: a man is being played the guitar by
+Alignment: (  IYT  I)
+HypErrs: 0.281 0.281 0.259 0.000 0.000 0.259 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 6 7 2 3 4 0 1 5
+
+NumShifts: 2
+  [0, 1, 3/4] (the guitar) -> (the guitar)
+  [6, 7, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.220 (1.642 / 7.450)
+
+Sentence ID: [doc1][0204]
+Original Reference: A woman is frying fish.
+Original Hypothesis: Fish is being fried by a woman
+Reference: a woman is frying fish .
+Hypothesis: fish is being fried by a woman
+Hypothesis After Shift: a woman is being fried fish by
+Alignment: (  IYY S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (a woman) -> (a woman)
+  [2, 2, 4/5] (fish) -> (fish)
+Num Phrase Substitutions: 0
+
+Score: 0.316 (2.940 / 9.300)
+
+Sentence ID: [doc1][0205]
+Original Reference: A man is mowing grass.
+Original Hypothesis: Grass is being mowed by a man
+Reference: a man is mowing grass .
+Hypothesis: grass is being mowed by a man
+Hypothesis After Shift: a man is being mowed grass by
+Alignment: (  IYT S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (a man) -> (a man)
+  [2, 2, 4/5] (grass) -> (grass)
+Num Phrase Substitutions: 0
+
+Score: 0.405 (2.940 / 7.250)
+
+Sentence ID: [doc1][0206]
+Original Reference: A person is holding a skunk.
+Original Hypothesis: A skunk is being held by a person
+Reference: a person is holding a skunk .
+Hypothesis: a skunk is being held by a person
+Hypothesis After Shift: a person is being held by a skunk
+Alignment: (  IYYI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (skunk) -> (skunk)
+  [7, 7, 0/0] (person) -> (person)
+Num Phrase Substitutions: 0
+
+Score: 0.393 (3.069 / 7.800)
+
+Sentence ID: [doc1][0207]
+Original Reference: A girl is eating a cupcake.
+Original Hypothesis: A cupcake is being eaten by a girl
+Reference: a girl is eating a cupcake .
+Hypothesis: a cupcake is being eaten by a girl
+Hypothesis After Shift: a girl is being eaten by a cupcake
+Alignment: (  IYYI  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.259 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (cupcake) -> (cupcake)
+  [7, 7, 0/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.420 (3.069 / 7.300)
+
+Sentence ID: [doc1][0208]
+Original Reference: Someone is stirring a pot of chili with a spoon.
+Original Hypothesis: A pot of chili is being stirred by someone with a spoon
+Reference: someone is stirring a pot of chili with a spoon .
+Hypothesis: a pot of chili is being stirred by someone with a spoon
+Hypothesis After Shift: someone being stirred a pot of chili is by with a spoon
+Alignment: ( YT    II   D)
+HypErrs: 0.000 0.000 0.000 0.000 0.259 0.281 0.281 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 8 5 6 0 1 2 3 4 7 9 10 11
+
+NumShifts: 2
+  [5, 6, 1/-1] (being stirred) -> (is stirring)
+  [8, 8, -1/-1] (someone) -> (someone)
+Num Phrase Substitutions: 0
+
+Score: 0.359 (3.069 / 8.550)
+
+Sentence ID: [doc1][0209]
+Original Reference: A woman slices tofu.
+Original Hypothesis: Tofu is being sliced by a woman
+Reference: a woman slices tofu .
+Hypothesis: tofu is being sliced by a woman
+Hypothesis After Shift: is being by a woman sliced tofu
+Alignment: (III  T D)
+HypErrs: 0.562 0.259 0.259 0.562 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 1 2 4 5 6 3 0
+
+NumShifts: 2
+  [0, 0, 3/6] (tofu) -> (tofu)
+  [2, 2, 2/5] (sliced) -> (slices)
+Num Phrase Substitutions: 0
+
+Score: 0.413 (3.328 / 8.050)
+
+Sentence ID: [doc1][0210]
+Original Reference: A man is putting cheese on a pizza.
+Original Hypothesis: Some cheese is being put on a pizza by a man
+Reference: a man is putting cheese on a pizza .
+Hypothesis: some cheese is being put on a pizza by a man
+Hypothesis After Shift: a man some is being put cheese on a pizza by
+Alignment: (  IIYT    S)
+HypErrs: 0.259 0.562 0.259 0.000 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 9 10 0 2 3 4 1 5 6 7 8
+
+NumShifts: 2
+  [9, 10, -1/-1] (a man) -> (a man)
+  [3, 3, 4/6] (cheese) -> (cheese)
+Num Phrase Substitutions: 0
+
+Score: 0.370 (3.198 / 8.650)
+
+Sentence ID: [doc1][0211]
+Original Reference: A cow is eating hay.
+Original Hypothesis: Hay is being eaten by a cow
+Reference: a cow is eating hay .
+Hypothesis: hay is being eaten by a cow
+Hypothesis After Shift: a cow is being eaten hay by
+Alignment: (  IYY S)
+HypErrs: 0.562 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 5 6 1 2 3 0 4
+
+NumShifts: 2
+  [5, 6, -1/-1] (a cow) -> (a cow)
+  [2, 2, 4/5] (hay) -> (hay)
+Num Phrase Substitutions: 0
+
+Score: 0.456 (2.940 / 6.450)
+
+Sentence ID: [doc1][0212]
+Original Reference: A potato is being peeled.
+Original Hypothesis: A potato is being peeled by a person
+Reference: a potato is being peeled .
+Hypothesis: a potato is being peeled by a person
+Hypothesis After Shift: a potato is being peeled by a person
+Alignment: (     IIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.282 (2.074 / 7.350)
+
+Sentence ID: [doc1][0213]
+Original Reference: A man is riding a motorcycle.
+Original Hypothesis: A motorcycle is being ridden by a man
+Reference: a man is riding a motorcycle .
+Hypothesis: a motorcycle is being ridden by a man
+Hypothesis After Shift: a man is being ridden by a motorcycle
+Alignment: (  IYP  D)
+HypErrs: 0.000 0.562 0.259 0.000 0.000 0.000 0.000 0.562
+OtherErr: 1.427
+HypLocMap: 0 7 2 3 4 5 6 1
+
+NumShifts: 2
+  [1, 1, 5/6] (motorcycle) -> (motorcycle)
+  [7, 7, 0/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.002394 <p>riding</p> <p>ridden by</p>
+
+Score: 0.343 (2.810 / 8.200)
+
+Sentence ID: [doc1][0214]
+Original Reference: A horse is being rode.
+Original Hypothesis: A horse is being ridden by a person
+Reference: a horse is being rode .
+Hypothesis: a horse is being ridden by a person
+Hypothesis After Shift: a horse is being ridden by a person
+Alignment: (    YIIS)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.263 (2.074 / 7.900)
+

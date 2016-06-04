@@ -1,0 +1,5577 @@
+Sentence ID: [doc1][0001]
+Original Reference: A person holds a frog.
+Original Hypothesis: There is no man holding a frog
+Reference: a person holds a frog .
+Hypothesis: there is no man holding a frog
+Hypothesis After Shift: there is no man holding a frog
+Alignment: (IIIPT  D)
+HypErrs: 0.259 0.259 0.259 1.212 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 1.2119911028214612 OrigCost: 0.008131 <p>a person</p> <p>man</p>
+
+Score: 0.371 (3.415 / 9.200)
+
+Sentence ID: [doc1][0002]
+Original Reference: A man is playing with a skull.
+Original Hypothesis: There is no man playing with a skull
+Reference: a man is playing with a skull .
+Hypothesis: there is no man playing with a skull
+Hypothesis After Shift: there man is no playing with a skull
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.366 (3.804 / 10.400)
+
+Sentence ID: [doc1][0003]
+Original Reference: A man plays two keyboards.
+Original Hypothesis: There is no man playing two keyboards
+Reference: a man plays two keyboards .
+Hypothesis: there is no man playing two keyboards
+Hypothesis After Shift: there is no man playing two keyboards
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.526 (3.501 / 6.650)
+
+Sentence ID: [doc1][0004]
+Original Reference: A man cuts a rope with a sword.
+Original Hypothesis: There is no man cutting a rope with a sword
+Reference: a man cuts a rope with a sword .
+Hypothesis: there is no man cutting a rope with a sword
+Hypothesis After Shift: there is no man cutting a rope with a sword
+Alignment: (IIS T     D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.357 (3.501 / 9.800)
+
+Sentence ID: [doc1][0005]
+Original Reference: A man is singing and playing the guitar.
+Original Hypothesis: There is no man singing and playing the guitar
+Reference: a man is singing and playing the guitar .
+Hypothesis: there is no man singing and playing the guitar
+Hypothesis After Shift: there man is no singing and playing the guitar
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.464 (3.804 / 8.200)
+
+Sentence ID: [doc1][0006]
+Original Reference: A man is beating another man.
+Original Hypothesis: There is no man being hit
+Reference: a man is beating another man .
+Hypothesis: there is no man being hit
+Hypothesis After Shift: there is no man being hit
+Alignment: (IIS YPDDD)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.329
+OtherErr: 4.281
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.3292283408070964 OrigCost: 0.053544 <p>beating</p> <p>hit</p>
+
+Score: 0.662 (6.684 / 10.100)
+
+Sentence ID: [doc1][0007]
+Original Reference: A woman slices a fish.
+Original Hypothesis: There is no woman slicing a fish
+Reference: a woman slices a fish .
+Hypothesis: there is no woman slicing a fish
+Hypothesis After Shift: there is no woman slicing a fish
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.424 (3.501 / 8.250)
+
+Sentence ID: [doc1][0008]
+Original Reference: cutting the item
+Original Hypothesis: There is no lady peeling the potato
+Reference: cutting the item
+Hypothesis: there is no lady peeling the potato
+Hypothesis After Shift: there is no lady peeling the potato
+Alignment: (IIISI S)
+HypErrs: 0.259 0.259 0.259 1.557 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.597 (4.149 / 6.950)
+
+Sentence ID: [doc1][0009]
+Original Reference: Someone is riding a horse.
+Original Hypothesis: There is no woman riding a horse
+Reference: someone is riding a horse .
+Hypothesis: there is no woman riding a horse
+Hypothesis After Shift: there is no woman riding a horse
+Alignment: (S II   D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.407 (3.501 / 8.600)
+
+Sentence ID: [doc1][0010]
+Original Reference: Man playing guitar
+Original Hypothesis: There is no man playing a guitar
+Reference: man playing guitar
+Hypothesis: there is no man playing a guitar
+Hypothesis After Shift: there is no man playing a guitar
+Alignment: (III  I )
+HypErrs: 0.259 0.259 0.259 0.000 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.147 (1.035 / 7.050)
+
+Sentence ID: [doc1][0011]
+Original Reference: A woman slices a potato.
+Original Hypothesis: There is no woman peeling a potato
+Reference: a woman slices a potato .
+Hypothesis: there is no woman peeling a potato
+Hypothesis After Shift: there is no woman peeling a potato
+Alignment: (IIS S  D)
+HypErrs: 0.259 0.259 1.557 0.000 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.755 (5.058 / 6.700)
+
+Sentence ID: [doc1][0012]
+Original Reference: kids are playing
+Original Hypothesis: There is no little girl playing a grand piano on stage
+Reference: kids are playing
+Hypothesis: there is no little girl playing a grand piano on stage
+Hypothesis After Shift: there is no little girl playing a grand piano on stage
+Alignment: (SYIII IIIII)
+HypErrs: 1.557 0.000 0.259 0.259 0.259 0.000 0.259 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.468 (3.627 / 7.750)
+
+Sentence ID: [doc1][0013]
+Original Reference: men are playing basketball
+Original Hypothesis: There is no team playing soccer
+Reference: men are playing basketball
+Hypothesis: there is no team playing soccer
+Hypothesis After Shift: there is no team playing soccer
+Alignment: (SYII S)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.554 (3.631 / 6.550)
+
+Sentence ID: [doc1][0014]
+Original Reference: A monkey is eating.
+Original Hypothesis: There is no lemur eating
+Reference: a monkey is eating .
+Hypothesis: there is no lemur eating
+Hypothesis After Shift: there is no lemur eating
+Alignment: (DS II D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.616 (4.928 / 8.000)
+
+Sentence ID: [doc1][0015]
+Original Reference: one man is working
+Original Hypothesis: There is no man sharpening a knife
+Reference: one man is working
+Hypothesis: there is no man sharpening a knife
+Hypothesis After Shift: there is no man sharpening a knife
+Alignment: (IYI ISS)
+HypErrs: 0.259 0.000 0.259 0.000 0.259 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.395 (3.890 / 9.850)
+
+Sentence ID: [doc1][0016]
+Original Reference: The rhino grazed on the grass.
+Original Hypothesis: There is no rhino grazing on the grass
+Reference: the rhino grazed on the grass .
+Hypothesis: there is no rhino grazing on the grass
+Hypothesis After Shift: there is no rhino grazing on the grass
+Alignment: (IIS T   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.565 (3.501 / 6.200)
+
+Sentence ID: [doc1][0017]
+Original Reference: A man plays the piano with his nose.
+Original Hypothesis: There is no man playing the piano with his nose
+Reference: a man plays the piano with his nose .
+Hypothesis: there is no man playing the piano with his nose
+Hypothesis After Shift: there is no man playing the piano with his nose
+Alignment: (IIS T     D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.350 (3.501 / 10.000)
+
+Sentence ID: [doc1][0018]
+Original Reference: A woman drops down a vine.
+Original Hypothesis: There is no woman dancing
+Reference: a woman drops down a vine .
+Hypothesis: there is no woman dancing
+Hypothesis After Shift: there is no woman dancing
+Alignment: (IIS DDDDS)
+HypErrs: 0.259 0.259 1.557 0.000 1.557
+OtherErr: 5.708
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 1.000 (9.339 / 8.800)
+
+Sentence ID: [doc1][0019]
+Original Reference: A man ties a noose.
+Original Hypothesis: There is no man tying a shoe
+Reference: a man ties a noose .
+Hypothesis: there is no man tying a shoe
+Hypothesis After Shift: there is no man tying a shoe
+Alignment: (IIS Y DS)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.653 (5.058 / 7.750)
+
+Sentence ID: [doc1][0020]
+Original Reference: someone is slicing potatoes
+Original Hypothesis: There is no person slicing a potato
+Reference: someone is slicing potatoes
+Hypothesis: there is no person slicing a potato
+Hypothesis After Shift: person there is no slicing a potato
+Alignment: (YI I IT)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 3 0 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, -1/-1] (person) -> (someone)
+Num Phrase Substitutions: 0
+
+Score: 0.173 (1.339 / 7.750)
+
+Sentence ID: [doc1][0021]
+Original Reference: A dog is looking around
+Original Hypothesis: There is no dog looking around
+Reference: a dog is looking around
+Hypothesis: there is no dog looking around
+Hypothesis After Shift: there dog is no looking around
+Alignment: (S  I  )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (dog) -> (dog)
+Num Phrase Substitutions: 0
+
+Score: 0.280 (2.377 / 8.500)
+
+Sentence ID: [doc1][0022]
+Original Reference: A monkey is teasing a dog at the zoo.
+Original Hypothesis: There is no monkey teasing a dog at the zoo
+Reference: a monkey is teasing a dog at the zoo .
+Hypothesis: there is no monkey teasing a dog at the zoo
+Hypothesis After Shift: there monkey is no teasing a dog at the zoo
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.400 (3.804 / 9.500)
+
+Sentence ID: [doc1][0023]
+Original Reference: A man speaks at a podium.
+Original Hypothesis: There is no man speaking on a podium
+Reference: a man speaks at a podium .
+Hypothesis: there is no man speaking on a podium
+Hypothesis After Shift: there is no man speaking on a podium
+Alignment: (IIS PI  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.338 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.3384668455496976 OrigCost: 0.029851 <p>speaks at</p> <p>speaking</p>
+
+Score: 0.512 (4.099 / 8.000)
+
+Sentence ID: [doc1][0024]
+Original Reference: A woman is tapping her fingers.
+Original Hypothesis: There is no woman tapping her fingers
+Reference: a woman is tapping her fingers .
+Hypothesis: there is no woman tapping her fingers
+Hypothesis After Shift: there woman is no tapping her fingers
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.405 (3.804 / 9.400)
+
+Sentence ID: [doc1][0025]
+Original Reference: Soccer players are kicking a soccer ball into the goal.
+Original Hypothesis: There are no soccer players kicking a soccer ball into the goal
+Reference: soccer players are kicking a soccer ball into the goal .
+Hypothesis: there are no soccer players kicking a soccer ball into the goal
+Hypothesis After Shift: there are no soccer players kicking a soccer ball into the goal
+Alignment: (III  D       D)
+HypErrs: 0.259 0.259 0.259 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.445 (3.630 / 8.150)
+
+Sentence ID: [doc1][0026]
+Original Reference: monkey is driving cycle
+Original Hypothesis: There is no monkey riding a bike
+Reference: monkey is driving cycle
+Hypothesis: there is no monkey riding a bike
+Hypothesis After Shift: monkey there is no riding a bike
+Alignment: ( I IYIY)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 3 0 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, -1/-1] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.177 (1.339 / 7.550)
+
+Sentence ID: [doc1][0027]
+Original Reference: The girl woke up.
+Original Hypothesis: There is no child waking up
+Reference: the girl woke up .
+Hypothesis: there is no child waking up
+Hypothesis After Shift: there is no child waking up
+Alignment: (IIIPPD)
+HypErrs: 0.259 0.259 0.259 0.718 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 2
+  NewCost: 0.7181765625886817 OrigCost: 0.097461 <p>the girl</p> <p>child</p>
+  NewCost: 0.0 OrigCost: 0.003509 <p>woke up</p> <p>waking up</p>
+
+Score: 0.387 (2.922 / 7.550)
+
+Sentence ID: [doc1][0028]
+Original Reference: A man is running on a road.
+Original Hypothesis: There is no man dancing on the road
+Reference: a man is running on a road .
+Hypothesis: there is no man dancing on the road
+Hypothesis After Shift: there man is no dancing on the road
+Alignment: (S  IS S D)
+HypErrs: 1.557 0.000 0.259 0.562 1.557 0.000 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.773 (6.917 / 8.950)
+
+Sentence ID: [doc1][0029]
+Original Reference: Someone is playing a piano.
+Original Hypothesis: There is no one playing a piano
+Reference: someone is playing a piano .
+Hypothesis: there is no one playing a piano
+Hypothesis After Shift: there is no one playing a piano
+Alignment: (IISY   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.497 (3.501 / 7.050)
+
+Sentence ID: [doc1][0030]
+Original Reference: A man is cutting pieces of butter into a mixing bowl.
+Original Hypothesis: There is no man cutting pieces of butter into a mixing bowl
+Reference: a man is cutting pieces of butter into a mixing bowl .
+Hypothesis: there is no man cutting pieces of butter into a mixing bowl
+Hypothesis After Shift: there man is no cutting pieces of butter into a mixing bowl
+Alignment: (S  I        D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10 11
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.400 (3.804 / 9.500)
+
+Sentence ID: [doc1][0031]
+Original Reference: A man is playing an electronic keyboard.
+Original Hypothesis: There is no man playing an electronic keyboard
+Reference: a man is playing an electronic keyboard .
+Hypothesis: there is no man playing an electronic keyboard
+Hypothesis After Shift: there man is no playing an electronic keyboard
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.528 (3.804 / 7.200)
+
+Sentence ID: [doc1][0032]
+Original Reference: A potato is cut.
+Original Hypothesis: There is no man cutting onions
+Reference: a potato is cut .
+Hypothesis: there is no man cutting onions
+Hypothesis After Shift: there is no man cutting onions
+Alignment: (DS IITS)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.665 (5.058 / 7.600)
+
+Sentence ID: [doc1][0033]
+Original Reference: A woman is slicing a tomato.
+Original Hypothesis: There is no woman slicing a tomato
+Reference: a woman is slicing a tomato .
+Hypothesis: there is no woman slicing a tomato
+Hypothesis After Shift: there woman is no slicing a tomato
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.559 (3.804 / 6.800)
+
+Sentence ID: [doc1][0034]
+Original Reference: A woman is mixing eggs.
+Original Hypothesis: There is no woman mixing eggs
+Reference: a woman is mixing eggs .
+Hypothesis: there is no woman mixing eggs
+Hypothesis After Shift: there woman is no mixing eggs
+Alignment: (S  I  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.453 (3.804 / 8.400)
+
+Sentence ID: [doc1][0035]
+Original Reference: A man using a microwave
+Original Hypothesis: There is no man is pushing the buttons of a microwave
+Reference: a man using a microwave
+Hypothesis: there is no man is pushing the buttons of a microwave
+Hypothesis After Shift: there is no man is pushing the buttons of a microwave
+Alignment: (IIS IIIIS  )
+HypErrs: 0.259 0.259 1.557 0.000 0.259 0.259 0.259 0.259 1.557 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.507 (4.666 / 9.200)
+
+Sentence ID: [doc1][0036]
+Original Reference: A woman cuts up some meat.
+Original Hypothesis: There is no lady cutting up some meat
+Reference: a woman cuts up some meat .
+Hypothesis: there is no lady cutting up some meat
+Hypothesis After Shift: there is no lady cutting up some meat
+Alignment: (IIIPT   D)
+HypErrs: 0.259 0.259 0.259 1.288 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 1.2877393510800936 OrigCost: 0.00548 <p>a woman</p> <p>lady</p>
+
+Score: 0.442 (3.491 / 7.900)
+
+Sentence ID: [doc1][0037]
+Original Reference: there is a cameras
+Original Hypothesis: There is no person setting fire to the cameras
+Reference: there is a cameras
+Hypothesis: there is no person setting fire to the cameras
+Hypothesis After Shift: there is no person setting fire to the cameras
+Alignment: (  IIISII )
+HypErrs: 0.000 0.000 0.259 0.259 0.259 1.557 0.259 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.368 (2.851 / 7.750)
+
+Sentence ID: [doc1][0038]
+Original Reference: A man in a suit is standing at a microphone and singing.
+Original Hypothesis: There is no man in a suit standing at a microphone and singing
+Reference: a man in a suit is standing at a microphone and singing .
+Hypothesis: there is no man in a suit standing at a microphone and singing
+Hypothesis After Shift: there is no man in a suit standing at a microphone and singing
+Alignment: (IIS    D      D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.709 (4.928 / 6.950)
+
+Sentence ID: [doc1][0039]
+Original Reference: A man sitting on the floor plays a guitar.
+Original Hypothesis: There is no man sitting on the floor and playing a guitar
+Reference: a man sitting on the floor plays a guitar .
+Hypothesis: there is no man sitting on the floor and playing a guitar
+Hypothesis After Shift: there is no man sitting on the floor and playing a guitar
+Alignment: (IIS     IT  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.413 (3.760 / 9.100)
+
+Sentence ID: [doc1][0040]
+Original Reference: someone is playing guitar.
+Original Hypothesis: There is no one playing the guitar
+Reference: someone is playing guitar .
+Hypothesis: there is no one playing the guitar
+Hypothesis After Shift: there is no one playing the guitar
+Alignment: (IISY I D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.515 (3.760 / 7.300)
+
+Sentence ID: [doc1][0041]
+Original Reference: A boy is playing guitar.
+Original Hypothesis: There is no kid playing guitar
+Reference: a boy is playing guitar .
+Hypothesis: there is no kid playing guitar
+Hypothesis After Shift: there is no kid playing guitar
+Alignment: (DS II  D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.560 (4.928 / 8.800)
+
+Sentence ID: [doc1][0042]
+Original Reference: A woman is deep frying food.
+Original Hypothesis: There is no woman deep frying food
+Reference: a woman is deep frying food .
+Hypothesis: there is no woman deep frying food
+Hypothesis After Shift: there woman is no deep frying food
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.414 (3.804 / 9.200)
+
+Sentence ID: [doc1][0043]
+Original Reference: He is speaking
+Original Hypothesis: There is no man speaking
+Reference: he is speaking
+Hypothesis: there is no man speaking
+Hypothesis After Shift: there is no man speaking
+Alignment: (S II )
+HypErrs: 1.557 0.000 0.259 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.298 (2.074 / 6.950)
+
+Sentence ID: [doc1][0044]
+Original Reference: The man sprinkled cheese on the pizza.
+Original Hypothesis: There is no man sprinkling cheese on the pizza
+Reference: the man sprinkled cheese on the pizza .
+Hypothesis: there is no man sprinkling cheese on the pizza
+Hypothesis After Shift: there is no man sprinkling cheese on the pizza
+Alignment: (IIS T    D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.405 (3.501 / 8.650)
+
+Sentence ID: [doc1][0045]
+Original Reference: A woman peels a potato.
+Original Hypothesis: There is no woman peeling a potato
+Reference: a woman peels a potato .
+Hypothesis: there is no woman peeling a potato
+Hypothesis After Shift: there is no woman peeling a potato
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.476 (3.501 / 7.350)
+
+Sentence ID: [doc1][0046]
+Original Reference: a woman is slicing a vegetable
+Original Hypothesis: There is no woman slicing a carrot
+Reference: a woman is slicing a vegetable
+Hypothesis: there is no woman slicing a carrot
+Hypothesis After Shift: there woman is no slicing a carrot
+Alignment: (S  I  S)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.474 (3.934 / 8.300)
+
+Sentence ID: [doc1][0047]
+Original Reference: a girl playing guitar
+Original Hypothesis: There is no seated woman singing a song and playing the guitar
+Reference: a girl playing guitar
+Hypothesis: there is no seated woman singing a song and playing the guitar
+Hypothesis After Shift: there is no seated woman singing a song and playing the guitar
+Alignment: (IIIIII IS I )
+HypErrs: 0.259 0.259 0.259 0.259 0.259 0.259 0.000 0.259 1.557 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.453 (3.627 / 8.000)
+
+Sentence ID: [doc1][0048]
+Original Reference: A small guinea pig is gnawing and eating a piece of carrot on the floor.
+Original Hypothesis: There is no small guinea pig gnawing and eating a piece of carrot on the floor
+Reference: a small guinea pig is gnawing and eating a piece of carrot on the floor .
+Hypothesis: there is no small guinea pig gnawing and eating a piece of carrot on the floor
+Hypothesis After Shift: there is no small guinea pig gnawing and eating a piece of carrot on the floor
+Alignment: (IIS   D          D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.616 (4.928 / 8.000)
+
+Sentence ID: [doc1][0049]
+Original Reference: A man is pouring oil into a pan.
+Original Hypothesis: There is no man pouring oil into a pan
+Reference: a man is pouring oil into a pan .
+Hypothesis: there is no man pouring oil into a pan
+Hypothesis After Shift: there man is no pouring oil into a pan
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.409 (3.804 / 9.300)
+
+Sentence ID: [doc1][0050]
+Original Reference: A women slicing green pepper.
+Original Hypothesis: There is no woman slicing a green pepper
+Reference: a women slicing green pepper .
+Hypothesis: there is no woman slicing a green pepper
+Hypothesis After Shift: there is no woman slicing a green pepper
+Alignment: (IISY I  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.456 (3.760 / 8.250)
+
+Sentence ID: [doc1][0051]
+Original Reference: A boy is checking a calendar.
+Original Hypothesis: There is no boy checking a calendar
+Reference: a boy is checking a calendar .
+Hypothesis: there is no boy checking a calendar
+Hypothesis After Shift: there boy is no checking a calendar
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (boy) -> (boy)
+Num Phrase Substitutions: 0
+
+Score: 0.416 (3.804 / 9.150)
+
+Sentence ID: [doc1][0052]
+Original Reference: A man eats a pizza.
+Original Hypothesis: There is no man eating a pizza
+Reference: a man eats a pizza .
+Hypothesis: there is no man eating a pizza
+Hypothesis After Shift: there is no man eating a pizza
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.417 (3.501 / 8.400)
+
+Sentence ID: [doc1][0053]
+Original Reference: Peoples are jumping on a trampoline.
+Original Hypothesis: There are no kids jumping on a trampoline
+Reference: peoples are jumping on a trampoline .
+Hypothesis: there are no kids jumping on a trampoline
+Hypothesis After Shift: there are no kids jumping on a trampoline
+Alignment: (S II    D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.443 (3.501 / 7.900)
+
+Sentence ID: [doc1][0054]
+Original Reference: A woman is cutting vegetables.
+Original Hypothesis: There is no woman cutting a vegetable
+Reference: a woman is cutting vegetables .
+Hypothesis: there is no woman cutting a vegetable
+Hypothesis After Shift: there woman is no cutting a vegetable
+Alignment: (S  I ITD)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.602 (4.063 / 6.750)
+
+Sentence ID: [doc1][0055]
+Original Reference: A man is playing an electronic keyboard.
+Original Hypothesis: There is no man playing an electronic keyboard
+Reference: a man is playing an electronic keyboard .
+Hypothesis: there is no man playing an electronic keyboard
+Hypothesis After Shift: there man is no playing an electronic keyboard
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.528 (3.804 / 7.200)
+
+Sentence ID: [doc1][0056]
+Original Reference: A man is singing and playing a guitar.
+Original Hypothesis: There is no man singing and playing a guitar
+Reference: a man is singing and playing a guitar .
+Hypothesis: there is no man singing and playing a guitar
+Hypothesis After Shift: there man is no singing and playing a guitar
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.464 (3.804 / 8.200)
+
+Sentence ID: [doc1][0057]
+Original Reference: A woman slices an onion.
+Original Hypothesis: There is no woman slicing an onion
+Reference: a woman slices an onion .
+Hypothesis: there is no woman slicing an onion
+Hypothesis After Shift: there is no woman slicing an onion
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.422 (3.501 / 8.300)
+
+Sentence ID: [doc1][0058]
+Original Reference: A chef prepared a meal.
+Original Hypothesis: There is no chef preparing a meal
+Reference: a chef prepared a meal .
+Hypothesis: there is no chef preparing a meal
+Hypothesis After Shift: there is no chef preparing a meal
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.443 (3.501 / 7.900)
+
+Sentence ID: [doc1][0059]
+Original Reference: A loris is hanging on a rope.
+Original Hypothesis: There is no lemur hanging on a cord
+Reference: a loris is hanging on a rope .
+Hypothesis: there is no lemur hanging on a cord
+Hypothesis After Shift: there is no lemur hanging on a cord
+Alignment: (DS II   PD)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000 0.234
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.23399230710610813 OrigCost: 0.127524 <p>rope</p> <p>cord</p>
+
+Score: 0.611 (5.162 / 8.450)
+
+Sentence ID: [doc1][0060]
+Original Reference: A man shoots a shotgun.
+Original Hypothesis: There is no man shooting a shotgun
+Reference: a man shoots a shotgun .
+Hypothesis: there is no man shooting a shotgun
+Hypothesis After Shift: there is no man shooting a shotgun
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.470 (3.501 / 7.450)
+
+Sentence ID: [doc1][0061]
+Original Reference: A man is slicing a tomato.
+Original Hypothesis: There is no man slicing a tomato
+Reference: a man is slicing a tomato .
+Hypothesis: there is no man slicing a tomato
+Hypothesis After Shift: there man is no slicing a tomato
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.511 (3.804 / 7.450)
+
+Sentence ID: [doc1][0062]
+Original Reference: The lion is walking
+Original Hypothesis: There is no lion walking
+Reference: the lion is walking
+Hypothesis: there is no lion walking
+Hypothesis After Shift: there lion is no walking
+Alignment: (S  I )
+HypErrs: 1.557 0.000 0.259 0.562 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (lion) -> (lion)
+Num Phrase Substitutions: 0
+
+Score: 0.371 (2.377 / 6.400)
+
+Sentence ID: [doc1][0063]
+Original Reference: Guitar is being played by artist.
+Original Hypothesis: There is no boy playing a guitar
+Reference: guitar is being played by artist .
+Hypothesis: there is no boy playing a guitar
+Hypothesis After Shift: guitar there is no boy playing a
+Alignment: ( I ISPDS)
+HypErrs: 0.259 0.000 0.259 1.557 0.499 1.557 0.562
+OtherErr: 1.427
+HypLocMap: 6 0 1 2 3 4 5
+
+NumShifts: 1
+  [6, 6, -1/-1] (guitar) -> (guitar)
+Num Phrase Substitutions: 1
+  NewCost: 0.4993147808649676 OrigCost: 0.00526 <p>played by</p> <p>playing</p>
+
+Score: 0.699 (6.119 / 8.750)
+
+Sentence ID: [doc1][0064]
+Original Reference: Someone is banging a camera lense against a nail.
+Original Hypothesis: There is no one banging a camera lens against a nail
+Reference: someone is banging a camera lense against a nail .
+Hypothesis: there is no one banging a camera lens against a nail
+Hypothesis After Shift: there is no one banging a camera lens against a nail
+Alignment: (IISY   Y   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.326 (3.501 / 10.750)
+
+Sentence ID: [doc1][0065]
+Original Reference: A woman is cutting an onion.
+Original Hypothesis: There is no person cutting an onion
+Reference: a woman is cutting an onion .
+Hypothesis: there is no person cutting an onion
+Hypothesis After Shift: there is no person cutting an onion
+Alignment: (DS II   D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.620 (4.928 / 7.950)
+
+Sentence ID: [doc1][0066]
+Original Reference: the animal is playing
+Original Hypothesis: There is no panda climbing
+Reference: the animal is playing
+Hypothesis: there is no panda climbing
+Hypothesis After Shift: there is no panda climbing
+Alignment: (DS IIS)
+HypErrs: 1.557 0.000 0.259 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.707 (5.058 / 7.150)
+
+Sentence ID: [doc1][0067]
+Original Reference: A man is eating food.
+Original Hypothesis: There is no man eating some food
+Reference: a man is eating food .
+Hypothesis: there is no man eating some food
+Hypothesis After Shift: there man is no eating some food
+Alignment: (S  I I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.481 (4.063 / 8.450)
+
+Sentence ID: [doc1][0068]
+Original Reference: A man is chopping a log with an axe.
+Original Hypothesis: There is no man chopping a log with an axe
+Reference: a man is chopping a log with an axe .
+Hypothesis: there is no man chopping a log with an axe
+Hypothesis After Shift: there man is no chopping a log with an axe
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.488 (3.804 / 7.800)
+
+Sentence ID: [doc1][0069]
+Original Reference: A white cat perched on a small wooden cabinet is looking outside the window.
+Original Hypothesis: There is no white cat perched on a small wooden cabinet looking outside the window
+Reference: a white cat perched on a small wooden cabinet is looking outside the window .
+Hypothesis: there is no white cat perched on a small wooden cabinet looking outside the window
+Hypothesis After Shift: there is no white cat perched on a small wooden cabinet looking outside the window
+Alignment: (IIS        D    D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.536 (4.928 / 9.200)
+
+Sentence ID: [doc1][0070]
+Original Reference: A boy is singing
+Original Hypothesis: There is no clown singing
+Reference: a boy is singing
+Hypothesis: there is no clown singing
+Hypothesis After Shift: there is no clown singing
+Alignment: (DS II )
+HypErrs: 1.557 0.000 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.467 (3.501 / 7.500)
+
+Sentence ID: [doc1][0071]
+Original Reference: A men shooting
+Original Hypothesis: There is no man shooting guns
+Reference: a men shooting
+Hypothesis: there is no man shooting guns
+Hypothesis After Shift: there is no man shooting guns
+Alignment: (IISY I)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.288 (2.333 / 8.100)
+
+Sentence ID: [doc1][0072]
+Original Reference: A man eats a banana.
+Original Hypothesis: There is no man eating a banana
+Reference: a man eats a banana .
+Hypothesis: there is no man eating a banana
+Hypothesis After Shift: there is no man eating a banana
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.480 (3.501 / 7.300)
+
+Sentence ID: [doc1][0073]
+Original Reference: Someone is peeling a potato.
+Original Hypothesis: There is no one peeling a banana
+Reference: someone is peeling a potato .
+Hypothesis: there is no one peeling a banana
+Hypothesis After Shift: there is no one peeling a banana
+Alignment: (IISY  DS)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.702 (5.058 / 7.200)
+
+Sentence ID: [doc1][0074]
+Original Reference: a rhino is eating grass
+Original Hypothesis: There is no rhino grazing in a field
+Reference: a rhino is eating grass
+Hypothesis: there is no rhino grazing in a field
+Hypothesis After Shift: there rhino is no grazing in a field
+Alignment: (S  IPIII)
+HypErrs: 1.557 0.000 0.259 0.562 0.429 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (rhino) -> (rhino)
+Num Phrase Substitutions: 1
+  NewCost: 0.42884568048266447 OrigCost: 0.333333 <p>eating grass</p> <p>grazing</p>
+
+Score: 0.578 (3.583 / 6.200)
+
+Sentence ID: [doc1][0075]
+Original Reference: there is a two people
+Original Hypothesis: There is no man massaging a woman
+Reference: there is a two people
+Hypothesis: there is no man massaging a woman
+Hypothesis After Shift: there is no man massaging a woman
+Alignment: (  III SD)
+HypErrs: 0.000 0.000 0.259 0.259 0.259 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.430 (3.760 / 8.750)
+
+Sentence ID: [doc1][0076]
+Original Reference: A woman rides a horse.
+Original Hypothesis: There is no woman riding a horse
+Reference: a woman rides a horse .
+Hypothesis: there is no woman riding a horse
+Hypothesis After Shift: there is no woman riding a horse
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.432 (3.501 / 8.100)
+
+Sentence ID: [doc1][0077]
+Original Reference: A man is walking.
+Original Hypothesis: There is no hamster singing
+Reference: a man is walking .
+Hypothesis: there is no hamster singing
+Hypothesis After Shift: there is no hamster singing
+Alignment: (DS ISS)
+HypErrs: 1.557 0.000 0.259 1.557 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.780 (6.355 / 8.150)
+
+Sentence ID: [doc1][0078]
+Original Reference: A car is driven.
+Original Hypothesis: There is no man driving a car
+Reference: a car is driven .
+Hypothesis: there is no man driving a car
+Hypothesis After Shift: a car there is no man driving
+Alignment: (  I IIYD)
+HypErrs: 0.259 0.000 0.259 0.259 0.000 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a car) -> (a car)
+Num Phrase Substitutions: 0
+
+Score: 0.376 (2.766 / 7.350)
+
+Sentence ID: [doc1][0079]
+Original Reference: a woman is cutting potato
+Original Hypothesis: There is no woman cutting potatoes
+Reference: a woman is cutting potato
+Hypothesis: there is no woman cutting potatoes
+Hypothesis After Shift: there woman is no cutting potatoes
+Alignment: (S  I T)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.355 (2.377 / 6.700)
+
+Sentence ID: [doc1][0080]
+Original Reference: A man cuts a boot with a sword.
+Original Hypothesis: There is no man cutting a boot with a sword
+Reference: a man cuts a boot with a sword .
+Hypothesis: there is no man cutting a boot with a sword
+Hypothesis After Shift: there is no man cutting a boot with a sword
+Alignment: (IIS T     D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.342 (3.501 / 10.250)
+
+Sentence ID: [doc1][0081]
+Original Reference: the person is reading the something
+Original Hypothesis: There is no man reading the email
+Reference: the person is reading the something
+Hypothesis: there is no man reading the email
+Hypothesis After Shift: there is no man reading the email
+Alignment: (IIIPD  S)
+HypErrs: 0.259 0.259 0.259 0.837 0.000 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.8368230423312493 OrigCost: 0.05506 <p>the person</p> <p>man</p>
+
+Score: 0.528 (4.597 / 8.700)
+
+Sentence ID: [doc1][0082]
+Original Reference: A woman peels a potato.
+Original Hypothesis: There is no woman peeling a potato
+Reference: a woman peels a potato .
+Hypothesis: there is no woman peeling a potato
+Hypothesis After Shift: there is no woman peeling a potato
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.476 (3.501 / 7.350)
+
+Sentence ID: [doc1][0083]
+Original Reference: A man is making a phone call.
+Original Hypothesis: There is no man making a phone call
+Reference: a man is making a phone call .
+Hypothesis: there is no man making a phone call
+Hypothesis After Shift: there man is no making a phone call
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.394 (3.804 / 9.650)
+
+Sentence ID: [doc1][0084]
+Original Reference: a women cutting broccoli up
+Original Hypothesis: There is no woman cutting broccoli
+Reference: a women cutting broccoli up
+Hypothesis: there is no woman cutting broccoli
+Hypothesis After Shift: there is no woman cutting broccoli
+Alignment: (IISY  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.467 (3.501 / 7.500)
+
+Sentence ID: [doc1][0085]
+Original Reference: A woman is cracking eggs.
+Original Hypothesis: There is no woman breaking eggs in a bowl
+Reference: a woman is cracking eggs .
+Hypothesis: there is no woman breaking eggs in a bowl
+Hypothesis After Shift: there woman is no breaking eggs in a bowl
+Alignment: (S  IY IIS)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.590 (4.452 / 7.550)
+
+Sentence ID: [doc1][0086]
+Original Reference: A boy is playing a flute.
+Original Hypothesis: There is no woman playing a flute
+Reference: a boy is playing a flute .
+Hypothesis: there is no woman playing a flute
+Hypothesis After Shift: there is no woman playing a flute
+Alignment: (DS II   D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.719 (4.928 / 6.850)
+
+Sentence ID: [doc1][0087]
+Original Reference: A man is window cleaning.
+Original Hypothesis: There is no window being cleaned by a man
+Reference: a man is window cleaning .
+Hypothesis: there is no window being cleaned by a man
+Hypothesis After Shift: a man there is no window being cleaned by
+Alignment: (  I I ITS)
+HypErrs: 0.259 0.000 0.259 0.000 0.259 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 7 8 0 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 8, -1/-1] (a man) -> (a man)
+Num Phrase Substitutions: 0
+
+Score: 0.322 (2.895 / 9.000)
+
+Sentence ID: [doc1][0088]
+Original Reference: A man sprinkles seasoning on slices of bread.
+Original Hypothesis: There is no man sprinkling seasoning on several sliced and buttered loaves of bread
+Reference: a man sprinkles seasoning on slices of bread .
+Hypothesis: there is no man sprinkling seasoning on several sliced and buttered loaves of bread
+Hypothesis After Shift: there is no man sprinkling seasoning on several sliced and buttered loaves of bread
+Alignment: (IIS T  ITIII  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.259 0.000 0.259 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12 13
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.490 (4.537 / 9.250)
+
+Sentence ID: [doc1][0089]
+Original Reference: Someone is cutting a tomato.
+Original Hypothesis: There is no one cutting a tomato
+Reference: someone is cutting a tomato .
+Hypothesis: there is no one cutting a tomato
+Hypothesis After Shift: there is no one cutting a tomato
+Alignment: (IISY   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.464 (3.501 / 7.550)
+
+Sentence ID: [doc1][0090]
+Original Reference: The man ran down the road.
+Original Hypothesis: There is no man running down the road
+Reference: the man ran down the road .
+Hypothesis: there is no man running down the road
+Hypothesis After Shift: there is no man running down the road
+Alignment: (IIS Y   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.427 (3.501 / 8.200)
+
+Sentence ID: [doc1][0091]
+Original Reference: A baby is running.
+Original Hypothesis: There is no boy hanging a fishing rod and running in front of a fish
+Reference: a baby is running .
+Hypothesis: there is no boy hanging a fishing rod and running in front of a fish
+Hypothesis After Shift: there is no boy hanging a fishing rod and running in front of a fish
+Alignment: (IIIII ISS IIIIS)
+HypErrs: 0.259 0.259 0.259 0.259 0.259 0.000 0.259 1.557 1.557 0.000 0.259 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.563 (7.258 / 12.900)
+
+Sentence ID: [doc1][0092]
+Original Reference: A woman is cooking a breaded pork chop.
+Original Hypothesis: There is no woman cooking a breaded pork chop
+Reference: a woman is cooking a breaded pork chop .
+Hypothesis: there is no woman cooking a breaded pork chop
+Hypothesis After Shift: there woman is no cooking a breaded pork chop
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.458 (3.804 / 8.300)
+
+Sentence ID: [doc1][0093]
+Original Reference: A man is standing on a roof top playing a violin.
+Original Hypothesis: There is no man standing on a roof top and playing a violin
+Reference: a man is standing on a roof top playing a violin .
+Hypothesis: there is no man standing on a roof top and playing a violin
+Hypothesis After Shift: there man is no standing on a roof top and playing a violin
+Alignment: (S  I     I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10 11 12
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.402 (4.063 / 10.100)
+
+Sentence ID: [doc1][0094]
+Original Reference: A woman is riding a water scooter.
+Original Hypothesis: There is no woman riding a water scooter
+Reference: a woman is riding a water scooter .
+Hypothesis: there is no woman riding a water scooter
+Hypothesis After Shift: there woman is no riding a water scooter
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.437 (3.804 / 8.700)
+
+Sentence ID: [doc1][0095]
+Original Reference: A person butters a tray.
+Original Hypothesis: There is no person buttering a tray
+Reference: a person butters a tray .
+Hypothesis: there is no person buttering a tray
+Hypothesis After Shift: there is no person buttering a tray
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.452 (3.501 / 7.750)
+
+Sentence ID: [doc1][0096]
+Original Reference: A lady cooking meat in a pan
+Original Hypothesis: There is no woman putting meat in a pan
+Reference: a lady cooking meat in a pan
+Hypothesis: there is no woman putting meat in a pan
+Hypothesis After Shift: there is no woman putting meat in a pan
+Alignment: (IIIPS    )
+HypErrs: 0.259 0.259 0.259 0.969 1.557 0.000 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.9693424443131442 OrigCost: 0.028367 <p>a lady</p> <p>woman</p>
+
+Score: 0.329 (3.302 / 10.050)
+
+Sentence ID: [doc1][0097]
+Original Reference: One person is sleeping
+Original Hypothesis: There is no man exercising
+Reference: one person is sleeping
+Hypothesis: there is no man exercising
+Hypothesis After Shift: there is no man exercising
+Alignment: (IYIPDS)
+HypErrs: 0.259 0.000 0.259 0.374 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.37434309568497853 OrigCost: 0.034792 <p>person</p> <p>man</p>
+
+Score: 0.426 (3.876 / 9.100)
+
+Sentence ID: [doc1][0098]
+Original Reference: Dogs are running
+Original Hypothesis: There is no dog running on the road
+Reference: dogs are running
+Hypothesis: there is no dog running on the road
+Hypothesis After Shift: dog there is no running on the road
+Alignment: (TIYI III)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 3 0 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, -1/-1] (dog) -> (dogs)
+Num Phrase Substitutions: 0
+
+Score: 0.213 (1.856 / 8.700)
+
+Sentence ID: [doc1][0099]
+Original Reference: A dog bounces on a trampoline.
+Original Hypothesis: There is no dog bouncing on a trampoline
+Reference: a dog bounces on a trampoline .
+Hypothesis: there is no dog bouncing on a trampoline
+Hypothesis After Shift: there is no dog bouncing on a trampoline
+Alignment: (IIS T   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.470 (3.501 / 7.450)
+
+Sentence ID: [doc1][0100]
+Original Reference: A woman is chopping octopus.
+Original Hypothesis: There is no woman chopping up an octopus
+Reference: a woman is chopping octopus .
+Hypothesis: there is no woman chopping up an octopus
+Hypothesis After Shift: there woman is no chopping up an octopus
+Alignment: (S  I II D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.547 (4.322 / 7.900)
+
+Sentence ID: [doc1][0101]
+Original Reference: A dog is barking.
+Original Hypothesis: There is no dog barking
+Reference: a dog is barking .
+Hypothesis: there is no dog barking
+Hypothesis After Shift: there dog is no barking
+Alignment: (S  I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (dog) -> (dog)
+Num Phrase Substitutions: 0
+
+Score: 0.543 (3.804 / 7.000)
+
+Sentence ID: [doc1][0102]
+Original Reference: A man is shaking a container over a sink.
+Original Hypothesis: There is no man shaking a container over a sink in the kitchen
+Reference: a man is shaking a container over a sink .
+Hypothesis: there is no man shaking a container over a sink in the kitchen
+Hypothesis After Shift: there man is no shaking a container over a sink in the kitchen
+Alignment: (S  I      IIS)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10 11 12
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.487 (4.452 / 9.150)
+
+Sentence ID: [doc1][0103]
+Original Reference: a man is peeling an apple
+Original Hypothesis: There is no man peeling an onion
+Reference: a man is peeling an apple
+Hypothesis: there is no man peeling an onion
+Hypothesis After Shift: there man is no peeling an onion
+Alignment: (S  I  S)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.410 (3.934 / 9.600)
+
+Sentence ID: [doc1][0104]
+Original Reference: A man is fitting silencer on a pistol.
+Original Hypothesis: There is no man fitting a silencer to a pistol
+Reference: a man is fitting silencer on a pistol .
+Hypothesis: there is no man fitting a silencer to a pistol
+Hypothesis After Shift: there man is no fitting a silencer to a pistol
+Alignment: (S  I I S  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.665 (5.620 / 8.450)
+
+Sentence ID: [doc1][0105]
+Original Reference: A woman rides an elephant.
+Original Hypothesis: There is no woman riding on an elephant
+Reference: a woman rides an elephant .
+Hypothesis: there is no woman riding on an elephant
+Hypothesis After Shift: there is no woman riding on an elephant
+Alignment: (IIS TI  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.442 (3.760 / 8.500)
+
+Sentence ID: [doc1][0106]
+Original Reference: A monkey is pulling a dog's tail.
+Original Hypothesis: There is no monkey pulling a dog's tail
+Reference: a monkey is pulling a dog 's tail .
+Hypothesis: there is no monkey pulling a dog 's tail
+Hypothesis After Shift: there monkey is no pulling a dog 's tail
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.400 (3.804 / 9.500)
+
+Sentence ID: [doc1][0107]
+Original Reference: A woman is cutting an onion.
+Original Hypothesis: There is no woman cutting an onion
+Reference: a woman is cutting an onion .
+Hypothesis: there is no woman cutting an onion
+Hypothesis After Shift: there woman is no cutting an onion
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.458 (3.804 / 8.300)
+
+Sentence ID: [doc1][0108]
+Original Reference: A rabbit plays with a toy.
+Original Hypothesis: There is no rabbit playing with a toy rabbit
+Reference: a rabbit plays with a toy .
+Hypothesis: there is no rabbit playing with a toy rabbit
+Hypothesis After Shift: there is no rabbit playing with a toy rabbit
+Alignment: (IIS P  S)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.076144 <p>plays with</p> <p>playing with</p>
+
+Score: 0.410 (3.631 / 8.850)
+
+Sentence ID: [doc1][0109]
+Original Reference: A potato is cut.
+Original Hypothesis: There is no man cutting tomatoes
+Reference: a potato is cut .
+Hypothesis: there is no man cutting tomatoes
+Hypothesis After Shift: there is no man cutting tomatoes
+Alignment: (DS IITS)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.665 (5.058 / 7.600)
+
+Sentence ID: [doc1][0110]
+Original Reference: A woman cutting onions.
+Original Hypothesis: There is no woman cutting onions
+Reference: a woman cutting onions .
+Hypothesis: there is no woman cutting onions
+Hypothesis After Shift: there is no woman cutting onions
+Alignment: (IIS   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.443 (3.501 / 7.900)
+
+Sentence ID: [doc1][0111]
+Original Reference: A man is wiping a bowl.
+Original Hypothesis: There is no man wiping the edge of a bowl
+Reference: a man is wiping a bowl .
+Hypothesis: there is no man wiping the edge of a bowl
+Hypothesis After Shift: there man is no wiping the edge of a bowl
+Alignment: (S  I III  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.456 (4.581 / 10.050)
+
+Sentence ID: [doc1][0112]
+Original Reference: A man is slicing a bun.
+Original Hypothesis: There is no man slicing a bun
+Reference: a man is slicing a bun .
+Hypothesis: there is no man slicing a bun
+Hypothesis After Shift: there man is no slicing a bun
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.470 (3.804 / 8.100)
+
+Sentence ID: [doc1][0113]
+Original Reference: A man is playing flute.
+Original Hypothesis: There is no man playing flute
+Reference: a man is playing flute .
+Hypothesis: there is no man playing flute
+Hypothesis After Shift: there man is no playing flute
+Alignment: (S  I  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.507 (3.804 / 7.500)
+
+Sentence ID: [doc1][0114]
+Original Reference: A man plays a keyboard.
+Original Hypothesis: There is no man playing a keyboard
+Reference: a man plays a keyboard .
+Hypothesis: there is no man playing a keyboard
+Hypothesis After Shift: there is no man playing a keyboard
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.511 (3.501 / 6.850)
+
+Sentence ID: [doc1][0115]
+Original Reference: A Man Playing Guitar.
+Original Hypothesis: There is no man playing a guitar
+Reference: a man playing guitar .
+Hypothesis: there is no man playing a guitar
+Hypothesis After Shift: there is no man playing a guitar
+Alignment: (IIS  I D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.565 (3.760 / 6.650)
+
+Sentence ID: [doc1][0116]
+Original Reference: Man playing guitar
+Original Hypothesis: There is no man playing the guitar
+Reference: man playing guitar
+Hypothesis: there is no man playing the guitar
+Hypothesis After Shift: there is no man playing the guitar
+Alignment: (III  I )
+HypErrs: 0.259 0.259 0.259 0.000 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.147 (1.035 / 7.050)
+
+Sentence ID: [doc1][0117]
+Original Reference: A man is pouring oil on tomatoes.
+Original Hypothesis: There is no man pouring some oil on the tomatoes
+Reference: a man is pouring oil on tomatoes .
+Hypothesis: there is no man pouring some oil on the tomatoes
+Hypothesis After Shift: there man is no pouring some oil on the tomatoes
+Alignment: (S  I I  I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.457 (4.322 / 9.450)
+
+Sentence ID: [doc1][0118]
+Original Reference: A cat is playing.
+Original Hypothesis: There is no cat playing with a device
+Reference: a cat is playing .
+Hypothesis: there is no cat playing with a device
+Hypothesis After Shift: there cat is no playing with a device
+Alignment: (S  I IIS)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (cat) -> (cat)
+Num Phrase Substitutions: 0
+
+Score: 0.512 (4.452 / 8.700)
+
+Sentence ID: [doc1][0119]
+Original Reference: A car is driving.
+Original Hypothesis: There is no white car being driven by the man
+Reference: a car is driving .
+Hypothesis: there is no white car being driven by the man
+Hypothesis After Shift: there is no white car being driven by the man
+Alignment: (IIIS YPIS)
+HypErrs: 0.259 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.004715 <p>driving</p> <p>driven by</p>
+
+Score: 0.564 (4.149 / 7.350)
+
+Sentence ID: [doc1][0120]
+Original Reference: A carrot is carefully sliced.
+Original Hypothesis: There is no person slicing a carrot into pieces
+Reference: a carrot is carefully sliced .
+Hypothesis: there is no person slicing a carrot into pieces
+Hypothesis After Shift: a carrot there is no person slicing into pieces
+Alignment: (  I ISTIS)
+HypErrs: 0.259 0.000 0.259 1.557 0.000 0.281 0.281 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 5 6 0 1 2 3 4 7 8
+
+NumShifts: 1
+  [5, 6, -1/-1] (a carrot) -> (a carrot)
+Num Phrase Substitutions: 0
+
+Score: 0.586 (4.452 / 7.600)
+
+Sentence ID: [doc1][0121]
+Original Reference: kids are playing
+Original Hypothesis: There is no little girl playing the piano
+Reference: kids are playing
+Hypothesis: there is no little girl playing the piano
+Hypothesis After Shift: there is no little girl playing the piano
+Alignment: (SYIII II)
+HypErrs: 1.557 0.000 0.259 0.259 0.259 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.368 (2.851 / 7.750)
+
+Sentence ID: [doc1][0122]
+Original Reference: A woman is cutting an onion.
+Original Hypothesis: There is no woman cutting an onion
+Reference: a woman is cutting an onion .
+Hypothesis: there is no woman cutting an onion
+Hypothesis After Shift: there woman is no cutting an onion
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.458 (3.804 / 8.300)
+
+Sentence ID: [doc1][0123]
+Original Reference: A woman is cleaning a shrimp.
+Original Hypothesis: There is no woman cleaning a shrimp
+Reference: a woman is cleaning a shrimp .
+Hypothesis: there is no woman cleaning a shrimp
+Hypothesis After Shift: there woman is no cleaning a shrimp
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.464 (3.804 / 8.200)
+
+Sentence ID: [doc1][0124]
+Original Reference: a man is talking
+Original Hypothesis: There is no man thinking
+Reference: a man is talking
+Hypothesis: there is no man thinking
+Hypothesis After Shift: there man is no thinking
+Alignment: (S  IS)
+HypErrs: 1.557 0.000 0.259 0.562 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.492 (3.934 / 8.000)
+
+Sentence ID: [doc1][0125]
+Original Reference: Someone is filling a pitcher with water.
+Original Hypothesis: There is no boy filling a pitcher with water
+Reference: someone is filling a pitcher with water .
+Hypothesis: there is no boy filling a pitcher with water
+Hypothesis After Shift: there is no boy filling a pitcher with water
+Alignment: (S II     D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.355 (3.501 / 9.850)
+
+Sentence ID: [doc1][0126]
+Original Reference: A man in the forest
+Original Hypothesis: There is no man walking in the rain
+Reference: a man in the forest
+Hypothesis: there is no man walking in the rain
+Hypothesis After Shift: there is no man walking in the rain
+Alignment: (IIS I  S)
+HypErrs: 0.259 0.259 1.557 0.000 0.259 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.425 (3.890 / 9.150)
+
+Sentence ID: [doc1][0127]
+Original Reference: People do flips on trampolines.
+Original Hypothesis: There is no man doing back flips on a trampoline
+Reference: people do flips on trampolines .
+Hypothesis: there is no man doing back flips on a trampoline
+Hypothesis After Shift: there is no man doing back flips on a trampoline
+Alignment: (IIIPTI  ITD)
+HypErrs: 0.259 0.259 0.259 0.716 0.000 0.259 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.7160303388310312 OrigCost: 0.001163 <p>people</p> <p>man</p>
+
+Score: 0.435 (3.437 / 7.900)
+
+Sentence ID: [doc1][0128]
+Original Reference: A woman is stroking a lemur.
+Original Hypothesis: There is no woman stroking a lemur
+Reference: a woman is stroking a lemur .
+Hypothesis: there is no woman stroking a lemur
+Hypothesis After Shift: there woman is no stroking a lemur
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.479 (3.804 / 7.950)
+
+Sentence ID: [doc1][0129]
+Original Reference: Clowns are singing.
+Original Hypothesis: There is no clown singing and people are not dancing
+Reference: clowns are singing .
+Hypothesis: there is no clown singing and people are not dancing
+Hypothesis After Shift: clown there is no singing and people are not dancing
+Alignment: (TIYI ISIII)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.259 1.557 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 3 0 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, -1/-1] (clown) -> (clowns)
+Num Phrase Substitutions: 0
+
+Score: 0.486 (3.672 / 7.550)
+
+Sentence ID: [doc1][0130]
+Original Reference: A man is cutting paper.
+Original Hypothesis: There is no man cutting a paper plate
+Reference: a man is cutting paper .
+Hypothesis: there is no man cutting a paper plate
+Hypothesis After Shift: there man is no cutting a paper plate
+Alignment: (S  I I S)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.508 (4.193 / 8.250)
+
+Sentence ID: [doc1][0131]
+Original Reference: A couple are running towards the ocean.
+Original Hypothesis: There is no couple running towards the ocean
+Reference: a couple are running towards the ocean .
+Hypothesis: there is no couple running towards the ocean
+Hypothesis After Shift: there couple is no running towards the ocean
+Alignment: (S YI    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (couple) -> (couple)
+Num Phrase Substitutions: 0
+
+Score: 0.400 (3.804 / 9.500)
+
+Sentence ID: [doc1][0132]
+Original Reference: A man is screwing wood to a wall.
+Original Hypothesis: There is no man screwing a piece of wood to a wall
+Reference: a man is screwing wood to a wall .
+Hypothesis: there is no man screwing a piece of wood to a wall
+Hypothesis After Shift: there is no man a piece of screwing wood to a wall
+Alignment: (IIII YS     D)
+HypErrs: 0.259 0.259 0.259 0.259 0.562 0.000 0.000 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 5 6 7 4 8 9 10 11
+
+NumShifts: 1
+  [4, 4, 3/7] (screwing) -> (screwing)
+Num Phrase Substitutions: 0
+
+Score: 0.533 (4.581 / 8.600)
+
+Sentence ID: [doc1][0133]
+Original Reference: A man plays a flute.
+Original Hypothesis: There is no man playing a flute
+Reference: a man plays a flute .
+Hypothesis: there is no man playing a flute
+Hypothesis After Shift: there is no man playing a flute
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.511 (3.501 / 6.850)
+
+Sentence ID: [doc1][0134]
+Original Reference: A man is singing and playing a guitar.
+Original Hypothesis: There is no man singing and playing a guitar
+Reference: a man is singing and playing a guitar .
+Hypothesis: there is no man singing and playing a guitar
+Hypothesis After Shift: there man is no singing and playing a guitar
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.464 (3.804 / 8.200)
+
+Sentence ID: [doc1][0135]
+Original Reference: Someone is cutting grass with scissors.
+Original Hypothesis: There is no boy cutting grass with scissors
+Reference: someone is cutting grass with scissors .
+Hypothesis: there is no boy cutting grass with scissors
+Hypothesis After Shift: there is no boy cutting grass with scissors
+Alignment: (S II    D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.396 (3.501 / 8.850)
+
+Sentence ID: [doc1][0136]
+Original Reference: Someone is slicing an onion.
+Original Hypothesis: There is no person slicing an onion
+Reference: someone is slicing an onion .
+Hypothesis: there is no person slicing an onion
+Hypothesis After Shift: person there is no slicing an onion
+Alignment: (YI I   D)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 3 0 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, -1/-1] (person) -> (someone)
+Num Phrase Substitutions: 0
+
+Score: 0.293 (2.507 / 8.550)
+
+Sentence ID: [doc1][0137]
+Original Reference: someone is slicing potatoes
+Original Hypothesis: There is no man slicing a potato into pieces
+Reference: someone is slicing potatoes
+Hypothesis: there is no man slicing a potato into pieces
+Hypothesis After Shift: there is no man slicing a potato into pieces
+Alignment: (S II ITII)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.259 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.368 (2.851 / 7.750)
+
+Sentence ID: [doc1][0138]
+Original Reference: A girl is filing her nails.
+Original Hypothesis: There is no girl filing her nails
+Reference: a girl is filing her nails .
+Hypothesis: there is no girl filing her nails
+Hypothesis After Shift: there girl is no filing her nails
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.528 (3.804 / 7.200)
+
+Sentence ID: [doc1][0139]
+Original Reference: A woman is exercising.
+Original Hypothesis: There is no woman exercising
+Reference: a woman is exercising .
+Hypothesis: there is no woman exercising
+Hypothesis After Shift: there woman is no exercising
+Alignment: (S  I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.442 (3.804 / 8.600)
+
+Sentence ID: [doc1][0140]
+Original Reference: A man is slicing a potato
+Original Hypothesis: There is no man slicing a potato
+Reference: a man is slicing a potato
+Hypothesis: there is no man slicing a potato
+Hypothesis After Shift: there man is no slicing a potato
+Alignment: (S  I   )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.307 (2.377 / 7.750)
+
+Sentence ID: [doc1][0141]
+Original Reference: the man fishing in the river.
+Original Hypothesis: There is no man fishing in the river
+Reference: the man fishing in the river .
+Hypothesis: there is no man fishing in the river
+Hypothesis After Shift: there is no man fishing in the river
+Alignment: (IIS     D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.455 (3.501 / 7.700)
+
+Sentence ID: [doc1][0142]
+Original Reference: A girl is communicating with sign language.
+Original Hypothesis: There is no girl communicating with sign language
+Reference: a girl is communicating with sign language .
+Hypothesis: there is no girl communicating with sign language
+Hypothesis After Shift: there girl is no communicating with sign language
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.507 (3.804 / 7.500)
+
+Sentence ID: [doc1][0143]
+Original Reference: A woman is firing a rifle.
+Original Hypothesis: There is no woman firing a rifle
+Reference: a woman is firing a rifle .
+Hypothesis: there is no woman firing a rifle
+Hypothesis After Shift: there woman is no firing a rifle
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.456 (3.804 / 8.350)
+
+Sentence ID: [doc1][0144]
+Original Reference: a baby tiger playing
+Original Hypothesis: There is no baby tiger playing with a ball
+Reference: a baby tiger playing
+Hypothesis: there is no baby tiger playing with a ball
+Hypothesis After Shift: there is no baby tiger playing with a ball
+Alignment: (IIS   III)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.324 (2.851 / 8.800)
+
+Sentence ID: [doc1][0145]
+Original Reference: A man is riding an electric bicycle.
+Original Hypothesis: There is no man riding an electric bicycle
+Reference: a man is riding an electric bicycle .
+Hypothesis: there is no man riding an electric bicycle
+Hypothesis After Shift: there man is no riding an electric bicycle
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.432 (3.804 / 8.800)
+
+Sentence ID: [doc1][0146]
+Original Reference: Two boys are driving.
+Original Hypothesis: There is no man driving the car
+Reference: two boys are driving .
+Hypothesis: there is no man driving the car
+Hypothesis After Shift: there is no man driving the car
+Alignment: (DSYII IS)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.604 (5.317 / 8.800)
+
+Sentence ID: [doc1][0147]
+Original Reference: 
+Original Hypothesis: There is no woman combing her hair
+Reference: 
+Hypothesis: there is no woman combing her hair
+Hypothesis After Shift: there is no woman combing her hair
+Alignment: (IIIIIII)
+HypErrs: 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.248 (1.812 / 7.300)
+
+Sentence ID: [doc1][0148]
+Original Reference: A monkey is wading through marshland.
+Original Hypothesis: There is no monkey wading through a marsh
+Reference: a monkey is wading through marshland .
+Hypothesis: there is no monkey wading through a marsh
+Hypothesis After Shift: there monkey is no wading through a marsh
+Alignment: (S  I  IYD)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.505 (4.063 / 8.050)
+
+Sentence ID: [doc1][0149]
+Original Reference: the boys is dancing
+Original Hypothesis: There are no mimes performing
+Reference: the boys is dancing
+Hypothesis: there are no mimes performing
+Hypothesis After Shift: there are no mimes performing
+Alignment: (DSYIIS)
+HypErrs: 1.557 0.000 0.259 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.661 (5.058 / 7.650)
+
+Sentence ID: [doc1][0150]
+Original Reference: A lion is pacing in a pen.
+Original Hypothesis: There is no lion pacing tiredly in a pen
+Reference: a lion is pacing in a pen .
+Hypothesis: there is no lion pacing tiredly in a pen
+Hypothesis After Shift: there lion is no pacing tiredly in a pen
+Alignment: (S  I I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (lion) -> (lion)
+Num Phrase Substitutions: 0
+
+Score: 0.635 (4.063 / 6.400)
+
+Sentence ID: [doc1][0151]
+Original Reference: Someone is pouring oil into a pot.
+Original Hypothesis: There is no person pouring olive oil into a pot on the stove
+Reference: someone is pouring oil into a pot .
+Hypothesis: there is no person pouring olive oil into a pot on the stove
+Hypothesis After Shift: person there is no pouring olive oil into a pot on the stove
+Alignment: (YI I I    SII)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.259 0.000 0.000 0.000 0.000 1.557 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 3 0 1 2 4 5 6 7 8 9 10 11 12
+
+NumShifts: 1
+  [3, 3, -1/-1] (person) -> (someone)
+Num Phrase Substitutions: 0
+
+Score: 0.367 (3.413 / 9.300)
+
+Sentence ID: [doc1][0152]
+Original Reference: A woman is preparing an egg in a skillet.
+Original Hypothesis: There is no woman preparing an egg in a skillet
+Reference: a woman is preparing an egg in a skillet .
+Hypothesis: there is no woman preparing an egg in a skillet
+Hypothesis After Shift: there woman is no preparing an egg in a skillet
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.470 (3.804 / 8.100)
+
+Sentence ID: [doc1][0153]
+Original Reference: a women is makeuping
+Original Hypothesis: There is no woman penciling on eyeshadow
+Reference: a women is makeuping
+Hypothesis: there is no woman penciling on eyeshadow
+Hypothesis After Shift: there is no woman penciling on eyeshadow
+Alignment: (IISYISS)
+HypErrs: 0.259 0.259 1.557 0.000 0.259 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.598 (5.446 / 9.100)
+
+Sentence ID: [doc1][0154]
+Original Reference: Men are dancing.
+Original Hypothesis: There is no woman dancing
+Reference: men are dancing .
+Hypothesis: there is no woman dancing
+Hypothesis After Shift: there is no woman dancing
+Alignment: (SYII D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.490 (3.501 / 7.150)
+
+Sentence ID: [doc1][0155]
+Original Reference: A woman is squeezing juice out of a lemon.
+Original Hypothesis: There is no woman squeezing juice out of a lemon
+Reference: a woman is squeezing juice out of a lemon .
+Hypothesis: there is no woman squeezing juice out of a lemon
+Hypothesis After Shift: there woman is no squeezing juice out of a lemon
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.494 (3.804 / 7.700)
+
+Sentence ID: [doc1][0156]
+Original Reference: A boy is looking at a calendar.
+Original Hypothesis: There is no boy looking at a calendar
+Reference: a boy is looking at a calendar .
+Hypothesis: there is no boy looking at a calendar
+Hypothesis After Shift: there boy is no looking at a calendar
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (boy) -> (boy)
+Num Phrase Substitutions: 0
+
+Score: 0.416 (3.804 / 9.150)
+
+Sentence ID: [doc1][0157]
+Original Reference: a group of people dancing
+Original Hypothesis: There is no group of people dancing
+Reference: a group of people dancing
+Hypothesis: there is no group of people dancing
+Hypothesis After Shift: there is no group of people dancing
+Alignment: (IIS    )
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.223 (2.074 / 9.300)
+
+Sentence ID: [doc1][0158]
+Original Reference: A man is running on a road.
+Original Hypothesis: There is no man running on the road
+Reference: a man is running on a road .
+Hypothesis: there is no man running on the road
+Hypothesis After Shift: there man is no running on the road
+Alignment: (S  I  S D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.599 (5.361 / 8.950)
+
+Sentence ID: [doc1][0159]
+Original Reference: A dog is eating a doll.
+Original Hypothesis: There is no dog eating a doll
+Reference: a dog is eating a doll .
+Hypothesis: there is no dog eating a doll
+Hypothesis After Shift: there dog is no eating a doll
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (dog) -> (dog)
+Num Phrase Substitutions: 0
+
+Score: 0.458 (3.804 / 8.300)
+
+Sentence ID: [doc1][0160]
+Original Reference: A potato is cut.
+Original Hypothesis: There is no man cutting a potato
+Reference: a potato is cut .
+Hypothesis: there is no man cutting a potato
+Hypothesis After Shift: a potato there is no man cutting
+Alignment: (  I IITD)
+HypErrs: 0.259 0.000 0.259 0.259 0.000 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a potato) -> (a potato)
+Num Phrase Substitutions: 0
+
+Score: 0.364 (2.766 / 7.600)
+
+Sentence ID: [doc1][0161]
+Original Reference: A man is patting an alligator on the mouth.
+Original Hypothesis: There is no man patting an alligator on the mouth
+Reference: a man is patting an alligator on the mouth .
+Hypothesis: there is no man patting an alligator on the mouth
+Hypothesis After Shift: there man is no patting an alligator on the mouth
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.411 (3.804 / 9.250)
+
+Sentence ID: [doc1][0162]
+Original Reference: Two women are singing.
+Original Hypothesis: There is no policewoman singing at karaoke
+Reference: two women are singing .
+Hypothesis: there is no policewoman singing at karaoke
+Hypothesis After Shift: there is no policewoman singing at karaoke
+Alignment: (DSYII IS)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.259 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.700 (5.317 / 7.600)
+
+Sentence ID: [doc1][0163]
+Original Reference: a woman is cutting potato
+Original Hypothesis: There is no woman cutting a potato
+Reference: a woman is cutting potato
+Hypothesis: there is no woman cutting a potato
+Hypothesis After Shift: there woman is no cutting a potato
+Alignment: (S  I I )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.393 (2.636 / 6.700)
+
+Sentence ID: [doc1][0164]
+Original Reference: A woman is cutting something.
+Original Hypothesis: There is no woman frying something
+Reference: a woman is cutting something .
+Hypothesis: there is no woman frying something
+Hypothesis After Shift: there woman is no frying something
+Alignment: (S  IS D)
+HypErrs: 1.557 0.000 0.259 0.562 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.679 (5.361 / 7.900)
+
+Sentence ID: [doc1][0165]
+Original Reference: A man is cutting onion
+Original Hypothesis: There is no man cutting an onion
+Reference: a man is cutting onion
+Hypothesis: there is no man cutting an onion
+Hypothesis After Shift: there man is no cutting an onion
+Alignment: (S  I I )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.352 (2.636 / 7.500)
+
+Sentence ID: [doc1][0166]
+Original Reference: A man is opening a door.
+Original Hypothesis: There is no man opening a door
+Reference: a man is opening a door .
+Hypothesis: there is no man opening a door
+Hypothesis After Shift: there man is no opening a door
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.476 (3.804 / 8.000)
+
+Sentence ID: [doc1][0167]
+Original Reference: A person plays the piano.
+Original Hypothesis: There is no man playing the piano
+Reference: a person plays the piano .
+Hypothesis: there is no man playing the piano
+Hypothesis After Shift: there is no man playing the piano
+Alignment: (IIIPT  D)
+HypErrs: 0.259 0.259 0.259 1.212 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 1.2119911028214612 OrigCost: 0.008131 <p>a person</p> <p>man</p>
+
+Score: 0.510 (3.415 / 6.700)
+
+Sentence ID: [doc1][0168]
+Original Reference: A woman is playing the fiddle.
+Original Hypothesis: There is no woman playing the violin
+Reference: a woman is playing the fiddle .
+Hypothesis: there is no woman playing the violin
+Hypothesis After Shift: there woman is no playing the violin
+Alignment: (S  I  YD)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.551 (3.804 / 6.900)
+
+Sentence ID: [doc1][0169]
+Original Reference: the man is riding bike
+Original Hypothesis: There is no man riding a motorcycle
+Reference: the man is riding bike
+Hypothesis: there is no man riding a motorcycle
+Hypothesis After Shift: there man is no riding a motorcycle
+Alignment: (S  I IY)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.322 (2.636 / 8.200)
+
+Sentence ID: [doc1][0170]
+Original Reference: Someone is holding a tiger cub.
+Original Hypothesis: There is no tiger cub making a sound
+Reference: someone is holding a tiger cub .
+Hypothesis: there is no tiger cub making a sound
+Hypothesis After Shift: there is making a no tiger cub sound
+Alignment: (S Y I  S)
+HypErrs: 1.557 0.000 0.259 0.000 0.000 0.281 0.281 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 5 6 2 3 4 7
+
+NumShifts: 1
+  [5, 6, 1/1] (making a) -> (is holding a)
+Num Phrase Substitutions: 0
+
+Score: 0.528 (3.934 / 7.450)
+
+Sentence ID: [doc1][0171]
+Original Reference: A man is slicing potato.
+Original Hypothesis: There is no man slicing potatoes
+Reference: a man is slicing potato .
+Hypothesis: there is no man slicing potatoes
+Hypothesis After Shift: there man is no slicing potatoes
+Alignment: (S  I TD)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.521 (3.804 / 7.300)
+
+Sentence ID: [doc1][0172]
+Original Reference: A girl is playing a flute.
+Original Hypothesis: There is no girl playing a flute
+Reference: a girl is playing a flute .
+Hypothesis: there is no girl playing a flute
+Hypothesis After Shift: there girl is no playing a flute
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.525 (3.804 / 7.250)
+
+Sentence ID: [doc1][0173]
+Original Reference: A guy is mowing the lawn.
+Original Hypothesis: There is no guy mowing the lawn
+Reference: a guy is mowing the lawn .
+Hypothesis: there is no guy mowing the lawn
+Hypothesis After Shift: there guy is no mowing the lawn
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (guy) -> (guy)
+Num Phrase Substitutions: 0
+
+Score: 0.525 (3.804 / 7.250)
+
+Sentence ID: [doc1][0174]
+Original Reference: A young boy sings and plays a guitar.
+Original Hypothesis: There is no young boy singing and playing a guitar
+Reference: a young boy sings and plays a guitar .
+Hypothesis: there is no young boy singing and playing a guitar
+Hypothesis After Shift: there is no young boy singing and playing a guitar
+Alignment: (IIS  PT  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.25 <p>sings and</p> <p>singing and</p>
+
+Score: 0.398 (3.501 / 8.800)
+
+Sentence ID: [doc1][0175]
+Original Reference: A woman slices tofu.
+Original Hypothesis: There is no woman slicing tofu
+Reference: a woman slices tofu .
+Hypothesis: there is no woman slicing tofu
+Hypothesis After Shift: there is no woman slicing tofu
+Alignment: (IIS T D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.435 (3.501 / 8.050)
+
+Sentence ID: [doc1][0176]
+Original Reference: Men are running.
+Original Hypothesis: There is no man playing a game on the grass
+Reference: men are running .
+Hypothesis: there is no man playing a game on the grass
+Hypothesis After Shift: man there is no playing a game on the grass
+Alignment: (YIYIYISIII)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.259 1.557 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 3 0 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, -1/-1] (man) -> (men)
+Num Phrase Substitutions: 0
+
+Score: 0.474 (3.672 / 7.750)
+
+Sentence ID: [doc1][0177]
+Original Reference: a person is cutting
+Original Hypothesis: There is no person writing
+Reference: a person is cutting
+Hypothesis: there is no person writing
+Hypothesis After Shift: there person is no writing
+Alignment: (S  IS)
+HypErrs: 1.557 0.000 0.259 0.562 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (person) -> (person)
+Num Phrase Substitutions: 0
+
+Score: 0.525 (3.934 / 7.500)
+
+Sentence ID: [doc1][0178]
+Original Reference: A man is mixing.
+Original Hypothesis: There is no man mixing
+Reference: a man is mixing .
+Hypothesis: there is no man mixing
+Hypothesis After Shift: there man is no mixing
+Alignment: (S  I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.464 (3.804 / 8.200)
+
+Sentence ID: [doc1][0179]
+Original Reference: A man pours liquid into a pan.
+Original Hypothesis: There is no man pouring liquid into a pot
+Reference: a man pours liquid into a pan .
+Hypothesis: there is no man pouring liquid into a pot
+Hypothesis After Shift: there is no man pouring liquid into a pot
+Alignment: (IIS T   DS)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.568 (5.058 / 8.900)
+
+Sentence ID: [doc1][0180]
+Original Reference: Cat drinking milk
+Original Hypothesis: There is no milk being drunk by a cat
+Reference: cat drinking milk
+Hypothesis: there is no milk being drunk by a cat
+Hypothesis After Shift: cat there is no being drunk milk by a
+Alignment: ( IIIIY II)
+HypErrs: 0.259 0.259 0.259 0.562 0.259 0.000 0.259 0.259 0.562
+OtherErr: 0.000
+HypLocMap: 8 0 1 2 4 5 3 6 7
+
+NumShifts: 2
+  [3, 3, 1/5] (milk) -> (milk)
+  [8, 8, -1/-1] (cat) -> (cat)
+Num Phrase Substitutions: 0
+
+Score: 0.359 (2.677 / 7.450)
+
+Sentence ID: [doc1][0181]
+Original Reference: Puppy is drinking milk
+Original Hypothesis: There is no kitten drinking milk
+Reference: puppy is drinking milk
+Hypothesis: there is no kitten drinking milk
+Hypothesis After Shift: there is no kitten drinking milk
+Alignment: (S II  )
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.263 (2.074 / 7.900)
+
+Sentence ID: [doc1][0182]
+Original Reference: Someone is slicing an onion.
+Original Hypothesis: There is no man slicing an onion
+Reference: someone is slicing an onion .
+Hypothesis: there is no man slicing an onion
+Hypothesis After Shift: there is no man slicing an onion
+Alignment: (S II   D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.449 (3.501 / 7.800)
+
+Sentence ID: [doc1][0183]
+Original Reference: A parrot is speaking.
+Original Hypothesis: There is no parrot speaking
+Reference: a parrot is speaking .
+Hypothesis: there is no parrot speaking
+Hypothesis After Shift: there parrot is no speaking
+Alignment: (S  I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (parrot) -> (parrot)
+Num Phrase Substitutions: 0
+
+Score: 0.491 (3.804 / 7.750)
+
+Sentence ID: [doc1][0184]
+Original Reference: Cat drinking milk
+Original Hypothesis: There is no cat hungrily drinking milk
+Reference: cat drinking milk
+Hypothesis: there is no cat hungrily drinking milk
+Hypothesis After Shift: there is no cat hungrily drinking milk
+Alignment: (III I  )
+HypErrs: 0.259 0.259 0.259 0.000 0.259 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.139 (1.035 / 7.450)
+
+Sentence ID: [doc1][0185]
+Original Reference: The lady danced in a cage.
+Original Hypothesis: There is no woman dancing in a cage
+Reference: the lady danced in a cage .
+Hypothesis: there is no woman dancing in a cage
+Hypothesis After Shift: there is no woman dancing in a cage
+Alignment: (IIIPT   D)
+HypErrs: 0.259 0.259 0.259 0.620 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6199008975885496 OrigCost: 0.152602 <p>the lady</p> <p>woman</p>
+
+Score: 0.364 (2.823 / 7.750)
+
+Sentence ID: [doc1][0186]
+Original Reference: A woman pealing a potato
+Original Hypothesis: There is no woman slicing a potato
+Reference: a woman pealing a potato
+Hypothesis: there is no woman slicing a potato
+Hypothesis After Shift: there is no woman slicing a potato
+Alignment: (IIS S  )
+HypErrs: 0.259 0.259 1.557 0.000 1.557 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.508 (3.631 / 7.150)
+
+Sentence ID: [doc1][0187]
+Original Reference: cooking something
+Original Hypothesis: There is no woman cooking eggs
+Reference: cooking something
+Hypothesis: there is no woman cooking eggs
+Hypothesis After Shift: there is no woman cooking eggs
+Alignment: (IIII S)
+HypErrs: 0.259 0.259 0.259 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.353 (2.592 / 7.350)
+
+Sentence ID: [doc1][0188]
+Original Reference: Guitar is being played by artist.
+Original Hypothesis: There is no boy playing a keyboard
+Reference: guitar is being played by artist .
+Hypothesis: there is no boy playing a keyboard
+Hypothesis After Shift: there is no boy playing a keyboard
+Alignment: (S ISPSS)
+HypErrs: 1.557 0.000 0.259 1.557 0.499 1.557 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.4993147808649676 OrigCost: 0.00526 <p>played by</p> <p>playing</p>
+
+Score: 0.798 (6.984 / 8.750)
+
+Sentence ID: [doc1][0189]
+Original Reference: a boy walking over a bridge
+Original Hypothesis: There is no boy walking across a bridge
+Reference: a boy walking over a bridge
+Hypothesis: there is no boy walking across a bridge
+Hypothesis After Shift: there is no boy walking across a bridge
+Alignment: (IIS  S  )
+HypErrs: 0.259 0.259 1.557 0.000 0.000 1.557 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.415 (3.631 / 8.750)
+
+Sentence ID: [doc1][0190]
+Original Reference: A woman is coating a pork chop.
+Original Hypothesis: There is no woman coating a pork chop
+Reference: a woman is coating a pork chop .
+Hypothesis: there is no woman coating a pork chop
+Hypothesis After Shift: there woman is no coating a pork chop
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.476 (3.804 / 8.000)
+
+Sentence ID: [doc1][0191]
+Original Reference: Paper is being cut with scissors.
+Original Hypothesis: There is no paper being cut with scissors
+Reference: paper is being cut with scissors .
+Hypothesis: there is no paper being cut with scissors
+Hypothesis After Shift: paper being there is no cut with scissors
+Alignment: ( YIYI   D)
+HypErrs: 0.259 0.000 0.259 0.281 0.281 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 3 4 0 1 2 5 6 7
+
+NumShifts: 1
+  [3, 4, -1/-1] (paper being) -> (paper is)
+Num Phrase Substitutions: 0
+
+Score: 0.285 (2.507 / 8.800)
+
+Sentence ID: [doc1][0192]
+Original Reference: Racers are running down a track.
+Original Hypothesis: There are no racers running down a track
+Reference: racers are running down a track .
+Hypothesis: there are no racers running down a track
+Hypothesis After Shift: racers there are no running down a track
+Alignment: ( I I    D)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 3 0 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, -1/-1] (racers) -> (racers)
+Num Phrase Substitutions: 0
+
+Score: 0.326 (2.507 / 7.700)
+
+Sentence ID: [doc1][0193]
+Original Reference: A woman is playing a guitar.
+Original Hypothesis: There is no woman playing a guitar
+Reference: a woman is playing a guitar .
+Hypothesis: there is no woman playing a guitar
+Hypothesis After Shift: there woman is no playing a guitar
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.511 (3.804 / 7.450)
+
+Sentence ID: [doc1][0194]
+Original Reference: a man playing a instrument
+Original Hypothesis: There is no man in a hat playing a harp
+Reference: a man playing a instrument
+Hypothesis: there is no man in a hat playing a harp
+Hypothesis After Shift: there is no man in a hat playing a harp
+Alignment: (IIS III  S)
+HypErrs: 0.259 0.259 1.557 0.000 0.259 0.259 0.259 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.600 (4.407 / 7.350)
+
+Sentence ID: [doc1][0195]
+Original Reference: A boy plays a piano.
+Original Hypothesis: There is no boy playing a piano
+Reference: a boy plays a piano .
+Hypothesis: there is no boy playing a piano
+Hypothesis After Shift: there is no boy playing a piano
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.483 (3.501 / 7.250)
+
+Sentence ID: [doc1][0196]
+Original Reference: A man plays a flute.
+Original Hypothesis: There is no man playing a wooden flute
+Reference: a man plays a flute .
+Hypothesis: there is no man playing a wooden flute
+Hypothesis After Shift: there is no man playing a wooden flute
+Alignment: (IIS T I D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.549 (3.760 / 6.850)
+
+Sentence ID: [doc1][0197]
+Original Reference: A man dances.
+Original Hypothesis: There is no man dancing
+Reference: a man dances .
+Hypothesis: there is no man dancing
+Hypothesis After Shift: there is no man dancing
+Alignment: (IIS TD)
+HypErrs: 0.259 0.259 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.490 (3.501 / 7.150)
+
+Sentence ID: [doc1][0198]
+Original Reference: A man plays a guitar.
+Original Hypothesis: There is no man playing a harp
+Reference: a man plays a guitar .
+Hypothesis: there is no man playing a harp
+Hypothesis After Shift: there is no man playing a harp
+Alignment: (IIS T DS)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.621 (5.058 / 8.150)
+
+Sentence ID: [doc1][0199]
+Original Reference: Men are skinning snakes.
+Original Hypothesis: There is no man cooking a snake
+Reference: men are skinning snakes .
+Hypothesis: there is no man cooking a snake
+Hypothesis After Shift: there is no man cooking a snake
+Alignment: (IIIYSSTD)
+HypErrs: 0.259 0.259 0.259 0.000 1.557 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.532 (5.317 / 10.000)
+
+Sentence ID: [doc1][0200]
+Original Reference: Someone is reading an email.
+Original Hypothesis: There is no man reading an email
+Reference: someone is reading an email .
+Hypothesis: there is no man reading an email
+Hypothesis After Shift: there is no man reading an email
+Alignment: (S II   D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.402 (3.501 / 8.700)
+
+Sentence ID: [doc1][0201]
+Original Reference: A man is cutting a potato.
+Original Hypothesis: There is no man cutting a potato
+Reference: a man is cutting a potato .
+Hypothesis: there is no man cutting a potato
+Hypothesis After Shift: there man is no cutting a potato
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.473 (3.804 / 8.050)
+
+Sentence ID: [doc1][0202]
+Original Reference: a person playing a piano
+Original Hypothesis: There is no person playing a piano
+Reference: a person playing a piano
+Hypothesis: there is no person playing a piano
+Hypothesis After Shift: there is no person playing a piano
+Alignment: (IIS    )
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.310 (2.074 / 6.700)
+
+Sentence ID: [doc1][0203]
+Original Reference: a women is cooking fish
+Original Hypothesis: There is no woman cooking fish
+Reference: a women is cooking fish
+Hypothesis: there is no woman cooking fish
+Hypothesis After Shift: there woman is no cooking fish
+Alignment: (SY I  )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (women)
+Num Phrase Substitutions: 0
+
+Score: 0.264 (2.377 / 9.000)
+
+Sentence ID: [doc1][0204]
+Original Reference: A man is playing computer.
+Original Hypothesis: There is no man working on the laptop
+Reference: a man is playing computer .
+Hypothesis: there is no man working on the laptop
+Hypothesis After Shift: there man is no working on the laptop
+Alignment: (S  IYIIPD)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.259 0.605
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.604689047131113 OrigCost: 0.003557 <p>computer</p> <p>laptop</p>
+
+Score: 0.541 (4.927 / 9.100)
+
+Sentence ID: [doc1][0205]
+Original Reference: the girl is dancing near fire
+Original Hypothesis: There is no woman dancing near a fire
+Reference: the girl is dancing near fire
+Hypothesis: there is no woman dancing near a fire
+Hypothesis After Shift: there is no woman dancing near a fire
+Alignment: (DS II  I )
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.482 (3.760 / 7.800)
+
+Sentence ID: [doc1][0206]
+Original Reference: A man is speaking on a stage.
+Original Hypothesis: There is no man speaking on a stage
+Reference: a man is speaking on a stage .
+Hypothesis: there is no man speaking on a stage
+Hypothesis After Shift: there man is no speaking on a stage
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.476 (3.804 / 8.000)
+
+Sentence ID: [doc1][0207]
+Original Reference: The lady danced in the rain.
+Original Hypothesis: There is no woman dancing and singing in the rain
+Reference: the lady danced in the rain .
+Hypothesis: there is no woman dancing and singing in the rain
+Hypothesis After Shift: there is no woman dancing and singing in the rain
+Alignment: (IIIPTII   D)
+HypErrs: 0.259 0.259 0.259 0.620 0.000 0.259 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6199008975885496 OrigCost: 0.152602 <p>the lady</p> <p>woman</p>
+
+Score: 0.407 (3.341 / 8.200)
+
+Sentence ID: [doc1][0208]
+Original Reference: A cat swing on a fan.
+Original Hypothesis: There is no cat swinging on a fan
+Reference: a cat swing on a fan .
+Hypothesis: there is no cat swinging on a fan
+Hypothesis After Shift: there is no cat swinging on a fan
+Alignment: (IIS T   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.350 (3.501 / 10.000)
+
+Sentence ID: [doc1][0209]
+Original Reference: A man is frying a tortilla.
+Original Hypothesis: There is no man frying a tortilla
+Reference: a man is frying a tortilla .
+Hypothesis: there is no man frying a tortilla
+Hypothesis After Shift: there man is no frying a tortilla
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.435 (3.804 / 8.750)
+
+Sentence ID: [doc1][0210]
+Original Reference: A dog is rolling from side to side.
+Original Hypothesis: There is no dog rolling from side to side
+Reference: a dog is rolling from side to side .
+Hypothesis: there is no dog rolling from side to side
+Hypothesis After Shift: there dog is no rolling from side to side
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (dog) -> (dog)
+Num Phrase Substitutions: 0
+
+Score: 0.347 (3.804 / 10.950)
+
+Sentence ID: [doc1][0211]
+Original Reference: A puppy rolling back and forth.
+Original Hypothesis: There is no puppy rolling
+Reference: a puppy rolling back and forth .
+Hypothesis: there is no puppy rolling
+Hypothesis After Shift: there is no puppy rolling
+Alignment: (IIS  DDDD)
+HypErrs: 0.259 0.259 1.557 0.000 0.000
+OtherErr: 5.708
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.711 (7.782 / 10.950)
+
+Sentence ID: [doc1][0212]
+Original Reference: Two men jump.
+Original Hypothesis: There is no man running, jumping and kicking near a vending machine
+Reference: two men jump .
+Hypothesis: there is no man running , jumping and kicking near a vending machine
+Hypothesis After Shift: there is no man running , jumping and kicking near a vending machine
+Alignment: (IIIPIITIIIIIS)
+HypErrs: 0.259 0.259 0.259 0.603 0.259 0.259 0.000 0.259 0.259 0.259 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6026780462338405 OrigCost: 0.001698 <p>two men</p> <p>man</p>
+
+Score: 0.629 (4.748 / 7.550)
+
+Sentence ID: [doc1][0213]
+Original Reference: The tiger is hunting
+Original Hypothesis: There is no cheetah quickly running behind its prey
+Reference: the tiger is hunting
+Hypothesis: there is no cheetah quickly running behind its prey
+Hypothesis After Shift: there is no cheetah quickly running behind its prey
+Alignment: (DS IIIYIII)
+HypErrs: 1.557 0.000 0.259 0.259 0.259 0.000 0.259 0.259 0.259
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.621 (4.537 / 7.300)
+
+Sentence ID: [doc1][0214]
+Original Reference: A woman is putting a baby into a trash can.
+Original Hypothesis: There is no baby being put into a trash can by a woman
+Reference: a woman is putting a baby into a trash can .
+Hypothesis: there is no baby being put into a trash can by a woman
+Hypothesis After Shift: a woman being put there is no baby into a trash can by
+Alignment: (  YTIIS     S)
+HypErrs: 0.259 0.259 1.557 0.000 0.281 0.281 0.000 0.000 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 11 12 4 5 0 1 2 3 6 7 8 9 10
+
+NumShifts: 2
+  [11, 12, -1/-1] (a woman) -> (a woman)
+  [6, 7, 1/1] (being put) -> (is putting)
+Num Phrase Substitutions: 0
+
+Score: 0.451 (4.755 / 10.550)
+
+Sentence ID: [doc1][0215]
+Original Reference: A cat is drinking.
+Original Hypothesis: There is no water being drunk by a cat
+Reference: a cat is drinking .
+Hypothesis: there is no water being drunk by a cat
+Hypothesis After Shift: a cat there is no water being drunk by
+Alignment: (  IIIIYYS)
+HypErrs: 0.259 0.259 0.259 0.259 0.000 0.000 1.557 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 7 8 0 1 2 3 4 5 6
+
+NumShifts: 1
+  [7, 8, -1/-1] (a cat) -> (a cat)
+Num Phrase Substitutions: 0
+
+Score: 0.382 (3.154 / 8.250)
+
+Sentence ID: [doc1][0216]
+Original Reference: a man climbing a rope
+Original Hypothesis: There is no rope being climbed by a man
+Reference: a man climbing a rope
+Hypothesis: there is no rope being climbed by a man
+Hypothesis After Shift: a man climbed there is no rope being by
+Alignment: (  TIIS II)
+HypErrs: 0.259 0.259 1.557 0.000 0.259 0.562 0.259 0.281 0.281
+OtherErr: 0.000
+HypLocMap: 7 8 5 0 1 2 3 4 6
+
+NumShifts: 2
+  [7, 8, -1/-1] (a man) -> (a man)
+  [7, 7, 1/1] (climbed) -> (climbing)
+Num Phrase Substitutions: 0
+
+Score: 0.432 (3.716 / 8.600)
+
+Sentence ID: [doc1][0217]
+Original Reference: A baby is playing with a dog
+Original Hypothesis: There is no baby playing with a dog
+Reference: a baby is playing with a dog
+Hypothesis: there is no baby playing with a dog
+Hypothesis After Shift: there baby is no playing with a dog
+Alignment: (S  I    )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (baby) -> (baby)
+Num Phrase Substitutions: 0
+
+Score: 0.270 (2.377 / 8.800)
+
+Sentence ID: [doc1][0218]
+Original Reference: The lady cracked an egg into a bowl.
+Original Hypothesis: There is no woman cracking an egg into a bowl
+Reference: the lady cracked an egg into a bowl .
+Hypothesis: there is no woman cracking an egg into a bowl
+Hypothesis After Shift: there is no woman cracking an egg into a bowl
+Alignment: (IIIPT     D)
+HypErrs: 0.259 0.259 0.259 0.620 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6199008975885496 OrigCost: 0.152602 <p>the lady</p> <p>woman</p>
+
+Score: 0.323 (2.823 / 8.750)
+
+Sentence ID: [doc1][0219]
+Original Reference: A man rides a motorcycle.
+Original Hypothesis: There is no man riding a motorcycle through the town
+Reference: a man rides a motorcycle .
+Hypothesis: there is no man riding a motorcycle through the town
+Hypothesis After Shift: there is no man riding a motorcycle through the town
+Alignment: (IIS T  IIS)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.485 (4.149 / 8.550)
+
+Sentence ID: [doc1][0220]
+Original Reference: A cat taking corn
+Original Hypothesis: There is no cat eating corn on the cob
+Reference: a cat taking corn
+Hypothesis: there is no cat eating corn on the cob
+Hypothesis After Shift: there is no cat eating corn on the cob
+Alignment: (IIS P III)
+HypErrs: 0.259 0.259 1.557 0.000 0.596 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.5956304501766747 OrigCost: 0.003895 <p>taking</p> <p>eating</p>
+
+Score: 0.434 (3.446 / 7.950)
+
+Sentence ID: [doc1][0221]
+Original Reference: A person is boiling noodles.
+Original Hypothesis: There is no person boiling noodles
+Reference: a person is boiling noodles .
+Hypothesis: there is no person boiling noodles
+Hypothesis After Shift: there person is no boiling noodles
+Alignment: (S  I  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (person) -> (person)
+Num Phrase Substitutions: 0
+
+Score: 0.547 (3.804 / 6.950)
+
+Sentence ID: [doc1][0222]
+Original Reference: David sides playing piano
+Original Hypothesis: There is no girl playing the piano
+Reference: david sides playing piano
+Hypothesis: there is no girl playing the piano
+Hypothesis After Shift: there is no girl playing the piano
+Alignment: (ISSI I )
+HypErrs: 0.259 1.557 1.557 0.259 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.598 (3.890 / 6.500)
+
+Sentence ID: [doc1][0223]
+Original Reference: A woman is applying eye liner to her eyelid using an eye pencil.
+Original Hypothesis: There is no woman using an eye pencil and applying eye liner to her eyelid
+Reference: a woman is applying eye liner to her eyelid using an eye pencil .
+Hypothesis: there is no woman using an eye pencil and applying eye liner to her eyelid
+Hypothesis After Shift: there is no woman and applying eye liner to her eyelid using an eye pencil
+Alignment: (IIS S          D)
+HypErrs: 0.259 0.259 1.557 0.000 0.141 0.141 0.141 0.141 1.557 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 8 9 10 11 12 13 14 4 5 6 7
+
+NumShifts: 1
+  [4, 7, 9/14] (using an eye pencil) -> (using an eye pencil)
+Num Phrase Substitutions: 0
+
+Score: 0.618 (5.620 / 9.100)
+
+Sentence ID: [doc1][0224]
+Original Reference: a woman is slicing a vegetable
+Original Hypothesis: There is no woman slicing a clove of garlic
+Reference: a woman is slicing a vegetable
+Hypothesis: there is no woman slicing a clove of garlic
+Hypothesis After Shift: there woman is no slicing a clove of garlic
+Alignment: (S  I  IIS)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.536 (4.452 / 8.300)
+
+Sentence ID: [doc1][0225]
+Original Reference: A woman is slicing an eggplant.
+Original Hypothesis: There is no woman slicing an eggplant
+Reference: a woman is slicing an eggplant .
+Hypothesis: there is no woman slicing an eggplant
+Hypothesis After Shift: there woman is no slicing an eggplant
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.564 (3.804 / 6.750)
+
+Sentence ID: [doc1][0226]
+Original Reference: A plane takes off.
+Original Hypothesis: There is no airplane taking off
+Reference: a plane takes off .
+Hypothesis: there is no airplane taking off
+Hypothesis After Shift: there is no airplane taking off
+Alignment: (IISYPD)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.141889 <p>takes off</p> <p>taking off</p>
+
+Score: 0.500 (3.501 / 7.000)
+
+Sentence ID: [doc1][0227]
+Original Reference: a man is eating
+Original Hypothesis: There is no man drawing
+Reference: a man is eating
+Hypothesis: there is no man drawing
+Hypothesis After Shift: there man is no drawing
+Alignment: (S  IS)
+HypErrs: 1.557 0.000 0.259 0.562 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.574 (3.934 / 6.850)
+
+Sentence ID: [doc1][0228]
+Original Reference: Someone is driving a car.
+Original Hypothesis: There is no man driving a car
+Reference: someone is driving a car .
+Hypothesis: there is no man driving a car
+Hypothesis After Shift: there is no man driving a car
+Alignment: (S II   D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.446 (3.501 / 7.850)
+
+Sentence ID: [doc1][0229]
+Original Reference: A man is playing a violin.
+Original Hypothesis: There is no man playing a violin
+Reference: a man is playing a violin .
+Hypothesis: there is no man playing a violin
+Hypothesis After Shift: there man is no playing a violin
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.532 (3.804 / 7.150)
+
+Sentence ID: [doc1][0230]
+Original Reference: A young boy playing guitar
+Original Hypothesis: There is no boy playing guitar
+Reference: a young boy playing guitar
+Hypothesis: there is no boy playing guitar
+Hypothesis After Shift: there is no boy playing guitar
+Alignment: (ISS   )
+HypErrs: 0.259 1.557 1.557 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.482 (3.372 / 7.000)
+
+Sentence ID: [doc1][0231]
+Original Reference: A person cuts ginger.
+Original Hypothesis: There is no person cutting some ginger
+Reference: a person cuts ginger .
+Hypothesis: there is no person cutting some ginger
+Hypothesis After Shift: there is no person cutting some ginger
+Alignment: (IIS TI D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.530 (3.760 / 7.100)
+
+Sentence ID: [doc1][0232]
+Original Reference: A man opens a box with a knife.
+Original Hypothesis: There is no man opening a box with a knife
+Reference: a man opens a box with a knife .
+Hypothesis: there is no man opening a box with a knife
+Hypothesis After Shift: there is no man opening a box with a knife
+Alignment: (IIS T     D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.383 (3.501 / 9.150)
+
+Sentence ID: [doc1][0233]
+Original Reference: A man mixes vegetables in a pot.
+Original Hypothesis: There is no man mixing vegetables in a pot
+Reference: a man mixes vegetables in a pot .
+Hypothesis: there is no man mixing vegetables in a pot
+Hypothesis After Shift: there is no man mixing vegetables in a pot
+Alignment: (IIS T    D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.435 (3.501 / 8.050)
+
+Sentence ID: [doc1][0234]
+Original Reference: A cat is walking
+Original Hypothesis: There is no cat walking on a hardwood floor
+Reference: a cat is walking
+Hypothesis: there is no cat walking on a hardwood floor
+Hypothesis After Shift: there cat is no walking on a hardwood floor
+Alignment: (S  I IIII)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (cat) -> (cat)
+Num Phrase Substitutions: 0
+
+Score: 0.502 (3.413 / 6.800)
+
+Sentence ID: [doc1][0235]
+Original Reference: A man rides a water toy in the water.
+Original Hypothesis: There is no man riding a water toy in the water
+Reference: a man rides a water toy in the water .
+Hypothesis: there is no man riding a water toy in the water
+Hypothesis After Shift: there is no man riding a water toy in the water
+Alignment: (IIS T      D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.412 (3.501 / 8.500)
+
+Sentence ID: [doc1][0236]
+Original Reference: A dog is barking at a ball.
+Original Hypothesis: There is no dog barking at a ball
+Reference: a dog is barking at a ball .
+Hypothesis: there is no dog barking at a ball
+Hypothesis After Shift: there dog is no barking at a ball
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (dog) -> (dog)
+Num Phrase Substitutions: 0
+
+Score: 0.364 (3.804 / 10.450)
+
+Sentence ID: [doc1][0237]
+Original Reference: A man is levitating.
+Original Hypothesis: There is no man spitting
+Reference: a man is levitating .
+Hypothesis: there is no man spitting
+Hypothesis After Shift: there man is no spitting
+Alignment: (S  SS)
+HypErrs: 1.557 0.000 1.557 0.562 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.554 (5.232 / 9.450)
+
+Sentence ID: [doc1][0238]
+Original Reference: A singer dances on the ceiling.
+Original Hypothesis: There is no famous singer dancing on the ceiling
+Reference: a singer dances on the ceiling .
+Hypothesis: there is no famous singer dancing on the ceiling
+Hypothesis After Shift: there is no famous singer dancing on the ceiling
+Alignment: (IIIS T   D)
+HypErrs: 0.259 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.396 (3.760 / 9.500)
+
+Sentence ID: [doc1][0239]
+Original Reference: A man is cutting a fish.
+Original Hypothesis: There is no man cutting a fish
+Reference: a man is cutting a fish .
+Hypothesis: there is no man cutting a fish
+Hypothesis After Shift: there man is no cutting a fish
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.450 (3.804 / 8.450)
+
+Sentence ID: [doc1][0240]
+Original Reference: A man is sitting on a chair.
+Original Hypothesis: There is no man sitting on the chair
+Reference: a man is sitting on a chair .
+Hypothesis: there is no man sitting on the chair
+Hypothesis After Shift: there man is no sitting on the chair
+Alignment: (S  I  S D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.631 (5.361 / 8.500)
+
+Sentence ID: [doc1][0241]
+Original Reference: A man plays a piano.
+Original Hypothesis: There is no man playing a piano
+Reference: a man plays a piano .
+Hypothesis: there is no man playing a piano
+Hypothesis After Shift: there is no man playing a piano
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.486 (3.501 / 7.200)
+
+Sentence ID: [doc1][0242]
+Original Reference: someone is slicing potatoes
+Original Hypothesis: There is no woman slicing a potato
+Reference: someone is slicing potatoes
+Hypothesis: there is no woman slicing a potato
+Hypothesis After Shift: there is no woman slicing a potato
+Alignment: (S II IT)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.301 (2.333 / 7.750)
+
+Sentence ID: [doc1][0243]
+Original Reference: Some men are sawing.
+Original Hypothesis: There are no men sawing
+Reference: some men are sawing .
+Hypothesis: there are no men sawing
+Hypothesis After Shift: there men are no sawing
+Alignment: (S  I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (men) -> (men)
+Num Phrase Substitutions: 0
+
+Score: 0.485 (3.804 / 7.850)
+
+Sentence ID: [doc1][0244]
+Original Reference: a cat is playing a guitar
+Original Hypothesis: There is no cat playing a keyboard
+Reference: a cat is playing a guitar
+Hypothesis: there is no cat playing a keyboard
+Hypothesis After Shift: there cat is no playing a keyboard
+Alignment: (S  I  S)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (cat) -> (cat)
+Num Phrase Substitutions: 0
+
+Score: 0.477 (3.934 / 8.250)
+
+Sentence ID: [doc1][0245]
+Original Reference: A badger is digging the earth.
+Original Hypothesis: There is no badger shrewdly digging the earth
+Reference: a badger is digging the earth .
+Hypothesis: there is no badger shrewdly digging the earth
+Hypothesis After Shift: there is no badger shrewdly digging the earth
+Alignment: (IIS S   D)
+HypErrs: 0.259 0.259 1.557 0.000 1.557 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.674 (5.058 / 7.500)
+
+Sentence ID: [doc1][0246]
+Original Reference: the girl is jumping
+Original Hypothesis: There is no girl jumping into the car
+Reference: the girl is jumping
+Hypothesis: there is no girl jumping into the car
+Hypothesis After Shift: there girl is no jumping into the car
+Alignment: (S  I III)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.339 (3.154 / 9.300)
+
+Sentence ID: [doc1][0247]
+Original Reference: A man eating cereal.
+Original Hypothesis: There is no man eating cereal
+Reference: a man eating cereal .
+Hypothesis: there is no man eating cereal
+Hypothesis After Shift: there is no man eating cereal
+Alignment: (IIS   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.354 (3.501 / 9.900)
+
+Sentence ID: [doc1][0248]
+Original Reference: The monkey is brushing the dog.
+Original Hypothesis: There is no monkey brushing the dog
+Reference: the monkey is brushing the dog .
+Hypothesis: there is no monkey brushing the dog
+Hypothesis After Shift: there monkey is no brushing the dog
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.485 (3.804 / 7.850)
+
+Sentence ID: [doc1][0249]
+Original Reference: People are dancing.
+Original Hypothesis: There is no man with a hard hat dancing
+Reference: people are dancing .
+Hypothesis: there is no man with a hard hat dancing
+Hypothesis After Shift: there is no man with a hard hat dancing
+Alignment: (SYIIIIII D)
+HypErrs: 1.557 0.000 0.259 0.259 0.259 0.259 0.259 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.516 (4.537 / 8.800)
+
+Sentence ID: [doc1][0250]
+Original Reference: a man cutting open a package
+Original Hypothesis: There is no man cutting a box
+Reference: a man cutting open a package
+Hypothesis: there is no man cutting a box
+Hypothesis After Shift: there is no man cutting a box
+Alignment: (IIS  D Y)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.383 (3.501 / 9.150)
+
+Sentence ID: [doc1][0251]
+Original Reference: A panda eats bamboo.
+Original Hypothesis: There is no panda bear eating some bamboo
+Reference: a panda eats bamboo .
+Hypothesis: there is no panda bear eating some bamboo
+Hypothesis After Shift: there is no panda bear eating some bamboo
+Alignment: (IIS ITI D)
+HypErrs: 0.259 0.259 1.557 0.000 0.259 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.609 (4.019 / 6.600)
+
+Sentence ID: [doc1][0252]
+Original Reference: a man is riding a horse
+Original Hypothesis: There is no man riding a horse
+Reference: a man is riding a horse
+Hypothesis: there is no man riding a horse
+Hypothesis After Shift: there man is no riding a horse
+Alignment: (S  I   )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.303 (2.377 / 7.850)
+
+Sentence ID: [doc1][0253]
+Original Reference: cat playing piano
+Original Hypothesis: There is no cat playing keyboards
+Reference: cat playing piano
+Hypothesis: there is no cat playing keyboards
+Hypothesis After Shift: there is no cat playing keyboards
+Alignment: (III  S)
+HypErrs: 0.259 0.259 0.259 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.286 (2.333 / 8.150)
+
+Sentence ID: [doc1][0254]
+Original Reference: A man danced on the ceiling.
+Original Hypothesis: There is no man dancing upside-down on the ceiling
+Reference: a man danced on the ceiling .
+Hypothesis: there is no man dancing upside-down on the ceiling
+Hypothesis After Shift: there is no man dancing upside-down on the ceiling
+Alignment: (IIS TI   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.396 (3.760 / 9.500)
+
+Sentence ID: [doc1][0255]
+Original Reference: Someone is drawing a picture.
+Original Hypothesis: There is no man drawing a picture
+Reference: someone is drawing a picture .
+Hypothesis: there is no man drawing a picture
+Hypothesis After Shift: there is no man drawing a picture
+Alignment: (S II   D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.430 (3.501 / 8.150)
+
+Sentence ID: [doc1][0256]
+Original Reference: The person is sliding the cycle
+Original Hypothesis: There is no man praying
+Reference: the person is sliding the cycle
+Hypothesis: there is no man praying
+Hypothesis After Shift: there is no man praying
+Alignment: (IIIPDDDS)
+HypErrs: 0.259 0.259 0.259 0.837 1.557
+OtherErr: 4.281
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.8368230423312493 OrigCost: 0.05506 <p>the person</p> <p>man</p>
+
+Score: 0.805 (7.451 / 9.250)
+
+Sentence ID: [doc1][0257]
+Original Reference: Someone is slicing bread.
+Original Hypothesis: There is no man slicing some bread
+Reference: someone is slicing bread .
+Hypothesis: there is no man slicing some bread
+Hypothesis After Shift: there is no man slicing some bread
+Alignment: (S II I D)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.515 (3.760 / 7.300)
+
+Sentence ID: [doc1][0258]
+Original Reference: A man is rapidly chopping some mushrooms using a knife.
+Original Hypothesis: There is no man rapidly chopping some mushrooms with a knife
+Reference: a man is rapidly chopping some mushrooms using a knife .
+Hypothesis: there is no man rapidly chopping some mushrooms with a knife
+Hypothesis After Shift: there man is no rapidly chopping some mushrooms with a knife
+Alignment: (S  I    PD)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.018 0.018 0.018
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 1
+  NewCost: 0.054661849404293805 OrigCost: 0.494196 <p>using a knife</p> <p>with a knife</p>
+
+Score: 0.501 (3.859 / 7.700)
+
+Sentence ID: [doc1][0259]
+Original Reference: men are flipping tires.
+Original Hypothesis: There are no people flipping the tires of a tractor
+Reference: men are flipping tires .
+Hypothesis: there are no people flipping the tires of a tractor
+Hypothesis After Shift: there are no people flipping the tires of a tractor
+Alignment: (S II I IIS)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 0.259 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.498 (4.407 / 8.850)
+
+Sentence ID: [doc1][0260]
+Original Reference: Men are fighting.
+Original Hypothesis: There are no men fighting
+Reference: men are fighting .
+Hypothesis: there are no men fighting
+Hypothesis After Shift: men there are no fighting
+Alignment: ( I I D)
+HypErrs: 0.259 0.000 0.259 0.562 0.000
+OtherErr: 1.427
+HypLocMap: 3 0 1 2 4
+
+NumShifts: 1
+  [3, 3, -1/-1] (men) -> (men)
+Num Phrase Substitutions: 0
+
+Score: 0.293 (2.507 / 8.550)
+
+Sentence ID: [doc1][0261]
+Original Reference: The monkey is doing martial arts.
+Original Hypothesis: There is no monkey practicing martial arts
+Reference: the monkey is doing martial arts .
+Hypothesis: there is no monkey practicing martial arts
+Hypothesis After Shift: there monkey is no practicing martial arts
+Alignment: (S  IY  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.504 (3.804 / 7.550)
+
+Sentence ID: [doc1][0262]
+Original Reference: A girl plays the violin.
+Original Hypothesis: There is no girl playing the violin on a beach
+Reference: a girl plays the violin .
+Hypothesis: there is no girl playing the violin on a beach
+Hypothesis After Shift: there is no girl playing the violin on a beach
+Alignment: (IIS T  IIS)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.512 (4.149 / 8.100)
+
+Sentence ID: [doc1][0263]
+Original Reference: A man is loading a rifle with bullets.
+Original Hypothesis: There is no man loading a rifle with bullets
+Reference: a man is loading a rifle with bullets .
+Hypothesis: there is no man loading a rifle with bullets
+Hypothesis After Shift: there man is no loading a rifle with bullets
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.514 (3.804 / 7.400)
+
+Sentence ID: [doc1][0264]
+Original Reference: A man is burning matches.
+Original Hypothesis: There is no man screaming
+Reference: a man is burning matches .
+Hypothesis: there is no man screaming
+Hypothesis After Shift: there man is no screaming
+Alignment: (S  DSS)
+HypErrs: 1.557 0.000 1.557 0.562 1.557
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.720 (6.659 / 9.250)
+
+Sentence ID: [doc1][0265]
+Original Reference: A man playing the guitar.
+Original Hypothesis: There is no man playing the guitar loudly
+Reference: a man playing the guitar .
+Hypothesis: there is no man playing the guitar loudly
+Hypothesis After Shift: there is no man playing the guitar loudly
+Alignment: (IIS    S)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.534 (3.631 / 6.800)
+
+Sentence ID: [doc1][0266]
+Original Reference: A woman is beating two eggs in a bowl using a wire whisk.
+Original Hypothesis: There is no woman beating two eggs in a bowl and using a whisk made of wire
+Reference: a woman is beating two eggs in a bowl using a wire whisk .
+Hypothesis: there is no woman beating two eggs in a bowl and using a whisk made of wire
+Hypothesis After Shift: there woman is no beating two eggs in a bowl and using a wire whisk made of
+Alignment: (S  I      I    IS)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.000 0.000 0.000 0.259 1.557 0.562
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10 11 12 16 13 14 15
+
+NumShifts: 2
+  [3, 3, 1/0] (woman) -> (woman)
+  [16, 16, 11/12] (wire) -> (wire)
+Num Phrase Substitutions: 0
+
+Score: 0.597 (5.014 / 8.400)
+
+Sentence ID: [doc1][0267]
+Original Reference: A man is eating a bowl of cereal.
+Original Hypothesis: There is no man eating a bowl of cereal
+Reference: a man is eating a bowl of cereal .
+Hypothesis: there is no man eating a bowl of cereal
+Hypothesis After Shift: there man is no eating a bowl of cereal
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.384 (3.804 / 9.900)
+
+Sentence ID: [doc1][0268]
+Original Reference: Woman is adding sugar to meat.
+Original Hypothesis: There is no woman adding spices to some meat
+Reference: woman is adding sugar to meat .
+Hypothesis: there is no woman adding spices to some meat
+Hypothesis After Shift: woman there is no adding spices to some meat
+Alignment: ( I I S I D)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 1.557 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 3 0 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, -1/-1] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.500 (4.322 / 8.650)
+
+Sentence ID: [doc1][0269]
+Original Reference: A man plays a flute.
+Original Hypothesis: There is no man playing a bamboo flute
+Reference: a man plays a flute .
+Hypothesis: there is no man playing a bamboo flute
+Hypothesis After Shift: there is no man playing a bamboo flute
+Alignment: (IIS T I D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.549 (3.760 / 6.850)
+
+Sentence ID: [doc1][0270]
+Original Reference: Man playing guitar
+Original Hypothesis: There is no man singing and playing the guitar
+Reference: man playing guitar
+Hypothesis: there is no man singing and playing the guitar
+Hypothesis After Shift: there is no man singing and playing the guitar
+Alignment: (III II I )
+HypErrs: 0.259 0.259 0.259 0.000 0.259 0.259 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.220 (1.553 / 7.050)
+
+Sentence ID: [doc1][0271]
+Original Reference: A lady is makeup
+Original Hypothesis: There is no woman putting on makeup
+Reference: a lady is makeup
+Hypothesis: there is no woman putting on makeup
+Hypothesis After Shift: there is no woman putting on makeup
+Alignment: (IIIPIS )
+HypErrs: 0.259 0.259 0.259 0.969 0.259 1.557 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.9693424443131442 OrigCost: 0.028367 <p>a lady</p> <p>woman</p>
+
+Score: 0.409 (3.561 / 8.700)
+
+Sentence ID: [doc1][0272]
+Original Reference: A lady mixed up a meat mixture in bowl.
+Original Hypothesis: There is no lady mixing a meat mixture in a bowl
+Reference: a lady mixed up a meat mixture in bowl .
+Hypothesis: there is no lady mixing a meat mixture in a bowl
+Hypothesis After Shift: there is no lady mixing a meat mixture in a bowl
+Alignment: (IIS TD    I D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.259 0.000
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.538 (5.187 / 9.650)
+
+Sentence ID: [doc1][0273]
+Original Reference: Someone is typing.
+Original Hypothesis: There is no one typing
+Reference: someone is typing .
+Hypothesis: there is no one typing
+Hypothesis After Shift: there is no one typing
+Alignment: (IISY D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.530 (3.501 / 6.600)
+
+Sentence ID: [doc1][0274]
+Original Reference: Someone is peeling an onion.
+Original Hypothesis: There is no person peeling an onion
+Reference: someone is peeling an onion .
+Hypothesis: there is no person peeling an onion
+Hypothesis After Shift: person there is no peeling an onion
+Alignment: (YI I   D)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 3 0 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, -1/-1] (person) -> (someone)
+Num Phrase Substitutions: 0
+
+Score: 0.392 (2.507 / 6.400)
+
+Sentence ID: [doc1][0275]
+Original Reference: A person is riding a jetski in the waves.
+Original Hypothesis: There is no person riding a jetski in the waves
+Reference: a person is riding a jetski in the waves .
+Hypothesis: there is no person riding a jetski in the waves
+Hypothesis After Shift: there person is no riding a jetski in the waves
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (person) -> (person)
+Num Phrase Substitutions: 0
+
+Score: 0.437 (3.804 / 8.700)
+
+Sentence ID: [doc1][0276]
+Original Reference: A person plays the piano.
+Original Hypothesis: There is no man playing the piano
+Reference: a person plays the piano .
+Hypothesis: there is no man playing the piano
+Hypothesis After Shift: there is no man playing the piano
+Alignment: (IIIPT  D)
+HypErrs: 0.259 0.259 0.259 1.212 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 1.2119911028214612 OrigCost: 0.008131 <p>a person</p> <p>man</p>
+
+Score: 0.510 (3.415 / 6.700)
+
+Sentence ID: [doc1][0277]
+Original Reference: A man plays a flute.
+Original Hypothesis: There is no man playing a flute
+Reference: a man plays a flute .
+Hypothesis: there is no man playing a flute
+Hypothesis After Shift: there is no man playing a flute
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.511 (3.501 / 6.850)
+
+Sentence ID: [doc1][0278]
+Original Reference: Pieces of butter is added in the stand mixer.
+Original Hypothesis: There is no butter being added to the stand mixer
+Reference: pieces of butter is added in the stand mixer .
+Hypothesis: there is no butter being added to the stand mixer
+Hypothesis After Shift: there is no butter being added to the stand mixer
+Alignment: (ISS Y S   D)
+HypErrs: 0.259 1.557 1.557 0.000 0.000 0.000 1.557 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.669 (6.355 / 9.500)
+
+Sentence ID: [doc1][0279]
+Original Reference: a man fixing a silencer in a gun
+Original Hypothesis: There is no man fixing a silencer to a gun
+Reference: a man fixing a silencer in a gun
+Hypothesis: there is no man fixing a silencer to a gun
+Hypothesis After Shift: there is no man fixing a silencer to a gun
+Alignment: (IIS    S  )
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 1.557 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.430 (3.631 / 8.450)
+
+Sentence ID: [doc1][0280]
+Original Reference: A little girl peddling a scooter.
+Original Hypothesis: There is no little girl peddling a scooter
+Reference: a little girl peddling a scooter .
+Hypothesis: there is no little girl peddling a scooter
+Hypothesis After Shift: there is no little girl peddling a scooter
+Alignment: (IIS     D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.464 (3.501 / 7.550)
+
+Sentence ID: [doc1][0281]
+Original Reference: A man is sprinkling shredded cheese on a pizza.
+Original Hypothesis: There is no man sprinkling shredded cheese on a pizza
+Reference: a man is sprinkling shredded cheese on a pizza .
+Hypothesis: there is no man sprinkling shredded cheese on a pizza
+Hypothesis After Shift: there man is no sprinkling shredded cheese on a pizza
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.440 (3.804 / 8.650)
+
+Sentence ID: [doc1][0282]
+Original Reference: A man does a card trick.
+Original Hypothesis: There is no man doing a card trick
+Reference: a man does a card trick .
+Hypothesis: there is no man doing a card trick
+Hypothesis After Shift: there is no man doing a card trick
+Alignment: (IIS Y   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.407 (3.501 / 8.600)
+
+Sentence ID: [doc1][0283]
+Original Reference: A bunny is playing with a stuffed bunny.
+Original Hypothesis: There is no bunny playing with a stuffed bunny
+Reference: a bunny is playing with a stuffed bunny .
+Hypothesis: there is no bunny playing with a stuffed bunny
+Hypothesis After Shift: there bunny is no playing with a stuffed bunny
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (bunny) -> (bunny)
+Num Phrase Substitutions: 0
+
+Score: 0.430 (3.804 / 8.850)
+
+Sentence ID: [doc1][0284]
+Original Reference: A woman is placing skewers onto a rack.
+Original Hypothesis: There is no woman placing skewers onto a rack
+Reference: a woman is placing skewers onto a rack .
+Hypothesis: there is no woman placing skewers onto a rack
+Hypothesis After Shift: there woman is no placing skewers onto a rack
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.411 (3.804 / 9.250)
+
+Sentence ID: [doc1][0285]
+Original Reference: A man puts some cheese on a pizza.
+Original Hypothesis: There is no man putting some cheese on a pizza
+Reference: a man puts some cheese on a pizza .
+Hypothesis: there is no man putting some cheese on a pizza
+Hypothesis After Shift: there is no man putting some cheese on a pizza
+Alignment: (IIS T     D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8 9
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.405 (3.501 / 8.650)
+
+Sentence ID: [doc1][0286]
+Original Reference: A man dives off a cliff.
+Original Hypothesis: There is no man diving off a cliff
+Reference: a man dives off a cliff .
+Hypothesis: there is no man diving off a cliff
+Hypothesis After Shift: there is no man diving off a cliff
+Alignment: (IIS T   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.389 (3.501 / 9.000)
+
+Sentence ID: [doc1][0287]
+Original Reference: A woman is pouring ingredients into a bowl.
+Original Hypothesis: There is no woman pouring ingredients into a bowl
+Reference: a woman is pouring ingredients into a bowl .
+Hypothesis: there is no woman pouring ingredients into a bowl
+Hypothesis After Shift: there woman is no pouring ingredients into a bowl
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.388 (3.804 / 9.800)
+
+Sentence ID: [doc1][0288]
+Original Reference: chopping vegitables
+Original Hypothesis: There is no woman slicing potatoes
+Reference: chopping vegitables
+Hypothesis: there is no woman slicing potatoes
+Hypothesis After Shift: there is no woman slicing potatoes
+Alignment: (IIISIS)
+HypErrs: 0.259 0.259 0.259 1.557 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.525 (4.149 / 7.900)
+
+Sentence ID: [doc1][0289]
+Original Reference: A woman dips a shrimp in batter.
+Original Hypothesis: There is no woman dipping a shrimp in batter
+Reference: a woman dips a shrimp in batter .
+Hypothesis: there is no woman dipping a shrimp in batter
+Hypothesis After Shift: there is no woman dipping a shrimp in batter
+Alignment: (IIS T    D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.396 (3.501 / 8.850)
+
+Sentence ID: [doc1][0290]
+Original Reference: A woman is slicing carrots.
+Original Hypothesis: There is no woman slicing a carrot
+Reference: a woman is slicing carrots .
+Hypothesis: there is no woman slicing a carrot
+Hypothesis After Shift: there woman is no slicing a carrot
+Alignment: (S  I ITD)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.545 (4.063 / 7.450)
+
+Sentence ID: [doc1][0291]
+Original Reference: People are singing.
+Original Hypothesis: There is no band playing
+Reference: people are singing .
+Hypothesis: there is no band playing
+Hypothesis After Shift: there is no band playing
+Alignment: (SYIPS)
+HypErrs: 1.557 0.000 0.259 0.703 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.7026814549765835 OrigCost: 0.00133 <p>singing</p> <p>band</p>
+
+Score: 0.506 (4.075 / 8.050)
+
+Sentence ID: [doc1][0292]
+Original Reference: The man spit.
+Original Hypothesis: There is no man spitting
+Reference: the man spit .
+Hypothesis: there is no man spitting
+Hypothesis After Shift: there is no man spitting
+Alignment: (IIS TD)
+HypErrs: 0.259 0.259 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.486 (3.501 / 7.200)
+
+Sentence ID: [doc1][0293]
+Original Reference: A man rides a horse.
+Original Hypothesis: There is no man recklessly riding a horse
+Reference: a man rides a horse .
+Hypothesis: there is no man recklessly riding a horse
+Hypothesis After Shift: there is no man recklessly riding a horse
+Alignment: (IIS IT  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.259 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.476 (3.760 / 7.900)
+
+Sentence ID: [doc1][0294]
+Original Reference: Man playing guitar
+Original Hypothesis: There is no person singing and playing the guitar
+Reference: man playing guitar
+Hypothesis: there is no person singing and playing the guitar
+Hypothesis After Shift: there is no person singing and playing the guitar
+Alignment: (IIIPII I )
+HypErrs: 0.259 0.259 0.259 0.482 0.259 0.259 0.000 0.259 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.4822054456094681 OrigCost: 0.012079 <p>man</p> <p>person</p>
+
+Score: 0.289 (2.035 / 7.050)
+
+Sentence ID: [doc1][0295]
+Original Reference: A woman is using a sewing machine.
+Original Hypothesis: There is no woman using a sewing machine
+Reference: a woman is using a sewing machine .
+Hypothesis: there is no woman using a sewing machine
+Hypothesis After Shift: there woman is no using a sewing machine
+Alignment: (S  I    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.485 (3.804 / 7.850)
+
+Sentence ID: [doc1][0296]
+Original Reference: A woman cuts up some vegetables.
+Original Hypothesis: There is no person cutting some mushrooms
+Reference: a woman cuts up some vegetables .
+Hypothesis: there is no person cutting some mushrooms
+Hypothesis After Shift: there is no person cutting some mushrooms
+Alignment: (ISSITD DS)
+HypErrs: 0.259 1.557 1.557 0.259 0.000 0.000 1.557
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 1.000 (8.041 / 7.950)
+
+Sentence ID: [doc1][0297]
+Original Reference: A man is eating food.
+Original Hypothesis: There is no man eating food
+Reference: a man is eating food .
+Hypothesis: there is no man eating food
+Hypothesis After Shift: there man is no eating food
+Alignment: (S  I  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.518 (3.804 / 7.350)
+
+Sentence ID: [doc1][0298]
+Original Reference: A man is walking along a path through wilderness.
+Original Hypothesis: There is no man walking along a path through a wilderness
+Reference: a man is walking along a path through wilderness .
+Hypothesis: there is no man walking along a path through a wilderness
+Hypothesis After Shift: there man is no walking along a path through a wilderness
+Alignment: (S  I     I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.528 (4.063 / 7.700)
+
+Sentence ID: [doc1][0299]
+Original Reference: A man carries a women.
+Original Hypothesis: There is no man carrying a woman
+Reference: a man carries a women .
+Hypothesis: there is no man carrying a woman
+Hypothesis After Shift: there is no man carrying a woman
+Alignment: (IIS PYD)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.25 <p>carries a</p> <p>carrying a</p>
+
+Score: 0.317 (3.501 / 11.050)
+
+Sentence ID: [doc1][0300]
+Original Reference: A woman is putting her baby in a waste bin.
+Original Hypothesis: There is no woman putting a child in a waste bin
+Reference: a woman is putting her baby in a waste bin .
+Hypothesis: there is no woman putting a child in a waste bin
+Hypothesis After Shift: there woman is no putting a child in a waste bin
+Alignment: (S  I IP    D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.356 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 1
+  NewCost: 0.35573929366303103 OrigCost: 0.024846 <p>her baby</p> <p>child</p>
+
+Score: 0.419 (4.419 / 10.550)
+
+Sentence ID: [doc1][0301]
+Original Reference: A man pours cleaner in his sink.
+Original Hypothesis: There is no man pouring cleaner into the sink
+Reference: a man pours cleaner in his sink .
+Hypothesis: there is no man pouring cleaner into the sink
+Hypothesis After Shift: there is no man pouring cleaner into the sink
+Alignment: (IIS T SS D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 1.557 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.570 (6.614 / 11.600)
+
+Sentence ID: [doc1][0302]
+Original Reference: a girl is riding a horse
+Original Hypothesis: There is no girl riding a horse
+Reference: a girl is riding a horse
+Hypothesis: there is no girl riding a horse
+Hypothesis After Shift: there girl is no riding a horse
+Alignment: (S  I   )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.290 (2.377 / 8.200)
+
+Sentence ID: [doc1][0303]
+Original Reference: The cook is slicing bell peppers.
+Original Hypothesis: There is no cook slicing some bell peppers
+Reference: the cook is slicing bell peppers .
+Hypothesis: there is no cook slicing some bell peppers
+Hypothesis After Shift: there cook is no slicing some bell peppers
+Alignment: (S  I I  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (cook) -> (cook)
+Num Phrase Substitutions: 0
+
+Score: 0.521 (4.063 / 7.800)
+
+Sentence ID: [doc1][0304]
+Original Reference: A cat plays with a baby.
+Original Hypothesis: There is no cat playing with a watermelon
+Reference: a cat plays with a baby .
+Hypothesis: there is no cat playing with a watermelon
+Hypothesis After Shift: there is no cat playing with a watermelon
+Alignment: (IIS P DS)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 1.557
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.0 OrigCost: 0.076144 <p>plays with</p> <p>playing with</p>
+
+Score: 0.592 (5.058 / 8.550)
+
+Sentence ID: [doc1][0305]
+Original Reference: A woman plays an electric guitar.
+Original Hypothesis: There is no woman playing an electric guitar
+Reference: a woman plays an electric guitar .
+Hypothesis: there is no woman playing an electric guitar
+Hypothesis After Shift: there is no woman playing an electric guitar
+Alignment: (IIS T   D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.500 (3.501 / 7.000)
+
+Sentence ID: [doc1][0306]
+Original Reference: Squirrel running around
+Original Hypothesis: There is no squirrel spinning around in circles
+Reference: squirrel running around
+Hypothesis: there is no squirrel spinning around in circles
+Hypothesis After Shift: there is no squirrel spinning around in circles
+Alignment: (III S II)
+HypErrs: 0.259 0.259 0.259 0.000 1.557 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.383 (2.851 / 7.450)
+
+Sentence ID: [doc1][0307]
+Original Reference: A woman is scrubbing a zucchini with a vegetable brush.
+Original Hypothesis: There is no woman scrubbing a zucchini with a vegetable brush
+Reference: a woman is scrubbing a zucchini with a vegetable brush .
+Hypothesis: there is no woman scrubbing a zucchini with a vegetable brush
+Hypothesis After Shift: there woman is no scrubbing a zucchini with a vegetable brush
+Alignment: (S  I       D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.488 (3.804 / 7.800)
+
+Sentence ID: [doc1][0308]
+Original Reference: A biker is performing stunts.
+Original Hypothesis: There is no man doing pull-ups
+Reference: a biker is performing stunts .
+Hypothesis: there is no man doing pull-ups
+Hypothesis After Shift: there is no man doing pull-ups
+Alignment: (DS IIYDS)
+HypErrs: 1.557 0.000 0.259 0.259 0.000 1.557
+OtherErr: 2.854
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.701 (6.485 / 9.250)
+
+Sentence ID: [doc1][0309]
+Original Reference: A man is mowing grass.
+Original Hypothesis: There is no man mowing grass
+Reference: a man is mowing grass .
+Hypothesis: there is no man mowing grass
+Hypothesis After Shift: there man is no mowing grass
+Alignment: (S  I  D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.525 (3.804 / 7.250)
+
+Sentence ID: [doc1][0310]
+Original Reference: A potato is being peeled.
+Original Hypothesis: There is no person peeling a potato
+Reference: a potato is being peeled .
+Hypothesis: there is no person peeling a potato
+Hypothesis After Shift: a potato there is no person peeling
+Alignment: (  I ISTD)
+HypErrs: 0.259 0.000 0.259 1.557 0.000 0.281 0.281
+OtherErr: 1.427
+HypLocMap: 5 6 0 1 2 3 4
+
+NumShifts: 1
+  [5, 6, -1/-1] (a potato) -> (a potato)
+Num Phrase Substitutions: 0
+
+Score: 0.553 (4.063 / 7.350)
+
+Sentence ID: [doc1][0311]
+Original Reference: A man is playing the guitar.
+Original Hypothesis: There is no man playing the guitar
+Reference: a man is playing the guitar .
+Hypothesis: there is no man playing the guitar
+Hypothesis After Shift: there man is no playing the guitar
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.467 (3.804 / 8.150)
+
+Sentence ID: [doc1][0312]
+Original Reference: A monkey is karate kicking a person.
+Original Hypothesis: There is no monkey kicking at the gloved hand of a person
+Reference: a monkey is karate kicking a person .
+Hypothesis: there is no monkey kicking at the gloved hand of a person
+Hypothesis After Shift: there monkey is no kicking at the gloved hand of a person
+Alignment: (S  S IIIII  D)
+HypErrs: 1.557 0.000 1.557 0.562 0.000 0.259 0.259 0.259 0.259 0.259 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9 10 11
+
+NumShifts: 1
+  [3, 3, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.847 (6.396 / 7.550)
+
+Sentence ID: [doc1][0313]
+Original Reference: Man playing guitar
+Original Hypothesis: There is no man playing guitar
+Reference: man playing guitar
+Hypothesis: there is no man playing guitar
+Hypothesis After Shift: there is no man playing guitar
+Alignment: (III   )
+HypErrs: 0.259 0.259 0.259 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.110 (0.777 / 7.050)
+
+Sentence ID: [doc1][0314]
+Original Reference: Two men are boxing.
+Original Hypothesis: There is no karate practitioner kicking at another man who is wearing protective boxing gloves
+Reference: two men are boxing .
+Hypothesis: there is no karate practitioner kicking at another man who is wearing protective boxing gloves
+Hypothesis After Shift: there is no karate practitioner kicking at another man who is wearing protective boxing gloves
+Alignment: (IIIIIIIIPIYII S)
+HypErrs: 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.603 0.259 0.000 0.259 0.259 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8 9 10 11 12 13 14
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.6026780462338405 OrigCost: 0.001698 <p>two men</p> <p>man</p>
+
+Score: 0.654 (5.007 / 7.650)
+
+Sentence ID: [doc1][0315]
+Original Reference: A girl is applying makeup.
+Original Hypothesis: There is no girl applying makeup to her face
+Reference: a girl is applying makeup .
+Hypothesis: there is no girl applying makeup to her face
+Hypothesis After Shift: there girl is no applying makeup to her face
+Alignment: (S  I  IIS)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.512 (4.452 / 8.700)
+
+Sentence ID: [doc1][0316]
+Original Reference: A boy playing music
+Original Hypothesis: There is no young boy playing a wind instrument
+Reference: a boy playing music
+Hypothesis: there is no young boy playing a wind instrument
+Hypothesis After Shift: there is no young boy playing a wind instrument
+Alignment: (IIIS  IIS)
+HypErrs: 0.259 0.259 0.259 1.557 0.000 0.000 0.259 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7 8
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.584 (4.407 / 7.550)
+
+Sentence ID: [doc1][0317]
+Original Reference: the person is playing drums
+Original Hypothesis: There is no man playing the drums
+Reference: the person is playing drums
+Hypothesis: there is no man playing the drums
+Hypothesis After Shift: there is no man playing the drums
+Alignment: (IIIPD I )
+HypErrs: 0.259 0.259 0.259 0.837 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 0.8368230423312493 OrigCost: 0.05506 <p>the person</p> <p>man</p>
+
+Score: 0.504 (3.299 / 6.550)
+
+Sentence ID: [doc1][0318]
+Original Reference: A man is cutting paper.
+Original Hypothesis: There is no man cutting a paper
+Reference: a man is cutting paper .
+Hypothesis: there is no man cutting a paper
+Hypothesis After Shift: there man is no cutting a paper
+Alignment: (S  I I D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.259 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.493 (4.063 / 8.250)
+
+Sentence ID: [doc1][0319]
+Original Reference: SOMEONE SLICING VEGETABLE
+Original Hypothesis: There is no woman slicing an onion
+Reference: someone slicing vegetable
+Hypothesis: there is no woman slicing an onion
+Hypothesis After Shift: there is no woman slicing an onion
+Alignment: (IIIS IS)
+HypErrs: 0.259 0.259 0.259 1.557 0.000 0.259 1.557
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.500 (4.149 / 8.300)
+
+Sentence ID: [doc1][0320]
+Original Reference: A monkey is karate kicking a person.
+Original Hypothesis: There is no monkey kicking a person
+Reference: a monkey is karate kicking a person .
+Hypothesis: there is no monkey kicking a person
+Hypothesis After Shift: there monkey is no kicking a person
+Alignment: (S  S   D)
+HypErrs: 1.557 0.000 1.557 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (monkey) -> (monkey)
+Num Phrase Substitutions: 0
+
+Score: 0.676 (5.102 / 7.550)
+
+Sentence ID: [doc1][0321]
+Original Reference: a baby is playing
+Original Hypothesis: There is no baby talking
+Reference: a baby is playing
+Hypothesis: there is no baby talking
+Hypothesis After Shift: there baby is no talking
+Alignment: (S  IS)
+HypErrs: 1.557 0.000 0.259 0.562 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4
+
+NumShifts: 1
+  [3, 3, 1/0] (baby) -> (baby)
+Num Phrase Substitutions: 0
+
+Score: 0.474 (3.934 / 8.300)
+
+Sentence ID: [doc1][0322]
+Original Reference: A Guinea pig eats a carrot.
+Original Hypothesis: There is no guinea pig eating a carrot
+Reference: a guinea pig eats a carrot .
+Hypothesis: there is no guinea pig eating a carrot
+Hypothesis After Shift: there is no guinea pig eating a carrot
+Alignment: (IIS  T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.438 (3.501 / 8.000)
+
+Sentence ID: [doc1][0323]
+Original Reference: A person riding a mechanical bull
+Original Hypothesis: There is no man riding a mechanical bull
+Reference: a person riding a mechanical bull
+Hypothesis: there is no man riding a mechanical bull
+Hypothesis After Shift: there is no man riding a mechanical bull
+Alignment: (IIIP    )
+HypErrs: 0.259 0.259 0.259 1.212 0.000 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 4 5 6 7
+
+NumShifts: 0
+Num Phrase Substitutions: 1
+  NewCost: 1.2119911028214612 OrigCost: 0.008131 <p>a person</p> <p>man</p>
+
+Score: 0.247 (1.989 / 8.050)
+
+Sentence ID: [doc1][0324]
+Original Reference: A man dances.
+Original Hypothesis: There is no man dancing
+Reference: a man dances .
+Hypothesis: there is no man dancing
+Hypothesis After Shift: there is no man dancing
+Alignment: (IIS TD)
+HypErrs: 0.259 0.259 1.557 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.490 (3.501 / 7.150)
+
+Sentence ID: [doc1][0325]
+Original Reference: A woman puts on lipstick.
+Original Hypothesis: There is no woman putting on lipstick
+Reference: a woman puts on lipstick .
+Hypothesis: there is no woman putting on lipstick
+Hypothesis After Shift: there is no woman putting on lipstick
+Alignment: (IIS T  D)
+HypErrs: 0.259 0.259 1.557 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 1 2 3 4 5 6
+
+NumShifts: 0
+Num Phrase Substitutions: 0
+
+Score: 0.476 (3.501 / 7.350)
+
+Sentence ID: [doc1][0326]
+Original Reference: a man is riding a horse
+Original Hypothesis: There is no man riding a horse
+Reference: a man is riding a horse
+Hypothesis: there is no man riding a horse
+Hypothesis After Shift: there man is no riding a horse
+Alignment: (S  I   )
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.303 (2.377 / 7.850)
+
+Sentence ID: [doc1][0327]
+Original Reference: A woman is frying something in the pan.
+Original Hypothesis: There is no woman frying something in a pan
+Reference: a woman is frying something in the pan .
+Hypothesis: there is no woman frying something in a pan
+Hypothesis After Shift: there woman is no frying something in a pan
+Alignment: (S  I   S D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 1.557 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.729 (5.361 / 7.350)
+
+Sentence ID: [doc1][0328]
+Original Reference: A man is breaking wooden boards with his hand.
+Original Hypothesis: There is no man breaking wooden boards with his hand
+Reference: a man is breaking wooden boards with his hand .
+Hypothesis: there is no man breaking wooden boards with his hand
+Hypothesis After Shift: there man is no breaking wooden boards with his hand
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.442 (3.804 / 8.600)
+
+Sentence ID: [doc1][0329]
+Original Reference: the dog is playing the doll
+Original Hypothesis: There is no dog playing with a toy
+Reference: the dog is playing the doll
+Hypothesis: there is no dog playing with a toy
+Hypothesis After Shift: there dog is no playing with a toy
+Alignment: (S  I SIP)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 1.557 0.259 0.508
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5 6 7
+
+NumShifts: 1
+  [3, 3, 1/0] (dog) -> (dog)
+Num Phrase Substitutions: 1
+  NewCost: 0.5081283154112675 OrigCost: 0.009336 <p>doll</p> <p>toy</p>
+
+Score: 0.540 (4.701 / 8.700)
+
+Sentence ID: [doc1][0330]
+Original Reference: A girl is brushing her hair.
+Original Hypothesis: There is no girl brushing her hair
+Reference: a girl is brushing her hair .
+Hypothesis: there is no girl brushing her hair
+Hypothesis After Shift: there girl is no brushing her hair
+Alignment: (S  I   D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6
+
+NumShifts: 1
+  [3, 3, 1/0] (girl) -> (girl)
+Num Phrase Substitutions: 0
+
+Score: 0.356 (3.804 / 10.700)
+
+Sentence ID: [doc1][0331]
+Original Reference: A man
+Original Hypothesis: There is no man breaking a slab of concrete with a sledge hammer
+Reference: a man
+Hypothesis: there is no man breaking a slab of concrete with a sledge hammer
+Hypothesis After Shift: there is no breaking a slab of concrete with a man sledge hammer
+Alignment: (IIIIIIIII  II)
+HypErrs: 0.259 0.259 0.259 0.562 0.259 0.259 0.259 0.259 0.259 0.259 0.000 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 4 5 6 7 8 9 10 3 11 12
+
+NumShifts: 1
+  [3, 3, 0/10] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.338 (3.409 / 10.100)
+
+Sentence ID: [doc1][0332]
+Original Reference: The man is walking.
+Original Hypothesis: There is no man walking outside
+Reference: the man is walking .
+Hypothesis: there is no man walking outside
+Hypothesis After Shift: there man is no walking outside
+Alignment: (S  I S)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 1.557
+OtherErr: 0.000
+HypLocMap: 0 3 1 2 4 5
+
+NumShifts: 1
+  [3, 3, 1/0] (man) -> (man)
+Num Phrase Substitutions: 0
+
+Score: 0.511 (3.934 / 7.700)
+
+Sentence ID: [doc1][0333]
+Original Reference: A woman is slicing meat with a knife.
+Original Hypothesis: There is no woman slicing meat with a knife
+Reference: a woman is slicing meat with a knife .
+Hypothesis: there is no woman slicing meat with a knife
+Hypothesis After Shift: there woman is no slicing meat with a knife
+Alignment: (S  I     D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8
+
+NumShifts: 1
+  [3, 3, 1/0] (woman) -> (woman)
+Num Phrase Substitutions: 0
+
+Score: 0.482 (3.804 / 7.900)
+
+Sentence ID: [doc1][0334]
+Original Reference: A cat is sliding upside down under a couch.
+Original Hypothesis: There is no cat sliding upside down under a couch
+Reference: a cat is sliding upside down under a couch .
+Hypothesis: there is no cat sliding upside down under a couch
+Hypothesis After Shift: there cat is no sliding upside down under a couch
+Alignment: (S  I      D)
+HypErrs: 1.557 0.000 0.259 0.562 0.000 0.000 0.000 0.000 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 0 3 1 2 4 5 6 7 8 9
+
+NumShifts: 1
+  [3, 3, 1/0] (cat) -> (cat)
+Num Phrase Substitutions: 0
+
+Score: 0.379 (3.804 / 10.050)
+
+Sentence ID: [doc1][0335]
+Original Reference: she is car driving
+Original Hypothesis: There is no woman driving a car and talking to the man seated beside her
+Reference: she is car driving
+Hypothesis: there is no woman driving a car and talking to the man seated beside her
+Hypothesis After Shift: there is no woman a car driving and talking to the man seated beside her
+Alignment: (S III  IIIIIIII)
+HypErrs: 1.557 0.000 0.259 0.259 0.562 0.259 0.000 0.259 0.259 0.259 0.259 0.259 0.259 0.259 0.259
+OtherErr: 0.000
+HypLocMap: 0 1 2 3 5 6 4 7 8 9 10 11 12 13 14
+
+NumShifts: 1
+  [4, 4, 2/6] (driving) -> (driving)
+Num Phrase Substitutions: 0
+
+Score: 0.528 (4.966 / 9.400)
+
+Sentence ID: [doc1][0336]
+Original Reference: Men are playing soccer.
+Original Hypothesis: There is no man playing soccer
+Reference: men are playing soccer .
+Hypothesis: there is no man playing soccer
+Hypothesis After Shift: man there is no playing soccer
+Alignment: (YIYI  D)
+HypErrs: 0.259 0.000 0.259 0.562 0.000 0.000
+OtherErr: 1.427
+HypLocMap: 3 0 1 2 4 5
+
+NumShifts: 1
+  [3, 3, -1/-1] (man) -> (men)
+Num Phrase Substitutions: 0
+
+Score: 0.330 (2.507 / 7.600)
+

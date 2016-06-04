@@ -1,0 +1,1528 @@
+passive
+active to passive
+
+num:     304
+mean:    4.85388157895
+stddev:  0.179915639376
+
+
+	dataset:     SEMEVAL
+	orig:        A boat sails along the water.
+	sent:        A boat is sailing peacefully over the water
+	corr:        A boat's sail is being reflected by the peaceful water
+	score:       3.5
+	dataset:     SEMEVAL
+	orig:        the man set up his camera to take sunset pictures at the beach
+	sent:        The man is setting up the camera and taking sunset pictures at the beach
+	corr:        The picture of a camera set up is being taken by a man on the beach at the sunset
+	score:       4.0
+	dataset:     FLICKR
+	orig:        a child is holding up a camera in front of its face
+	sent:        A child is holding a camera in front of his face
+	corr:        A camera is being held in front of the face of a child
+	score:       4.1
+	dataset:     FLICKR
+	orig:        a little girl in a green coat and a boy holding a red sled walk in the snow
+	sent:        A little girl in a green coat and a boy holding a red sled are walking in the snow
+	corr:        A red sled is being held by a little girl in a green coat and a boy walking in the snow
+	score:       4.2
+	dataset:     SEMEVAL
+	orig:        A man is showing magic.
+	sent:        The man is doing a magic trick
+	corr:        A magic trick is being performed by the magician
+	score:       4.3
+	dataset:     SEMEVAL
+	orig:        a man gets knocked off of a horse
+	sent:        The man is abruptly knocked off of a horse
+	corr:        The man is being knocked off of a horse
+	score:       4.3
+	dataset:     SEMEVAL
+	orig:        the man is using a camera to hammer a nail
+	sent:        The man is hammering a nail with a camera
+	corr:        A camera is being hammered onto the nail by the man
+	score:       4.3
+	dataset:     SEMEVAL
+	orig:        a monkey pratices martial arts
+	sent:        The monkey is practicing martial arts
+	corr:        The monkey is being trained in martial arts
+	score:       4.3
+	dataset:     SEMEVAL
+	orig:        the rhino grazed on the grass
+	sent:        The rhino is grazing on the grass
+	corr:        The rhino is being fed on the grass
+	score:       4.35
+	dataset:     SEMEVAL
+	orig:        A boy whacks a man with a sword.
+	sent:        A boy is whacking a man with a sword
+	corr:        A man is being hit by a kid with a weapon
+	score:       4.4
+	dataset:     SEMEVAL
+	orig:        A man is riding a horse.
+	sent:        A man is riding the animal
+	corr:        The horse is being ridden by a man
+	score:       4.4
+	dataset:     FLICKR
+	orig:        woman looking curiously at a man
+	sent:        A woman is looking curiously at a man
+	corr:        A man is being curiously looked at by a woman
+	score:       4.4
+	dataset:     FLICKR
+	orig:        a man takes a picture of himself and another guy
+	sent:        The man is taking a picture of himself and another guy
+	corr:        A picture of himself and another guy is being taken by the man
+	score:       4.4
+	dataset:     FLICKR
+	orig:        Girl in pink shirt with white writing lying in grass.
+	sent:        A girl is wearing a pink shirt with white writing on it and is lying in the grass
+	corr:        A pink shirt with white writing on it is being worn by a girl who is lying in the grass
+	score:       4.5
+	dataset:     SEMEVAL
+	orig:        A machine is sharpening a pencil.
+	sent:        A machine is sharpening a pencil
+	corr:        A pencil is being sharpened
+	score:       4.5
+	dataset:     SEMEVAL
+	orig:        A person is mixing ingredients in a bowl.
+	sent:        A man is mixing a few ingredients in a bowl
+	corr:        Some ingredients are being mixed in a bowl by a person
+	score:       4.5
+	dataset:     SEMEVAL
+	orig:        a dog knocks a boy into the water twice
+	sent:        The dog is knocking a boy into the water
+	corr:        A boy is being knocked into the water by the dog
+	score:       4.5
+	dataset:     SEMEVAL
+	orig:        a woman rides a horse
+	sent:        A woman is riding a horse
+	corr:        An animal is being ridden by a woman
+	score:       4.5
+	dataset:     FLICKR
+	orig:        a father pushes his daughters go-kart while another girl watches
+	sent:        A father is pushing his daughter on a go-kart and another girl is watching
+	corr:        A daughter is being pushed by her father on a go-kart and another girl is watching
+	score:       4.5
+	dataset:     SEMEVAL
+	orig:        A man pours liquid into a pan.
+	sent:        A man is pouring liquid into a pot
+	corr:        Some liquid is being poured into a pan by a man
+	score:       4.6
+	dataset:     SEMEVAL
+	orig:        two people are riding a bike
+	sent:        Two people are riding a bike
+	corr:        Two bikes are being ridden by two people
+	score:       4.6
+	dataset:     SEMEVAL
+	orig:        a man is riding a horse by a creek
+	sent:        The man is riding a horse by a creek
+	corr:        A horse is being ridden in a creek by a man
+	score:       4.6
+	dataset:     FLICKR
+	orig:        a bicyclist holds their bike over their head by a group of people
+	sent:        A bicyclist is holding a bike over his head in a group of people
+	corr:        A bike is being held over his head by a bicyclist in a group of people
+	score:       4.6
+	dataset:     FLICKR
+	orig:        a cold cycler celebrates
+	sent:        A cold cyclist is celebrating
+	corr:        Something is being celebrated by a cold cyclist
+	score:       4.6
+	dataset:     FLICKR
+	orig:        a bee clings to a yellow flower
+	sent:        A bee is clinging to a yellow flower
+	corr:        A yellow flower is being clung to by a bee
+	score:       4.6
+	dataset:     FLICKR
+	orig:        a shirtless man leading a horse that is pulling a carriage
+	sent:        A shirtless man is leading a horse that is pulling a carriage
+	corr:        A shirtless man is leading a carriage that is being pulled by a horse
+	score:       4.6
+	dataset:     FLICKR
+	orig:        A man wearing a black shirt laughs while sitting at the table.
+	sent:        A man wearing a dyed black shirt is sitting at the table and laughing
+	corr:        A black shirt is being worn by a man who is sitting at the table and laughing
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        The machine shaved the end of the pencil.
+	sent:        The machine is shaving the end of a pencil
+	corr:        A pencil is being shaved by the machine
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        A man is feeding a mouse to a snake.
+	sent:        One man is feeding a mouse to the snake
+	corr:        A snake is being fed a mouse by a man
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        A man spreads butter on a big piece of bread.
+	sent:        A man is spreading butter on a piece of bread which is big
+	corr:        A piece of bread, which is big, is having butter spread upon it by a man OR A piece of bread, which is big, is being spread with butter by a man
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        The man is driving a white car.
+	sent:        A person is driving the white car
+	corr:        A white car is being driven by the man
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        a man plays the keyboard with his nose
+	sent:        A man is playing the keyboard with his nose
+	corr:        The keyboard is being played with his nose by a man
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        paper is being cut with scissors
+	sent:        Someone is cutting some paper with scissors
+	corr:        Paper is being cut with scissors
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        meat is dropped into a pan
+	sent:        Someone is dropping the meat into a pan
+	corr:        The meat is being dropped into a pan
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        a woman is playing a guitar
+	sent:        A woman is playing a guitar
+	corr:        A guitar is being played by a woman
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        the girl is riding the horse
+	sent:        The girl is riding the horse
+	corr:        The horse is being ridden by the girl
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        a baby elephant is eating a small tree
+	sent:        A baby elephant is eating a small tree
+	corr:        A small tree is being eaten by a baby elephant
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        a woman is chopping garlic
+	sent:        A woman is chopping garlic
+	corr:        Garlic is being chopped by a woman
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        a man cuts a potato
+	sent:        A man is cutting a potato
+	corr:        A potato is being cut by a man
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        a man is playing the trumpet
+	sent:        A man is playing the trumpet
+	corr:        The trumpet is being played by a man
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        the man added seasoning to water in a bowl
+	sent:        The man is adding seasoning to the water in a bowl
+	corr:        Seasoning is being added to the water by the man
+	score:       4.7
+	dataset:     SEMEVAL
+	orig:        a man puts vegetables into a pot
+	sent:        A man is putting vegetables into a pot
+	corr:        Vegetables are being put into a pot by a man
+	score:       4.7
+	dataset:     FLICKR
+	orig:        a brown dog carries a multiple colored toy in the grass
+	sent:        A brown dog is carrying a colored toy in the grass
+	corr:        A colored toy is being carried by a brown dog in the grass
+	score:       4.7
+	dataset:     FLICKR
+	orig:        two men climbing a mountain
+	sent:        The men are climbing a mountain
+	corr:        A mountain is being climbed by two men
+	score:       4.7
+	dataset:     FLICKR
+	orig:        a man in a blue cowboy hat is riding a white horse
+	sent:        A man in a blue cowboy hat is riding a white horse
+	corr:        A white horse is being ridden by a man in a blue cowboy hat
+	score:       4.7
+	dataset:     FLICKR
+	orig:        Two teams compete in football.
+	sent:        Two teams are competing in a football match
+	corr:        Football is being played by two competing teams
+	score:       4.8
+	dataset:     FLICKR
+	orig:        A man wearing a black helmet is pushing his bicycle.
+	sent:        One man is wearing a black helmet and pushing a bicycle
+	corr:        A black helmet is being worn by a man who is pushing a bicycle
+	score:       4.8
+	dataset:     FLICKR
+	orig:        Two toddlers are eating corndogs in a small wagon or bin.
+	sent:        Two toddlers are eating corndogs in a wagon, which is really small
+	corr:        Some corndogs are being eaten by two toddlers who are in a wagon, which is really small
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a man watching another man DOA kissing pose
+	sent:        A man is posing to be watched by another man
+	corr:        A man doing a pose is being watched by another man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        A man is spreading out dough.
+	sent:        A man is spreading dough
+	corr:        Dough is being spread by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        The man is playing the guitar.
+	sent:        The man is a guitar player
+	corr:        The guitar is being played by the man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        The man poured oil on the cut tomatoes.
+	sent:        The man is pouring some oil on the tomatoes
+	corr:        Some oil is being poured on the tomatoes by the man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        A man is holding a frog.
+	sent:        A man is carelessly holding a frog
+	corr:        A frog is being held carelessly by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        A woman is riding an elephant.
+	sent:        The woman is riding the elephant
+	corr:        The elephant is being ridden by the woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        A man is pressing microwave buttons.
+	sent:        A man is pushing the buttons of a microwave
+	corr:        The buttons of a microwave are being pushed by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        Kittens are eating food on trays.
+	sent:        The kittens are eating the food on the trays
+	corr:        The food on the trays is being eaten by the kittens
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        A woman is cutting meat into pieces.
+	sent:        A woman is cutting some meat into pieces
+	corr:        Some meat is being cut into pieces by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        A person is whisking eggs in a bowl.
+	sent:        A person is strongly whisking eggs in a bowl
+	corr:        Eggs are being strongly whisked in a bowl by a person
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        A man is giving an interview.
+	sent:        The man is granting an interview
+	corr:        An interview is being granted by the man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        The cat is drinking milk.
+	sent:        The cat is hungrily drinking milk
+	corr:        Some milk is being hungrily drunk by a cat
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is slicing a carrot
+	sent:        A woman is slicing a carrot
+	corr:        A carrot is being sliced by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a person is blow torching cameras
+	sent:        A person is burning some cameras with a blow torch
+	corr:        Some cameras are being burned by a person with a blow torch
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is slicing an onion with a knife
+	sent:        The woman is slicing an onion with a knife
+	corr:        An onion is being sliced with a knife by the woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a monkey is brushing a bull dog
+	sent:        The monkey is brushing a bull dog
+	corr:        A bull dog is being brushed by the monkey
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        the woman is walking her dog
+	sent:        The woman is walking the dog
+	corr:        The dog is being walked by the woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man is eating a banana
+	sent:        A man is eating a banana
+	corr:        A banana is being eaten by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a panda bear is eating some bamboo
+	sent:        A panda bear is eating some bamboo
+	corr:        Some bamboo is being eaten by a panda bear
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man is riding a horse
+	sent:        A man is riding a horse
+	corr:        A horse is being ridden by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is slicing egg plant
+	sent:        A woman is slicing an eggplant
+	corr:        An eggplant is being sliced by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        two men are playing guitar
+	sent:        Two men are playing guitar
+	corr:        Guitar is being played by two men
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a clown is singing
+	sent:        A clown is singing
+	corr:        A song is being sung by a clown
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man is patting an alligator on the mouth
+	sent:        A man is patting an alligator on the mouth
+	corr:        An alligator is being patted on the mouth by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man is playing a guitar
+	sent:        A man is playing a guitar
+	corr:        A guitar is being played by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man drives a car
+	sent:        A man is driving a car
+	corr:        A car is being driven by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a little girl plays the violin on a beach
+	sent:        A little girl is playing the violin on a beach
+	corr:        The violin is being played by a little girl on a beach
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is opening a soda and drinking it
+	sent:        A woman is opening a soda and drinking it
+	corr:        A soda is being opened and drunk by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man is playing a guitar
+	sent:        A man is playing a guitar
+	corr:        A guitar is being played by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is frying something
+	sent:        A woman is frying something
+	corr:        Something is being fried by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man is reading an email
+	sent:        A man is reading an email
+	corr:        An email is being read by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is cutting an onion
+	sent:        A woman is cutting an onion
+	corr:        An onion is being cut by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is deep frying food
+	sent:        A woman is deep frying food
+	corr:        Food is being deep fried by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man is slicing potato
+	sent:        A man is slicing potatoes
+	corr:        Potatoes are being sliced by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a person is playing a keyboard piano
+	sent:        A person is playing a keyboard
+	corr:        A keyboard is being played by a person
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        someone is playing piano
+	sent:        Someone is playing piano
+	corr:        The piano is being played by someone
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is playing the flute
+	sent:        A woman is playing the flute
+	corr:        The flute is being played by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is cutting broccoli
+	sent:        A woman is cutting broccoli
+	corr:        Broccoli are being cut by a woman
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a girl is riding a horse
+	sent:        A girl is riding a horse
+	corr:        A horse is being ridden by a girl
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a chef is cleaning up a bowl of soup
+	sent:        A chef is cleaning a bowl of soup
+	corr:        A bowl of soup is being cleaned by a chef
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a kid plays the guitar
+	sent:        A kid is playing the guitar
+	corr:        The guitar is being played by a kid
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a man is riding a bicycle
+	sent:        A man is riding a bicycle
+	corr:        A bicycle is being ridden by a man
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a girl is playing a guitar
+	sent:        A girl is playing a guitar
+	corr:        A guitar is being played by a girl
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a woman is boiling noodles in water
+	sent:        A woman is boiling noodles in water
+	corr:        Noodles are being boiled in water by a woman
+	score:       4.8
+	dataset:     FLICKR
+	orig:        black and white dog holding a baseball in mouth
+	sent:        A black and white dog is holding a baseball in its mouth
+	corr:        A baseball is being held in its mouth by a black and white dog
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a girl in a brown dress surrounded by children closes her eyes
+	sent:        Children are surrounding a girl in a brown dress who is closing her eyes
+	corr:        A girl in a brown dress is being surrounded by children and is closing her eyes
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a surfer rides the wave
+	sent:        A surfer is riding the wave
+	corr:        The wave is being ridden by a surfer
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a girl in pink twirls a ribbon
+	sent:        A girl in pink is twirling a ribbon
+	corr:        A ribbon is being twirled by a girl in pink
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a man is squirting water into a white dog's mouth with a squirt gun
+	sent:        A man is squirting water into the mouth of a white dog with a squirt gun
+	corr:        Water is being squirted by a man into the mouth of a white dog with a squirt gun
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a surfer rides a big wave across dark green water
+	sent:        A surfer is riding a big wave across dark green water
+	corr:        A big wave is being ridden by a surfer across dark green water
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a tennis player in mid game holding a racquet
+	sent:        A tennis player in mid game is holding a racquet
+	corr:        A racquet is being held by a tennis player in mid game
+	score:       4.8
+	dataset:     FLICKR
+	orig:        the little boy rides his bicycle in a race
+	sent:        The little boy is riding a bicycle in a race
+	corr:        A bicycle is being ridden by the little boy in a race
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a group of people hold drinks and point at the camera
+	sent:        A group of people is holding drinks and pointing at the camera
+	corr:        Drinks are being held by people pointing at the camera
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a soccer player sits on the field drinking water
+	sent:        A soccer player is sitting on the field and is drinking water
+	corr:        Water is being drunk by a soccer player sitting on the field
+	score:       4.8
+	dataset:     FLICKR
+	orig:        a yellow dog anticipates a ball
+	sent:        A yellow dog is chasing a ball
+	corr:        A ball is being chased by a yellow dog
+	score:       4.8
+	dataset:     SEMEVAL
+	orig:        a chef is preparing some food
+	sent:        A chef is preparing some food
+	corr:        Some food is being prepared by a chef
+	score:       4.815
+	dataset:     SEMEVAL
+	orig:        a woman is pouring ingredients in a bowl
+	sent:        A woman is pouring ingredients into a bowl
+	corr:        Ingredients are being poured into a bowl by a woman
+	score:       4.815
+	dataset:     FLICKR
+	orig:        A man with jersey 23 is dunking the ball at a basket ball game.
+	sent:        A man with a jersey is dunking the ball at a basketball game
+	corr:        The ball is being dunked by a man with a jersey at a basketball game
+	score:       4.9
+	dataset:     FLICKR
+	orig:        A group of friends ride the current in a raft.
+	sent:        A group of friends are riding the current in a raft
+	corr:        The current is being ridden by a group of friends in a raft
+	score:       4.9
+	dataset:     FLICKR
+	orig:        this group of people are practicing water safety by wearing preservers while in a raft on the river
+	sent:        This group of people is practicing water safety and wearing preservers
+	corr:        Preservers are being worn by a group of people who are practicing water safety
+	score:       4.9
+	dataset:     FLICKR
+	orig:        A man with a camera studies his work.
+	sent:        A man with a camera is studying the subject
+	corr:        The subject is being studied by a man with a camera
+	score:       4.9
+	dataset:     FLICKR
+	orig:        Girl in blue and white uniform doing cheers
+	sent:        The girl in the blue and white uniform is cheering
+	corr:        Some cheers are being performed by the girl in the blue and white uniform
+	score:       4.9
+	dataset:     FLICKR
+	orig:        Cowboy in blue and red pants getting bucked off a horse.
+	sent:        A horse is tossing the cowboy wearing pants of blue and red color
+	corr:        The cowboy in blue and red pants is being tossed by a horse
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        The woman is measuring the other woman.
+	sent:        The woman is measuring the other woman
+	corr:        A woman is being measured by another woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        The man is stirring oil.
+	sent:        The man is stirring oil
+	corr:        The oil is being stirred by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        A man is picking up a tree.
+	sent:        A man is picking up a tree
+	corr:        A tree is being picked up by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        A badger is burrowing a hole.
+	sent:        The badger is burrowing a hole
+	corr:        A hole is being burrowed by the badger
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        A woman peels a potato.
+	sent:        A woman is peeling the potato
+	corr:        The potato is being peeled by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        A man cuts an onion.
+	sent:        A man is slicing an onion
+	corr:        An onion is being sliced by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        A person dices up an orange pepper.
+	sent:        The person is dicing up a pepper which is orange
+	corr:        An orange pepper is being diced up by a person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        A woman is putting a baby into a trash can.
+	sent:        A woman is putting the baby into a trash can
+	corr:        The baby is being put into a trash can by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing a guitar
+	sent:        The man is playing a guitar
+	corr:        A guitar is being played by the man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is slicing vegetables
+	sent:        The man is slicing vegetables
+	corr:        Vegetables are being sliced by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a person is cutting a capsicum into pieces
+	sent:        A person is cutting a capsicum into pieces
+	corr:        A capsicum is being cut into pieces by a person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        the woman is playing the flute
+	sent:        The woman is playing the flute
+	corr:        The flute is being played by the woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man lifts weights
+	sent:        The man is lifting weights
+	corr:        Weights are being lifted by the man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man cut a tree with an axe
+	sent:        A man is cutting a tree with an axe
+	corr:        A tree is being cut by a man with an axe
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is slicing an onion
+	sent:        A woman is slicing an onion
+	corr:        An onion is being sliced by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a person is combing a cat hair
+	sent:        A person is combing the fur of a cat
+	corr:        The fur of a cat is being combed by a person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is chopping broccoli
+	sent:        A woman is chopping broccoli
+	corr:        Broccoli is being chopped by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is cutting open a box
+	sent:        A man is cutting a box
+	corr:        A box is being cut by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is squeezing a lemon
+	sent:        A woman is squeezing a lemon
+	corr:        A lemon is being squeezed by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman boils eggs
+	sent:        A woman is boiling eggs
+	corr:        Eggs are being boiled by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        the man is slicing bread
+	sent:        The man is slicing bread
+	corr:        Bread is being sliced by the man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        the woman is dicing garlic
+	sent:        The woman is dicing garlic
+	corr:        Garlic is being diced by the woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        someone is cooking okra in a pan
+	sent:        Someone is cooking okra in a pan
+	corr:        Okra is being cooked in a pan
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing the drums
+	sent:        A man is playing the drums
+	corr:        The drums are being played by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a person is slicing onions
+	sent:        The person is slicing onions
+	corr:        Onions are being sliced by the person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is breaking tiles with his hands
+	sent:        A man is breaking tiles with his hands
+	corr:        Tiles are being broken with his hands by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is drawing a picture
+	sent:        A man is drawing a picture
+	corr:        A picture is being drawn by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is eating a pizza
+	sent:        A man is eating a pizza
+	corr:        A pizza is being eaten by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing a flute
+	sent:        A man is playing a flute
+	corr:        A flute is being played by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is tying his shoe
+	sent:        A man is tying a shoe
+	corr:        A shoe is being tied by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        the man cut a paper plate
+	sent:        The man is cutting a paper plate
+	corr:        A paper plate is being cut by the man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a person is dumping chopped vegetables into a pot on the stove
+	sent:        A person is dropping chopped vegetables into a pot on the stove
+	corr:        Chopped vegetables are being dropped into a pot on the stove by a person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        the doctor was helping the patient
+	sent:        The doctor is helping the patient
+	corr:        The patient is being helped by the doctor
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is giving a woman a massage
+	sent:        A man is massaging a woman
+	corr:        A woman is being massaged by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is shaking a container over a kitchen sink
+	sent:        A man is shaking a container over a sink in the kitchen
+	corr:        A container is being shaken over a sink in the kitchen by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a person is slicing some onions
+	sent:        A person is slicing some onions
+	corr:        Some onions are being cut by a person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing a harp
+	sent:        A man is playing a harp
+	corr:        A harp is being played by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is slicing a onion
+	sent:        A woman is slicing an onion
+	corr:        An onion is being sliced by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a monkey is karate kicking a person
+	sent:        A monkey is kicking a person
+	corr:        A person is being kicked by a monkey
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is riding on an elephant
+	sent:        A woman is riding on an elephant
+	corr:        An elephant is being ridden by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a monkey is teasing a dog at the zoo
+	sent:        A monkey is teasing a dog at the zoo
+	corr:        A dog is being teased by a monkey at the zoo
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a monkey pulls the tail of a dog
+	sent:        A monkey is pulling a dog's tail
+	corr:        A dog's tail is being pulled by a monkey
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing an electronic keyboard
+	sent:        A man is playing an electronic keyboard
+	corr:        An electronic keyboard is being played by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man mixes vegetables in a pot
+	sent:        A man is mixing vegetables in a pot
+	corr:        Vegetables are being mixed in a pot by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man carries a women
+	sent:        A man is carrying a woman
+	corr:        A woman is being carried by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a person opening a banana
+	sent:        A person is peeling a banana
+	corr:        A banana is being peeled by a person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is painting the face of a man
+	sent:        A woman is painting a man's face
+	corr:        A man's face is being painted by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is cutting an onion
+	sent:        A man is cutting an onion
+	corr:        An onion is being cut by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing his guitar
+	sent:        A man is playing the guitar
+	corr:        The guitar is being played by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing the piano
+	sent:        A man is playing the piano
+	corr:        The piano is being played by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is playing the violin
+	sent:        A woman is playing the violin
+	corr:        The violin is being played by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a person is playing a piano
+	sent:        A person is playing a piano
+	corr:        A piano is being played by a person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a person is slicing a potato
+	sent:        A person is slicing a potato
+	corr:        A potato is being sliced by a person
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        the man is playing the drums
+	sent:        The man is playing the drums
+	corr:        The drums are being played by the man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is petting two dogs
+	sent:        A man is petting two dogs
+	corr:        Two dogs are being petted by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a young girl is using sign language
+	sent:        A young girl is using sign language
+	corr:        Sign language is being used by a young girl
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        the man is slicing a potato
+	sent:        The man is slicing a potato
+	corr:        A potato is being sliced by the man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a girl is playing a flute
+	sent:        A girl is playing a flute
+	corr:        A flute is being played by a girl
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a girl plays a wind instrument
+	sent:        A girl is playing a wind instrument
+	corr:        A wind instrument is being played by a girl
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing a large flute
+	sent:        A man is playing a large flute
+	corr:        A large flute is being played by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is peeling a potato
+	sent:        A woman is peeling a potato
+	corr:        A potato is being peeled by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is cracking eggs into a bowl
+	sent:        A woman is cracking eggs into a bowl
+	corr:        Eggs are being cracked into a bowl by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is placing skewers onto a rack
+	sent:        A woman is placing skewers onto a rack
+	corr:        Skewers are being placed onto a rack by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a baby is playing a guitar
+	sent:        A baby is playing a guitar
+	corr:        A guitar is being played by a baby
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is cooking fish
+	sent:        A woman is cooking fish
+	corr:        Fish is being cooked by a woman
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is playing guitar
+	sent:        A man is playing guitar
+	corr:        Guitar is being played by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        the cat is licking a bottle
+	sent:        The cat is licking a bottle
+	corr:        A bottle is being licked by the cat
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is cutting up a fish
+	sent:        A man is cutting a fish
+	corr:        A fish is being cut by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a man is slicing open a fish
+	sent:        A man is slicing a fish
+	corr:        A fish is being sliced by a man
+	score:       4.9
+	dataset:     SEMEVAL
+	orig:        a woman is slicing potatoes
+	sent:        A woman is slicing potatoes
+	corr:        Potatoes are being sliced by a woman
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a girl carries a sign that reads the rescue while a group of people follow her
+	sent:        The girl is carrying a sign and a group of people is following her
+	corr:        The girl is carrying a sign and is being followed by a group of people
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a dog chasing an animals tail on the grass
+	sent:        A dog is chasing the tail of an animal in the grass
+	corr:        The tail of an animal is being chasing by a dog in the grass
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a man performs a large jump
+	sent:        The man is performing a large jump
+	corr:        A large jump is being performed by a man
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a surfer rides the wave
+	sent:        A surfer is riding the wave
+	corr:        The wave is being ridden by a surfer
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a woman in a red dress playing an instrument
+	sent:        A woman in a red dress is playing an instrument
+	corr:        An instrument is being played by a woman in a red dress
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a hockey player in a yellow jersey is guarding the goal
+	sent:        A hockey player in a yellow jersey is guarding the goal
+	corr:        The goal is being guarded by a hockey player in a yellow jersey
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a horse leaps a hurdle with a rider on its back
+	sent:        A horse is leaping a hurdle and has a rider on its back
+	corr:        A hurdle is being leapt by a horse that has a rider on its back
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a sooners football player in his red and white uniform being lifted by two teamates dressed the same
+	sent:        Two teammates are lifting a football player in a red and white uniform
+	corr:        A football player in a red and white uniform is being lifted by two teammates
+	score:       4.9
+	dataset:     FLICKR
+	orig:        four middle eastern children, three girls and one boy, climb on a grotto with a pink interior
+	sent:        Four middle eastern children, three girls and one boy, are climbing on the grotto with a pink interior
+	corr:        The grotto with a pink interior is being climbed by four middle eastern children, three girls and one boy
+	score:       4.9
+	dataset:     FLICKR
+	orig:        the brown dog sniffs the back of a smaller black dog
+	sent:        The brown dog is sniffing the back of a small black dog
+	corr:        The back of a small black dog is being sniffed by the brown dog
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a man wearing a sports uniform runs down the field as another follows
+	sent:        A man is wearing a sports uniform and is running down the field
+	corr:        A sports uniform is being worn by a man who is running down the field
+	score:       4.9
+	dataset:     FLICKR
+	orig:        four people performing music outdoors
+	sent:        Four people are performing music outdoors
+	corr:        Music is being performed by four people outdoors
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a soccer player is being tackled by his opponent
+	sent:        An opponent is tackling a soccer player
+	corr:        A soccer player is being tackled by his opponent
+	score:       4.9
+	dataset:     FLICKR
+	orig:        the black dog is climbing on a rock
+	sent:        The black dog is climbing on a rock
+	corr:        A rock is being climbed by the black dog
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a dog catches a ball in mid air
+	sent:        A dog is catching a ball in mid air
+	corr:        A ball is being caught by a dog in mid air
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a man and young boy ride in a yellow kayak
+	sent:        A man and a young boy are riding in a yellow kayak
+	corr:        A yellow kayak is being ridden by a man and a young boy
+	score:       4.9
+	dataset:     FLICKR
+	orig:        dog chasing after a ball on the grass
+	sent:        A dog is chasing a ball on the grass
+	corr:        A ball is being chased by a dog on the grass
+	score:       4.9
+	dataset:     FLICKR
+	orig:        the german shepherd dog is trying to catch a blue ball
+	sent:        The dog is catching a blue ball
+	corr:        A blue ball is being caught by the dog
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a boy holding a hose next to a man while another boy watches on, held by a woman
+	sent:        A boy is holding a hose next to a man and another boy is watching
+	corr:        A hose is being held by a boy next to a man and another boy is watching
+	score:       4.9
+	dataset:     FLICKR
+	orig:        the woman in the white sweater is painting a tattoo on the teenager's hand
+	sent:        The woman in the white sweater is drawing a tattoo on the hand of a teenager
+	corr:        A tattoo is being drawn by the woman in the white sweater on the hand of a teenager
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a man is performing a handstand on the beach
+	sent:        A man is performing a handstand on the beach
+	corr:        A handstand is being performed by a man on the beach
+	score:       4.9
+	dataset:     FLICKR
+	orig:        basketball player has fallen on the court while another grabs at the ball from out of frame
+	sent:        A basketball player is on the court floor and another one is grabbing the ball
+	corr:        A basketball player is on the court floor and the ball is being grabbed by another one
+	score:       4.9
+	dataset:     FLICKR
+	orig:        large brown dog jumps over red hurdle
+	sent:        A large brown dog is jumping over a red hurdle
+	corr:        A red hurdle is being jumped by a large brown dog
+	score:       4.9
+	dataset:     FLICKR
+	orig:        yellow labrador drinking water from a faucet
+	sent:        A yellow dog is drinking water from the faucet
+	corr:         water from the faucet is being drunk by a yellow dog
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a boy wears sunglasses
+	sent:        A boy is wearing sunglasses
+	corr:        Sunglasses are being worn by a boy
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a man plays guitar next to a drummer
+	sent:        A man is playing guitar next to a drummer
+	corr:        A guitar is being played by a man next to a drummer
+	score:       4.9
+	dataset:     FLICKR
+	orig:        two men look out as one is holding binoculars
+	sent:        Two men are looking out and one is holding binoculars
+	corr:        Two men are looking out and binoculars are being held by one of them
+	score:       4.9
+	dataset:     FLICKR
+	orig:        an arabic man in a white hat
+	sent:        An Arabic man is wearing a white hat
+	corr:        A white hat is being worn by an Arabic man
+	score:       4.9
+	dataset:     FLICKR
+	orig:        two people on motorbikes
+	sent:        Two people are riding motorbikes
+	corr:        Motorbikes are being ridden by two people
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a man in a black hat touches a cardboard box
+	sent:        A man in a black hat is touching a cardboard box
+	corr:        A cardboard box is being touched by a man in a black hat
+	score:       4.9
+	dataset:     FLICKR
+	orig:        veteran shows off different things from a war
+	sent:        A veteran is showing different things from a war to some people
+	corr:        Different things from a war are being shown to some people by a veteran
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a woman wearing paint and costume pieces rides a bike on a busy street
+	sent:        A woman is wearing paint and costume pieces and is riding a bike on a busy street
+	corr:        A bike is being ridden by a woman wearing paint and costume pieces on a busy street
+	score:       4.9
+	dataset:     FLICKR
+	orig:        a group of children play tambourines
+	sent:        A group of children is playing tambourines
+	corr:        Tambourines are being played by a group of children
+	score:       4.9
+	dataset:     FLICKR
+	orig:        A person is climbing up a rock with a pink rope.
+	sent:        A person is climbing a rock with a rope, which is pink
+	corr:        A rock is being climbed by a person with a rope, which is pink
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A man is driving a car.
+	sent:        A man is driving a car
+	corr:        The car is being driven by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A woman is slicing carrot.
+	sent:        A woman is slicing a carrot
+	corr:        A carrot is being sliced by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A woman is slicing a potato.
+	sent:        A woman is slicing a potato
+	corr:        A potato is being sliced by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A person is rinsing a steak off with water.
+	sent:        A person is rinsing a steak with water
+	corr:        A steak is being rinsed with water by a person
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A man is chopping butter into a container.
+	sent:        A man is chopping butter into a container
+	corr:        Butter is being chopped into a container by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A man is playing a trumpet.
+	sent:        A person is playing a trumpet
+	corr:        A trumpet is being played by a person
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A cat is drinking milk.
+	sent:        The cat is drinking some milk
+	corr:        The milk is being drunk by a cat
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        Someone is playing a piano.
+	sent:        Somebody is playing the piano
+	corr:        The piano is being played by someone
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A woman is putting oil into a skillet.
+	sent:        The woman is pouring oil into a skillet
+	corr:        Oil is being poured into a skillet by the woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        A man is riding a horse.
+	sent:        A man is riding the horse
+	corr:        The horse is being ridden by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is cracking an egg into a bowl
+	sent:        A woman is cracking an egg into a bowl
+	corr:        An egg is being cracked into a bowl by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        two kids push an inflatable crocodile around in a pool
+	sent:        Two kids are pushing an inflatable crocodile in a pool
+	corr:        An inflatable crocodile is being pushed by two kids in a pool
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        the man is eating cereal
+	sent:        The man is eating cereal
+	corr:        Cereal is being eaten by the man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a dog biting on a can
+	sent:        A dog is biting a can
+	corr:        A can is being bitten by a dog
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a person is slicing a carrot into pieces
+	sent:        A person is slicing a carrot into pieces
+	corr:        A carrot is being sliced into pieces by a person
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is playing a flute
+	sent:        The man is playing a flute
+	corr:        A flute is being played by the man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is boiling noodles in water
+	sent:        A woman is boiling noodles in water
+	corr:        Noodles are being boiled in water by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        the woman is cracking eggs into a bowl
+	sent:        The woman is cracking eggs into a bowl
+	corr:        Eggs are being cracked into a bowl by the woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is slicing an onion
+	sent:        The woman is slicing an onion
+	corr:        An onion is being sliced by the woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is pouring oil into a skillet
+	sent:        A man is pouring oil into a skillet
+	corr:        Oil is being poured into a skillet by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is grating carrots
+	sent:        A woman is grating carrots
+	corr:        Carrots are being grated by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a person folds a tortilla
+	sent:        A person is folding a tortilla
+	corr:        A tortilla is being folded by a person
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a person is buttering a tray
+	sent:        A person is buttering a tray
+	corr:        A tray is being buttered by a person
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        one woman hands volleyballs to another woman who serves them
+	sent:        One woman is handing volleyballs to another woman
+	corr:        A woman is being handed volleyballs by another woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is handling a frog
+	sent:        The woman is handling a frog
+	corr:        A frog is being handled by the woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a boy is filling a pitcher with water
+	sent:        A boy is filling a pitcher with water
+	corr:        A pitcher is being filled with water by a boy
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is putting on eyeshadow
+	sent:        A woman is putting on eyeshadow
+	corr:        Eyeshadow is being put on by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman with a knife is slicing a pepper
+	sent:        The woman with a knife is slicing a pepper
+	corr:        The pepper is being sliced by a woman with a knife
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is slicing a tomato
+	sent:        A woman is slicing a tomato
+	corr:        A tomato is being sliced by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is riding a seadoo
+	sent:        A woman is riding a Seadoo
+	corr:        A Seadoo is being ridden by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is riding on a horse
+	sent:        A man is riding a horse
+	corr:        A horse is being ridden by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is eating a food
+	sent:        A man is eating some food
+	corr:        Some food is being eaten by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is playing a wooden flute
+	sent:        A man is playing a wooden flute
+	corr:        A wooden flute is being played by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is stroking a lemur
+	sent:        A woman is stroking a lemur
+	corr:        A lemur is being stroked by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        someone is playing a piano
+	sent:        Someone is playing a piano
+	corr:        A piano is being played by someone
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a guy is riding a horse
+	sent:        A guy is riding a horse
+	corr:        A horse is being ridden by a guy
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is cutting a paper plate
+	sent:        A man is cutting a paper plate
+	corr:        A paper plate is being cut by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is mixing a bowl
+	sent:        A man is mixing the content of a bowl
+	corr:        The content of a bowl is being mixed by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        the woman is pouring oil into the pan
+	sent:        The woman is pouring oil into the pan
+	corr:        Oil is being poured into the pan by the woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is screwing wood to a wall
+	sent:        A man is screwing a piece of wood to a wall
+	corr:        A piece of wood is being screwed to a wall by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is riding a horse
+	sent:        A woman is riding a horse
+	corr:        A horse is being ridden by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is playing a violin
+	sent:        A man is playing a violin
+	corr:        A violin is being played by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is playing a keyboard
+	sent:        A man is playing a keyboard
+	corr:        A keyboard is being played by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a boy is playing guitar
+	sent:        A boy is playing guitar
+	corr:        A guitar is being played by a boy
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a kid is playing guitar
+	sent:        A kid is playing guitar
+	corr:        A guitar is being played by a kid
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a person is slicing an onion
+	sent:        A person is slicing an onion
+	corr:        An onion is being sliced by a person
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a band is playing instruments
+	sent:        A band is playing some instruments
+	corr:        Some instruments are being played by a band
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is slicing carrots
+	sent:        A woman is slicing carrots
+	corr:        Carrots are being sliced by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        the woman is putting makeup on the man
+	sent:        The woman is putting makeup on the man
+	corr:        Makeup is being put on the man by the woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is opening a door
+	sent:        A man is opening a door
+	corr:        A door is being opened by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is frying a food
+	sent:        A woman is frying some food
+	corr:        Some food is being fried by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is pulling some kind of sticky goo out of a bowl
+	sent:        A woman is pulling some sticky goo out of a bowl
+	corr:        Some sticky goo is being pulled out of a bowl by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        the woman is putting paste into a dish
+	sent:        The woman is putting pasta into a dish
+	corr:        Pasta is being put into a dish by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        the lady peeled the potatoe
+	sent:        The lady is peeling the potato
+	corr:        The potato is being peeled by the lady
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is slicing octopus
+	sent:        A woman is slicing an octopus
+	corr:        An octopus is being sliced by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is playing the drums
+	sent:        A man is playing the drums
+	corr:        The drums are being played by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is playing the guitar
+	sent:        A man is playing the guitar
+	corr:        The guitar is being played by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman is frying fish
+	sent:        A woman is frying fish
+	corr:        Fish is being fried by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is mowing grass
+	sent:        A man is mowing grass
+	corr:        Grass is being mowed by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a person is holding a skunk
+	sent:        A person is holding a skunk
+	corr:        A skunk is being held by a person
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a girl is eating a cupcake
+	sent:        A girl is eating a cupcake
+	corr:        A cupcake is being eaten by a girl
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        someone is stirring a pot of chili with a spoon
+	sent:        Someone is stirring a pot of chili with a spoon
+	corr:        A pot of chili is being stirred by someone with a spoon
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a woman slices tofu
+	sent:        A woman is slicing tofu
+	corr:        Tofu is being sliced by a woman
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man puts some cheese on a pizza
+	sent:        A man is putting some cheese on a pizza
+	corr:        Some cheese is being put on a pizza by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a cow is eating hay
+	sent:        A cow is eating hay
+	corr:        Hay is being eaten by a cow
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a person is peeling a potato
+	sent:        A person is peeling a potato
+	corr:        A potato is being peeled by a person
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a man is riding a motorcycle
+	sent:        A man is riding a motorcycle
+	corr:        A motorcycle is being ridden by a man
+	score:       5.0
+	dataset:     SEMEVAL
+	orig:        a person is riding a horse
+	sent:        A person is riding a horse
+	corr:        A horse is being ridden by a person
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a person on a bmx bike
+	sent:        A person is riding a bike
+	corr:        A bike is being ridden by a person
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a man plays his guitar with the case open for donations
+	sent:        The man is playing the guitar and has the guitar case open for donations
+	corr:        The guitar is being played by the man, who has the guitar case open for donations
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a child makes a ball out of snow
+	sent:        A child is making a snow ball
+	corr:        A snow ball is being made by a child
+	score:       5.0
+	dataset:     FLICKR
+	orig:        man with mask on raises hand
+	sent:        A man is holding a mask in his raised hand
+	corr:        A mask is being held by a man in his raised hand
+	score:       5.0
+	dataset:     FLICKR
+	orig:        the motocross rider wearing blue and black pants
+	sent:        The motocross rider is wearing blue and black pants
+	corr:        Blue and black pants are being worn by the motocross rider
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a man drinking orange juice while walking on a sunny day
+	sent:        A man is drinking orange juice and walking on a sunny day
+	corr:        Orange juice is being drunk by a man who is walking on a sunny day
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a rollerblader is performing a trick on a ramp
+	sent:        A rollerblader is performing a trick on a ramp
+	corr:        A trick is being performed by a rollerblader on a ramp
+	score:       5.0
+	dataset:     FLICKR
+	orig:        the crowd is watching a football game
+	sent:        The crowd is watching a football game
+	corr:        A football game is being watched by the crowd
+	score:       5.0
+	dataset:     FLICKR
+	orig:        the man in the straw hat smokes a cigarette
+	sent:        The man in the straw hat is smoking a cigarette
+	corr:        A cigarette is being smoked by the man in the straw hat
+	score:       5.0
+	dataset:     FLICKR
+	orig:        blonde lady looks at space needle
+	sent:        A blonde lady is looking at a tower
+	corr:        A tower is being looked at by a blonde lady
+	score:       5.0
+	dataset:     FLICKR
+	orig:        men play rugby
+	sent:        Some men are playing rugby
+	corr:        Rugby is being played by some men
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a dog crossing a river on a bridge made of a fallen tree
+	sent:        A dog is crossing a river on a bridge made from a fallen tree
+	corr:        A river is being crossed by a dog on a bridge made from a fallen tree
+	score:       5.0
+	dataset:     FLICKR
+	orig:        three people drive atvs
+	sent:        Three people are driving ATVs
+	corr:        ATVs are being driven by three people
+	score:       5.0
+	dataset:     FLICKR
+	orig:        an asian woman holds her fur scarf
+	sent:        An Asian woman is holding a fur scarf
+	corr:        A fur scarf is being held by an Asian woman
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a topless woman is covered in mud
+	sent:        Mud is covering a topless woman
+	corr:        A topless woman is being covered in mud
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a man with no shirt on is holding a football
+	sent:        A man with no shirt is holding a football
+	corr:        A football is being held by a man with no shirt
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a girl in gold and purple is holding a rainbow afghan
+	sent:        A girl in gold and purple is holding a rainbow afghan
+	corr:        A rainbow afghan is being held by a girl in gold and purple
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a man wearing a beret rides his bicycle on a recreation trail
+	sent:        A man is wearing a beret and is riding the bicycle on a recreation trail
+	corr:        The bicycle is being ridden by a man wearing a beret on a recreation trail
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a woman shows a dog with very long hair at a dog show
+	sent:        A woman is showing a dog with very long hair at a dog show
+	corr:        A dog with very long hair is being showed by a woman at a dog show
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a boy wearing a white hat is running on the beach
+	sent:        A boy is wearing a white hat and is running on the beach
+	corr:        A white hat is being worn by a boy which is running on the beach
+	score:       5.0
+	dataset:     FLICKR
+	orig:        a girls in a strange outfit rides her bike
+	sent:        A girl in a strange outfit is riding the bike
+	corr:        The bike is being ridden by a girl in a strange outfit
+	score:       5.0
