@@ -66,10 +66,9 @@ def norm(sent):
 ######################################
 
 def is_corruption_passive(entry):
-    # TODO - also ensure discussing same thing
-
-    if entry['relatedness_score'] < 3.5:
-        return 0
+    # S1S2 same set pair has a 94.2% chance of being labeled entailment
+    if entry['entailment_label'] != 'ENTAILMENT':
+      return 0
 
     a = entry['sentence_A']
     b = entry['sentence_B']
@@ -84,7 +83,10 @@ def is_corruption_passive(entry):
 
 
 def is_corruption_negated_subj(entry):
-    # TODO - also ensure discussing same thing (edit distance)
+    # S1S3 same set pairs only have a 0.9% chance of being labeled entailment
+    if entry['entailment_label'] != 'CONTRADICTION':
+      return 0
+    
     a = entry['sentence_A']
     b = entry['sentence_B']
     if is_negated_subj(a) and not is_negated_subj(b):
@@ -96,7 +98,10 @@ def is_corruption_negated_subj(entry):
 
 
 def is_corruption_negated_verb(entry):
-    # TODO - also ensure discussing same thing (edit distance)
+    # S1S3 same set pairs only have a 0.9% chance of being labeled entailment
+    if entry['entailment_label'] != 'CONTRADICTION':
+      return 0
+    
     a = entry['sentence_A']
     b = entry['sentence_B']
     if is_negated_verb(a) and not is_negated_verb(b):
